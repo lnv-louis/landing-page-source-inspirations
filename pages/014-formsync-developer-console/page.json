@@ -1,0 +1,35 @@
+{
+  "id": "014-formsync-developer-console",
+  "number": "014",
+  "company": "FormSync",
+  "tagline": "secure form intake for regulated teams",
+  "vertical": "forms",
+  "archetype": "use-case",
+  "route": "/pages/014-formsync-developer-console/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/014-formsync-developer-console/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+  },
+  "layoutFamily": "developer-console",
+  "heroKind": "pricing-led",
+  "navKind": "simple-top",
+  "density": "balanced",
+  "sections": [
+    "use-case-hero",
+    "developer-console-anchor",
+    "migration-steps",
+    "demo-form",
+    "competitor-table",
+    "switcher-panel"
+  ],
+  "layoutSignature": "developer-console::pricing-led::simple-top::use-case-hero|developer-console-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

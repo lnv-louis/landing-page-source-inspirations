@@ -1,0 +1,35 @@
+{
+  "id": "026-replypilot-announcement-stack",
+  "number": "026",
+  "company": "ReplyPilot",
+  "tagline": "support reply automation with controls",
+  "vertical": "support",
+  "archetype": "security",
+  "route": "/pages/026-replypilot-announcement-stack/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/026-replypilot-announcement-stack/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
+  },
+  "layoutFamily": "announcement-stack",
+  "heroKind": "split-dashboard",
+  "navKind": "minimal-wordmark",
+  "density": "balanced",
+  "sections": [
+    "security-hero",
+    "announcement-stack-anchor",
+    "trust-center",
+    "control-grid",
+    "audit-timeline",
+    "policy-links"
+  ],
+  "layoutSignature": "announcement-stack::split-dashboard::minimal-wordmark::security-hero|announcement-stack-anchor|trust-center|control-grid|audit-timeline|policy-links",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

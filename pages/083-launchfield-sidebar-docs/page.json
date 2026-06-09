@@ -1,0 +1,35 @@
+{
+  "id": "083-launchfield-sidebar-docs",
+  "number": "083",
+  "company": "LaunchField",
+  "tagline": "ai search operations for B2B teams",
+  "vertical": "ai-search",
+  "archetype": "pricing",
+  "route": "/pages/083-launchfield-sidebar-docs/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/083-launchfield-sidebar-docs/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
+  },
+  "layoutFamily": "sidebar-docs",
+  "heroKind": "procurement-brief",
+  "navKind": "product-switcher",
+  "density": "longform",
+  "sections": [
+    "pricing-hero",
+    "sidebar-docs-anchor",
+    "faq-accordion",
+    "procurement-note",
+    "cta-band",
+    "pricing-table"
+  ],
+  "layoutSignature": "sidebar-docs::procurement-brief::product-switcher::pricing-hero|sidebar-docs-anchor|faq-accordion|procurement-note|cta-band|pricing-table",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

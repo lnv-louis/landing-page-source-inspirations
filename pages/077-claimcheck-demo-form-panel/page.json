@@ -1,0 +1,35 @@
+{
+  "id": "077-claimcheck-demo-form-panel",
+  "number": "077",
+  "company": "ClaimCheck",
+  "tagline": "cx operations for B2B teams",
+  "vertical": "cx",
+  "archetype": "benchmark",
+  "route": "/pages/077-claimcheck-demo-form-panel/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/077-claimcheck-demo-form-panel/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+  },
+  "layoutFamily": "demo-form-panel",
+  "heroKind": "workflow-board",
+  "navKind": "docs-rail",
+  "density": "compact",
+  "sections": [
+    "benchmark-hero",
+    "demo-form-panel-anchor",
+    "marketplace-filters",
+    "partner-cards",
+    "webhook-panel",
+    "signup-form"
+  ],
+  "layoutSignature": "demo-form-panel::workflow-board::docs-rail::benchmark-hero|demo-form-panel-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

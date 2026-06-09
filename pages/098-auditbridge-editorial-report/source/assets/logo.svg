@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120" role="img" aria-label="AuditBridge logo">
+  <rect width="320" height="120" rx="24" fill="#ffffff"/>
+  <circle cx="62" cy="60" r="28" fill="#c2410c"/>
+  <path d="M48 62h28M62 46v28" stroke="#2f1600" stroke-width="8" stroke-linecap="round"/>
+  <text x="108" y="71" fill="#2f1600" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">AuditBridge</text>
+</svg>

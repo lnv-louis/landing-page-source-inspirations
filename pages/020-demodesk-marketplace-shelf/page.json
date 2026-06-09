@@ -1,0 +1,35 @@
+{
+  "id": "020-demodesk-marketplace-shelf",
+  "number": "020",
+  "company": "DemoDesk",
+  "tagline": "demo enablement for sales engineers",
+  "vertical": "demo",
+  "archetype": "demo-request",
+  "route": "/pages/020-demodesk-marketplace-shelf/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/020-demodesk-marketplace-shelf/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
+  },
+  "layoutFamily": "marketplace-shelf",
+  "heroKind": "api-console",
+  "navKind": "anchor-strip",
+  "density": "dense",
+  "sections": [
+    "demo-request-hero",
+    "marketplace-shelf-anchor",
+    "quote-wall",
+    "case-masthead",
+    "before-after",
+    "metric-row"
+  ],
+  "layoutSignature": "marketplace-shelf::api-console::anchor-strip::demo-request-hero|marketplace-shelf-anchor|quote-wall|case-masthead|before-after|metric-row",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

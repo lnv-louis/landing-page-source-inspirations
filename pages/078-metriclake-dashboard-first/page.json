@@ -1,0 +1,36 @@
+{
+  "id": "078-metriclake-dashboard-first",
+  "number": "078",
+  "company": "MetricLake",
+  "tagline": "compliance operations for B2B teams",
+  "vertical": "compliance",
+  "archetype": "launch",
+  "route": "/pages/078-metriclake-dashboard-first/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/078-metriclake-dashboard-first/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
+  },
+  "layoutFamily": "dashboard-first",
+  "heroKind": "terminal-window",
+  "navKind": "simple-top",
+  "density": "balanced",
+  "sections": [
+    "launch-hero",
+    "dashboard-first-anchor",
+    "speaker-grid",
+    "registration-form",
+    "sponsor-row",
+    "event-hero",
+    "agenda-list"
+  ],
+  "layoutSignature": "dashboard-first::terminal-window::simple-top::launch-hero|dashboard-first-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

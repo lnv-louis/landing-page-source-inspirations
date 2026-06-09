@@ -1,0 +1,36 @@
+{
+  "id": "099-demosignal-migration-timeline",
+  "number": "099",
+  "company": "DemoSignal",
+  "tagline": "metrics operations for B2B teams",
+  "vertical": "metrics",
+  "archetype": "solutions",
+  "route": "/pages/099-demosignal-migration-timeline/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/099-demosignal-migration-timeline/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+  },
+  "layoutFamily": "migration-timeline",
+  "heroKind": "calculator-panel",
+  "navKind": "product-switcher",
+  "density": "longform",
+  "sections": [
+    "solutions-hero",
+    "migration-timeline-anchor",
+    "results-table",
+    "download-cta",
+    "roi-calculator",
+    "benchmark-bars",
+    "input-form"
+  ],
+  "layoutSignature": "migration-timeline::calculator-panel::product-switcher::solutions-hero|migration-timeline-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

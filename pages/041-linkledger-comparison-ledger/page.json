@@ -1,0 +1,35 @@
+{
+  "id": "041-linkledger-comparison-ledger",
+  "number": "041",
+  "company": "LinkLedger",
+  "tagline": "partner link attribution",
+  "vertical": "partners",
+  "archetype": "home",
+  "route": "/pages/041-linkledger-comparison-ledger/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/041-linkledger-comparison-ledger/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+  },
+  "layoutFamily": "comparison-ledger",
+  "heroKind": "event-poster",
+  "navKind": "utility-bar",
+  "density": "compact",
+  "sections": [
+    "home-hero",
+    "comparison-ledger-anchor",
+    "logo-cloud",
+    "pain-grid",
+    "product-proof",
+    "customer-logos"
+  ],
+  "layoutSignature": "comparison-ledger::event-poster::utility-bar::home-hero|comparison-ledger-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

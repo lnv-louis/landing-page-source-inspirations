@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">ProofLayer product</title>
+  <desc id="desc">procurement-checklist · benchmark</desc>
+  <rect width="1200" height="720" fill="#f8fafc"/>
+  <rect x="52" y="52" width="1096" height="616" rx="30" fill="#ffffff" stroke="#dbe3ef" stroke-width="4"/>
+  <rect x="97" y="147" width="90" height="56" rx="18" fill="#0f766e" opacity="0.2"/>
+  <rect x="577" y="387" width="127" height="109" rx="18" fill="#dbe3ef" opacity="0.8"/>
+  <rect x="297" y="347" width="164" height="62" rx="18" fill="#0f766e" opacity="0.2"/>
+  <rect x="777" y="307" width="201" height="115" rx="18" fill="#dbe3ef" opacity="0.8"/>
+  <rect x="497" y="267" width="108" height="68" rx="18" fill="#0f766e" opacity="0.2"/>
+  <text x="96" y="138" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">convertfast</text>
+  <text x="96" y="524" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="850">ProofLayer</text>
+  <text x="96" y="588" fill="#111827" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="650">procurement-checklist · benchmark</text>
+</svg>

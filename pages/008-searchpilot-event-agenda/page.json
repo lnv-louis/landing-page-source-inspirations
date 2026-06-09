@@ -1,0 +1,35 @@
+{
+  "id": "008-searchpilot-event-agenda",
+  "number": "008",
+  "company": "SearchPilot",
+  "tagline": "AI search across customer knowledge",
+  "vertical": "ai-search",
+  "archetype": "event",
+  "route": "/pages/008-searchpilot-event-agenda/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/008-searchpilot-event-agenda/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
+  },
+  "layoutFamily": "event-agenda",
+  "heroKind": "procurement-brief",
+  "navKind": "mega-menu",
+  "density": "dense",
+  "sections": [
+    "event-hero",
+    "event-agenda-anchor",
+    "speaker-grid",
+    "registration-form",
+    "sponsor-row",
+    "event-hero"
+  ],
+  "layoutSignature": "event-agenda::procurement-brief::mega-menu::event-hero|event-agenda-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

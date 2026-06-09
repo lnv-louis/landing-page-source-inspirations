@@ -1,0 +1,36 @@
+{
+  "id": "036-stackpilot-editorial-report",
+  "number": "036",
+  "company": "StackPilot",
+  "tagline": "internal developer platform insights",
+  "vertical": "platform",
+  "archetype": "migration",
+  "route": "/pages/036-stackpilot-editorial-report/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/036-stackpilot-editorial-report/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+  },
+  "layoutFamily": "editorial-report",
+  "heroKind": "api-console",
+  "navKind": "anchor-strip",
+  "density": "dense",
+  "sections": [
+    "migration-hero",
+    "editorial-report-anchor",
+    "trust-center",
+    "control-grid",
+    "audit-timeline",
+    "policy-links",
+    "security-form"
+  ],
+  "layoutSignature": "editorial-report::api-console::anchor-strip::migration-hero|editorial-report-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

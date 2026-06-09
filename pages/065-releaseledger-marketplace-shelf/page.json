@@ -1,0 +1,35 @@
+{
+  "id": "065-releaseledger-marketplace-shelf",
+  "number": "065",
+  "company": "ReleaseLedger",
+  "tagline": "identity operations for B2B teams",
+  "vertical": "identity",
+  "archetype": "docs",
+  "route": "/pages/065-releaseledger-marketplace-shelf/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/065-releaseledger-marketplace-shelf/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
+  },
+  "layoutFamily": "marketplace-shelf",
+  "heroKind": "launch-note",
+  "navKind": "simple-top",
+  "density": "compact",
+  "sections": [
+    "docs-hero",
+    "marketplace-shelf-anchor",
+    "developer-cta",
+    "docs-sidebar",
+    "api-table",
+    "quickstart-code"
+  ],
+  "layoutSignature": "marketplace-shelf::launch-note::simple-top::docs-hero|marketplace-shelf-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

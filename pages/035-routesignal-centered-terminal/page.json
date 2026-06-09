@@ -1,0 +1,35 @@
+{
+  "id": "035-routesignal-centered-terminal",
+  "number": "035",
+  "company": "RouteSignal",
+  "tagline": "routing intelligence for go-to-market teams",
+  "vertical": "routing",
+  "archetype": "marketplace",
+  "route": "/pages/035-routesignal-centered-terminal/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/035-routesignal-centered-terminal/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
+  },
+  "layoutFamily": "centered-terminal",
+  "heroKind": "split-dashboard",
+  "navKind": "product-switcher",
+  "density": "longform",
+  "sections": [
+    "marketplace-hero",
+    "centered-terminal-anchor",
+    "developer-cta",
+    "docs-sidebar",
+    "api-table",
+    "quickstart-code"
+  ],
+  "layoutSignature": "centered-terminal::split-dashboard::product-switcher::marketplace-hero|centered-terminal-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

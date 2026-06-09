@@ -1,0 +1,34 @@
+{
+  "id": "013-knowledgekit-workflow-lane",
+  "number": "013",
+  "company": "KnowledgeKit",
+  "tagline": "docs and support answer orchestration",
+  "vertical": "knowledge",
+  "archetype": "procurement",
+  "route": "/pages/013-knowledgekit-workflow-lane/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/013-knowledgekit-workflow-lane/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "htmlrev",
+    "label": "HTMLrev templates",
+    "url": "https://htmlrev.com/"
+  },
+  "layoutFamily": "workflow-lane",
+  "heroKind": "security-room",
+  "navKind": "docs-rail",
+  "density": "compact",
+  "sections": [
+    "procurement-hero",
+    "workflow-lane-anchor",
+    "faq-accordion",
+    "procurement-note",
+    "cta-band"
+  ],
+  "layoutSignature": "workflow-lane::security-room::docs-rail::procurement-hero|workflow-lane-anchor|faq-accordion|procurement-note|cta-band",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

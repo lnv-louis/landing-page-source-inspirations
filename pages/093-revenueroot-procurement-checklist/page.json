@@ -1,0 +1,36 @@
+{
+  "id": "093-revenueroot-procurement-checklist",
+  "number": "093",
+  "company": "RevenueRoot",
+  "tagline": "incident operations for B2B teams",
+  "vertical": "incident",
+  "archetype": "procurement",
+  "route": "/pages/093-revenueroot-procurement-checklist/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/093-revenueroot-procurement-checklist/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+  },
+  "layoutFamily": "procurement-checklist",
+  "heroKind": "market-map",
+  "navKind": "docs-rail",
+  "density": "compact",
+  "sections": [
+    "procurement-hero",
+    "procurement-checklist-anchor",
+    "faq-accordion",
+    "procurement-note",
+    "cta-band",
+    "pricing-table",
+    "plan-cards"
+  ],
+  "layoutSignature": "procurement-checklist::market-map::docs-rail::procurement-hero|procurement-checklist-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

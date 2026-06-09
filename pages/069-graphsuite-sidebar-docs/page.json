@@ -1,0 +1,36 @@
+{
+  "id": "069-graphsuite-sidebar-docs",
+  "number": "069",
+  "company": "GraphSuite",
+  "tagline": "analytics operations for B2B teams",
+  "vertical": "analytics",
+  "archetype": "calculator",
+  "route": "/pages/069-graphsuite-sidebar-docs/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/069-graphsuite-sidebar-docs/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
+  },
+  "layoutFamily": "sidebar-docs",
+  "heroKind": "centered-proof",
+  "navKind": "sidebar",
+  "density": "compact",
+  "sections": [
+    "calculator-hero",
+    "sidebar-docs-anchor",
+    "results-table",
+    "download-cta",
+    "roi-calculator",
+    "benchmark-bars",
+    "input-form"
+  ],
+  "layoutSignature": "sidebar-docs::centered-proof::sidebar::calculator-hero|sidebar-docs-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

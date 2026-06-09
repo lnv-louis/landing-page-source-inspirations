@@ -1,0 +1,34 @@
+{
+  "id": "055-dataharbor-pricing-matrix",
+  "number": "055",
+  "company": "DataHarbor",
+  "tagline": "revintel operations for B2B teams",
+  "vertical": "revintel",
+  "archetype": "marketplace",
+  "route": "/pages/055-dataharbor-pricing-matrix/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/055-dataharbor-pricing-matrix/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-awesome",
+    "label": "PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+  },
+  "layoutFamily": "pricing-matrix",
+  "heroKind": "form-first",
+  "navKind": "minimal-wordmark",
+  "density": "longform",
+  "sections": [
+    "marketplace-hero",
+    "pricing-matrix-anchor",
+    "developer-cta",
+    "docs-sidebar",
+    "api-table"
+  ],
+  "layoutSignature": "pricing-matrix::form-first::minimal-wordmark::marketplace-hero|pricing-matrix-anchor|developer-cta|docs-sidebar|api-table",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

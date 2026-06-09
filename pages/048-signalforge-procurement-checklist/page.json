@@ -1,0 +1,36 @@
+{
+  "id": "048-signalforge-procurement-checklist",
+  "number": "048",
+  "company": "SignalForge",
+  "tagline": "signal scoring for outbound teams",
+  "vertical": "outbound",
+  "archetype": "event",
+  "route": "/pages/048-signalforge-procurement-checklist/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/048-signalforge-procurement-checklist/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+  },
+  "layoutFamily": "procurement-checklist",
+  "heroKind": "comparison-first",
+  "navKind": "product-switcher",
+  "density": "dense",
+  "sections": [
+    "event-hero",
+    "procurement-checklist-anchor",
+    "speaker-grid",
+    "registration-form",
+    "sponsor-row",
+    "event-hero",
+    "agenda-list"
+  ],
+  "layoutSignature": "procurement-checklist::comparison-first::product-switcher::event-hero|procurement-checklist-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

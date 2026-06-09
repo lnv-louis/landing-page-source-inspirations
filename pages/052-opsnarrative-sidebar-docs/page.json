@@ -1,0 +1,34 @@
+{
+  "id": "052-opsnarrative-sidebar-docs",
+  "number": "052",
+  "company": "OpsNarrative",
+  "tagline": "cx operations for B2B teams",
+  "vertical": "cx",
+  "archetype": "agent-workflow",
+  "route": "/pages/052-opsnarrative-sidebar-docs/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/052-opsnarrative-sidebar-docs/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "launch-ui",
+    "label": "Launch UI",
+    "url": "https://github.com/launch-ui/launch-ui"
+  },
+  "layoutFamily": "sidebar-docs",
+  "heroKind": "workflow-board",
+  "navKind": "anchor-strip",
+  "density": "dense",
+  "sections": [
+    "agent-workflow-hero",
+    "sidebar-docs-anchor",
+    "workflow-steps",
+    "role-cards",
+    "security-note"
+  ],
+  "layoutSignature": "sidebar-docs::workflow-board::anchor-strip::agent-workflow-hero|sidebar-docs-anchor|workflow-steps|role-cards|security-note",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

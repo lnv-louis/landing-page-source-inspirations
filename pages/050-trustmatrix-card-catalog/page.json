@@ -1,0 +1,35 @@
+{
+  "id": "050-trustmatrix-card-catalog",
+  "number": "050",
+  "company": "TrustMatrix",
+  "tagline": "third-party risk workspace",
+  "vertical": "vendor-risk",
+  "archetype": "case-study",
+  "route": "/pages/050-trustmatrix-card-catalog/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/050-trustmatrix-card-catalog/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+  },
+  "layoutFamily": "card-catalog",
+  "heroKind": "event-poster",
+  "navKind": "left-rail",
+  "density": "balanced",
+  "sections": [
+    "case-study-hero",
+    "card-catalog-anchor",
+    "quote-wall",
+    "case-masthead",
+    "before-after",
+    "metric-row"
+  ],
+  "layoutSignature": "card-catalog::event-poster::left-rail::case-study-hero|card-catalog-anchor|quote-wall|case-masthead|before-after|metric-row",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

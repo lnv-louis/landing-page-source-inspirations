@@ -1,0 +1,34 @@
+{
+  "id": "025-trustdock-calculator-form",
+  "number": "025",
+  "company": "TrustDock",
+  "tagline": "vendor trust automation",
+  "vertical": "trust",
+  "archetype": "docs",
+  "route": "/pages/025-trustdock-calculator-form/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/025-trustdock-calculator-form/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "launch-ui",
+    "label": "Launch UI",
+    "url": "https://github.com/launch-ui/launch-ui"
+  },
+  "layoutFamily": "calculator-form",
+  "heroKind": "event-poster",
+  "navKind": "utility-bar",
+  "density": "compact",
+  "sections": [
+    "docs-hero",
+    "calculator-form-anchor",
+    "developer-cta",
+    "docs-sidebar",
+    "api-table"
+  ],
+  "layoutSignature": "calculator-form::event-poster::utility-bar::docs-hero|calculator-form-anchor|developer-cta|docs-sidebar|api-table",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

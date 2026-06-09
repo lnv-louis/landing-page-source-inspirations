@@ -1,0 +1,35 @@
+{
+  "id": "032-docsrelay-split-proof",
+  "number": "032",
+  "company": "DocsRelay",
+  "tagline": "developer docs delivery analytics",
+  "vertical": "docs",
+  "archetype": "agent-workflow",
+  "route": "/pages/032-docsrelay-split-proof/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/032-docsrelay-split-proof/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+  },
+  "layoutFamily": "split-proof",
+  "heroKind": "docs-shell",
+  "navKind": "product-switcher",
+  "density": "dense",
+  "sections": [
+    "agent-workflow-hero",
+    "split-proof-anchor",
+    "workflow-steps",
+    "role-cards",
+    "security-note",
+    "demo-form"
+  ],
+  "layoutSignature": "split-proof::docs-shell::product-switcher::agent-workflow-hero|split-proof-anchor|workflow-steps|role-cards|security-note|demo-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

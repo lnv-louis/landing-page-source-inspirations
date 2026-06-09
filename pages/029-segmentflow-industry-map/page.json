@@ -1,0 +1,35 @@
+{
+  "id": "029-segmentflow-industry-map",
+  "number": "029",
+  "company": "SegmentFlow",
+  "tagline": "self-serve audience operations",
+  "vertical": "segmentation",
+  "archetype": "calculator",
+  "route": "/pages/029-segmentflow-industry-map/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/029-segmentflow-industry-map/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
+  },
+  "layoutFamily": "industry-map",
+  "heroKind": "metric-wall",
+  "navKind": "docs-rail",
+  "density": "compact",
+  "sections": [
+    "calculator-hero",
+    "industry-map-anchor",
+    "results-table",
+    "download-cta",
+    "roi-calculator",
+    "benchmark-bars"
+  ],
+  "layoutSignature": "industry-map::metric-wall::docs-rail::calculator-hero|industry-map-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

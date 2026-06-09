@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">SpendPilot hero</title>
+  <desc id="desc">automation operations for B2B teams</desc>
+  <rect width="1200" height="720" fill="#f7fee7"/>
+  <rect x="52" y="52" width="1096" height="616" rx="30" fill="#ffffff" stroke="#d9f99d" stroke-width="4"/>
+  <rect x="140" y="190" width="90" height="56" rx="18" fill="#4d7c0f" opacity="0.2"/>
+  <rect x="620" y="150" width="127" height="109" rx="18" fill="#d9f99d" opacity="0.8"/>
+  <rect x="340" y="390" width="164" height="62" rx="18" fill="#4d7c0f" opacity="0.2"/>
+  <rect x="820" y="350" width="201" height="115" rx="18" fill="#d9f99d" opacity="0.8"/>
+  <rect x="540" y="310" width="108" height="68" rx="18" fill="#4d7c0f" opacity="0.2"/>
+  <text x="96" y="138" fill="#4d7c0f" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">linkify</text>
+  <text x="96" y="524" fill="#1a2e05" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="850">SpendPilot</text>
+  <text x="96" y="588" fill="#1a2e05" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="650">automation operations for B2B teams</text>
+</svg>

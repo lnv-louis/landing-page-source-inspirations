@@ -1,0 +1,36 @@
+{
+  "id": "072-scorelayer-comparison-ledger",
+  "number": "072",
+  "company": "ScoreLayer",
+  "tagline": "crm operations for B2B teams",
+  "vertical": "crm",
+  "archetype": "agent-workflow",
+  "route": "/pages/072-scorelayer-comparison-ledger/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/072-scorelayer-comparison-ledger/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+  },
+  "layoutFamily": "comparison-ledger",
+  "heroKind": "integration-cloud",
+  "navKind": "mega-menu",
+  "density": "dense",
+  "sections": [
+    "agent-workflow-hero",
+    "comparison-ledger-anchor",
+    "workflow-steps",
+    "role-cards",
+    "security-note",
+    "demo-form",
+    "feature-tabs"
+  ],
+  "layoutSignature": "comparison-ledger::integration-cloud::mega-menu::agent-workflow-hero|comparison-ledger-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

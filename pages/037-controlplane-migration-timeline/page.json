@@ -1,0 +1,34 @@
+{
+  "id": "037-controlplane-migration-timeline",
+  "number": "037",
+  "company": "ControlPlane",
+  "tagline": "fleet controls for cloud operations",
+  "vertical": "cloud",
+  "archetype": "benchmark",
+  "route": "/pages/037-controlplane-migration-timeline/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/037-controlplane-migration-timeline/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-awesome",
+    "label": "PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+  },
+  "layoutFamily": "migration-timeline",
+  "heroKind": "asymmetric-editorial",
+  "navKind": "sidebar",
+  "density": "compact",
+  "sections": [
+    "benchmark-hero",
+    "migration-timeline-anchor",
+    "marketplace-filters",
+    "partner-cards",
+    "webhook-panel"
+  ],
+  "layoutSignature": "migration-timeline::asymmetric-editorial::sidebar::benchmark-hero|migration-timeline-anchor|marketplace-filters|partner-cards|webhook-panel",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

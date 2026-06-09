@@ -1,0 +1,36 @@
+{
+  "id": "003-compwise-marketplace-shelf",
+  "number": "003",
+  "company": "Compwise",
+  "tagline": "continuous compliance automation",
+  "vertical": "compliance",
+  "archetype": "pricing",
+  "route": "/pages/003-compwise-marketplace-shelf/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/003-compwise-marketplace-shelf/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+  },
+  "layoutFamily": "marketplace-shelf",
+  "heroKind": "terminal-window",
+  "navKind": "product-switcher",
+  "density": "longform",
+  "sections": [
+    "pricing-hero",
+    "marketplace-shelf-anchor",
+    "faq-accordion",
+    "procurement-note",
+    "cta-band",
+    "pricing-table",
+    "plan-cards"
+  ],
+  "layoutSignature": "marketplace-shelf::terminal-window::product-switcher::pricing-hero|marketplace-shelf-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

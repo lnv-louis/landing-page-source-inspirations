@@ -1,0 +1,36 @@
+{
+  "id": "054-portalkit-benchmark-grid",
+  "number": "054",
+  "company": "PortalKit",
+  "tagline": "reliability operations for B2B teams",
+  "vertical": "reliability",
+  "archetype": "use-case",
+  "route": "/pages/054-portalkit-benchmark-grid/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/054-portalkit-benchmark-grid/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+  },
+  "layoutFamily": "benchmark-grid",
+  "heroKind": "metric-wall",
+  "navKind": "utility-bar",
+  "density": "balanced",
+  "sections": [
+    "use-case-hero",
+    "benchmark-grid-anchor",
+    "migration-steps",
+    "demo-form",
+    "competitor-table",
+    "switcher-panel",
+    "proof-quotes"
+  ],
+  "layoutSignature": "benchmark-grid::metric-wall::utility-bar::use-case-hero|benchmark-grid-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

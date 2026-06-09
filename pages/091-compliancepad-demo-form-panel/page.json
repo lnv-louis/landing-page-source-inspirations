@@ -1,0 +1,34 @@
+{
+  "id": "091-compliancepad-demo-form-panel",
+  "number": "091",
+  "company": "CompliancePad",
+  "tagline": "pipeline operations for B2B teams",
+  "vertical": "pipeline",
+  "archetype": "developer",
+  "route": "/pages/091-compliancepad-demo-form-panel/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/091-compliancepad-demo-form-panel/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-awesome",
+    "label": "PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+  },
+  "layoutFamily": "demo-form-panel",
+  "heroKind": "event-poster",
+  "navKind": "mega-menu",
+  "density": "longform",
+  "sections": [
+    "developer-hero",
+    "demo-form-panel-anchor",
+    "logo-cloud",
+    "pain-grid",
+    "product-proof"
+  ],
+  "layoutSignature": "demo-form-panel::event-poster::mega-menu::developer-hero|demo-form-panel-anchor|logo-cloud|pain-grid|product-proof",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

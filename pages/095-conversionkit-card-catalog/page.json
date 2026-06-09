@@ -1,0 +1,35 @@
+{
+  "id": "095-conversionkit-card-catalog",
+  "number": "095",
+  "company": "ConversionKit",
+  "tagline": "demo operations for B2B teams",
+  "vertical": "demo",
+  "archetype": "marketplace",
+  "route": "/pages/095-conversionkit-card-catalog/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/095-conversionkit-card-catalog/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+  },
+  "layoutFamily": "card-catalog",
+  "heroKind": "api-console",
+  "navKind": "left-rail",
+  "density": "longform",
+  "sections": [
+    "marketplace-hero",
+    "card-catalog-anchor",
+    "developer-cta",
+    "docs-sidebar",
+    "api-table",
+    "quickstart-code"
+  ],
+  "layoutSignature": "card-catalog::api-console::left-rail::marketplace-hero|card-catalog-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

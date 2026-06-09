@@ -1,0 +1,34 @@
+{
+  "id": "010-workflowly-pricing-matrix",
+  "number": "010",
+  "company": "Workflowly",
+  "tagline": "workflow automation for operations teams",
+  "vertical": "automation",
+  "archetype": "case-study",
+  "route": "/pages/010-workflowly-pricing-matrix/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/010-workflowly-pricing-matrix/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-awesome",
+    "label": "PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+  },
+  "layoutFamily": "pricing-matrix",
+  "heroKind": "split-dashboard",
+  "navKind": "minimal-wordmark",
+  "density": "balanced",
+  "sections": [
+    "case-study-hero",
+    "pricing-matrix-anchor",
+    "quote-wall",
+    "case-masthead",
+    "before-after"
+  ],
+  "layoutSignature": "pricing-matrix::split-dashboard::minimal-wordmark::case-study-hero|pricing-matrix-anchor|quote-wall|case-masthead|before-after",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

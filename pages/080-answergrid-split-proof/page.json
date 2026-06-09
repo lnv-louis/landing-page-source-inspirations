@@ -1,0 +1,35 @@
+{
+  "id": "080-answergrid-split-proof",
+  "number": "080",
+  "company": "AnswerGrid",
+  "tagline": "revintel operations for B2B teams",
+  "vertical": "revintel",
+  "archetype": "demo-request",
+  "route": "/pages/080-answergrid-split-proof/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/080-answergrid-split-proof/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
+  },
+  "layoutFamily": "split-proof",
+  "heroKind": "form-first",
+  "navKind": "product-switcher",
+  "density": "dense",
+  "sections": [
+    "demo-request-hero",
+    "split-proof-anchor",
+    "quote-wall",
+    "case-masthead",
+    "before-after",
+    "metric-row"
+  ],
+  "layoutSignature": "split-proof::form-first::product-switcher::demo-request-hero|split-proof-anchor|quote-wall|case-masthead|before-after|metric-row",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

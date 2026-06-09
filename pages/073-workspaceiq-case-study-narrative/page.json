@@ -1,0 +1,34 @@
+{
+  "id": "073-workspaceiq-case-study-narrative",
+  "number": "073",
+  "company": "WorkspaceIQ",
+  "tagline": "launch operations for B2B teams",
+  "vertical": "launch",
+  "archetype": "procurement",
+  "route": "/pages/073-workspaceiq-case-study-narrative/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/073-workspaceiq-case-study-narrative/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-awesome",
+    "label": "PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+  },
+  "layoutFamily": "case-study-narrative",
+  "heroKind": "comparison-first",
+  "navKind": "utility-bar",
+  "density": "compact",
+  "sections": [
+    "procurement-hero",
+    "case-study-narrative-anchor",
+    "faq-accordion",
+    "procurement-note",
+    "cta-band"
+  ],
+  "layoutSignature": "case-study-narrative::comparison-first::utility-bar::procurement-hero|case-study-narrative-anchor|faq-accordion|procurement-note|cta-band",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

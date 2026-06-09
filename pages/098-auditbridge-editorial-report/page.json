@@ -1,0 +1,35 @@
+{
+  "id": "098-auditbridge-editorial-report",
+  "number": "098",
+  "company": "AuditBridge",
+  "tagline": "launch operations for B2B teams",
+  "vertical": "launch",
+  "archetype": "launch",
+  "route": "/pages/098-auditbridge-editorial-report/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/098-auditbridge-editorial-report/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
+  },
+  "layoutFamily": "editorial-report",
+  "heroKind": "comparison-first",
+  "navKind": "left-rail",
+  "density": "balanced",
+  "sections": [
+    "launch-hero",
+    "editorial-report-anchor",
+    "speaker-grid",
+    "registration-form",
+    "sponsor-row",
+    "event-hero"
+  ],
+  "layoutSignature": "editorial-report::comparison-first::left-rail::launch-hero|editorial-report-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "092-dataproof-dashboard-first",
+  "number": "092",
+  "company": "DataProof",
+  "tagline": "security operations for B2B teams",
+  "vertical": "security",
+  "archetype": "agent-workflow",
+  "route": "/pages/092-dataproof-dashboard-first/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/092-dataproof-dashboard-first/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
+  },
+  "layoutFamily": "dashboard-first",
+  "heroKind": "demo-room",
+  "navKind": "centered-tabs",
+  "density": "dense",
+  "sections": [
+    "agent-workflow-hero",
+    "dashboard-first-anchor",
+    "workflow-steps",
+    "role-cards",
+    "security-note",
+    "demo-form"
+  ],
+  "layoutSignature": "dashboard-first::demo-room::centered-tabs::agent-workflow-hero|dashboard-first-anchor|workflow-steps|role-cards|security-note|demo-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

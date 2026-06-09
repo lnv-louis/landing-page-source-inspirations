@@ -1,0 +1,35 @@
+{
+  "id": "071-fieldbridge-announcement-stack",
+  "number": "071",
+  "company": "FieldBridge",
+  "tagline": "release operations for B2B teams",
+  "vertical": "release",
+  "archetype": "developer",
+  "route": "/pages/071-fieldbridge-announcement-stack/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/071-fieldbridge-announcement-stack/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
+  },
+  "layoutFamily": "announcement-stack",
+  "heroKind": "form-first",
+  "navKind": "minimal-wordmark",
+  "density": "longform",
+  "sections": [
+    "developer-hero",
+    "announcement-stack-anchor",
+    "logo-cloud",
+    "pain-grid",
+    "product-proof",
+    "customer-logos"
+  ],
+  "layoutSignature": "announcement-stack::form-first::minimal-wordmark::developer-hero|announcement-stack-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "088-enablegraph-announcement-stack",
+  "number": "088",
+  "company": "EnableGraph",
+  "tagline": "knowledge operations for B2B teams",
+  "vertical": "knowledge",
+  "archetype": "event",
+  "route": "/pages/088-enablegraph-announcement-stack/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/088-enablegraph-announcement-stack/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "launch-ui",
+    "label": "Launch UI",
+    "url": "https://github.com/launch-ui/launch-ui"
+  },
+  "layoutFamily": "announcement-stack",
+  "heroKind": "security-room",
+  "navKind": "mega-menu",
+  "density": "dense",
+  "sections": [
+    "event-hero",
+    "announcement-stack-anchor",
+    "speaker-grid",
+    "registration-form",
+    "sponsor-row"
+  ],
+  "layoutSignature": "announcement-stack::security-room::mega-menu::event-hero|announcement-stack-anchor|speaker-grid|registration-form|sponsor-row",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

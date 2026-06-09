@@ -1,0 +1,36 @@
+{
+  "id": "081-trustbeacon-editorial-report",
+  "number": "081",
+  "company": "TrustBeacon",
+  "tagline": "product analytics operations for B2B teams",
+  "vertical": "product-analytics",
+  "archetype": "home",
+  "route": "/pages/081-trustbeacon-editorial-report/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/081-trustbeacon-editorial-report/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+  },
+  "layoutFamily": "editorial-report",
+  "heroKind": "launch-note",
+  "navKind": "simple-top",
+  "density": "compact",
+  "sections": [
+    "home-hero",
+    "editorial-report-anchor",
+    "logo-cloud",
+    "pain-grid",
+    "product-proof",
+    "customer-logos",
+    "cta-band"
+  ],
+  "layoutSignature": "editorial-report::launch-note::simple-top::home-hero|editorial-report-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

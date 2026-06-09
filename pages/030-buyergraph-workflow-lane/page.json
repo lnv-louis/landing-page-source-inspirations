@@ -1,0 +1,36 @@
+{
+  "id": "030-buyergraph-workflow-lane",
+  "number": "030",
+  "company": "BuyerGraph",
+  "tagline": "account intelligence for buying committees",
+  "vertical": "buyer",
+  "archetype": "case-study",
+  "route": "/pages/030-buyergraph-workflow-lane/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/030-buyergraph-workflow-lane/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+  },
+  "layoutFamily": "workflow-lane",
+  "heroKind": "form-first",
+  "navKind": "simple-top",
+  "density": "balanced",
+  "sections": [
+    "case-study-hero",
+    "workflow-lane-anchor",
+    "quote-wall",
+    "case-masthead",
+    "before-after",
+    "metric-row",
+    "story-timeline"
+  ],
+  "layoutSignature": "workflow-lane::form-first::simple-top::case-study-hero|workflow-lane-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

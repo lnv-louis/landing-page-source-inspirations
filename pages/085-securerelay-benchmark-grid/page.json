@@ -1,0 +1,34 @@
+{
+  "id": "085-securerelay-benchmark-grid",
+  "number": "085",
+  "company": "SecureRelay",
+  "tagline": "automation operations for B2B teams",
+  "vertical": "automation",
+  "archetype": "docs",
+  "route": "/pages/085-securerelay-benchmark-grid/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/085-securerelay-benchmark-grid/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "htmlrev",
+    "label": "HTMLrev templates",
+    "url": "https://htmlrev.com/"
+  },
+  "layoutFamily": "benchmark-grid",
+  "heroKind": "split-dashboard",
+  "navKind": "sidebar",
+  "density": "compact",
+  "sections": [
+    "docs-hero",
+    "benchmark-grid-anchor",
+    "developer-cta",
+    "docs-sidebar",
+    "api-table"
+  ],
+  "layoutSignature": "benchmark-grid::split-dashboard::sidebar::docs-hero|benchmark-grid-anchor|developer-cta|docs-sidebar|api-table",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

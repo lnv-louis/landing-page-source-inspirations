@@ -1,0 +1,35 @@
+{
+  "id": "017-prooflayer-procurement-checklist",
+  "number": "017",
+  "company": "ProofLayer",
+  "tagline": "security proof rooms for buyers",
+  "vertical": "security",
+  "archetype": "benchmark",
+  "route": "/pages/017-prooflayer-procurement-checklist/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/017-prooflayer-procurement-checklist/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
+  },
+  "layoutFamily": "procurement-checklist",
+  "heroKind": "demo-room",
+  "navKind": "simple-top",
+  "density": "compact",
+  "sections": [
+    "benchmark-hero",
+    "procurement-checklist-anchor",
+    "marketplace-filters",
+    "partner-cards",
+    "webhook-panel",
+    "signup-form"
+  ],
+  "layoutSignature": "procurement-checklist::demo-room::simple-top::benchmark-hero|procurement-checklist-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

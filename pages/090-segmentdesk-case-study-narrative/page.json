@@ -1,0 +1,36 @@
+{
+  "id": "090-segmentdesk-case-study-narrative",
+  "number": "090",
+  "company": "SegmentDesk",
+  "tagline": "identity operations for B2B teams",
+  "vertical": "identity",
+  "archetype": "case-study",
+  "route": "/pages/090-segmentdesk-case-study-narrative/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/090-segmentdesk-case-study-narrative/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+  },
+  "layoutFamily": "case-study-narrative",
+  "heroKind": "launch-note",
+  "navKind": "minimal-wordmark",
+  "density": "balanced",
+  "sections": [
+    "case-study-hero",
+    "case-study-narrative-anchor",
+    "quote-wall",
+    "case-masthead",
+    "before-after",
+    "metric-row",
+    "story-timeline"
+  ],
+  "layoutSignature": "case-study-narrative::launch-note::minimal-wordmark::case-study-hero|case-study-narrative-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

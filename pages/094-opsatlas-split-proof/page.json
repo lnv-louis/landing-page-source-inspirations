@@ -1,0 +1,34 @@
+{
+  "id": "094-opsatlas-split-proof",
+  "number": "094",
+  "company": "OpsAtlas",
+  "tagline": "analytics operations for B2B teams",
+  "vertical": "analytics",
+  "archetype": "use-case",
+  "route": "/pages/094-opsatlas-split-proof/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/094-opsatlas-split-proof/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "htmlrev",
+    "label": "HTMLrev templates",
+    "url": "https://htmlrev.com/"
+  },
+  "layoutFamily": "split-proof",
+  "heroKind": "centered-proof",
+  "navKind": "simple-top",
+  "density": "balanced",
+  "sections": [
+    "use-case-hero",
+    "split-proof-anchor",
+    "migration-steps",
+    "demo-form",
+    "competitor-table"
+  ],
+  "layoutSignature": "split-proof::centered-proof::simple-top::use-case-hero|split-proof-anchor|migration-steps|demo-form|competitor-table",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

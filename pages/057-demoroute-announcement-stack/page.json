@@ -1,0 +1,36 @@
+{
+  "id": "057-demoroute-announcement-stack",
+  "number": "057",
+  "company": "DemoRoute",
+  "tagline": "billing operations for B2B teams",
+  "vertical": "billing",
+  "archetype": "benchmark",
+  "route": "/pages/057-demoroute-announcement-stack/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/057-demoroute-announcement-stack/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+  },
+  "layoutFamily": "announcement-stack",
+  "heroKind": "docs-shell",
+  "navKind": "utility-bar",
+  "density": "compact",
+  "sections": [
+    "benchmark-hero",
+    "announcement-stack-anchor",
+    "marketplace-filters",
+    "partner-cards",
+    "webhook-panel",
+    "signup-form",
+    "integration-grid"
+  ],
+  "layoutSignature": "announcement-stack::docs-shell::utility-bar::benchmark-hero|announcement-stack-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

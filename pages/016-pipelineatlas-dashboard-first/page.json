@@ -1,0 +1,34 @@
+{
+  "id": "016-pipelineatlas-dashboard-first",
+  "number": "016",
+  "company": "PipelineAtlas",
+  "tagline": "pipeline intelligence for B2B marketing",
+  "vertical": "pipeline",
+  "archetype": "migration",
+  "route": "/pages/016-pipelineatlas-dashboard-first/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/016-pipelineatlas-dashboard-first/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "launch-ui",
+    "label": "Launch UI",
+    "url": "https://github.com/launch-ui/launch-ui"
+  },
+  "layoutFamily": "dashboard-first",
+  "heroKind": "event-poster",
+  "navKind": "product-switcher",
+  "density": "dense",
+  "sections": [
+    "migration-hero",
+    "dashboard-first-anchor",
+    "trust-center",
+    "control-grid",
+    "audit-timeline"
+  ],
+  "layoutSignature": "dashboard-first::event-poster::product-switcher::migration-hero|dashboard-first-anchor|trust-center|control-grid|audit-timeline",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

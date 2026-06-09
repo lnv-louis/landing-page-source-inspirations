@@ -1,0 +1,36 @@
+{
+  "id": "063-intentmap-split-proof",
+  "number": "063",
+  "company": "IntentMap",
+  "tagline": "knowledge operations for B2B teams",
+  "vertical": "knowledge",
+  "archetype": "pricing",
+  "route": "/pages/063-intentmap-split-proof/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/063-intentmap-split-proof/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+  },
+  "layoutFamily": "split-proof",
+  "heroKind": "security-room",
+  "navKind": "left-rail",
+  "density": "longform",
+  "sections": [
+    "pricing-hero",
+    "split-proof-anchor",
+    "faq-accordion",
+    "procurement-note",
+    "cta-band",
+    "pricing-table",
+    "plan-cards"
+  ],
+  "layoutSignature": "split-proof::security-room::left-rail::pricing-hero|split-proof-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

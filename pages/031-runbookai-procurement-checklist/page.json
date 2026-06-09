@@ -1,0 +1,34 @@
+{
+  "id": "031-runbookai-procurement-checklist",
+  "number": "031",
+  "company": "RunbookAI",
+  "tagline": "runbook automation for SRE teams",
+  "vertical": "sre",
+  "archetype": "developer",
+  "route": "/pages/031-runbookai-procurement-checklist/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/031-runbookai-procurement-checklist/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "htmlrev",
+    "label": "HTMLrev templates",
+    "url": "https://htmlrev.com/"
+  },
+  "layoutFamily": "procurement-checklist",
+  "heroKind": "launch-note",
+  "navKind": "left-rail",
+  "density": "longform",
+  "sections": [
+    "developer-hero",
+    "procurement-checklist-anchor",
+    "logo-cloud",
+    "pain-grid",
+    "product-proof"
+  ],
+  "layoutSignature": "procurement-checklist::launch-note::left-rail::developer-hero|procurement-checklist-anchor|logo-cloud|pain-grid|product-proof",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

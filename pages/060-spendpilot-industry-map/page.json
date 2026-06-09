@@ -1,0 +1,36 @@
+{
+  "id": "060-spendpilot-industry-map",
+  "number": "060",
+  "company": "SpendPilot",
+  "tagline": "automation operations for B2B teams",
+  "vertical": "automation",
+  "archetype": "demo-request",
+  "route": "/pages/060-spendpilot-industry-map/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/060-spendpilot-industry-map/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
+  },
+  "layoutFamily": "industry-map",
+  "heroKind": "split-dashboard",
+  "navKind": "centered-tabs",
+  "density": "dense",
+  "sections": [
+    "demo-request-hero",
+    "industry-map-anchor",
+    "quote-wall",
+    "case-masthead",
+    "before-after",
+    "metric-row",
+    "story-timeline"
+  ],
+  "layoutSignature": "industry-map::split-dashboard::centered-tabs::demo-request-hero|industry-map-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

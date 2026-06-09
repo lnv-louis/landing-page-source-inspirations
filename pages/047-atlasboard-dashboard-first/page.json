@@ -1,0 +1,35 @@
+{
+  "id": "047-atlasboard-dashboard-first",
+  "number": "047",
+  "company": "AtlasBoard",
+  "tagline": "executive dashboard automation",
+  "vertical": "dashboard",
+  "archetype": "integrations",
+  "route": "/pages/047-atlasboard-dashboard-first/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/047-atlasboard-dashboard-first/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
+  },
+  "layoutFamily": "dashboard-first",
+  "heroKind": "integration-cloud",
+  "navKind": "left-rail",
+  "density": "longform",
+  "sections": [
+    "integrations-hero",
+    "dashboard-first-anchor",
+    "marketplace-filters",
+    "partner-cards",
+    "webhook-panel",
+    "signup-form"
+  ],
+  "layoutSignature": "dashboard-first::integration-cloud::left-rail::integrations-hero|dashboard-first-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

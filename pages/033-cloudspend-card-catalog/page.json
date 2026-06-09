@@ -1,0 +1,36 @@
+{
+  "id": "033-cloudspend-card-catalog",
+  "number": "033",
+  "company": "CloudSpend",
+  "tagline": "procurement-aware cloud planning",
+  "vertical": "procurement",
+  "archetype": "procurement",
+  "route": "/pages/033-cloudspend-card-catalog/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/033-cloudspend-card-catalog/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
+  },
+  "layoutFamily": "card-catalog",
+  "heroKind": "procurement-brief",
+  "navKind": "simple-top",
+  "density": "compact",
+  "sections": [
+    "procurement-hero",
+    "card-catalog-anchor",
+    "faq-accordion",
+    "procurement-note",
+    "cta-band",
+    "pricing-table",
+    "plan-cards"
+  ],
+  "layoutSignature": "card-catalog::procurement-brief::simple-top::procurement-hero|card-catalog-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

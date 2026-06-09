@@ -1,0 +1,35 @@
+{
+  "id": "005-intentbase-editorial-report",
+  "number": "005",
+  "company": "IntentBase",
+  "tagline": "buyer-intent routing for revenue teams",
+  "vertical": "revintel",
+  "archetype": "docs",
+  "route": "/pages/005-intentbase-editorial-report/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/005-intentbase-editorial-report/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+  },
+  "layoutFamily": "editorial-report",
+  "heroKind": "form-first",
+  "navKind": "sidebar",
+  "density": "compact",
+  "sections": [
+    "docs-hero",
+    "editorial-report-anchor",
+    "developer-cta",
+    "docs-sidebar",
+    "api-table",
+    "quickstart-code"
+  ],
+  "layoutSignature": "editorial-report::form-first::sidebar::docs-hero|editorial-report-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

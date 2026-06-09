@@ -1,0 +1,35 @@
+{
+  "id": "044-quotawise-workflow-lane",
+  "number": "044",
+  "company": "QuotaWise",
+  "tagline": "sales capacity planning",
+  "vertical": "quota",
+  "archetype": "comparison",
+  "route": "/pages/044-quotawise-workflow-lane/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/044-quotawise-workflow-lane/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
+  },
+  "layoutFamily": "workflow-lane",
+  "heroKind": "centered-proof",
+  "navKind": "centered-tabs",
+  "density": "dense",
+  "sections": [
+    "comparison-hero",
+    "workflow-lane-anchor",
+    "migration-steps",
+    "demo-form",
+    "competitor-table",
+    "switcher-panel"
+  ],
+  "layoutSignature": "workflow-lane::centered-proof::centered-tabs::comparison-hero|workflow-lane-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

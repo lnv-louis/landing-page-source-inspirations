@@ -1,0 +1,36 @@
+{
+  "id": "009-dealforge-benchmark-grid",
+  "number": "009",
+  "company": "DealForge",
+  "tagline": "sales-assist workflows for complex deals",
+  "vertical": "sales",
+  "archetype": "calculator",
+  "route": "/pages/009-dealforge-benchmark-grid/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/009-dealforge-benchmark-grid/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+  },
+  "layoutFamily": "benchmark-grid",
+  "heroKind": "customer-story",
+  "navKind": "utility-bar",
+  "density": "compact",
+  "sections": [
+    "calculator-hero",
+    "benchmark-grid-anchor",
+    "results-table",
+    "download-cta",
+    "roi-calculator",
+    "benchmark-bars",
+    "input-form"
+  ],
+  "layoutSignature": "benchmark-grid::customer-story::utility-bar::calculator-hero|benchmark-grid-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

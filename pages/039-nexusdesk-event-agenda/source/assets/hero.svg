@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">NexusDesk hero</title>
+  <desc id="desc">service desk workflow intelligence</desc>
+  <rect width="1200" height="720" fill="#ecfdf5"/>
+  <rect x="52" y="52" width="1096" height="616" rx="30" fill="#ffffff" stroke="#a7f3d0" stroke-width="4"/>
+  <rect x="119" y="169" width="90" height="56" rx="18" fill="#059669" opacity="0.2"/>
+  <rect x="599" y="409" width="127" height="109" rx="18" fill="#a7f3d0" opacity="0.8"/>
+  <rect x="319" y="369" width="164" height="62" rx="18" fill="#059669" opacity="0.2"/>
+  <rect x="799" y="329" width="201" height="115" rx="18" fill="#a7f3d0" opacity="0.8"/>
+  <rect x="519" y="289" width="108" height="68" rx="18" fill="#059669" opacity="0.2"/>
+  <text x="96" y="138" fill="#059669" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">nordic-awesome</text>
+  <text x="96" y="524" fill="#052e16" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="850">NexusDesk</text>
+  <text x="96" y="588" fill="#052e16" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="650">service desk workflow intelligence</text>
+</svg>

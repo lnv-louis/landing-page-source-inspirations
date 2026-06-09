@@ -1,0 +1,34 @@
+{
+  "id": "100-buyerpath-sidebar-docs",
+  "number": "100",
+  "company": "BuyerPath",
+  "tagline": "trust operations for B2B teams",
+  "vertical": "trust",
+  "archetype": "demo-request",
+  "route": "/pages/100-buyerpath-sidebar-docs/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/100-buyerpath-sidebar-docs/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-awesome",
+    "label": "PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+  },
+  "layoutFamily": "sidebar-docs",
+  "heroKind": "event-poster",
+  "navKind": "anchor-strip",
+  "density": "dense",
+  "sections": [
+    "demo-request-hero",
+    "sidebar-docs-anchor",
+    "quote-wall",
+    "case-masthead",
+    "before-after"
+  ],
+  "layoutSignature": "sidebar-docs::event-poster::anchor-strip::demo-request-hero|sidebar-docs-anchor|quote-wall|case-masthead|before-after",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

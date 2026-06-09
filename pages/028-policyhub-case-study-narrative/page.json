@@ -1,0 +1,34 @@
+{
+  "id": "028-policyhub-case-study-narrative",
+  "number": "028",
+  "company": "PolicyHub",
+  "tagline": "policy lifecycle for compliance teams",
+  "vertical": "policy",
+  "archetype": "event",
+  "route": "/pages/028-policyhub-case-study-narrative/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/028-policyhub-case-study-narrative/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "paulle-awesome",
+    "label": "PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+  },
+  "layoutFamily": "case-study-narrative",
+  "heroKind": "terminal-window",
+  "navKind": "centered-tabs",
+  "density": "dense",
+  "sections": [
+    "event-hero",
+    "case-study-narrative-anchor",
+    "speaker-grid",
+    "registration-form",
+    "sponsor-row"
+  ],
+  "layoutSignature": "case-study-narrative::terminal-window::centered-tabs::event-hero|case-study-narrative-anchor|speaker-grid|registration-form|sponsor-row",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

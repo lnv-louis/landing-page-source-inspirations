@@ -1,0 +1,34 @@
+{
+  "id": "070-docspilot-event-agenda",
+  "number": "070",
+  "company": "DocsPilot",
+  "tagline": "demo operations for B2B teams",
+  "vertical": "demo",
+  "archetype": "case-study",
+  "route": "/pages/070-docspilot-event-agenda/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/070-docspilot-event-agenda/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "launch-ui",
+    "label": "Launch UI",
+    "url": "https://github.com/launch-ui/launch-ui"
+  },
+  "layoutFamily": "event-agenda",
+  "heroKind": "api-console",
+  "navKind": "utility-bar",
+  "density": "balanced",
+  "sections": [
+    "case-study-hero",
+    "event-agenda-anchor",
+    "quote-wall",
+    "case-masthead",
+    "before-after"
+  ],
+  "layoutSignature": "event-agenda::api-console::utility-bar::case-study-hero|event-agenda-anchor|quote-wall|case-masthead|before-after",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

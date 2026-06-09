@@ -1,0 +1,34 @@
+{
+  "id": "061-enabledesk-dashboard-first",
+  "number": "061",
+  "company": "EnableDesk",
+  "tagline": "success operations for B2B teams",
+  "vertical": "success",
+  "archetype": "home",
+  "route": "/pages/061-enabledesk-dashboard-first/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/061-enabledesk-dashboard-first/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "launch-ui",
+    "label": "Launch UI",
+    "url": "https://github.com/launch-ui/launch-ui"
+  },
+  "layoutFamily": "dashboard-first",
+  "heroKind": "api-console",
+  "navKind": "docs-rail",
+  "density": "compact",
+  "sections": [
+    "home-hero",
+    "dashboard-first-anchor",
+    "logo-cloud",
+    "pain-grid",
+    "product-proof"
+  ],
+  "layoutSignature": "dashboard-first::api-console::docs-rail::home-hero|dashboard-first-anchor|logo-cloud|pain-grid|product-proof",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

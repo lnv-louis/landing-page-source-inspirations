@@ -1,0 +1,36 @@
+{
+  "id": "021-vectorops-sidebar-docs",
+  "number": "021",
+  "company": "VectorOps",
+  "tagline": "feature flag governance for releases",
+  "vertical": "release",
+  "archetype": "home",
+  "route": "/pages/021-vectorops-sidebar-docs/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/021-vectorops-sidebar-docs/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+  },
+  "layoutFamily": "sidebar-docs",
+  "heroKind": "form-first",
+  "navKind": "sidebar",
+  "density": "compact",
+  "sections": [
+    "home-hero",
+    "sidebar-docs-anchor",
+    "logo-cloud",
+    "pain-grid",
+    "product-proof",
+    "customer-logos",
+    "cta-band"
+  ],
+  "layoutSignature": "sidebar-docs::form-first::sidebar::home-hero|sidebar-docs-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "075-signalcloud-workflow-lane",
+  "number": "075",
+  "company": "SignalCloud",
+  "tagline": "trust operations for B2B teams",
+  "vertical": "trust",
+  "archetype": "marketplace",
+  "route": "/pages/075-signalcloud-workflow-lane/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/075-signalcloud-workflow-lane/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+  },
+  "layoutFamily": "workflow-lane",
+  "heroKind": "event-poster",
+  "navKind": "mega-menu",
+  "density": "longform",
+  "sections": [
+    "marketplace-hero",
+    "workflow-lane-anchor",
+    "developer-cta",
+    "docs-sidebar",
+    "api-table",
+    "quickstart-code",
+    "changelog-list"
+  ],
+  "layoutSignature": "workflow-lane::event-poster::mega-menu::marketplace-hero|workflow-lane-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "084-quotadeck-event-agenda",
+  "number": "084",
+  "company": "QuotaDeck",
+  "tagline": "sales operations for B2B teams",
+  "vertical": "sales",
+  "archetype": "comparison",
+  "route": "/pages/084-quotadeck-event-agenda/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/084-quotadeck-event-agenda/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+  },
+  "layoutFamily": "event-agenda",
+  "heroKind": "customer-story",
+  "navKind": "anchor-strip",
+  "density": "dense",
+  "sections": [
+    "comparison-hero",
+    "event-agenda-anchor",
+    "migration-steps",
+    "demo-form",
+    "competitor-table",
+    "switcher-panel",
+    "proof-quotes"
+  ],
+  "layoutSignature": "event-agenda::customer-story::anchor-strip::comparison-hero|event-agenda-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

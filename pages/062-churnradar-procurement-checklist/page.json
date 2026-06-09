@@ -1,0 +1,35 @@
+{
+  "id": "062-churnradar-procurement-checklist",
+  "number": "062",
+  "company": "ChurnRadar",
+  "tagline": "finops operations for B2B teams",
+  "vertical": "finops",
+  "archetype": "product",
+  "route": "/pages/062-churnradar-procurement-checklist/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/062-churnradar-procurement-checklist/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
+  },
+  "layoutFamily": "procurement-checklist",
+  "heroKind": "asymmetric-editorial",
+  "navKind": "simple-top",
+  "density": "balanced",
+  "sections": [
+    "product-hero",
+    "procurement-checklist-anchor",
+    "workflow-steps",
+    "role-cards",
+    "security-note",
+    "demo-form"
+  ],
+  "layoutSignature": "procurement-checklist::asymmetric-editorial::simple-top::product-hero|procurement-checklist-anchor|workflow-steps|role-cards|security-note|demo-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

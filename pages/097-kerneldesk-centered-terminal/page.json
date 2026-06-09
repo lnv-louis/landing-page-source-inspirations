@@ -1,0 +1,34 @@
+{
+  "id": "097-kerneldesk-centered-terminal",
+  "number": "097",
+  "company": "KernelDesk",
+  "tagline": "crm operations for B2B teams",
+  "vertical": "crm",
+  "archetype": "benchmark",
+  "route": "/pages/097-kerneldesk-centered-terminal/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/097-kerneldesk-centered-terminal/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "launch-ui",
+    "label": "Launch UI",
+    "url": "https://github.com/launch-ui/launch-ui"
+  },
+  "layoutFamily": "centered-terminal",
+  "heroKind": "integration-cloud",
+  "navKind": "simple-top",
+  "density": "compact",
+  "sections": [
+    "benchmark-hero",
+    "centered-terminal-anchor",
+    "marketplace-filters",
+    "partner-cards",
+    "webhook-panel"
+  ],
+  "layoutSignature": "centered-terminal::integration-cloud::simple-top::benchmark-hero|centered-terminal-anchor|marketplace-filters|partner-cards|webhook-panel",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

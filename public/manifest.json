@@ -1,0 +1,3854 @@
+{
+  "generatedAt": "2026-06-09T00:00:00.000Z",
+  "baseUrl": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev",
+  "corpus": "landing-page-source-inspirations",
+  "count": 100,
+  "sourceReferences": [
+    {
+      "key": "paulle-awesome",
+      "label": "PaulleDemon awesome landing pages",
+      "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+    },
+    {
+      "key": "paulle-gallery",
+      "label": "Awesome landing pages gallery",
+      "url": "https://awesome-landingpages.vercel.app/"
+    },
+    {
+      "key": "nordic-awesome",
+      "label": "nordicgiant2 awesome landing page",
+      "url": "https://github.com/nordicgiant2/awesome-landing-page"
+    },
+    {
+      "key": "htmlrev",
+      "label": "HTMLrev templates",
+      "url": "https://htmlrev.com/"
+    },
+    {
+      "key": "next-shadcn",
+      "label": "next-shadcn-landing",
+      "url": "https://github.com/redpangilinan/next-shadcn-landing"
+    },
+    {
+      "key": "linkify",
+      "label": "Linkify",
+      "url": "https://github.com/Shreyas-29/linkify"
+    },
+    {
+      "key": "launch-ui",
+      "label": "Launch UI",
+      "url": "https://github.com/launch-ui/launch-ui"
+    },
+    {
+      "key": "convertfast",
+      "label": "ConvertFast UI",
+      "url": "https://github.com/ObservedObserver/convertfast-ui"
+    },
+    {
+      "key": "shadcn-landing",
+      "label": "shadcn landing page",
+      "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+    }
+  ],
+  "pages": [
+    {
+      "id": "001-temporalgrid-split-proof",
+      "number": "001",
+      "company": "TemporalGrid",
+      "route": "/pages/001-temporalgrid-split-proof/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/001-temporalgrid-split-proof/",
+      "sourcePath": "pages/001-temporalgrid-split-proof/source/index.html",
+      "metadataPath": "pages/001-temporalgrid-split-proof/page.json",
+      "licensePath": "pages/001-temporalgrid-split-proof/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/001-temporalgrid-split-proof/assets/hero.svg",
+      "localAssets": [
+        "/pages/001-temporalgrid-split-proof/assets/logo.svg",
+        "/pages/001-temporalgrid-split-proof/assets/hero.svg",
+        "/pages/001-temporalgrid-split-proof/assets/product.svg"
+      ],
+      "vertical": "dev-infra",
+      "archetype": "home",
+      "layoutFamily": "split-proof",
+      "heroKind": "split-dashboard",
+      "navKind": "simple-top",
+      "density": "compact",
+      "sections": [
+        "home-hero",
+        "split-proof-anchor",
+        "logo-cloud",
+        "pain-grid",
+        "product-proof"
+      ],
+      "layoutSignature": "split-proof::split-dashboard::simple-top::home-hero|split-proof-anchor|logo-cloud|pain-grid|product-proof",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "002-gladpath-card-catalog",
+      "number": "002",
+      "company": "GladPath",
+      "route": "/pages/002-gladpath-card-catalog/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/002-gladpath-card-catalog/",
+      "sourcePath": "pages/002-gladpath-card-catalog/source/index.html",
+      "metadataPath": "pages/002-gladpath-card-catalog/page.json",
+      "licensePath": "pages/002-gladpath-card-catalog/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/002-gladpath-card-catalog/assets/hero.svg",
+      "localAssets": [
+        "/pages/002-gladpath-card-catalog/assets/logo.svg",
+        "/pages/002-gladpath-card-catalog/assets/hero.svg",
+        "/pages/002-gladpath-card-catalog/assets/product.svg"
+      ],
+      "vertical": "cx",
+      "archetype": "product",
+      "layoutFamily": "card-catalog",
+      "heroKind": "workflow-board",
+      "navKind": "left-rail",
+      "density": "balanced",
+      "sections": [
+        "product-hero",
+        "card-catalog-anchor",
+        "workflow-steps",
+        "role-cards",
+        "security-note",
+        "demo-form"
+      ],
+      "layoutSignature": "card-catalog::workflow-board::left-rail::product-hero|card-catalog-anchor|workflow-steps|role-cards|security-note|demo-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "003-compwise-marketplace-shelf",
+      "number": "003",
+      "company": "Compwise",
+      "route": "/pages/003-compwise-marketplace-shelf/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/003-compwise-marketplace-shelf/",
+      "sourcePath": "pages/003-compwise-marketplace-shelf/source/index.html",
+      "metadataPath": "pages/003-compwise-marketplace-shelf/page.json",
+      "licensePath": "pages/003-compwise-marketplace-shelf/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/003-compwise-marketplace-shelf/assets/hero.svg",
+      "localAssets": [
+        "/pages/003-compwise-marketplace-shelf/assets/logo.svg",
+        "/pages/003-compwise-marketplace-shelf/assets/hero.svg",
+        "/pages/003-compwise-marketplace-shelf/assets/product.svg"
+      ],
+      "vertical": "compliance",
+      "archetype": "pricing",
+      "layoutFamily": "marketplace-shelf",
+      "heroKind": "terminal-window",
+      "navKind": "product-switcher",
+      "density": "longform",
+      "sections": [
+        "pricing-hero",
+        "marketplace-shelf-anchor",
+        "faq-accordion",
+        "procurement-note",
+        "cta-band",
+        "pricing-table",
+        "plan-cards"
+      ],
+      "layoutSignature": "marketplace-shelf::terminal-window::product-switcher::pricing-hero|marketplace-shelf-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "004-chaosdeck-centered-terminal",
+      "number": "004",
+      "company": "ChaosDeck",
+      "route": "/pages/004-chaosdeck-centered-terminal/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/004-chaosdeck-centered-terminal/",
+      "sourcePath": "pages/004-chaosdeck-centered-terminal/source/index.html",
+      "metadataPath": "pages/004-chaosdeck-centered-terminal/page.json",
+      "licensePath": "pages/004-chaosdeck-centered-terminal/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/004-chaosdeck-centered-terminal/assets/hero.svg",
+      "localAssets": [
+        "/pages/004-chaosdeck-centered-terminal/assets/logo.svg",
+        "/pages/004-chaosdeck-centered-terminal/assets/hero.svg",
+        "/pages/004-chaosdeck-centered-terminal/assets/product.svg"
+      ],
+      "vertical": "reliability",
+      "archetype": "comparison",
+      "layoutFamily": "centered-terminal",
+      "heroKind": "metric-wall",
+      "navKind": "anchor-strip",
+      "density": "dense",
+      "sections": [
+        "comparison-hero",
+        "centered-terminal-anchor",
+        "migration-steps",
+        "demo-form",
+        "competitor-table"
+      ],
+      "layoutSignature": "centered-terminal::metric-wall::anchor-strip::comparison-hero|centered-terminal-anchor|migration-steps|demo-form|competitor-table",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "005-intentbase-editorial-report",
+      "number": "005",
+      "company": "IntentBase",
+      "route": "/pages/005-intentbase-editorial-report/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/005-intentbase-editorial-report/",
+      "sourcePath": "pages/005-intentbase-editorial-report/source/index.html",
+      "metadataPath": "pages/005-intentbase-editorial-report/page.json",
+      "licensePath": "pages/005-intentbase-editorial-report/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/005-intentbase-editorial-report/assets/hero.svg",
+      "localAssets": [
+        "/pages/005-intentbase-editorial-report/assets/logo.svg",
+        "/pages/005-intentbase-editorial-report/assets/hero.svg",
+        "/pages/005-intentbase-editorial-report/assets/product.svg"
+      ],
+      "vertical": "revintel",
+      "archetype": "docs",
+      "layoutFamily": "editorial-report",
+      "heroKind": "form-first",
+      "navKind": "sidebar",
+      "density": "compact",
+      "sections": [
+        "docs-hero",
+        "editorial-report-anchor",
+        "developer-cta",
+        "docs-sidebar",
+        "api-table",
+        "quickstart-code"
+      ],
+      "layoutSignature": "editorial-report::form-first::sidebar::docs-hero|editorial-report-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "006-signalroom-migration-timeline",
+      "number": "006",
+      "company": "SignalRoom",
+      "route": "/pages/006-signalroom-migration-timeline/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/006-signalroom-migration-timeline/",
+      "sourcePath": "pages/006-signalroom-migration-timeline/source/index.html",
+      "metadataPath": "pages/006-signalroom-migration-timeline/page.json",
+      "licensePath": "pages/006-signalroom-migration-timeline/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/006-signalroom-migration-timeline/assets/hero.svg",
+      "localAssets": [
+        "/pages/006-signalroom-migration-timeline/assets/logo.svg",
+        "/pages/006-signalroom-migration-timeline/assets/hero.svg",
+        "/pages/006-signalroom-migration-timeline/assets/product.svg"
+      ],
+      "vertical": "product-analytics",
+      "archetype": "security",
+      "layoutFamily": "migration-timeline",
+      "heroKind": "launch-note",
+      "navKind": "utility-bar",
+      "density": "balanced",
+      "sections": [
+        "security-hero",
+        "migration-timeline-anchor",
+        "trust-center",
+        "control-grid",
+        "audit-timeline",
+        "policy-links",
+        "security-form"
+      ],
+      "layoutSignature": "migration-timeline::launch-note::utility-bar::security-hero|migration-timeline-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "007-billwise-sidebar-docs",
+      "number": "007",
+      "company": "Billwise",
+      "route": "/pages/007-billwise-sidebar-docs/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/007-billwise-sidebar-docs/",
+      "sourcePath": "pages/007-billwise-sidebar-docs/source/index.html",
+      "metadataPath": "pages/007-billwise-sidebar-docs/page.json",
+      "licensePath": "pages/007-billwise-sidebar-docs/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/007-billwise-sidebar-docs/assets/hero.svg",
+      "localAssets": [
+        "/pages/007-billwise-sidebar-docs/assets/logo.svg",
+        "/pages/007-billwise-sidebar-docs/assets/hero.svg",
+        "/pages/007-billwise-sidebar-docs/assets/product.svg"
+      ],
+      "vertical": "billing",
+      "archetype": "integrations",
+      "layoutFamily": "sidebar-docs",
+      "heroKind": "docs-shell",
+      "navKind": "minimal-wordmark",
+      "density": "longform",
+      "sections": [
+        "integrations-hero",
+        "sidebar-docs-anchor",
+        "marketplace-filters",
+        "partner-cards",
+        "webhook-panel"
+      ],
+      "layoutSignature": "sidebar-docs::docs-shell::minimal-wordmark::integrations-hero|sidebar-docs-anchor|marketplace-filters|partner-cards|webhook-panel",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "008-searchpilot-event-agenda",
+      "number": "008",
+      "company": "SearchPilot",
+      "route": "/pages/008-searchpilot-event-agenda/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/008-searchpilot-event-agenda/",
+      "sourcePath": "pages/008-searchpilot-event-agenda/source/index.html",
+      "metadataPath": "pages/008-searchpilot-event-agenda/page.json",
+      "licensePath": "pages/008-searchpilot-event-agenda/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/008-searchpilot-event-agenda/assets/hero.svg",
+      "localAssets": [
+        "/pages/008-searchpilot-event-agenda/assets/logo.svg",
+        "/pages/008-searchpilot-event-agenda/assets/hero.svg",
+        "/pages/008-searchpilot-event-agenda/assets/product.svg"
+      ],
+      "vertical": "ai-search",
+      "archetype": "event",
+      "layoutFamily": "event-agenda",
+      "heroKind": "procurement-brief",
+      "navKind": "mega-menu",
+      "density": "dense",
+      "sections": [
+        "event-hero",
+        "event-agenda-anchor",
+        "speaker-grid",
+        "registration-form",
+        "sponsor-row",
+        "event-hero"
+      ],
+      "layoutSignature": "event-agenda::procurement-brief::mega-menu::event-hero|event-agenda-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "009-dealforge-benchmark-grid",
+      "number": "009",
+      "company": "DealForge",
+      "route": "/pages/009-dealforge-benchmark-grid/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/009-dealforge-benchmark-grid/",
+      "sourcePath": "pages/009-dealforge-benchmark-grid/source/index.html",
+      "metadataPath": "pages/009-dealforge-benchmark-grid/page.json",
+      "licensePath": "pages/009-dealforge-benchmark-grid/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/009-dealforge-benchmark-grid/assets/hero.svg",
+      "localAssets": [
+        "/pages/009-dealforge-benchmark-grid/assets/logo.svg",
+        "/pages/009-dealforge-benchmark-grid/assets/hero.svg",
+        "/pages/009-dealforge-benchmark-grid/assets/product.svg"
+      ],
+      "vertical": "sales",
+      "archetype": "calculator",
+      "layoutFamily": "benchmark-grid",
+      "heroKind": "customer-story",
+      "navKind": "utility-bar",
+      "density": "compact",
+      "sections": [
+        "calculator-hero",
+        "benchmark-grid-anchor",
+        "results-table",
+        "download-cta",
+        "roi-calculator",
+        "benchmark-bars",
+        "input-form"
+      ],
+      "layoutSignature": "benchmark-grid::customer-story::utility-bar::calculator-hero|benchmark-grid-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "010-workflowly-pricing-matrix",
+      "number": "010",
+      "company": "Workflowly",
+      "route": "/pages/010-workflowly-pricing-matrix/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/010-workflowly-pricing-matrix/",
+      "sourcePath": "pages/010-workflowly-pricing-matrix/source/index.html",
+      "metadataPath": "pages/010-workflowly-pricing-matrix/page.json",
+      "licensePath": "pages/010-workflowly-pricing-matrix/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/010-workflowly-pricing-matrix/assets/hero.svg",
+      "localAssets": [
+        "/pages/010-workflowly-pricing-matrix/assets/logo.svg",
+        "/pages/010-workflowly-pricing-matrix/assets/hero.svg",
+        "/pages/010-workflowly-pricing-matrix/assets/product.svg"
+      ],
+      "vertical": "automation",
+      "archetype": "case-study",
+      "layoutFamily": "pricing-matrix",
+      "heroKind": "split-dashboard",
+      "navKind": "minimal-wordmark",
+      "density": "balanced",
+      "sections": [
+        "case-study-hero",
+        "pricing-matrix-anchor",
+        "quote-wall",
+        "case-masthead",
+        "before-after"
+      ],
+      "layoutSignature": "pricing-matrix::split-dashboard::minimal-wordmark::case-study-hero|pricing-matrix-anchor|quote-wall|case-masthead|before-after",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "011-successhub-case-study-narrative",
+      "number": "011",
+      "company": "SuccessHub",
+      "route": "/pages/011-successhub-case-study-narrative/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/011-successhub-case-study-narrative/",
+      "sourcePath": "pages/011-successhub-case-study-narrative/source/index.html",
+      "metadataPath": "pages/011-successhub-case-study-narrative/page.json",
+      "licensePath": "pages/011-successhub-case-study-narrative/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/011-successhub-case-study-narrative/assets/hero.svg",
+      "localAssets": [
+        "/pages/011-successhub-case-study-narrative/assets/logo.svg",
+        "/pages/011-successhub-case-study-narrative/assets/hero.svg",
+        "/pages/011-successhub-case-study-narrative/assets/product.svg"
+      ],
+      "vertical": "success",
+      "archetype": "developer",
+      "layoutFamily": "case-study-narrative",
+      "heroKind": "api-console",
+      "navKind": "mega-menu",
+      "density": "longform",
+      "sections": [
+        "developer-hero",
+        "case-study-narrative-anchor",
+        "logo-cloud",
+        "pain-grid",
+        "product-proof",
+        "customer-logos"
+      ],
+      "layoutSignature": "case-study-narrative::api-console::mega-menu::developer-hero|case-study-narrative-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "012-cloudledger-industry-map",
+      "number": "012",
+      "company": "CloudLedger",
+      "route": "/pages/012-cloudledger-industry-map/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/012-cloudledger-industry-map/",
+      "sourcePath": "pages/012-cloudledger-industry-map/source/index.html",
+      "metadataPath": "pages/012-cloudledger-industry-map/page.json",
+      "licensePath": "pages/012-cloudledger-industry-map/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/012-cloudledger-industry-map/assets/hero.svg",
+      "localAssets": [
+        "/pages/012-cloudledger-industry-map/assets/logo.svg",
+        "/pages/012-cloudledger-industry-map/assets/hero.svg",
+        "/pages/012-cloudledger-industry-map/assets/product.svg"
+      ],
+      "vertical": "finops",
+      "archetype": "agent-workflow",
+      "layoutFamily": "industry-map",
+      "heroKind": "asymmetric-editorial",
+      "navKind": "centered-tabs",
+      "density": "dense",
+      "sections": [
+        "agent-workflow-hero",
+        "industry-map-anchor",
+        "workflow-steps",
+        "role-cards",
+        "security-note",
+        "demo-form",
+        "feature-tabs"
+      ],
+      "layoutSignature": "industry-map::asymmetric-editorial::centered-tabs::agent-workflow-hero|industry-map-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "013-knowledgekit-workflow-lane",
+      "number": "013",
+      "company": "KnowledgeKit",
+      "route": "/pages/013-knowledgekit-workflow-lane/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/013-knowledgekit-workflow-lane/",
+      "sourcePath": "pages/013-knowledgekit-workflow-lane/source/index.html",
+      "metadataPath": "pages/013-knowledgekit-workflow-lane/page.json",
+      "licensePath": "pages/013-knowledgekit-workflow-lane/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/013-knowledgekit-workflow-lane/assets/hero.svg",
+      "localAssets": [
+        "/pages/013-knowledgekit-workflow-lane/assets/logo.svg",
+        "/pages/013-knowledgekit-workflow-lane/assets/hero.svg",
+        "/pages/013-knowledgekit-workflow-lane/assets/product.svg"
+      ],
+      "vertical": "knowledge",
+      "archetype": "procurement",
+      "layoutFamily": "workflow-lane",
+      "heroKind": "security-room",
+      "navKind": "docs-rail",
+      "density": "compact",
+      "sections": [
+        "procurement-hero",
+        "workflow-lane-anchor",
+        "faq-accordion",
+        "procurement-note",
+        "cta-band"
+      ],
+      "layoutSignature": "workflow-lane::security-room::docs-rail::procurement-hero|workflow-lane-anchor|faq-accordion|procurement-note|cta-band",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "014-formsync-developer-console",
+      "number": "014",
+      "company": "FormSync",
+      "route": "/pages/014-formsync-developer-console/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/014-formsync-developer-console/",
+      "sourcePath": "pages/014-formsync-developer-console/source/index.html",
+      "metadataPath": "pages/014-formsync-developer-console/page.json",
+      "licensePath": "pages/014-formsync-developer-console/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/014-formsync-developer-console/assets/hero.svg",
+      "localAssets": [
+        "/pages/014-formsync-developer-console/assets/logo.svg",
+        "/pages/014-formsync-developer-console/assets/hero.svg",
+        "/pages/014-formsync-developer-console/assets/product.svg"
+      ],
+      "vertical": "forms",
+      "archetype": "use-case",
+      "layoutFamily": "developer-console",
+      "heroKind": "pricing-led",
+      "navKind": "simple-top",
+      "density": "balanced",
+      "sections": [
+        "use-case-hero",
+        "developer-console-anchor",
+        "migration-steps",
+        "demo-form",
+        "competitor-table",
+        "switcher-panel"
+      ],
+      "layoutSignature": "developer-console::pricing-led::simple-top::use-case-hero|developer-console-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "015-accessforge-demo-form-panel",
+      "number": "015",
+      "company": "AccessForge",
+      "route": "/pages/015-accessforge-demo-form-panel/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/015-accessforge-demo-form-panel/",
+      "sourcePath": "pages/015-accessforge-demo-form-panel/source/index.html",
+      "metadataPath": "pages/015-accessforge-demo-form-panel/page.json",
+      "licensePath": "pages/015-accessforge-demo-form-panel/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/015-accessforge-demo-form-panel/assets/hero.svg",
+      "localAssets": [
+        "/pages/015-accessforge-demo-form-panel/assets/logo.svg",
+        "/pages/015-accessforge-demo-form-panel/assets/hero.svg",
+        "/pages/015-accessforge-demo-form-panel/assets/product.svg"
+      ],
+      "vertical": "identity",
+      "archetype": "marketplace",
+      "layoutFamily": "demo-form-panel",
+      "heroKind": "launch-note",
+      "navKind": "left-rail",
+      "density": "longform",
+      "sections": [
+        "marketplace-hero",
+        "demo-form-panel-anchor",
+        "developer-cta",
+        "docs-sidebar",
+        "api-table",
+        "quickstart-code",
+        "changelog-list"
+      ],
+      "layoutSignature": "demo-form-panel::launch-note::left-rail::marketplace-hero|demo-form-panel-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "016-pipelineatlas-dashboard-first",
+      "number": "016",
+      "company": "PipelineAtlas",
+      "route": "/pages/016-pipelineatlas-dashboard-first/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/016-pipelineatlas-dashboard-first/",
+      "sourcePath": "pages/016-pipelineatlas-dashboard-first/source/index.html",
+      "metadataPath": "pages/016-pipelineatlas-dashboard-first/page.json",
+      "licensePath": "pages/016-pipelineatlas-dashboard-first/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/016-pipelineatlas-dashboard-first/assets/hero.svg",
+      "localAssets": [
+        "/pages/016-pipelineatlas-dashboard-first/assets/logo.svg",
+        "/pages/016-pipelineatlas-dashboard-first/assets/hero.svg",
+        "/pages/016-pipelineatlas-dashboard-first/assets/product.svg"
+      ],
+      "vertical": "pipeline",
+      "archetype": "migration",
+      "layoutFamily": "dashboard-first",
+      "heroKind": "event-poster",
+      "navKind": "product-switcher",
+      "density": "dense",
+      "sections": [
+        "migration-hero",
+        "dashboard-first-anchor",
+        "trust-center",
+        "control-grid",
+        "audit-timeline"
+      ],
+      "layoutSignature": "dashboard-first::event-poster::product-switcher::migration-hero|dashboard-first-anchor|trust-center|control-grid|audit-timeline",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "017-prooflayer-procurement-checklist",
+      "number": "017",
+      "company": "ProofLayer",
+      "route": "/pages/017-prooflayer-procurement-checklist/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/017-prooflayer-procurement-checklist/",
+      "sourcePath": "pages/017-prooflayer-procurement-checklist/source/index.html",
+      "metadataPath": "pages/017-prooflayer-procurement-checklist/page.json",
+      "licensePath": "pages/017-prooflayer-procurement-checklist/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/017-prooflayer-procurement-checklist/assets/hero.svg",
+      "localAssets": [
+        "/pages/017-prooflayer-procurement-checklist/assets/logo.svg",
+        "/pages/017-prooflayer-procurement-checklist/assets/hero.svg",
+        "/pages/017-prooflayer-procurement-checklist/assets/product.svg"
+      ],
+      "vertical": "security",
+      "archetype": "benchmark",
+      "layoutFamily": "procurement-checklist",
+      "heroKind": "demo-room",
+      "navKind": "simple-top",
+      "density": "compact",
+      "sections": [
+        "benchmark-hero",
+        "procurement-checklist-anchor",
+        "marketplace-filters",
+        "partner-cards",
+        "webhook-panel",
+        "signup-form"
+      ],
+      "layoutSignature": "procurement-checklist::demo-room::simple-top::benchmark-hero|procurement-checklist-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "018-incidentloop-split-proof",
+      "number": "018",
+      "company": "IncidentLoop",
+      "route": "/pages/018-incidentloop-split-proof/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/018-incidentloop-split-proof/",
+      "sourcePath": "pages/018-incidentloop-split-proof/source/index.html",
+      "metadataPath": "pages/018-incidentloop-split-proof/page.json",
+      "licensePath": "pages/018-incidentloop-split-proof/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/018-incidentloop-split-proof/assets/hero.svg",
+      "localAssets": [
+        "/pages/018-incidentloop-split-proof/assets/logo.svg",
+        "/pages/018-incidentloop-split-proof/assets/hero.svg",
+        "/pages/018-incidentloop-split-proof/assets/product.svg"
+      ],
+      "vertical": "incident",
+      "archetype": "launch",
+      "layoutFamily": "split-proof",
+      "heroKind": "market-map",
+      "navKind": "left-rail",
+      "density": "balanced",
+      "sections": [
+        "launch-hero",
+        "split-proof-anchor",
+        "speaker-grid",
+        "registration-form",
+        "sponsor-row",
+        "event-hero",
+        "agenda-list"
+      ],
+      "layoutSignature": "split-proof::market-map::left-rail::launch-hero|split-proof-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "019-querylake-card-catalog",
+      "number": "019",
+      "company": "QueryLake",
+      "route": "/pages/019-querylake-card-catalog/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/019-querylake-card-catalog/",
+      "sourcePath": "pages/019-querylake-card-catalog/source/index.html",
+      "metadataPath": "pages/019-querylake-card-catalog/page.json",
+      "licensePath": "pages/019-querylake-card-catalog/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/019-querylake-card-catalog/assets/hero.svg",
+      "localAssets": [
+        "/pages/019-querylake-card-catalog/assets/logo.svg",
+        "/pages/019-querylake-card-catalog/assets/hero.svg",
+        "/pages/019-querylake-card-catalog/assets/product.svg"
+      ],
+      "vertical": "analytics",
+      "archetype": "solutions",
+      "layoutFamily": "card-catalog",
+      "heroKind": "centered-proof",
+      "navKind": "product-switcher",
+      "density": "longform",
+      "sections": [
+        "solutions-hero",
+        "card-catalog-anchor",
+        "results-table",
+        "download-cta",
+        "roi-calculator"
+      ],
+      "layoutSignature": "card-catalog::centered-proof::product-switcher::solutions-hero|card-catalog-anchor|results-table|download-cta|roi-calculator",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "020-demodesk-marketplace-shelf",
+      "number": "020",
+      "company": "DemoDesk",
+      "route": "/pages/020-demodesk-marketplace-shelf/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/020-demodesk-marketplace-shelf/",
+      "sourcePath": "pages/020-demodesk-marketplace-shelf/source/index.html",
+      "metadataPath": "pages/020-demodesk-marketplace-shelf/page.json",
+      "licensePath": "pages/020-demodesk-marketplace-shelf/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/020-demodesk-marketplace-shelf/assets/hero.svg",
+      "localAssets": [
+        "/pages/020-demodesk-marketplace-shelf/assets/logo.svg",
+        "/pages/020-demodesk-marketplace-shelf/assets/hero.svg",
+        "/pages/020-demodesk-marketplace-shelf/assets/product.svg"
+      ],
+      "vertical": "demo",
+      "archetype": "demo-request",
+      "layoutFamily": "marketplace-shelf",
+      "heroKind": "api-console",
+      "navKind": "anchor-strip",
+      "density": "dense",
+      "sections": [
+        "demo-request-hero",
+        "marketplace-shelf-anchor",
+        "quote-wall",
+        "case-masthead",
+        "before-after",
+        "metric-row"
+      ],
+      "layoutSignature": "marketplace-shelf::api-console::anchor-strip::demo-request-hero|marketplace-shelf-anchor|quote-wall|case-masthead|before-after|metric-row",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "021-vectorops-sidebar-docs",
+      "number": "021",
+      "company": "VectorOps",
+      "route": "/pages/021-vectorops-sidebar-docs/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/021-vectorops-sidebar-docs/",
+      "sourcePath": "pages/021-vectorops-sidebar-docs/source/index.html",
+      "metadataPath": "pages/021-vectorops-sidebar-docs/page.json",
+      "licensePath": "pages/021-vectorops-sidebar-docs/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/021-vectorops-sidebar-docs/assets/hero.svg",
+      "localAssets": [
+        "/pages/021-vectorops-sidebar-docs/assets/logo.svg",
+        "/pages/021-vectorops-sidebar-docs/assets/hero.svg",
+        "/pages/021-vectorops-sidebar-docs/assets/product.svg"
+      ],
+      "vertical": "release",
+      "archetype": "home",
+      "layoutFamily": "sidebar-docs",
+      "heroKind": "form-first",
+      "navKind": "sidebar",
+      "density": "compact",
+      "sections": [
+        "home-hero",
+        "sidebar-docs-anchor",
+        "logo-cloud",
+        "pain-grid",
+        "product-proof",
+        "customer-logos",
+        "cta-band"
+      ],
+      "layoutSignature": "sidebar-docs::form-first::sidebar::home-hero|sidebar-docs-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "022-northstarcrm-event-agenda",
+      "number": "022",
+      "company": "NorthstarCRM",
+      "route": "/pages/022-northstarcrm-event-agenda/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/022-northstarcrm-event-agenda/",
+      "sourcePath": "pages/022-northstarcrm-event-agenda/source/index.html",
+      "metadataPath": "pages/022-northstarcrm-event-agenda/page.json",
+      "licensePath": "pages/022-northstarcrm-event-agenda/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/022-northstarcrm-event-agenda/assets/hero.svg",
+      "localAssets": [
+        "/pages/022-northstarcrm-event-agenda/assets/logo.svg",
+        "/pages/022-northstarcrm-event-agenda/assets/hero.svg",
+        "/pages/022-northstarcrm-event-agenda/assets/product.svg"
+      ],
+      "vertical": "crm",
+      "archetype": "product",
+      "layoutFamily": "event-agenda",
+      "heroKind": "integration-cloud",
+      "navKind": "utility-bar",
+      "density": "balanced",
+      "sections": [
+        "product-hero",
+        "event-agenda-anchor",
+        "workflow-steps",
+        "role-cards",
+        "security-note"
+      ],
+      "layoutSignature": "event-agenda::integration-cloud::utility-bar::product-hero|event-agenda-anchor|workflow-steps|role-cards|security-note",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "023-launchguard-benchmark-grid",
+      "number": "023",
+      "company": "LaunchGuard",
+      "route": "/pages/023-launchguard-benchmark-grid/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/023-launchguard-benchmark-grid/",
+      "sourcePath": "pages/023-launchguard-benchmark-grid/source/index.html",
+      "metadataPath": "pages/023-launchguard-benchmark-grid/page.json",
+      "licensePath": "pages/023-launchguard-benchmark-grid/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/023-launchguard-benchmark-grid/assets/hero.svg",
+      "localAssets": [
+        "/pages/023-launchguard-benchmark-grid/assets/logo.svg",
+        "/pages/023-launchguard-benchmark-grid/assets/hero.svg",
+        "/pages/023-launchguard-benchmark-grid/assets/product.svg"
+      ],
+      "vertical": "launch",
+      "archetype": "pricing",
+      "layoutFamily": "benchmark-grid",
+      "heroKind": "comparison-first",
+      "navKind": "minimal-wordmark",
+      "density": "longform",
+      "sections": [
+        "pricing-hero",
+        "benchmark-grid-anchor",
+        "faq-accordion",
+        "procurement-note",
+        "cta-band",
+        "pricing-table"
+      ],
+      "layoutSignature": "benchmark-grid::comparison-first::minimal-wordmark::pricing-hero|benchmark-grid-anchor|faq-accordion|procurement-note|cta-band|pricing-table",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "024-metricbridge-pricing-matrix",
+      "number": "024",
+      "company": "MetricBridge",
+      "route": "/pages/024-metricbridge-pricing-matrix/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/024-metricbridge-pricing-matrix/",
+      "sourcePath": "pages/024-metricbridge-pricing-matrix/source/index.html",
+      "metadataPath": "pages/024-metricbridge-pricing-matrix/page.json",
+      "licensePath": "pages/024-metricbridge-pricing-matrix/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/024-metricbridge-pricing-matrix/assets/hero.svg",
+      "localAssets": [
+        "/pages/024-metricbridge-pricing-matrix/assets/logo.svg",
+        "/pages/024-metricbridge-pricing-matrix/assets/hero.svg",
+        "/pages/024-metricbridge-pricing-matrix/assets/product.svg"
+      ],
+      "vertical": "metrics",
+      "archetype": "comparison",
+      "layoutFamily": "pricing-matrix",
+      "heroKind": "calculator-panel",
+      "navKind": "mega-menu",
+      "density": "dense",
+      "sections": [
+        "comparison-hero",
+        "pricing-matrix-anchor",
+        "migration-steps",
+        "demo-form",
+        "competitor-table",
+        "switcher-panel",
+        "proof-quotes"
+      ],
+      "layoutSignature": "pricing-matrix::calculator-panel::mega-menu::comparison-hero|pricing-matrix-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "025-trustdock-calculator-form",
+      "number": "025",
+      "company": "TrustDock",
+      "route": "/pages/025-trustdock-calculator-form/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/025-trustdock-calculator-form/",
+      "sourcePath": "pages/025-trustdock-calculator-form/source/index.html",
+      "metadataPath": "pages/025-trustdock-calculator-form/page.json",
+      "licensePath": "pages/025-trustdock-calculator-form/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/025-trustdock-calculator-form/assets/hero.svg",
+      "localAssets": [
+        "/pages/025-trustdock-calculator-form/assets/logo.svg",
+        "/pages/025-trustdock-calculator-form/assets/hero.svg",
+        "/pages/025-trustdock-calculator-form/assets/product.svg"
+      ],
+      "vertical": "trust",
+      "archetype": "docs",
+      "layoutFamily": "calculator-form",
+      "heroKind": "event-poster",
+      "navKind": "utility-bar",
+      "density": "compact",
+      "sections": [
+        "docs-hero",
+        "calculator-form-anchor",
+        "developer-cta",
+        "docs-sidebar",
+        "api-table"
+      ],
+      "layoutSignature": "calculator-form::event-poster::utility-bar::docs-hero|calculator-form-anchor|developer-cta|docs-sidebar|api-table",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "026-replypilot-announcement-stack",
+      "number": "026",
+      "company": "ReplyPilot",
+      "route": "/pages/026-replypilot-announcement-stack/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/026-replypilot-announcement-stack/",
+      "sourcePath": "pages/026-replypilot-announcement-stack/source/index.html",
+      "metadataPath": "pages/026-replypilot-announcement-stack/page.json",
+      "licensePath": "pages/026-replypilot-announcement-stack/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/026-replypilot-announcement-stack/assets/hero.svg",
+      "localAssets": [
+        "/pages/026-replypilot-announcement-stack/assets/logo.svg",
+        "/pages/026-replypilot-announcement-stack/assets/hero.svg",
+        "/pages/026-replypilot-announcement-stack/assets/product.svg"
+      ],
+      "vertical": "support",
+      "archetype": "security",
+      "layoutFamily": "announcement-stack",
+      "heroKind": "split-dashboard",
+      "navKind": "minimal-wordmark",
+      "density": "balanced",
+      "sections": [
+        "security-hero",
+        "announcement-stack-anchor",
+        "trust-center",
+        "control-grid",
+        "audit-timeline",
+        "policy-links"
+      ],
+      "layoutSignature": "announcement-stack::split-dashboard::minimal-wordmark::security-hero|announcement-stack-anchor|trust-center|control-grid|audit-timeline|policy-links",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "027-usagemeter-comparison-ledger",
+      "number": "027",
+      "company": "UsageMeter",
+      "route": "/pages/027-usagemeter-comparison-ledger/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/027-usagemeter-comparison-ledger/",
+      "sourcePath": "pages/027-usagemeter-comparison-ledger/source/index.html",
+      "metadataPath": "pages/027-usagemeter-comparison-ledger/page.json",
+      "licensePath": "pages/027-usagemeter-comparison-ledger/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/027-usagemeter-comparison-ledger/assets/hero.svg",
+      "localAssets": [
+        "/pages/027-usagemeter-comparison-ledger/assets/logo.svg",
+        "/pages/027-usagemeter-comparison-ledger/assets/hero.svg",
+        "/pages/027-usagemeter-comparison-ledger/assets/product.svg"
+      ],
+      "vertical": "metering",
+      "archetype": "integrations",
+      "layoutFamily": "comparison-ledger",
+      "heroKind": "workflow-board",
+      "navKind": "mega-menu",
+      "density": "longform",
+      "sections": [
+        "integrations-hero",
+        "comparison-ledger-anchor",
+        "marketplace-filters",
+        "partner-cards",
+        "webhook-panel",
+        "signup-form",
+        "integration-grid"
+      ],
+      "layoutSignature": "comparison-ledger::workflow-board::mega-menu::integrations-hero|comparison-ledger-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "028-policyhub-case-study-narrative",
+      "number": "028",
+      "company": "PolicyHub",
+      "route": "/pages/028-policyhub-case-study-narrative/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/028-policyhub-case-study-narrative/",
+      "sourcePath": "pages/028-policyhub-case-study-narrative/source/index.html",
+      "metadataPath": "pages/028-policyhub-case-study-narrative/page.json",
+      "licensePath": "pages/028-policyhub-case-study-narrative/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/028-policyhub-case-study-narrative/assets/hero.svg",
+      "localAssets": [
+        "/pages/028-policyhub-case-study-narrative/assets/logo.svg",
+        "/pages/028-policyhub-case-study-narrative/assets/hero.svg",
+        "/pages/028-policyhub-case-study-narrative/assets/product.svg"
+      ],
+      "vertical": "policy",
+      "archetype": "event",
+      "layoutFamily": "case-study-narrative",
+      "heroKind": "terminal-window",
+      "navKind": "centered-tabs",
+      "density": "dense",
+      "sections": [
+        "event-hero",
+        "case-study-narrative-anchor",
+        "speaker-grid",
+        "registration-form",
+        "sponsor-row"
+      ],
+      "layoutSignature": "case-study-narrative::terminal-window::centered-tabs::event-hero|case-study-narrative-anchor|speaker-grid|registration-form|sponsor-row",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "029-segmentflow-industry-map",
+      "number": "029",
+      "company": "SegmentFlow",
+      "route": "/pages/029-segmentflow-industry-map/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/029-segmentflow-industry-map/",
+      "sourcePath": "pages/029-segmentflow-industry-map/source/index.html",
+      "metadataPath": "pages/029-segmentflow-industry-map/page.json",
+      "licensePath": "pages/029-segmentflow-industry-map/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/029-segmentflow-industry-map/assets/hero.svg",
+      "localAssets": [
+        "/pages/029-segmentflow-industry-map/assets/logo.svg",
+        "/pages/029-segmentflow-industry-map/assets/hero.svg",
+        "/pages/029-segmentflow-industry-map/assets/product.svg"
+      ],
+      "vertical": "segmentation",
+      "archetype": "calculator",
+      "layoutFamily": "industry-map",
+      "heroKind": "metric-wall",
+      "navKind": "docs-rail",
+      "density": "compact",
+      "sections": [
+        "calculator-hero",
+        "industry-map-anchor",
+        "results-table",
+        "download-cta",
+        "roi-calculator",
+        "benchmark-bars"
+      ],
+      "layoutSignature": "industry-map::metric-wall::docs-rail::calculator-hero|industry-map-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "030-buyergraph-workflow-lane",
+      "number": "030",
+      "company": "BuyerGraph",
+      "route": "/pages/030-buyergraph-workflow-lane/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/030-buyergraph-workflow-lane/",
+      "sourcePath": "pages/030-buyergraph-workflow-lane/source/index.html",
+      "metadataPath": "pages/030-buyergraph-workflow-lane/page.json",
+      "licensePath": "pages/030-buyergraph-workflow-lane/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/030-buyergraph-workflow-lane/assets/hero.svg",
+      "localAssets": [
+        "/pages/030-buyergraph-workflow-lane/assets/logo.svg",
+        "/pages/030-buyergraph-workflow-lane/assets/hero.svg",
+        "/pages/030-buyergraph-workflow-lane/assets/product.svg"
+      ],
+      "vertical": "buyer",
+      "archetype": "case-study",
+      "layoutFamily": "workflow-lane",
+      "heroKind": "form-first",
+      "navKind": "simple-top",
+      "density": "balanced",
+      "sections": [
+        "case-study-hero",
+        "workflow-lane-anchor",
+        "quote-wall",
+        "case-masthead",
+        "before-after",
+        "metric-row",
+        "story-timeline"
+      ],
+      "layoutSignature": "workflow-lane::form-first::simple-top::case-study-hero|workflow-lane-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "031-runbookai-procurement-checklist",
+      "number": "031",
+      "company": "RunbookAI",
+      "route": "/pages/031-runbookai-procurement-checklist/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/031-runbookai-procurement-checklist/",
+      "sourcePath": "pages/031-runbookai-procurement-checklist/source/index.html",
+      "metadataPath": "pages/031-runbookai-procurement-checklist/page.json",
+      "licensePath": "pages/031-runbookai-procurement-checklist/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/031-runbookai-procurement-checklist/assets/hero.svg",
+      "localAssets": [
+        "/pages/031-runbookai-procurement-checklist/assets/logo.svg",
+        "/pages/031-runbookai-procurement-checklist/assets/hero.svg",
+        "/pages/031-runbookai-procurement-checklist/assets/product.svg"
+      ],
+      "vertical": "sre",
+      "archetype": "developer",
+      "layoutFamily": "procurement-checklist",
+      "heroKind": "launch-note",
+      "navKind": "left-rail",
+      "density": "longform",
+      "sections": [
+        "developer-hero",
+        "procurement-checklist-anchor",
+        "logo-cloud",
+        "pain-grid",
+        "product-proof"
+      ],
+      "layoutSignature": "procurement-checklist::launch-note::left-rail::developer-hero|procurement-checklist-anchor|logo-cloud|pain-grid|product-proof",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "032-docsrelay-split-proof",
+      "number": "032",
+      "company": "DocsRelay",
+      "route": "/pages/032-docsrelay-split-proof/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/032-docsrelay-split-proof/",
+      "sourcePath": "pages/032-docsrelay-split-proof/source/index.html",
+      "metadataPath": "pages/032-docsrelay-split-proof/page.json",
+      "licensePath": "pages/032-docsrelay-split-proof/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/032-docsrelay-split-proof/assets/hero.svg",
+      "localAssets": [
+        "/pages/032-docsrelay-split-proof/assets/logo.svg",
+        "/pages/032-docsrelay-split-proof/assets/hero.svg",
+        "/pages/032-docsrelay-split-proof/assets/product.svg"
+      ],
+      "vertical": "docs",
+      "archetype": "agent-workflow",
+      "layoutFamily": "split-proof",
+      "heroKind": "docs-shell",
+      "navKind": "product-switcher",
+      "density": "dense",
+      "sections": [
+        "agent-workflow-hero",
+        "split-proof-anchor",
+        "workflow-steps",
+        "role-cards",
+        "security-note",
+        "demo-form"
+      ],
+      "layoutSignature": "split-proof::docs-shell::product-switcher::agent-workflow-hero|split-proof-anchor|workflow-steps|role-cards|security-note|demo-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "033-cloudspend-card-catalog",
+      "number": "033",
+      "company": "CloudSpend",
+      "route": "/pages/033-cloudspend-card-catalog/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/033-cloudspend-card-catalog/",
+      "sourcePath": "pages/033-cloudspend-card-catalog/source/index.html",
+      "metadataPath": "pages/033-cloudspend-card-catalog/page.json",
+      "licensePath": "pages/033-cloudspend-card-catalog/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/033-cloudspend-card-catalog/assets/hero.svg",
+      "localAssets": [
+        "/pages/033-cloudspend-card-catalog/assets/logo.svg",
+        "/pages/033-cloudspend-card-catalog/assets/hero.svg",
+        "/pages/033-cloudspend-card-catalog/assets/product.svg"
+      ],
+      "vertical": "procurement",
+      "archetype": "procurement",
+      "layoutFamily": "card-catalog",
+      "heroKind": "procurement-brief",
+      "navKind": "simple-top",
+      "density": "compact",
+      "sections": [
+        "procurement-hero",
+        "card-catalog-anchor",
+        "faq-accordion",
+        "procurement-note",
+        "cta-band",
+        "pricing-table",
+        "plan-cards"
+      ],
+      "layoutSignature": "card-catalog::procurement-brief::simple-top::procurement-hero|card-catalog-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "034-auditnest-marketplace-shelf",
+      "number": "034",
+      "company": "AuditNest",
+      "route": "/pages/034-auditnest-marketplace-shelf/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/034-auditnest-marketplace-shelf/",
+      "sourcePath": "pages/034-auditnest-marketplace-shelf/source/index.html",
+      "metadataPath": "pages/034-auditnest-marketplace-shelf/page.json",
+      "licensePath": "pages/034-auditnest-marketplace-shelf/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/034-auditnest-marketplace-shelf/assets/hero.svg",
+      "localAssets": [
+        "/pages/034-auditnest-marketplace-shelf/assets/logo.svg",
+        "/pages/034-auditnest-marketplace-shelf/assets/hero.svg",
+        "/pages/034-auditnest-marketplace-shelf/assets/product.svg"
+      ],
+      "vertical": "audit",
+      "archetype": "use-case",
+      "layoutFamily": "marketplace-shelf",
+      "heroKind": "customer-story",
+      "navKind": "left-rail",
+      "density": "balanced",
+      "sections": [
+        "use-case-hero",
+        "marketplace-shelf-anchor",
+        "migration-steps",
+        "demo-form",
+        "competitor-table"
+      ],
+      "layoutSignature": "marketplace-shelf::customer-story::left-rail::use-case-hero|marketplace-shelf-anchor|migration-steps|demo-form|competitor-table",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "035-routesignal-centered-terminal",
+      "number": "035",
+      "company": "RouteSignal",
+      "route": "/pages/035-routesignal-centered-terminal/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/035-routesignal-centered-terminal/",
+      "sourcePath": "pages/035-routesignal-centered-terminal/source/index.html",
+      "metadataPath": "pages/035-routesignal-centered-terminal/page.json",
+      "licensePath": "pages/035-routesignal-centered-terminal/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/035-routesignal-centered-terminal/assets/hero.svg",
+      "localAssets": [
+        "/pages/035-routesignal-centered-terminal/assets/logo.svg",
+        "/pages/035-routesignal-centered-terminal/assets/hero.svg",
+        "/pages/035-routesignal-centered-terminal/assets/product.svg"
+      ],
+      "vertical": "routing",
+      "archetype": "marketplace",
+      "layoutFamily": "centered-terminal",
+      "heroKind": "split-dashboard",
+      "navKind": "product-switcher",
+      "density": "longform",
+      "sections": [
+        "marketplace-hero",
+        "centered-terminal-anchor",
+        "developer-cta",
+        "docs-sidebar",
+        "api-table",
+        "quickstart-code"
+      ],
+      "layoutSignature": "centered-terminal::split-dashboard::product-switcher::marketplace-hero|centered-terminal-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "036-stackpilot-editorial-report",
+      "number": "036",
+      "company": "StackPilot",
+      "route": "/pages/036-stackpilot-editorial-report/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/036-stackpilot-editorial-report/",
+      "sourcePath": "pages/036-stackpilot-editorial-report/source/index.html",
+      "metadataPath": "pages/036-stackpilot-editorial-report/page.json",
+      "licensePath": "pages/036-stackpilot-editorial-report/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/036-stackpilot-editorial-report/assets/hero.svg",
+      "localAssets": [
+        "/pages/036-stackpilot-editorial-report/assets/logo.svg",
+        "/pages/036-stackpilot-editorial-report/assets/hero.svg",
+        "/pages/036-stackpilot-editorial-report/assets/product.svg"
+      ],
+      "vertical": "platform",
+      "archetype": "migration",
+      "layoutFamily": "editorial-report",
+      "heroKind": "api-console",
+      "navKind": "anchor-strip",
+      "density": "dense",
+      "sections": [
+        "migration-hero",
+        "editorial-report-anchor",
+        "trust-center",
+        "control-grid",
+        "audit-timeline",
+        "policy-links",
+        "security-form"
+      ],
+      "layoutSignature": "editorial-report::api-console::anchor-strip::migration-hero|editorial-report-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "037-controlplane-migration-timeline",
+      "number": "037",
+      "company": "ControlPlane",
+      "route": "/pages/037-controlplane-migration-timeline/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/037-controlplane-migration-timeline/",
+      "sourcePath": "pages/037-controlplane-migration-timeline/source/index.html",
+      "metadataPath": "pages/037-controlplane-migration-timeline/page.json",
+      "licensePath": "pages/037-controlplane-migration-timeline/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/037-controlplane-migration-timeline/assets/hero.svg",
+      "localAssets": [
+        "/pages/037-controlplane-migration-timeline/assets/logo.svg",
+        "/pages/037-controlplane-migration-timeline/assets/hero.svg",
+        "/pages/037-controlplane-migration-timeline/assets/product.svg"
+      ],
+      "vertical": "cloud",
+      "archetype": "benchmark",
+      "layoutFamily": "migration-timeline",
+      "heroKind": "asymmetric-editorial",
+      "navKind": "sidebar",
+      "density": "compact",
+      "sections": [
+        "benchmark-hero",
+        "migration-timeline-anchor",
+        "marketplace-filters",
+        "partner-cards",
+        "webhook-panel"
+      ],
+      "layoutSignature": "migration-timeline::asymmetric-editorial::sidebar::benchmark-hero|migration-timeline-anchor|marketplace-filters|partner-cards|webhook-panel",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "038-qualifykit-sidebar-docs",
+      "number": "038",
+      "company": "QualifyKit",
+      "route": "/pages/038-qualifykit-sidebar-docs/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/038-qualifykit-sidebar-docs/",
+      "sourcePath": "pages/038-qualifykit-sidebar-docs/source/index.html",
+      "metadataPath": "pages/038-qualifykit-sidebar-docs/page.json",
+      "licensePath": "pages/038-qualifykit-sidebar-docs/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/038-qualifykit-sidebar-docs/assets/hero.svg",
+      "localAssets": [
+        "/pages/038-qualifykit-sidebar-docs/assets/logo.svg",
+        "/pages/038-qualifykit-sidebar-docs/assets/hero.svg",
+        "/pages/038-qualifykit-sidebar-docs/assets/product.svg"
+      ],
+      "vertical": "qualification",
+      "archetype": "launch",
+      "layoutFamily": "sidebar-docs",
+      "heroKind": "security-room",
+      "navKind": "utility-bar",
+      "density": "balanced",
+      "sections": [
+        "launch-hero",
+        "sidebar-docs-anchor",
+        "speaker-grid",
+        "registration-form",
+        "sponsor-row",
+        "event-hero"
+      ],
+      "layoutSignature": "sidebar-docs::security-room::utility-bar::launch-hero|sidebar-docs-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "039-nexusdesk-event-agenda",
+      "number": "039",
+      "company": "NexusDesk",
+      "route": "/pages/039-nexusdesk-event-agenda/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/039-nexusdesk-event-agenda/",
+      "sourcePath": "pages/039-nexusdesk-event-agenda/source/index.html",
+      "metadataPath": "pages/039-nexusdesk-event-agenda/page.json",
+      "licensePath": "pages/039-nexusdesk-event-agenda/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/039-nexusdesk-event-agenda/assets/hero.svg",
+      "localAssets": [
+        "/pages/039-nexusdesk-event-agenda/assets/logo.svg",
+        "/pages/039-nexusdesk-event-agenda/assets/hero.svg",
+        "/pages/039-nexusdesk-event-agenda/assets/product.svg"
+      ],
+      "vertical": "service-desk",
+      "archetype": "solutions",
+      "layoutFamily": "event-agenda",
+      "heroKind": "pricing-led",
+      "navKind": "minimal-wordmark",
+      "density": "longform",
+      "sections": [
+        "solutions-hero",
+        "event-agenda-anchor",
+        "results-table",
+        "download-cta",
+        "roi-calculator",
+        "benchmark-bars",
+        "input-form"
+      ],
+      "layoutSignature": "event-agenda::pricing-led::minimal-wordmark::solutions-hero|event-agenda-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "040-traceroot-benchmark-grid",
+      "number": "040",
+      "company": "TraceRoot",
+      "route": "/pages/040-traceroot-benchmark-grid/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/040-traceroot-benchmark-grid/",
+      "sourcePath": "pages/040-traceroot-benchmark-grid/source/index.html",
+      "metadataPath": "pages/040-traceroot-benchmark-grid/page.json",
+      "licensePath": "pages/040-traceroot-benchmark-grid/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/040-traceroot-benchmark-grid/assets/hero.svg",
+      "localAssets": [
+        "/pages/040-traceroot-benchmark-grid/assets/logo.svg",
+        "/pages/040-traceroot-benchmark-grid/assets/hero.svg",
+        "/pages/040-traceroot-benchmark-grid/assets/product.svg"
+      ],
+      "vertical": "observability",
+      "archetype": "demo-request",
+      "layoutFamily": "benchmark-grid",
+      "heroKind": "launch-note",
+      "navKind": "mega-menu",
+      "density": "dense",
+      "sections": [
+        "demo-request-hero",
+        "benchmark-grid-anchor",
+        "quote-wall",
+        "case-masthead",
+        "before-after"
+      ],
+      "layoutSignature": "benchmark-grid::launch-note::mega-menu::demo-request-hero|benchmark-grid-anchor|quote-wall|case-masthead|before-after",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "041-linkledger-comparison-ledger",
+      "number": "041",
+      "company": "LinkLedger",
+      "route": "/pages/041-linkledger-comparison-ledger/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/041-linkledger-comparison-ledger/",
+      "sourcePath": "pages/041-linkledger-comparison-ledger/source/index.html",
+      "metadataPath": "pages/041-linkledger-comparison-ledger/page.json",
+      "licensePath": "pages/041-linkledger-comparison-ledger/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/041-linkledger-comparison-ledger/assets/hero.svg",
+      "localAssets": [
+        "/pages/041-linkledger-comparison-ledger/assets/logo.svg",
+        "/pages/041-linkledger-comparison-ledger/assets/hero.svg",
+        "/pages/041-linkledger-comparison-ledger/assets/product.svg"
+      ],
+      "vertical": "partners",
+      "archetype": "home",
+      "layoutFamily": "comparison-ledger",
+      "heroKind": "event-poster",
+      "navKind": "utility-bar",
+      "density": "compact",
+      "sections": [
+        "home-hero",
+        "comparison-ledger-anchor",
+        "logo-cloud",
+        "pain-grid",
+        "product-proof",
+        "customer-logos"
+      ],
+      "layoutSignature": "comparison-ledger::event-poster::utility-bar::home-hero|comparison-ledger-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "042-handoffhq-case-study-narrative",
+      "number": "042",
+      "company": "HandoffHQ",
+      "route": "/pages/042-handoffhq-case-study-narrative/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/042-handoffhq-case-study-narrative/",
+      "sourcePath": "pages/042-handoffhq-case-study-narrative/source/index.html",
+      "metadataPath": "pages/042-handoffhq-case-study-narrative/page.json",
+      "licensePath": "pages/042-handoffhq-case-study-narrative/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/042-handoffhq-case-study-narrative/assets/hero.svg",
+      "localAssets": [
+        "/pages/042-handoffhq-case-study-narrative/assets/logo.svg",
+        "/pages/042-handoffhq-case-study-narrative/assets/hero.svg",
+        "/pages/042-handoffhq-case-study-narrative/assets/product.svg"
+      ],
+      "vertical": "handoff",
+      "archetype": "product",
+      "layoutFamily": "case-study-narrative",
+      "heroKind": "demo-room",
+      "navKind": "minimal-wordmark",
+      "density": "balanced",
+      "sections": [
+        "product-hero",
+        "case-study-narrative-anchor",
+        "workflow-steps",
+        "role-cards",
+        "security-note",
+        "demo-form",
+        "feature-tabs"
+      ],
+      "layoutSignature": "case-study-narrative::demo-room::minimal-wordmark::product-hero|case-study-narrative-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "043-riskcanvas-industry-map",
+      "number": "043",
+      "company": "RiskCanvas",
+      "route": "/pages/043-riskcanvas-industry-map/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/043-riskcanvas-industry-map/",
+      "sourcePath": "pages/043-riskcanvas-industry-map/source/index.html",
+      "metadataPath": "pages/043-riskcanvas-industry-map/page.json",
+      "licensePath": "pages/043-riskcanvas-industry-map/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/043-riskcanvas-industry-map/assets/hero.svg",
+      "localAssets": [
+        "/pages/043-riskcanvas-industry-map/assets/logo.svg",
+        "/pages/043-riskcanvas-industry-map/assets/hero.svg",
+        "/pages/043-riskcanvas-industry-map/assets/product.svg"
+      ],
+      "vertical": "risk",
+      "archetype": "pricing",
+      "layoutFamily": "industry-map",
+      "heroKind": "market-map",
+      "navKind": "mega-menu",
+      "density": "longform",
+      "sections": [
+        "pricing-hero",
+        "industry-map-anchor",
+        "faq-accordion",
+        "procurement-note",
+        "cta-band"
+      ],
+      "layoutSignature": "industry-map::market-map::mega-menu::pricing-hero|industry-map-anchor|faq-accordion|procurement-note|cta-band",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "044-quotawise-workflow-lane",
+      "number": "044",
+      "company": "QuotaWise",
+      "route": "/pages/044-quotawise-workflow-lane/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/044-quotawise-workflow-lane/",
+      "sourcePath": "pages/044-quotawise-workflow-lane/source/index.html",
+      "metadataPath": "pages/044-quotawise-workflow-lane/page.json",
+      "licensePath": "pages/044-quotawise-workflow-lane/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/044-quotawise-workflow-lane/assets/hero.svg",
+      "localAssets": [
+        "/pages/044-quotawise-workflow-lane/assets/logo.svg",
+        "/pages/044-quotawise-workflow-lane/assets/hero.svg",
+        "/pages/044-quotawise-workflow-lane/assets/product.svg"
+      ],
+      "vertical": "quota",
+      "archetype": "comparison",
+      "layoutFamily": "workflow-lane",
+      "heroKind": "centered-proof",
+      "navKind": "centered-tabs",
+      "density": "dense",
+      "sections": [
+        "comparison-hero",
+        "workflow-lane-anchor",
+        "migration-steps",
+        "demo-form",
+        "competitor-table",
+        "switcher-panel"
+      ],
+      "layoutSignature": "workflow-lane::centered-proof::centered-tabs::comparison-hero|workflow-lane-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "045-answerloop-developer-console",
+      "number": "045",
+      "company": "AnswerLoop",
+      "route": "/pages/045-answerloop-developer-console/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/045-answerloop-developer-console/",
+      "sourcePath": "pages/045-answerloop-developer-console/source/index.html",
+      "metadataPath": "pages/045-answerloop-developer-console/page.json",
+      "licensePath": "pages/045-answerloop-developer-console/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/045-answerloop-developer-console/assets/hero.svg",
+      "localAssets": [
+        "/pages/045-answerloop-developer-console/assets/logo.svg",
+        "/pages/045-answerloop-developer-console/assets/hero.svg",
+        "/pages/045-answerloop-developer-console/assets/product.svg"
+      ],
+      "vertical": "answers",
+      "archetype": "docs",
+      "layoutFamily": "developer-console",
+      "heroKind": "api-console",
+      "navKind": "docs-rail",
+      "density": "compact",
+      "sections": [
+        "docs-hero",
+        "developer-console-anchor",
+        "developer-cta",
+        "docs-sidebar",
+        "api-table",
+        "quickstart-code",
+        "changelog-list"
+      ],
+      "layoutSignature": "developer-console::api-console::docs-rail::docs-hero|developer-console-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "046-scribeops-demo-form-panel",
+      "number": "046",
+      "company": "ScribeOps",
+      "route": "/pages/046-scribeops-demo-form-panel/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/046-scribeops-demo-form-panel/",
+      "sourcePath": "pages/046-scribeops-demo-form-panel/source/index.html",
+      "metadataPath": "pages/046-scribeops-demo-form-panel/page.json",
+      "licensePath": "pages/046-scribeops-demo-form-panel/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/046-scribeops-demo-form-panel/assets/hero.svg",
+      "localAssets": [
+        "/pages/046-scribeops-demo-form-panel/assets/logo.svg",
+        "/pages/046-scribeops-demo-form-panel/assets/hero.svg",
+        "/pages/046-scribeops-demo-form-panel/assets/product.svg"
+      ],
+      "vertical": "scribe",
+      "archetype": "security",
+      "layoutFamily": "demo-form-panel",
+      "heroKind": "form-first",
+      "navKind": "simple-top",
+      "density": "balanced",
+      "sections": [
+        "security-hero",
+        "demo-form-panel-anchor",
+        "trust-center",
+        "control-grid",
+        "audit-timeline"
+      ],
+      "layoutSignature": "demo-form-panel::form-first::simple-top::security-hero|demo-form-panel-anchor|trust-center|control-grid|audit-timeline",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "047-atlasboard-dashboard-first",
+      "number": "047",
+      "company": "AtlasBoard",
+      "route": "/pages/047-atlasboard-dashboard-first/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/047-atlasboard-dashboard-first/",
+      "sourcePath": "pages/047-atlasboard-dashboard-first/source/index.html",
+      "metadataPath": "pages/047-atlasboard-dashboard-first/page.json",
+      "licensePath": "pages/047-atlasboard-dashboard-first/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/047-atlasboard-dashboard-first/assets/hero.svg",
+      "localAssets": [
+        "/pages/047-atlasboard-dashboard-first/assets/logo.svg",
+        "/pages/047-atlasboard-dashboard-first/assets/hero.svg",
+        "/pages/047-atlasboard-dashboard-first/assets/product.svg"
+      ],
+      "vertical": "dashboard",
+      "archetype": "integrations",
+      "layoutFamily": "dashboard-first",
+      "heroKind": "integration-cloud",
+      "navKind": "left-rail",
+      "density": "longform",
+      "sections": [
+        "integrations-hero",
+        "dashboard-first-anchor",
+        "marketplace-filters",
+        "partner-cards",
+        "webhook-panel",
+        "signup-form"
+      ],
+      "layoutSignature": "dashboard-first::integration-cloud::left-rail::integrations-hero|dashboard-first-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "048-signalforge-procurement-checklist",
+      "number": "048",
+      "company": "SignalForge",
+      "route": "/pages/048-signalforge-procurement-checklist/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/048-signalforge-procurement-checklist/",
+      "sourcePath": "pages/048-signalforge-procurement-checklist/source/index.html",
+      "metadataPath": "pages/048-signalforge-procurement-checklist/page.json",
+      "licensePath": "pages/048-signalforge-procurement-checklist/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/048-signalforge-procurement-checklist/assets/hero.svg",
+      "localAssets": [
+        "/pages/048-signalforge-procurement-checklist/assets/logo.svg",
+        "/pages/048-signalforge-procurement-checklist/assets/hero.svg",
+        "/pages/048-signalforge-procurement-checklist/assets/product.svg"
+      ],
+      "vertical": "outbound",
+      "archetype": "event",
+      "layoutFamily": "procurement-checklist",
+      "heroKind": "comparison-first",
+      "navKind": "product-switcher",
+      "density": "dense",
+      "sections": [
+        "event-hero",
+        "procurement-checklist-anchor",
+        "speaker-grid",
+        "registration-form",
+        "sponsor-row",
+        "event-hero",
+        "agenda-list"
+      ],
+      "layoutSignature": "procurement-checklist::comparison-first::product-switcher::event-hero|procurement-checklist-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "049-launchops-split-proof",
+      "number": "049",
+      "company": "LaunchOps",
+      "route": "/pages/049-launchops-split-proof/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/049-launchops-split-proof/",
+      "sourcePath": "pages/049-launchops-split-proof/source/index.html",
+      "metadataPath": "pages/049-launchops-split-proof/page.json",
+      "licensePath": "pages/049-launchops-split-proof/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/049-launchops-split-proof/assets/hero.svg",
+      "localAssets": [
+        "/pages/049-launchops-split-proof/assets/logo.svg",
+        "/pages/049-launchops-split-proof/assets/hero.svg",
+        "/pages/049-launchops-split-proof/assets/product.svg"
+      ],
+      "vertical": "launchops",
+      "archetype": "calculator",
+      "layoutFamily": "split-proof",
+      "heroKind": "calculator-panel",
+      "navKind": "simple-top",
+      "density": "compact",
+      "sections": [
+        "calculator-hero",
+        "split-proof-anchor",
+        "results-table",
+        "download-cta",
+        "roi-calculator"
+      ],
+      "layoutSignature": "split-proof::calculator-panel::simple-top::calculator-hero|split-proof-anchor|results-table|download-cta|roi-calculator",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "050-trustmatrix-card-catalog",
+      "number": "050",
+      "company": "TrustMatrix",
+      "route": "/pages/050-trustmatrix-card-catalog/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/050-trustmatrix-card-catalog/",
+      "sourcePath": "pages/050-trustmatrix-card-catalog/source/index.html",
+      "metadataPath": "pages/050-trustmatrix-card-catalog/page.json",
+      "licensePath": "pages/050-trustmatrix-card-catalog/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/050-trustmatrix-card-catalog/assets/hero.svg",
+      "localAssets": [
+        "/pages/050-trustmatrix-card-catalog/assets/logo.svg",
+        "/pages/050-trustmatrix-card-catalog/assets/hero.svg",
+        "/pages/050-trustmatrix-card-catalog/assets/product.svg"
+      ],
+      "vertical": "vendor-risk",
+      "archetype": "case-study",
+      "layoutFamily": "card-catalog",
+      "heroKind": "event-poster",
+      "navKind": "left-rail",
+      "density": "balanced",
+      "sections": [
+        "case-study-hero",
+        "card-catalog-anchor",
+        "quote-wall",
+        "case-masthead",
+        "before-after",
+        "metric-row"
+      ],
+      "layoutSignature": "card-catalog::event-poster::left-rail::case-study-hero|card-catalog-anchor|quote-wall|case-masthead|before-after|metric-row",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "051-webhookbase-migration-timeline",
+      "number": "051",
+      "company": "WebhookBase",
+      "route": "/pages/051-webhookbase-migration-timeline/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/051-webhookbase-migration-timeline/",
+      "sourcePath": "pages/051-webhookbase-migration-timeline/source/index.html",
+      "metadataPath": "pages/051-webhookbase-migration-timeline/page.json",
+      "licensePath": "pages/051-webhookbase-migration-timeline/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/051-webhookbase-migration-timeline/assets/hero.svg",
+      "localAssets": [
+        "/pages/051-webhookbase-migration-timeline/assets/logo.svg",
+        "/pages/051-webhookbase-migration-timeline/assets/hero.svg",
+        "/pages/051-webhookbase-migration-timeline/assets/product.svg"
+      ],
+      "vertical": "dev-infra",
+      "archetype": "developer",
+      "layoutFamily": "migration-timeline",
+      "heroKind": "split-dashboard",
+      "navKind": "product-switcher",
+      "density": "longform",
+      "sections": [
+        "developer-hero",
+        "migration-timeline-anchor",
+        "logo-cloud",
+        "pain-grid",
+        "product-proof",
+        "customer-logos",
+        "cta-band"
+      ],
+      "layoutSignature": "migration-timeline::split-dashboard::product-switcher::developer-hero|migration-timeline-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "052-opsnarrative-sidebar-docs",
+      "number": "052",
+      "company": "OpsNarrative",
+      "route": "/pages/052-opsnarrative-sidebar-docs/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/052-opsnarrative-sidebar-docs/",
+      "sourcePath": "pages/052-opsnarrative-sidebar-docs/source/index.html",
+      "metadataPath": "pages/052-opsnarrative-sidebar-docs/page.json",
+      "licensePath": "pages/052-opsnarrative-sidebar-docs/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/052-opsnarrative-sidebar-docs/assets/hero.svg",
+      "localAssets": [
+        "/pages/052-opsnarrative-sidebar-docs/assets/logo.svg",
+        "/pages/052-opsnarrative-sidebar-docs/assets/hero.svg",
+        "/pages/052-opsnarrative-sidebar-docs/assets/product.svg"
+      ],
+      "vertical": "cx",
+      "archetype": "agent-workflow",
+      "layoutFamily": "sidebar-docs",
+      "heroKind": "workflow-board",
+      "navKind": "anchor-strip",
+      "density": "dense",
+      "sections": [
+        "agent-workflow-hero",
+        "sidebar-docs-anchor",
+        "workflow-steps",
+        "role-cards",
+        "security-note"
+      ],
+      "layoutSignature": "sidebar-docs::workflow-board::anchor-strip::agent-workflow-hero|sidebar-docs-anchor|workflow-steps|role-cards|security-note",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "053-revenuelens-event-agenda",
+      "number": "053",
+      "company": "RevenueLens",
+      "route": "/pages/053-revenuelens-event-agenda/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/053-revenuelens-event-agenda/",
+      "sourcePath": "pages/053-revenuelens-event-agenda/source/index.html",
+      "metadataPath": "pages/053-revenuelens-event-agenda/page.json",
+      "licensePath": "pages/053-revenuelens-event-agenda/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/053-revenuelens-event-agenda/assets/hero.svg",
+      "localAssets": [
+        "/pages/053-revenuelens-event-agenda/assets/logo.svg",
+        "/pages/053-revenuelens-event-agenda/assets/hero.svg",
+        "/pages/053-revenuelens-event-agenda/assets/product.svg"
+      ],
+      "vertical": "compliance",
+      "archetype": "procurement",
+      "layoutFamily": "event-agenda",
+      "heroKind": "terminal-window",
+      "navKind": "sidebar",
+      "density": "compact",
+      "sections": [
+        "procurement-hero",
+        "event-agenda-anchor",
+        "faq-accordion",
+        "procurement-note",
+        "cta-band",
+        "pricing-table"
+      ],
+      "layoutSignature": "event-agenda::terminal-window::sidebar::procurement-hero|event-agenda-anchor|faq-accordion|procurement-note|cta-band|pricing-table",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "054-portalkit-benchmark-grid",
+      "number": "054",
+      "company": "PortalKit",
+      "route": "/pages/054-portalkit-benchmark-grid/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/054-portalkit-benchmark-grid/",
+      "sourcePath": "pages/054-portalkit-benchmark-grid/source/index.html",
+      "metadataPath": "pages/054-portalkit-benchmark-grid/page.json",
+      "licensePath": "pages/054-portalkit-benchmark-grid/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/054-portalkit-benchmark-grid/assets/hero.svg",
+      "localAssets": [
+        "/pages/054-portalkit-benchmark-grid/assets/logo.svg",
+        "/pages/054-portalkit-benchmark-grid/assets/hero.svg",
+        "/pages/054-portalkit-benchmark-grid/assets/product.svg"
+      ],
+      "vertical": "reliability",
+      "archetype": "use-case",
+      "layoutFamily": "benchmark-grid",
+      "heroKind": "metric-wall",
+      "navKind": "utility-bar",
+      "density": "balanced",
+      "sections": [
+        "use-case-hero",
+        "benchmark-grid-anchor",
+        "migration-steps",
+        "demo-form",
+        "competitor-table",
+        "switcher-panel",
+        "proof-quotes"
+      ],
+      "layoutSignature": "benchmark-grid::metric-wall::utility-bar::use-case-hero|benchmark-grid-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "055-dataharbor-pricing-matrix",
+      "number": "055",
+      "company": "DataHarbor",
+      "route": "/pages/055-dataharbor-pricing-matrix/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/055-dataharbor-pricing-matrix/",
+      "sourcePath": "pages/055-dataharbor-pricing-matrix/source/index.html",
+      "metadataPath": "pages/055-dataharbor-pricing-matrix/page.json",
+      "licensePath": "pages/055-dataharbor-pricing-matrix/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/055-dataharbor-pricing-matrix/assets/hero.svg",
+      "localAssets": [
+        "/pages/055-dataharbor-pricing-matrix/assets/logo.svg",
+        "/pages/055-dataharbor-pricing-matrix/assets/hero.svg",
+        "/pages/055-dataharbor-pricing-matrix/assets/product.svg"
+      ],
+      "vertical": "revintel",
+      "archetype": "marketplace",
+      "layoutFamily": "pricing-matrix",
+      "heroKind": "form-first",
+      "navKind": "minimal-wordmark",
+      "density": "longform",
+      "sections": [
+        "marketplace-hero",
+        "pricing-matrix-anchor",
+        "developer-cta",
+        "docs-sidebar",
+        "api-table"
+      ],
+      "layoutSignature": "pricing-matrix::form-first::minimal-wordmark::marketplace-hero|pricing-matrix-anchor|developer-cta|docs-sidebar|api-table",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "056-synctower-calculator-form",
+      "number": "056",
+      "company": "SyncTower",
+      "route": "/pages/056-synctower-calculator-form/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/056-synctower-calculator-form/",
+      "sourcePath": "pages/056-synctower-calculator-form/source/index.html",
+      "metadataPath": "pages/056-synctower-calculator-form/page.json",
+      "licensePath": "pages/056-synctower-calculator-form/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/056-synctower-calculator-form/assets/hero.svg",
+      "localAssets": [
+        "/pages/056-synctower-calculator-form/assets/logo.svg",
+        "/pages/056-synctower-calculator-form/assets/hero.svg",
+        "/pages/056-synctower-calculator-form/assets/product.svg"
+      ],
+      "vertical": "product-analytics",
+      "archetype": "migration",
+      "layoutFamily": "calculator-form",
+      "heroKind": "launch-note",
+      "navKind": "mega-menu",
+      "density": "dense",
+      "sections": [
+        "migration-hero",
+        "calculator-form-anchor",
+        "trust-center",
+        "control-grid",
+        "audit-timeline",
+        "policy-links"
+      ],
+      "layoutSignature": "calculator-form::launch-note::mega-menu::migration-hero|calculator-form-anchor|trust-center|control-grid|audit-timeline|policy-links",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "057-demoroute-announcement-stack",
+      "number": "057",
+      "company": "DemoRoute",
+      "route": "/pages/057-demoroute-announcement-stack/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/057-demoroute-announcement-stack/",
+      "sourcePath": "pages/057-demoroute-announcement-stack/source/index.html",
+      "metadataPath": "pages/057-demoroute-announcement-stack/page.json",
+      "licensePath": "pages/057-demoroute-announcement-stack/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/057-demoroute-announcement-stack/assets/hero.svg",
+      "localAssets": [
+        "/pages/057-demoroute-announcement-stack/assets/logo.svg",
+        "/pages/057-demoroute-announcement-stack/assets/hero.svg",
+        "/pages/057-demoroute-announcement-stack/assets/product.svg"
+      ],
+      "vertical": "billing",
+      "archetype": "benchmark",
+      "layoutFamily": "announcement-stack",
+      "heroKind": "docs-shell",
+      "navKind": "utility-bar",
+      "density": "compact",
+      "sections": [
+        "benchmark-hero",
+        "announcement-stack-anchor",
+        "marketplace-filters",
+        "partner-cards",
+        "webhook-panel",
+        "signup-form",
+        "integration-grid"
+      ],
+      "layoutSignature": "announcement-stack::docs-shell::utility-bar::benchmark-hero|announcement-stack-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "058-securepath-comparison-ledger",
+      "number": "058",
+      "company": "SecurePath",
+      "route": "/pages/058-securepath-comparison-ledger/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/058-securepath-comparison-ledger/",
+      "sourcePath": "pages/058-securepath-comparison-ledger/source/index.html",
+      "metadataPath": "pages/058-securepath-comparison-ledger/page.json",
+      "licensePath": "pages/058-securepath-comparison-ledger/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/058-securepath-comparison-ledger/assets/hero.svg",
+      "localAssets": [
+        "/pages/058-securepath-comparison-ledger/assets/logo.svg",
+        "/pages/058-securepath-comparison-ledger/assets/hero.svg",
+        "/pages/058-securepath-comparison-ledger/assets/product.svg"
+      ],
+      "vertical": "ai-search",
+      "archetype": "launch",
+      "layoutFamily": "comparison-ledger",
+      "heroKind": "procurement-brief",
+      "navKind": "minimal-wordmark",
+      "density": "balanced",
+      "sections": [
+        "launch-hero",
+        "comparison-ledger-anchor",
+        "speaker-grid",
+        "registration-form",
+        "sponsor-row"
+      ],
+      "layoutSignature": "comparison-ledger::procurement-brief::minimal-wordmark::launch-hero|comparison-ledger-anchor|speaker-grid|registration-form|sponsor-row",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "059-proofkit-case-study-narrative",
+      "number": "059",
+      "company": "ProofKit",
+      "route": "/pages/059-proofkit-case-study-narrative/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/059-proofkit-case-study-narrative/",
+      "sourcePath": "pages/059-proofkit-case-study-narrative/source/index.html",
+      "metadataPath": "pages/059-proofkit-case-study-narrative/page.json",
+      "licensePath": "pages/059-proofkit-case-study-narrative/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/059-proofkit-case-study-narrative/assets/hero.svg",
+      "localAssets": [
+        "/pages/059-proofkit-case-study-narrative/assets/logo.svg",
+        "/pages/059-proofkit-case-study-narrative/assets/hero.svg",
+        "/pages/059-proofkit-case-study-narrative/assets/product.svg"
+      ],
+      "vertical": "sales",
+      "archetype": "solutions",
+      "layoutFamily": "case-study-narrative",
+      "heroKind": "customer-story",
+      "navKind": "mega-menu",
+      "density": "longform",
+      "sections": [
+        "solutions-hero",
+        "case-study-narrative-anchor",
+        "results-table",
+        "download-cta",
+        "roi-calculator",
+        "benchmark-bars"
+      ],
+      "layoutSignature": "case-study-narrative::customer-story::mega-menu::solutions-hero|case-study-narrative-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "060-spendpilot-industry-map",
+      "number": "060",
+      "company": "SpendPilot",
+      "route": "/pages/060-spendpilot-industry-map/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/060-spendpilot-industry-map/",
+      "sourcePath": "pages/060-spendpilot-industry-map/source/index.html",
+      "metadataPath": "pages/060-spendpilot-industry-map/page.json",
+      "licensePath": "pages/060-spendpilot-industry-map/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/060-spendpilot-industry-map/assets/hero.svg",
+      "localAssets": [
+        "/pages/060-spendpilot-industry-map/assets/logo.svg",
+        "/pages/060-spendpilot-industry-map/assets/hero.svg",
+        "/pages/060-spendpilot-industry-map/assets/product.svg"
+      ],
+      "vertical": "automation",
+      "archetype": "demo-request",
+      "layoutFamily": "industry-map",
+      "heroKind": "split-dashboard",
+      "navKind": "centered-tabs",
+      "density": "dense",
+      "sections": [
+        "demo-request-hero",
+        "industry-map-anchor",
+        "quote-wall",
+        "case-masthead",
+        "before-after",
+        "metric-row",
+        "story-timeline"
+      ],
+      "layoutSignature": "industry-map::split-dashboard::centered-tabs::demo-request-hero|industry-map-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "061-enabledesk-dashboard-first",
+      "number": "061",
+      "company": "EnableDesk",
+      "route": "/pages/061-enabledesk-dashboard-first/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/061-enabledesk-dashboard-first/",
+      "sourcePath": "pages/061-enabledesk-dashboard-first/source/index.html",
+      "metadataPath": "pages/061-enabledesk-dashboard-first/page.json",
+      "licensePath": "pages/061-enabledesk-dashboard-first/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/061-enabledesk-dashboard-first/assets/hero.svg",
+      "localAssets": [
+        "/pages/061-enabledesk-dashboard-first/assets/logo.svg",
+        "/pages/061-enabledesk-dashboard-first/assets/hero.svg",
+        "/pages/061-enabledesk-dashboard-first/assets/product.svg"
+      ],
+      "vertical": "success",
+      "archetype": "home",
+      "layoutFamily": "dashboard-first",
+      "heroKind": "api-console",
+      "navKind": "docs-rail",
+      "density": "compact",
+      "sections": [
+        "home-hero",
+        "dashboard-first-anchor",
+        "logo-cloud",
+        "pain-grid",
+        "product-proof"
+      ],
+      "layoutSignature": "dashboard-first::api-console::docs-rail::home-hero|dashboard-first-anchor|logo-cloud|pain-grid|product-proof",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "062-churnradar-procurement-checklist",
+      "number": "062",
+      "company": "ChurnRadar",
+      "route": "/pages/062-churnradar-procurement-checklist/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/062-churnradar-procurement-checklist/",
+      "sourcePath": "pages/062-churnradar-procurement-checklist/source/index.html",
+      "metadataPath": "pages/062-churnradar-procurement-checklist/page.json",
+      "licensePath": "pages/062-churnradar-procurement-checklist/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/062-churnradar-procurement-checklist/assets/hero.svg",
+      "localAssets": [
+        "/pages/062-churnradar-procurement-checklist/assets/logo.svg",
+        "/pages/062-churnradar-procurement-checklist/assets/hero.svg",
+        "/pages/062-churnradar-procurement-checklist/assets/product.svg"
+      ],
+      "vertical": "finops",
+      "archetype": "product",
+      "layoutFamily": "procurement-checklist",
+      "heroKind": "asymmetric-editorial",
+      "navKind": "simple-top",
+      "density": "balanced",
+      "sections": [
+        "product-hero",
+        "procurement-checklist-anchor",
+        "workflow-steps",
+        "role-cards",
+        "security-note",
+        "demo-form"
+      ],
+      "layoutSignature": "procurement-checklist::asymmetric-editorial::simple-top::product-hero|procurement-checklist-anchor|workflow-steps|role-cards|security-note|demo-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "063-intentmap-split-proof",
+      "number": "063",
+      "company": "IntentMap",
+      "route": "/pages/063-intentmap-split-proof/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/063-intentmap-split-proof/",
+      "sourcePath": "pages/063-intentmap-split-proof/source/index.html",
+      "metadataPath": "pages/063-intentmap-split-proof/page.json",
+      "licensePath": "pages/063-intentmap-split-proof/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/063-intentmap-split-proof/assets/hero.svg",
+      "localAssets": [
+        "/pages/063-intentmap-split-proof/assets/logo.svg",
+        "/pages/063-intentmap-split-proof/assets/hero.svg",
+        "/pages/063-intentmap-split-proof/assets/product.svg"
+      ],
+      "vertical": "knowledge",
+      "archetype": "pricing",
+      "layoutFamily": "split-proof",
+      "heroKind": "security-room",
+      "navKind": "left-rail",
+      "density": "longform",
+      "sections": [
+        "pricing-hero",
+        "split-proof-anchor",
+        "faq-accordion",
+        "procurement-note",
+        "cta-band",
+        "pricing-table",
+        "plan-cards"
+      ],
+      "layoutSignature": "split-proof::security-room::left-rail::pricing-hero|split-proof-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "064-formbridge-card-catalog",
+      "number": "064",
+      "company": "FormBridge",
+      "route": "/pages/064-formbridge-card-catalog/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/064-formbridge-card-catalog/",
+      "sourcePath": "pages/064-formbridge-card-catalog/source/index.html",
+      "metadataPath": "pages/064-formbridge-card-catalog/page.json",
+      "licensePath": "pages/064-formbridge-card-catalog/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/064-formbridge-card-catalog/assets/hero.svg",
+      "localAssets": [
+        "/pages/064-formbridge-card-catalog/assets/logo.svg",
+        "/pages/064-formbridge-card-catalog/assets/hero.svg",
+        "/pages/064-formbridge-card-catalog/assets/product.svg"
+      ],
+      "vertical": "forms",
+      "archetype": "comparison",
+      "layoutFamily": "card-catalog",
+      "heroKind": "pricing-led",
+      "navKind": "product-switcher",
+      "density": "dense",
+      "sections": [
+        "comparison-hero",
+        "card-catalog-anchor",
+        "migration-steps",
+        "demo-form",
+        "competitor-table"
+      ],
+      "layoutSignature": "card-catalog::pricing-led::product-switcher::comparison-hero|card-catalog-anchor|migration-steps|demo-form|competitor-table",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "065-releaseledger-marketplace-shelf",
+      "number": "065",
+      "company": "ReleaseLedger",
+      "route": "/pages/065-releaseledger-marketplace-shelf/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/065-releaseledger-marketplace-shelf/",
+      "sourcePath": "pages/065-releaseledger-marketplace-shelf/source/index.html",
+      "metadataPath": "pages/065-releaseledger-marketplace-shelf/page.json",
+      "licensePath": "pages/065-releaseledger-marketplace-shelf/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/065-releaseledger-marketplace-shelf/assets/hero.svg",
+      "localAssets": [
+        "/pages/065-releaseledger-marketplace-shelf/assets/logo.svg",
+        "/pages/065-releaseledger-marketplace-shelf/assets/hero.svg",
+        "/pages/065-releaseledger-marketplace-shelf/assets/product.svg"
+      ],
+      "vertical": "identity",
+      "archetype": "docs",
+      "layoutFamily": "marketplace-shelf",
+      "heroKind": "launch-note",
+      "navKind": "simple-top",
+      "density": "compact",
+      "sections": [
+        "docs-hero",
+        "marketplace-shelf-anchor",
+        "developer-cta",
+        "docs-sidebar",
+        "api-table",
+        "quickstart-code"
+      ],
+      "layoutSignature": "marketplace-shelf::launch-note::simple-top::docs-hero|marketplace-shelf-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "066-querypilot-centered-terminal",
+      "number": "066",
+      "company": "QueryPilot",
+      "route": "/pages/066-querypilot-centered-terminal/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/066-querypilot-centered-terminal/",
+      "sourcePath": "pages/066-querypilot-centered-terminal/source/index.html",
+      "metadataPath": "pages/066-querypilot-centered-terminal/page.json",
+      "licensePath": "pages/066-querypilot-centered-terminal/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/066-querypilot-centered-terminal/assets/hero.svg",
+      "localAssets": [
+        "/pages/066-querypilot-centered-terminal/assets/logo.svg",
+        "/pages/066-querypilot-centered-terminal/assets/hero.svg",
+        "/pages/066-querypilot-centered-terminal/assets/product.svg"
+      ],
+      "vertical": "pipeline",
+      "archetype": "security",
+      "layoutFamily": "centered-terminal",
+      "heroKind": "event-poster",
+      "navKind": "left-rail",
+      "density": "balanced",
+      "sections": [
+        "security-hero",
+        "centered-terminal-anchor",
+        "trust-center",
+        "control-grid",
+        "audit-timeline",
+        "policy-links",
+        "security-form"
+      ],
+      "layoutSignature": "centered-terminal::event-poster::left-rail::security-hero|centered-terminal-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "067-insightrelay-editorial-report",
+      "number": "067",
+      "company": "InsightRelay",
+      "route": "/pages/067-insightrelay-editorial-report/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/067-insightrelay-editorial-report/",
+      "sourcePath": "pages/067-insightrelay-editorial-report/source/index.html",
+      "metadataPath": "pages/067-insightrelay-editorial-report/page.json",
+      "licensePath": "pages/067-insightrelay-editorial-report/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/067-insightrelay-editorial-report/assets/hero.svg",
+      "localAssets": [
+        "/pages/067-insightrelay-editorial-report/assets/logo.svg",
+        "/pages/067-insightrelay-editorial-report/assets/hero.svg",
+        "/pages/067-insightrelay-editorial-report/assets/product.svg"
+      ],
+      "vertical": "security",
+      "archetype": "integrations",
+      "layoutFamily": "editorial-report",
+      "heroKind": "demo-room",
+      "navKind": "product-switcher",
+      "density": "longform",
+      "sections": [
+        "integrations-hero",
+        "editorial-report-anchor",
+        "marketplace-filters",
+        "partner-cards",
+        "webhook-panel"
+      ],
+      "layoutSignature": "editorial-report::demo-room::product-switcher::integrations-hero|editorial-report-anchor|marketplace-filters|partner-cards|webhook-panel",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "068-controlroom-migration-timeline",
+      "number": "068",
+      "company": "ControlRoom",
+      "route": "/pages/068-controlroom-migration-timeline/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/068-controlroom-migration-timeline/",
+      "sourcePath": "pages/068-controlroom-migration-timeline/source/index.html",
+      "metadataPath": "pages/068-controlroom-migration-timeline/page.json",
+      "licensePath": "pages/068-controlroom-migration-timeline/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/068-controlroom-migration-timeline/assets/hero.svg",
+      "localAssets": [
+        "/pages/068-controlroom-migration-timeline/assets/logo.svg",
+        "/pages/068-controlroom-migration-timeline/assets/hero.svg",
+        "/pages/068-controlroom-migration-timeline/assets/product.svg"
+      ],
+      "vertical": "incident",
+      "archetype": "event",
+      "layoutFamily": "migration-timeline",
+      "heroKind": "market-map",
+      "navKind": "anchor-strip",
+      "density": "dense",
+      "sections": [
+        "event-hero",
+        "migration-timeline-anchor",
+        "speaker-grid",
+        "registration-form",
+        "sponsor-row",
+        "event-hero"
+      ],
+      "layoutSignature": "migration-timeline::market-map::anchor-strip::event-hero|migration-timeline-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "069-graphsuite-sidebar-docs",
+      "number": "069",
+      "company": "GraphSuite",
+      "route": "/pages/069-graphsuite-sidebar-docs/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/069-graphsuite-sidebar-docs/",
+      "sourcePath": "pages/069-graphsuite-sidebar-docs/source/index.html",
+      "metadataPath": "pages/069-graphsuite-sidebar-docs/page.json",
+      "licensePath": "pages/069-graphsuite-sidebar-docs/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/069-graphsuite-sidebar-docs/assets/hero.svg",
+      "localAssets": [
+        "/pages/069-graphsuite-sidebar-docs/assets/logo.svg",
+        "/pages/069-graphsuite-sidebar-docs/assets/hero.svg",
+        "/pages/069-graphsuite-sidebar-docs/assets/product.svg"
+      ],
+      "vertical": "analytics",
+      "archetype": "calculator",
+      "layoutFamily": "sidebar-docs",
+      "heroKind": "centered-proof",
+      "navKind": "sidebar",
+      "density": "compact",
+      "sections": [
+        "calculator-hero",
+        "sidebar-docs-anchor",
+        "results-table",
+        "download-cta",
+        "roi-calculator",
+        "benchmark-bars",
+        "input-form"
+      ],
+      "layoutSignature": "sidebar-docs::centered-proof::sidebar::calculator-hero|sidebar-docs-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "070-docspilot-event-agenda",
+      "number": "070",
+      "company": "DocsPilot",
+      "route": "/pages/070-docspilot-event-agenda/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/070-docspilot-event-agenda/",
+      "sourcePath": "pages/070-docspilot-event-agenda/source/index.html",
+      "metadataPath": "pages/070-docspilot-event-agenda/page.json",
+      "licensePath": "pages/070-docspilot-event-agenda/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/070-docspilot-event-agenda/assets/hero.svg",
+      "localAssets": [
+        "/pages/070-docspilot-event-agenda/assets/logo.svg",
+        "/pages/070-docspilot-event-agenda/assets/hero.svg",
+        "/pages/070-docspilot-event-agenda/assets/product.svg"
+      ],
+      "vertical": "demo",
+      "archetype": "case-study",
+      "layoutFamily": "event-agenda",
+      "heroKind": "api-console",
+      "navKind": "utility-bar",
+      "density": "balanced",
+      "sections": [
+        "case-study-hero",
+        "event-agenda-anchor",
+        "quote-wall",
+        "case-masthead",
+        "before-after"
+      ],
+      "layoutSignature": "event-agenda::api-console::utility-bar::case-study-hero|event-agenda-anchor|quote-wall|case-masthead|before-after",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "071-fieldbridge-announcement-stack",
+      "number": "071",
+      "company": "FieldBridge",
+      "route": "/pages/071-fieldbridge-announcement-stack/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/071-fieldbridge-announcement-stack/",
+      "sourcePath": "pages/071-fieldbridge-announcement-stack/source/index.html",
+      "metadataPath": "pages/071-fieldbridge-announcement-stack/page.json",
+      "licensePath": "pages/071-fieldbridge-announcement-stack/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/071-fieldbridge-announcement-stack/assets/hero.svg",
+      "localAssets": [
+        "/pages/071-fieldbridge-announcement-stack/assets/logo.svg",
+        "/pages/071-fieldbridge-announcement-stack/assets/hero.svg",
+        "/pages/071-fieldbridge-announcement-stack/assets/product.svg"
+      ],
+      "vertical": "release",
+      "archetype": "developer",
+      "layoutFamily": "announcement-stack",
+      "heroKind": "form-first",
+      "navKind": "minimal-wordmark",
+      "density": "longform",
+      "sections": [
+        "developer-hero",
+        "announcement-stack-anchor",
+        "logo-cloud",
+        "pain-grid",
+        "product-proof",
+        "customer-logos"
+      ],
+      "layoutSignature": "announcement-stack::form-first::minimal-wordmark::developer-hero|announcement-stack-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "072-scorelayer-comparison-ledger",
+      "number": "072",
+      "company": "ScoreLayer",
+      "route": "/pages/072-scorelayer-comparison-ledger/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/072-scorelayer-comparison-ledger/",
+      "sourcePath": "pages/072-scorelayer-comparison-ledger/source/index.html",
+      "metadataPath": "pages/072-scorelayer-comparison-ledger/page.json",
+      "licensePath": "pages/072-scorelayer-comparison-ledger/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/072-scorelayer-comparison-ledger/assets/hero.svg",
+      "localAssets": [
+        "/pages/072-scorelayer-comparison-ledger/assets/logo.svg",
+        "/pages/072-scorelayer-comparison-ledger/assets/hero.svg",
+        "/pages/072-scorelayer-comparison-ledger/assets/product.svg"
+      ],
+      "vertical": "crm",
+      "archetype": "agent-workflow",
+      "layoutFamily": "comparison-ledger",
+      "heroKind": "integration-cloud",
+      "navKind": "mega-menu",
+      "density": "dense",
+      "sections": [
+        "agent-workflow-hero",
+        "comparison-ledger-anchor",
+        "workflow-steps",
+        "role-cards",
+        "security-note",
+        "demo-form",
+        "feature-tabs"
+      ],
+      "layoutSignature": "comparison-ledger::integration-cloud::mega-menu::agent-workflow-hero|comparison-ledger-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "073-workspaceiq-case-study-narrative",
+      "number": "073",
+      "company": "WorkspaceIQ",
+      "route": "/pages/073-workspaceiq-case-study-narrative/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/073-workspaceiq-case-study-narrative/",
+      "sourcePath": "pages/073-workspaceiq-case-study-narrative/source/index.html",
+      "metadataPath": "pages/073-workspaceiq-case-study-narrative/page.json",
+      "licensePath": "pages/073-workspaceiq-case-study-narrative/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/073-workspaceiq-case-study-narrative/assets/hero.svg",
+      "localAssets": [
+        "/pages/073-workspaceiq-case-study-narrative/assets/logo.svg",
+        "/pages/073-workspaceiq-case-study-narrative/assets/hero.svg",
+        "/pages/073-workspaceiq-case-study-narrative/assets/product.svg"
+      ],
+      "vertical": "launch",
+      "archetype": "procurement",
+      "layoutFamily": "case-study-narrative",
+      "heroKind": "comparison-first",
+      "navKind": "utility-bar",
+      "density": "compact",
+      "sections": [
+        "procurement-hero",
+        "case-study-narrative-anchor",
+        "faq-accordion",
+        "procurement-note",
+        "cta-band"
+      ],
+      "layoutSignature": "case-study-narrative::comparison-first::utility-bar::procurement-hero|case-study-narrative-anchor|faq-accordion|procurement-note|cta-band",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "074-buyerdeck-industry-map",
+      "number": "074",
+      "company": "BuyerDeck",
+      "route": "/pages/074-buyerdeck-industry-map/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/074-buyerdeck-industry-map/",
+      "sourcePath": "pages/074-buyerdeck-industry-map/source/index.html",
+      "metadataPath": "pages/074-buyerdeck-industry-map/page.json",
+      "licensePath": "pages/074-buyerdeck-industry-map/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/074-buyerdeck-industry-map/assets/hero.svg",
+      "localAssets": [
+        "/pages/074-buyerdeck-industry-map/assets/logo.svg",
+        "/pages/074-buyerdeck-industry-map/assets/hero.svg",
+        "/pages/074-buyerdeck-industry-map/assets/product.svg"
+      ],
+      "vertical": "metrics",
+      "archetype": "use-case",
+      "layoutFamily": "industry-map",
+      "heroKind": "calculator-panel",
+      "navKind": "minimal-wordmark",
+      "density": "balanced",
+      "sections": [
+        "use-case-hero",
+        "industry-map-anchor",
+        "migration-steps",
+        "demo-form",
+        "competitor-table",
+        "switcher-panel"
+      ],
+      "layoutSignature": "industry-map::calculator-panel::minimal-wordmark::use-case-hero|industry-map-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "075-signalcloud-workflow-lane",
+      "number": "075",
+      "company": "SignalCloud",
+      "route": "/pages/075-signalcloud-workflow-lane/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/075-signalcloud-workflow-lane/",
+      "sourcePath": "pages/075-signalcloud-workflow-lane/source/index.html",
+      "metadataPath": "pages/075-signalcloud-workflow-lane/page.json",
+      "licensePath": "pages/075-signalcloud-workflow-lane/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/075-signalcloud-workflow-lane/assets/hero.svg",
+      "localAssets": [
+        "/pages/075-signalcloud-workflow-lane/assets/logo.svg",
+        "/pages/075-signalcloud-workflow-lane/assets/hero.svg",
+        "/pages/075-signalcloud-workflow-lane/assets/product.svg"
+      ],
+      "vertical": "trust",
+      "archetype": "marketplace",
+      "layoutFamily": "workflow-lane",
+      "heroKind": "event-poster",
+      "navKind": "mega-menu",
+      "density": "longform",
+      "sections": [
+        "marketplace-hero",
+        "workflow-lane-anchor",
+        "developer-cta",
+        "docs-sidebar",
+        "api-table",
+        "quickstart-code",
+        "changelog-list"
+      ],
+      "layoutSignature": "workflow-lane::event-poster::mega-menu::marketplace-hero|workflow-lane-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "076-runwayops-developer-console",
+      "number": "076",
+      "company": "RunwayOps",
+      "route": "/pages/076-runwayops-developer-console/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/076-runwayops-developer-console/",
+      "sourcePath": "pages/076-runwayops-developer-console/source/index.html",
+      "metadataPath": "pages/076-runwayops-developer-console/page.json",
+      "licensePath": "pages/076-runwayops-developer-console/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/076-runwayops-developer-console/assets/hero.svg",
+      "localAssets": [
+        "/pages/076-runwayops-developer-console/assets/logo.svg",
+        "/pages/076-runwayops-developer-console/assets/hero.svg",
+        "/pages/076-runwayops-developer-console/assets/product.svg"
+      ],
+      "vertical": "dev-infra",
+      "archetype": "migration",
+      "layoutFamily": "developer-console",
+      "heroKind": "split-dashboard",
+      "navKind": "centered-tabs",
+      "density": "dense",
+      "sections": [
+        "migration-hero",
+        "developer-console-anchor",
+        "trust-center",
+        "control-grid",
+        "audit-timeline"
+      ],
+      "layoutSignature": "developer-console::split-dashboard::centered-tabs::migration-hero|developer-console-anchor|trust-center|control-grid|audit-timeline",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "077-claimcheck-demo-form-panel",
+      "number": "077",
+      "company": "ClaimCheck",
+      "route": "/pages/077-claimcheck-demo-form-panel/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/077-claimcheck-demo-form-panel/",
+      "sourcePath": "pages/077-claimcheck-demo-form-panel/source/index.html",
+      "metadataPath": "pages/077-claimcheck-demo-form-panel/page.json",
+      "licensePath": "pages/077-claimcheck-demo-form-panel/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/077-claimcheck-demo-form-panel/assets/hero.svg",
+      "localAssets": [
+        "/pages/077-claimcheck-demo-form-panel/assets/logo.svg",
+        "/pages/077-claimcheck-demo-form-panel/assets/hero.svg",
+        "/pages/077-claimcheck-demo-form-panel/assets/product.svg"
+      ],
+      "vertical": "cx",
+      "archetype": "benchmark",
+      "layoutFamily": "demo-form-panel",
+      "heroKind": "workflow-board",
+      "navKind": "docs-rail",
+      "density": "compact",
+      "sections": [
+        "benchmark-hero",
+        "demo-form-panel-anchor",
+        "marketplace-filters",
+        "partner-cards",
+        "webhook-panel",
+        "signup-form"
+      ],
+      "layoutSignature": "demo-form-panel::workflow-board::docs-rail::benchmark-hero|demo-form-panel-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "078-metriclake-dashboard-first",
+      "number": "078",
+      "company": "MetricLake",
+      "route": "/pages/078-metriclake-dashboard-first/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/078-metriclake-dashboard-first/",
+      "sourcePath": "pages/078-metriclake-dashboard-first/source/index.html",
+      "metadataPath": "pages/078-metriclake-dashboard-first/page.json",
+      "licensePath": "pages/078-metriclake-dashboard-first/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/078-metriclake-dashboard-first/assets/hero.svg",
+      "localAssets": [
+        "/pages/078-metriclake-dashboard-first/assets/logo.svg",
+        "/pages/078-metriclake-dashboard-first/assets/hero.svg",
+        "/pages/078-metriclake-dashboard-first/assets/product.svg"
+      ],
+      "vertical": "compliance",
+      "archetype": "launch",
+      "layoutFamily": "dashboard-first",
+      "heroKind": "terminal-window",
+      "navKind": "simple-top",
+      "density": "balanced",
+      "sections": [
+        "launch-hero",
+        "dashboard-first-anchor",
+        "speaker-grid",
+        "registration-form",
+        "sponsor-row",
+        "event-hero",
+        "agenda-list"
+      ],
+      "layoutSignature": "dashboard-first::terminal-window::simple-top::launch-hero|dashboard-first-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "079-contractflow-procurement-checklist",
+      "number": "079",
+      "company": "ContractFlow",
+      "route": "/pages/079-contractflow-procurement-checklist/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/079-contractflow-procurement-checklist/",
+      "sourcePath": "pages/079-contractflow-procurement-checklist/source/index.html",
+      "metadataPath": "pages/079-contractflow-procurement-checklist/page.json",
+      "licensePath": "pages/079-contractflow-procurement-checklist/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/079-contractflow-procurement-checklist/assets/hero.svg",
+      "localAssets": [
+        "/pages/079-contractflow-procurement-checklist/assets/logo.svg",
+        "/pages/079-contractflow-procurement-checklist/assets/hero.svg",
+        "/pages/079-contractflow-procurement-checklist/assets/product.svg"
+      ],
+      "vertical": "reliability",
+      "archetype": "solutions",
+      "layoutFamily": "procurement-checklist",
+      "heroKind": "metric-wall",
+      "navKind": "left-rail",
+      "density": "longform",
+      "sections": [
+        "solutions-hero",
+        "procurement-checklist-anchor",
+        "results-table",
+        "download-cta",
+        "roi-calculator"
+      ],
+      "layoutSignature": "procurement-checklist::metric-wall::left-rail::solutions-hero|procurement-checklist-anchor|results-table|download-cta|roi-calculator",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "080-answergrid-split-proof",
+      "number": "080",
+      "company": "AnswerGrid",
+      "route": "/pages/080-answergrid-split-proof/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/080-answergrid-split-proof/",
+      "sourcePath": "pages/080-answergrid-split-proof/source/index.html",
+      "metadataPath": "pages/080-answergrid-split-proof/page.json",
+      "licensePath": "pages/080-answergrid-split-proof/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/080-answergrid-split-proof/assets/hero.svg",
+      "localAssets": [
+        "/pages/080-answergrid-split-proof/assets/logo.svg",
+        "/pages/080-answergrid-split-proof/assets/hero.svg",
+        "/pages/080-answergrid-split-proof/assets/product.svg"
+      ],
+      "vertical": "revintel",
+      "archetype": "demo-request",
+      "layoutFamily": "split-proof",
+      "heroKind": "form-first",
+      "navKind": "product-switcher",
+      "density": "dense",
+      "sections": [
+        "demo-request-hero",
+        "split-proof-anchor",
+        "quote-wall",
+        "case-masthead",
+        "before-after",
+        "metric-row"
+      ],
+      "layoutSignature": "split-proof::form-first::product-switcher::demo-request-hero|split-proof-anchor|quote-wall|case-masthead|before-after|metric-row",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "081-trustbeacon-editorial-report",
+      "number": "081",
+      "company": "TrustBeacon",
+      "route": "/pages/081-trustbeacon-editorial-report/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/081-trustbeacon-editorial-report/",
+      "sourcePath": "pages/081-trustbeacon-editorial-report/source/index.html",
+      "metadataPath": "pages/081-trustbeacon-editorial-report/page.json",
+      "licensePath": "pages/081-trustbeacon-editorial-report/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/081-trustbeacon-editorial-report/assets/hero.svg",
+      "localAssets": [
+        "/pages/081-trustbeacon-editorial-report/assets/logo.svg",
+        "/pages/081-trustbeacon-editorial-report/assets/hero.svg",
+        "/pages/081-trustbeacon-editorial-report/assets/product.svg"
+      ],
+      "vertical": "product-analytics",
+      "archetype": "home",
+      "layoutFamily": "editorial-report",
+      "heroKind": "launch-note",
+      "navKind": "simple-top",
+      "density": "compact",
+      "sections": [
+        "home-hero",
+        "editorial-report-anchor",
+        "logo-cloud",
+        "pain-grid",
+        "product-proof",
+        "customer-logos",
+        "cta-band"
+      ],
+      "layoutSignature": "editorial-report::launch-note::simple-top::home-hero|editorial-report-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "082-journeykit-migration-timeline",
+      "number": "082",
+      "company": "JourneyKit",
+      "route": "/pages/082-journeykit-migration-timeline/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/082-journeykit-migration-timeline/",
+      "sourcePath": "pages/082-journeykit-migration-timeline/source/index.html",
+      "metadataPath": "pages/082-journeykit-migration-timeline/page.json",
+      "licensePath": "pages/082-journeykit-migration-timeline/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/082-journeykit-migration-timeline/assets/hero.svg",
+      "localAssets": [
+        "/pages/082-journeykit-migration-timeline/assets/logo.svg",
+        "/pages/082-journeykit-migration-timeline/assets/hero.svg",
+        "/pages/082-journeykit-migration-timeline/assets/product.svg"
+      ],
+      "vertical": "billing",
+      "archetype": "product",
+      "layoutFamily": "migration-timeline",
+      "heroKind": "docs-shell",
+      "navKind": "left-rail",
+      "density": "balanced",
+      "sections": [
+        "product-hero",
+        "migration-timeline-anchor",
+        "workflow-steps",
+        "role-cards",
+        "security-note"
+      ],
+      "layoutSignature": "migration-timeline::docs-shell::left-rail::product-hero|migration-timeline-anchor|workflow-steps|role-cards|security-note",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "083-launchfield-sidebar-docs",
+      "number": "083",
+      "company": "LaunchField",
+      "route": "/pages/083-launchfield-sidebar-docs/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/083-launchfield-sidebar-docs/",
+      "sourcePath": "pages/083-launchfield-sidebar-docs/source/index.html",
+      "metadataPath": "pages/083-launchfield-sidebar-docs/page.json",
+      "licensePath": "pages/083-launchfield-sidebar-docs/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/083-launchfield-sidebar-docs/assets/hero.svg",
+      "localAssets": [
+        "/pages/083-launchfield-sidebar-docs/assets/logo.svg",
+        "/pages/083-launchfield-sidebar-docs/assets/hero.svg",
+        "/pages/083-launchfield-sidebar-docs/assets/product.svg"
+      ],
+      "vertical": "ai-search",
+      "archetype": "pricing",
+      "layoutFamily": "sidebar-docs",
+      "heroKind": "procurement-brief",
+      "navKind": "product-switcher",
+      "density": "longform",
+      "sections": [
+        "pricing-hero",
+        "sidebar-docs-anchor",
+        "faq-accordion",
+        "procurement-note",
+        "cta-band",
+        "pricing-table"
+      ],
+      "layoutSignature": "sidebar-docs::procurement-brief::product-switcher::pricing-hero|sidebar-docs-anchor|faq-accordion|procurement-note|cta-band|pricing-table",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "084-quotadeck-event-agenda",
+      "number": "084",
+      "company": "QuotaDeck",
+      "route": "/pages/084-quotadeck-event-agenda/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/084-quotadeck-event-agenda/",
+      "sourcePath": "pages/084-quotadeck-event-agenda/source/index.html",
+      "metadataPath": "pages/084-quotadeck-event-agenda/page.json",
+      "licensePath": "pages/084-quotadeck-event-agenda/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/084-quotadeck-event-agenda/assets/hero.svg",
+      "localAssets": [
+        "/pages/084-quotadeck-event-agenda/assets/logo.svg",
+        "/pages/084-quotadeck-event-agenda/assets/hero.svg",
+        "/pages/084-quotadeck-event-agenda/assets/product.svg"
+      ],
+      "vertical": "sales",
+      "archetype": "comparison",
+      "layoutFamily": "event-agenda",
+      "heroKind": "customer-story",
+      "navKind": "anchor-strip",
+      "density": "dense",
+      "sections": [
+        "comparison-hero",
+        "event-agenda-anchor",
+        "migration-steps",
+        "demo-form",
+        "competitor-table",
+        "switcher-panel",
+        "proof-quotes"
+      ],
+      "layoutSignature": "event-agenda::customer-story::anchor-strip::comparison-hero|event-agenda-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "085-securerelay-benchmark-grid",
+      "number": "085",
+      "company": "SecureRelay",
+      "route": "/pages/085-securerelay-benchmark-grid/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/085-securerelay-benchmark-grid/",
+      "sourcePath": "pages/085-securerelay-benchmark-grid/source/index.html",
+      "metadataPath": "pages/085-securerelay-benchmark-grid/page.json",
+      "licensePath": "pages/085-securerelay-benchmark-grid/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/085-securerelay-benchmark-grid/assets/hero.svg",
+      "localAssets": [
+        "/pages/085-securerelay-benchmark-grid/assets/logo.svg",
+        "/pages/085-securerelay-benchmark-grid/assets/hero.svg",
+        "/pages/085-securerelay-benchmark-grid/assets/product.svg"
+      ],
+      "vertical": "automation",
+      "archetype": "docs",
+      "layoutFamily": "benchmark-grid",
+      "heroKind": "split-dashboard",
+      "navKind": "sidebar",
+      "density": "compact",
+      "sections": [
+        "docs-hero",
+        "benchmark-grid-anchor",
+        "developer-cta",
+        "docs-sidebar",
+        "api-table"
+      ],
+      "layoutSignature": "benchmark-grid::split-dashboard::sidebar::docs-hero|benchmark-grid-anchor|developer-cta|docs-sidebar|api-table",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "086-pipelineos-pricing-matrix",
+      "number": "086",
+      "company": "PipelineOS",
+      "route": "/pages/086-pipelineos-pricing-matrix/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/086-pipelineos-pricing-matrix/",
+      "sourcePath": "pages/086-pipelineos-pricing-matrix/source/index.html",
+      "metadataPath": "pages/086-pipelineos-pricing-matrix/page.json",
+      "licensePath": "pages/086-pipelineos-pricing-matrix/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/086-pipelineos-pricing-matrix/assets/hero.svg",
+      "localAssets": [
+        "/pages/086-pipelineos-pricing-matrix/assets/logo.svg",
+        "/pages/086-pipelineos-pricing-matrix/assets/hero.svg",
+        "/pages/086-pipelineos-pricing-matrix/assets/product.svg"
+      ],
+      "vertical": "success",
+      "archetype": "security",
+      "layoutFamily": "pricing-matrix",
+      "heroKind": "api-console",
+      "navKind": "utility-bar",
+      "density": "balanced",
+      "sections": [
+        "security-hero",
+        "pricing-matrix-anchor",
+        "trust-center",
+        "control-grid",
+        "audit-timeline",
+        "policy-links"
+      ],
+      "layoutSignature": "pricing-matrix::api-console::utility-bar::security-hero|pricing-matrix-anchor|trust-center|control-grid|audit-timeline|policy-links",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "087-workflowbase-calculator-form",
+      "number": "087",
+      "company": "WorkflowBase",
+      "route": "/pages/087-workflowbase-calculator-form/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/087-workflowbase-calculator-form/",
+      "sourcePath": "pages/087-workflowbase-calculator-form/source/index.html",
+      "metadataPath": "pages/087-workflowbase-calculator-form/page.json",
+      "licensePath": "pages/087-workflowbase-calculator-form/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/087-workflowbase-calculator-form/assets/hero.svg",
+      "localAssets": [
+        "/pages/087-workflowbase-calculator-form/assets/logo.svg",
+        "/pages/087-workflowbase-calculator-form/assets/hero.svg",
+        "/pages/087-workflowbase-calculator-form/assets/product.svg"
+      ],
+      "vertical": "finops",
+      "archetype": "integrations",
+      "layoutFamily": "calculator-form",
+      "heroKind": "asymmetric-editorial",
+      "navKind": "minimal-wordmark",
+      "density": "longform",
+      "sections": [
+        "integrations-hero",
+        "calculator-form-anchor",
+        "marketplace-filters",
+        "partner-cards",
+        "webhook-panel",
+        "signup-form",
+        "integration-grid"
+      ],
+      "layoutSignature": "calculator-form::asymmetric-editorial::minimal-wordmark::integrations-hero|calculator-form-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "088-enablegraph-announcement-stack",
+      "number": "088",
+      "company": "EnableGraph",
+      "route": "/pages/088-enablegraph-announcement-stack/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/088-enablegraph-announcement-stack/",
+      "sourcePath": "pages/088-enablegraph-announcement-stack/source/index.html",
+      "metadataPath": "pages/088-enablegraph-announcement-stack/page.json",
+      "licensePath": "pages/088-enablegraph-announcement-stack/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/088-enablegraph-announcement-stack/assets/hero.svg",
+      "localAssets": [
+        "/pages/088-enablegraph-announcement-stack/assets/logo.svg",
+        "/pages/088-enablegraph-announcement-stack/assets/hero.svg",
+        "/pages/088-enablegraph-announcement-stack/assets/product.svg"
+      ],
+      "vertical": "knowledge",
+      "archetype": "event",
+      "layoutFamily": "announcement-stack",
+      "heroKind": "security-room",
+      "navKind": "mega-menu",
+      "density": "dense",
+      "sections": [
+        "event-hero",
+        "announcement-stack-anchor",
+        "speaker-grid",
+        "registration-form",
+        "sponsor-row"
+      ],
+      "layoutSignature": "announcement-stack::security-room::mega-menu::event-hero|announcement-stack-anchor|speaker-grid|registration-form|sponsor-row",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "089-intenthive-comparison-ledger",
+      "number": "089",
+      "company": "IntentHive",
+      "route": "/pages/089-intenthive-comparison-ledger/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/089-intenthive-comparison-ledger/",
+      "sourcePath": "pages/089-intenthive-comparison-ledger/source/index.html",
+      "metadataPath": "pages/089-intenthive-comparison-ledger/page.json",
+      "licensePath": "pages/089-intenthive-comparison-ledger/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/089-intenthive-comparison-ledger/assets/hero.svg",
+      "localAssets": [
+        "/pages/089-intenthive-comparison-ledger/assets/logo.svg",
+        "/pages/089-intenthive-comparison-ledger/assets/hero.svg",
+        "/pages/089-intenthive-comparison-ledger/assets/product.svg"
+      ],
+      "vertical": "forms",
+      "archetype": "calculator",
+      "layoutFamily": "comparison-ledger",
+      "heroKind": "pricing-led",
+      "navKind": "utility-bar",
+      "density": "compact",
+      "sections": [
+        "calculator-hero",
+        "comparison-ledger-anchor",
+        "results-table",
+        "download-cta",
+        "roi-calculator",
+        "benchmark-bars"
+      ],
+      "layoutSignature": "comparison-ledger::pricing-led::utility-bar::calculator-hero|comparison-ledger-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "090-segmentdesk-case-study-narrative",
+      "number": "090",
+      "company": "SegmentDesk",
+      "route": "/pages/090-segmentdesk-case-study-narrative/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/090-segmentdesk-case-study-narrative/",
+      "sourcePath": "pages/090-segmentdesk-case-study-narrative/source/index.html",
+      "metadataPath": "pages/090-segmentdesk-case-study-narrative/page.json",
+      "licensePath": "pages/090-segmentdesk-case-study-narrative/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/090-segmentdesk-case-study-narrative/assets/hero.svg",
+      "localAssets": [
+        "/pages/090-segmentdesk-case-study-narrative/assets/logo.svg",
+        "/pages/090-segmentdesk-case-study-narrative/assets/hero.svg",
+        "/pages/090-segmentdesk-case-study-narrative/assets/product.svg"
+      ],
+      "vertical": "identity",
+      "archetype": "case-study",
+      "layoutFamily": "case-study-narrative",
+      "heroKind": "launch-note",
+      "navKind": "minimal-wordmark",
+      "density": "balanced",
+      "sections": [
+        "case-study-hero",
+        "case-study-narrative-anchor",
+        "quote-wall",
+        "case-masthead",
+        "before-after",
+        "metric-row",
+        "story-timeline"
+      ],
+      "layoutSignature": "case-study-narrative::launch-note::minimal-wordmark::case-study-hero|case-study-narrative-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "091-compliancepad-demo-form-panel",
+      "number": "091",
+      "company": "CompliancePad",
+      "route": "/pages/091-compliancepad-demo-form-panel/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/091-compliancepad-demo-form-panel/",
+      "sourcePath": "pages/091-compliancepad-demo-form-panel/source/index.html",
+      "metadataPath": "pages/091-compliancepad-demo-form-panel/page.json",
+      "licensePath": "pages/091-compliancepad-demo-form-panel/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/091-compliancepad-demo-form-panel/assets/hero.svg",
+      "localAssets": [
+        "/pages/091-compliancepad-demo-form-panel/assets/logo.svg",
+        "/pages/091-compliancepad-demo-form-panel/assets/hero.svg",
+        "/pages/091-compliancepad-demo-form-panel/assets/product.svg"
+      ],
+      "vertical": "pipeline",
+      "archetype": "developer",
+      "layoutFamily": "demo-form-panel",
+      "heroKind": "event-poster",
+      "navKind": "mega-menu",
+      "density": "longform",
+      "sections": [
+        "developer-hero",
+        "demo-form-panel-anchor",
+        "logo-cloud",
+        "pain-grid",
+        "product-proof"
+      ],
+      "layoutSignature": "demo-form-panel::event-poster::mega-menu::developer-hero|demo-form-panel-anchor|logo-cloud|pain-grid|product-proof",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    },
+    {
+      "id": "092-dataproof-dashboard-first",
+      "number": "092",
+      "company": "DataProof",
+      "route": "/pages/092-dataproof-dashboard-first/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/092-dataproof-dashboard-first/",
+      "sourcePath": "pages/092-dataproof-dashboard-first/source/index.html",
+      "metadataPath": "pages/092-dataproof-dashboard-first/page.json",
+      "licensePath": "pages/092-dataproof-dashboard-first/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/092-dataproof-dashboard-first/assets/hero.svg",
+      "localAssets": [
+        "/pages/092-dataproof-dashboard-first/assets/logo.svg",
+        "/pages/092-dataproof-dashboard-first/assets/hero.svg",
+        "/pages/092-dataproof-dashboard-first/assets/product.svg"
+      ],
+      "vertical": "security",
+      "archetype": "agent-workflow",
+      "layoutFamily": "dashboard-first",
+      "heroKind": "demo-room",
+      "navKind": "centered-tabs",
+      "density": "dense",
+      "sections": [
+        "agent-workflow-hero",
+        "dashboard-first-anchor",
+        "workflow-steps",
+        "role-cards",
+        "security-note",
+        "demo-form"
+      ],
+      "layoutSignature": "dashboard-first::demo-room::centered-tabs::agent-workflow-hero|dashboard-first-anchor|workflow-steps|role-cards|security-note|demo-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-gallery",
+        "label": "Awesome landing pages gallery",
+        "url": "https://awesome-landingpages.vercel.app/"
+      }
+    },
+    {
+      "id": "093-revenueroot-procurement-checklist",
+      "number": "093",
+      "company": "RevenueRoot",
+      "route": "/pages/093-revenueroot-procurement-checklist/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/093-revenueroot-procurement-checklist/",
+      "sourcePath": "pages/093-revenueroot-procurement-checklist/source/index.html",
+      "metadataPath": "pages/093-revenueroot-procurement-checklist/page.json",
+      "licensePath": "pages/093-revenueroot-procurement-checklist/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/093-revenueroot-procurement-checklist/assets/hero.svg",
+      "localAssets": [
+        "/pages/093-revenueroot-procurement-checklist/assets/logo.svg",
+        "/pages/093-revenueroot-procurement-checklist/assets/hero.svg",
+        "/pages/093-revenueroot-procurement-checklist/assets/product.svg"
+      ],
+      "vertical": "incident",
+      "archetype": "procurement",
+      "layoutFamily": "procurement-checklist",
+      "heroKind": "market-map",
+      "navKind": "docs-rail",
+      "density": "compact",
+      "sections": [
+        "procurement-hero",
+        "procurement-checklist-anchor",
+        "faq-accordion",
+        "procurement-note",
+        "cta-band",
+        "pricing-table",
+        "plan-cards"
+      ],
+      "layoutSignature": "procurement-checklist::market-map::docs-rail::procurement-hero|procurement-checklist-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "nordic-awesome",
+        "label": "nordicgiant2 awesome landing page",
+        "url": "https://github.com/nordicgiant2/awesome-landing-page"
+      }
+    },
+    {
+      "id": "094-opsatlas-split-proof",
+      "number": "094",
+      "company": "OpsAtlas",
+      "route": "/pages/094-opsatlas-split-proof/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/094-opsatlas-split-proof/",
+      "sourcePath": "pages/094-opsatlas-split-proof/source/index.html",
+      "metadataPath": "pages/094-opsatlas-split-proof/page.json",
+      "licensePath": "pages/094-opsatlas-split-proof/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/094-opsatlas-split-proof/assets/hero.svg",
+      "localAssets": [
+        "/pages/094-opsatlas-split-proof/assets/logo.svg",
+        "/pages/094-opsatlas-split-proof/assets/hero.svg",
+        "/pages/094-opsatlas-split-proof/assets/product.svg"
+      ],
+      "vertical": "analytics",
+      "archetype": "use-case",
+      "layoutFamily": "split-proof",
+      "heroKind": "centered-proof",
+      "navKind": "simple-top",
+      "density": "balanced",
+      "sections": [
+        "use-case-hero",
+        "split-proof-anchor",
+        "migration-steps",
+        "demo-form",
+        "competitor-table"
+      ],
+      "layoutSignature": "split-proof::centered-proof::simple-top::use-case-hero|split-proof-anchor|migration-steps|demo-form|competitor-table",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "htmlrev",
+        "label": "HTMLrev templates",
+        "url": "https://htmlrev.com/"
+      }
+    },
+    {
+      "id": "095-conversionkit-card-catalog",
+      "number": "095",
+      "company": "ConversionKit",
+      "route": "/pages/095-conversionkit-card-catalog/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/095-conversionkit-card-catalog/",
+      "sourcePath": "pages/095-conversionkit-card-catalog/source/index.html",
+      "metadataPath": "pages/095-conversionkit-card-catalog/page.json",
+      "licensePath": "pages/095-conversionkit-card-catalog/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/095-conversionkit-card-catalog/assets/hero.svg",
+      "localAssets": [
+        "/pages/095-conversionkit-card-catalog/assets/logo.svg",
+        "/pages/095-conversionkit-card-catalog/assets/hero.svg",
+        "/pages/095-conversionkit-card-catalog/assets/product.svg"
+      ],
+      "vertical": "demo",
+      "archetype": "marketplace",
+      "layoutFamily": "card-catalog",
+      "heroKind": "api-console",
+      "navKind": "left-rail",
+      "density": "longform",
+      "sections": [
+        "marketplace-hero",
+        "card-catalog-anchor",
+        "developer-cta",
+        "docs-sidebar",
+        "api-table",
+        "quickstart-code"
+      ],
+      "layoutSignature": "card-catalog::api-console::left-rail::marketplace-hero|card-catalog-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "next-shadcn",
+        "label": "next-shadcn-landing",
+        "url": "https://github.com/redpangilinan/next-shadcn-landing"
+      }
+    },
+    {
+      "id": "096-evidenceflow-marketplace-shelf",
+      "number": "096",
+      "company": "EvidenceFlow",
+      "route": "/pages/096-evidenceflow-marketplace-shelf/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/096-evidenceflow-marketplace-shelf/",
+      "sourcePath": "pages/096-evidenceflow-marketplace-shelf/source/index.html",
+      "metadataPath": "pages/096-evidenceflow-marketplace-shelf/page.json",
+      "licensePath": "pages/096-evidenceflow-marketplace-shelf/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/096-evidenceflow-marketplace-shelf/assets/hero.svg",
+      "localAssets": [
+        "/pages/096-evidenceflow-marketplace-shelf/assets/logo.svg",
+        "/pages/096-evidenceflow-marketplace-shelf/assets/hero.svg",
+        "/pages/096-evidenceflow-marketplace-shelf/assets/product.svg"
+      ],
+      "vertical": "release",
+      "archetype": "migration",
+      "layoutFamily": "marketplace-shelf",
+      "heroKind": "form-first",
+      "navKind": "product-switcher",
+      "density": "dense",
+      "sections": [
+        "migration-hero",
+        "marketplace-shelf-anchor",
+        "trust-center",
+        "control-grid",
+        "audit-timeline",
+        "policy-links",
+        "security-form"
+      ],
+      "layoutSignature": "marketplace-shelf::form-first::product-switcher::migration-hero|marketplace-shelf-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "linkify",
+        "label": "Linkify",
+        "url": "https://github.com/Shreyas-29/linkify"
+      }
+    },
+    {
+      "id": "097-kerneldesk-centered-terminal",
+      "number": "097",
+      "company": "KernelDesk",
+      "route": "/pages/097-kerneldesk-centered-terminal/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/097-kerneldesk-centered-terminal/",
+      "sourcePath": "pages/097-kerneldesk-centered-terminal/source/index.html",
+      "metadataPath": "pages/097-kerneldesk-centered-terminal/page.json",
+      "licensePath": "pages/097-kerneldesk-centered-terminal/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/097-kerneldesk-centered-terminal/assets/hero.svg",
+      "localAssets": [
+        "/pages/097-kerneldesk-centered-terminal/assets/logo.svg",
+        "/pages/097-kerneldesk-centered-terminal/assets/hero.svg",
+        "/pages/097-kerneldesk-centered-terminal/assets/product.svg"
+      ],
+      "vertical": "crm",
+      "archetype": "benchmark",
+      "layoutFamily": "centered-terminal",
+      "heroKind": "integration-cloud",
+      "navKind": "simple-top",
+      "density": "compact",
+      "sections": [
+        "benchmark-hero",
+        "centered-terminal-anchor",
+        "marketplace-filters",
+        "partner-cards",
+        "webhook-panel"
+      ],
+      "layoutSignature": "centered-terminal::integration-cloud::simple-top::benchmark-hero|centered-terminal-anchor|marketplace-filters|partner-cards|webhook-panel",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "launch-ui",
+        "label": "Launch UI",
+        "url": "https://github.com/launch-ui/launch-ui"
+      }
+    },
+    {
+      "id": "098-auditbridge-editorial-report",
+      "number": "098",
+      "company": "AuditBridge",
+      "route": "/pages/098-auditbridge-editorial-report/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/098-auditbridge-editorial-report/",
+      "sourcePath": "pages/098-auditbridge-editorial-report/source/index.html",
+      "metadataPath": "pages/098-auditbridge-editorial-report/page.json",
+      "licensePath": "pages/098-auditbridge-editorial-report/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/098-auditbridge-editorial-report/assets/hero.svg",
+      "localAssets": [
+        "/pages/098-auditbridge-editorial-report/assets/logo.svg",
+        "/pages/098-auditbridge-editorial-report/assets/hero.svg",
+        "/pages/098-auditbridge-editorial-report/assets/product.svg"
+      ],
+      "vertical": "launch",
+      "archetype": "launch",
+      "layoutFamily": "editorial-report",
+      "heroKind": "comparison-first",
+      "navKind": "left-rail",
+      "density": "balanced",
+      "sections": [
+        "launch-hero",
+        "editorial-report-anchor",
+        "speaker-grid",
+        "registration-form",
+        "sponsor-row",
+        "event-hero"
+      ],
+      "layoutSignature": "editorial-report::comparison-first::left-rail::launch-hero|editorial-report-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "convertfast",
+        "label": "ConvertFast UI",
+        "url": "https://github.com/ObservedObserver/convertfast-ui"
+      }
+    },
+    {
+      "id": "099-demosignal-migration-timeline",
+      "number": "099",
+      "company": "DemoSignal",
+      "route": "/pages/099-demosignal-migration-timeline/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/099-demosignal-migration-timeline/",
+      "sourcePath": "pages/099-demosignal-migration-timeline/source/index.html",
+      "metadataPath": "pages/099-demosignal-migration-timeline/page.json",
+      "licensePath": "pages/099-demosignal-migration-timeline/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/099-demosignal-migration-timeline/assets/hero.svg",
+      "localAssets": [
+        "/pages/099-demosignal-migration-timeline/assets/logo.svg",
+        "/pages/099-demosignal-migration-timeline/assets/hero.svg",
+        "/pages/099-demosignal-migration-timeline/assets/product.svg"
+      ],
+      "vertical": "metrics",
+      "archetype": "solutions",
+      "layoutFamily": "migration-timeline",
+      "heroKind": "calculator-panel",
+      "navKind": "product-switcher",
+      "density": "longform",
+      "sections": [
+        "solutions-hero",
+        "migration-timeline-anchor",
+        "results-table",
+        "download-cta",
+        "roi-calculator",
+        "benchmark-bars",
+        "input-form"
+      ],
+      "layoutSignature": "migration-timeline::calculator-panel::product-switcher::solutions-hero|migration-timeline-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "shadcn-landing",
+        "label": "shadcn landing page",
+        "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+      }
+    },
+    {
+      "id": "100-buyerpath-sidebar-docs",
+      "number": "100",
+      "company": "BuyerPath",
+      "route": "/pages/100-buyerpath-sidebar-docs/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/100-buyerpath-sidebar-docs/",
+      "sourcePath": "pages/100-buyerpath-sidebar-docs/source/index.html",
+      "metadataPath": "pages/100-buyerpath-sidebar-docs/page.json",
+      "licensePath": "pages/100-buyerpath-sidebar-docs/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/100-buyerpath-sidebar-docs/assets/hero.svg",
+      "localAssets": [
+        "/pages/100-buyerpath-sidebar-docs/assets/logo.svg",
+        "/pages/100-buyerpath-sidebar-docs/assets/hero.svg",
+        "/pages/100-buyerpath-sidebar-docs/assets/product.svg"
+      ],
+      "vertical": "trust",
+      "archetype": "demo-request",
+      "layoutFamily": "sidebar-docs",
+      "heroKind": "event-poster",
+      "navKind": "anchor-strip",
+      "density": "dense",
+      "sections": [
+        "demo-request-hero",
+        "sidebar-docs-anchor",
+        "quote-wall",
+        "case-masthead",
+        "before-after"
+      ],
+      "layoutSignature": "sidebar-docs::event-poster::anchor-strip::demo-request-hero|sidebar-docs-anchor|quote-wall|case-masthead|before-after",
+      "sourceType": "architect-owned-generated-source",
+      "licenseStatus": "architect-owned",
+      "inspiration": {
+        "key": "paulle-awesome",
+        "label": "PaulleDemon awesome landing pages",
+        "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+      }
+    }
+  ]
+}

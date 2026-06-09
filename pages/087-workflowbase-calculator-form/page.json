@@ -1,0 +1,36 @@
+{
+  "id": "087-workflowbase-calculator-form",
+  "number": "087",
+  "company": "WorkflowBase",
+  "tagline": "finops operations for B2B teams",
+  "vertical": "finops",
+  "archetype": "integrations",
+  "route": "/pages/087-workflowbase-calculator-form/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/087-workflowbase-calculator-form/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
+  },
+  "layoutFamily": "calculator-form",
+  "heroKind": "asymmetric-editorial",
+  "navKind": "minimal-wordmark",
+  "density": "longform",
+  "sections": [
+    "integrations-hero",
+    "calculator-form-anchor",
+    "marketplace-filters",
+    "partner-cards",
+    "webhook-panel",
+    "signup-form",
+    "integration-grid"
+  ],
+  "layoutSignature": "calculator-form::asymmetric-editorial::minimal-wordmark::integrations-hero|calculator-form-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

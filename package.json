@@ -1,0 +1,19 @@
+{
+  "name": "landing-page-source-inspirations",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Deployable landing-page source corpus for Architect page canonicalisation evals.",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-corpus.mjs",
+    "validate": "node scripts/validate-corpus.mjs",
+    "build": "npm run generate && npm run validate && node scripts/build-worker-assets.mjs",
+    "deploy": "npm run build && npx wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.99.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

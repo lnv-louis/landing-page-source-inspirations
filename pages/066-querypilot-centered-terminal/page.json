@@ -1,0 +1,36 @@
+{
+  "id": "066-querypilot-centered-terminal",
+  "number": "066",
+  "company": "QueryPilot",
+  "tagline": "pipeline operations for B2B teams",
+  "vertical": "pipeline",
+  "archetype": "security",
+  "route": "/pages/066-querypilot-centered-terminal/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/066-querypilot-centered-terminal/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+  },
+  "layoutFamily": "centered-terminal",
+  "heroKind": "event-poster",
+  "navKind": "left-rail",
+  "density": "balanced",
+  "sections": [
+    "security-hero",
+    "centered-terminal-anchor",
+    "trust-center",
+    "control-grid",
+    "audit-timeline",
+    "policy-links",
+    "security-form"
+  ],
+  "layoutSignature": "centered-terminal::event-poster::left-rail::security-hero|centered-terminal-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

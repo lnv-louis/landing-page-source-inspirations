@@ -1,0 +1,35 @@
+{
+  "id": "089-intenthive-comparison-ledger",
+  "number": "089",
+  "company": "IntentHive",
+  "tagline": "forms operations for B2B teams",
+  "vertical": "forms",
+  "archetype": "calculator",
+  "route": "/pages/089-intenthive-comparison-ledger/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/089-intenthive-comparison-ledger/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
+  },
+  "layoutFamily": "comparison-ledger",
+  "heroKind": "pricing-led",
+  "navKind": "utility-bar",
+  "density": "compact",
+  "sections": [
+    "calculator-hero",
+    "comparison-ledger-anchor",
+    "results-table",
+    "download-cta",
+    "roi-calculator",
+    "benchmark-bars"
+  ],
+  "layoutSignature": "comparison-ledger::pricing-led::utility-bar::calculator-hero|comparison-ledger-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

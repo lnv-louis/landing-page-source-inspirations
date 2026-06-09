@@ -1,0 +1,36 @@
+{
+  "id": "018-incidentloop-split-proof",
+  "number": "018",
+  "company": "IncidentLoop",
+  "tagline": "incident learning for engineering leaders",
+  "vertical": "incident",
+  "archetype": "launch",
+  "route": "/pages/018-incidentloop-split-proof/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/018-incidentloop-split-proof/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+  },
+  "layoutFamily": "split-proof",
+  "heroKind": "market-map",
+  "navKind": "left-rail",
+  "density": "balanced",
+  "sections": [
+    "launch-hero",
+    "split-proof-anchor",
+    "speaker-grid",
+    "registration-form",
+    "sponsor-row",
+    "event-hero",
+    "agenda-list"
+  ],
+  "layoutSignature": "split-proof::market-map::left-rail::launch-hero|split-proof-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

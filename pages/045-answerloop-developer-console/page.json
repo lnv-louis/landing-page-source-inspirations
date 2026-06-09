@@ -1,0 +1,36 @@
+{
+  "id": "045-answerloop-developer-console",
+  "number": "045",
+  "company": "AnswerLoop",
+  "tagline": "customer-answer analytics",
+  "vertical": "answers",
+  "archetype": "docs",
+  "route": "/pages/045-answerloop-developer-console/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/045-answerloop-developer-console/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+  },
+  "layoutFamily": "developer-console",
+  "heroKind": "api-console",
+  "navKind": "docs-rail",
+  "density": "compact",
+  "sections": [
+    "docs-hero",
+    "developer-console-anchor",
+    "developer-cta",
+    "docs-sidebar",
+    "api-table",
+    "quickstart-code",
+    "changelog-list"
+  ],
+  "layoutSignature": "developer-console::api-console::docs-rail::docs-hero|developer-console-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

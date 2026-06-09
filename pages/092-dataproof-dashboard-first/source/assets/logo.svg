@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120" role="img" aria-label="DataProof logo">
+  <rect width="320" height="120" rx="24" fill="#ffffff"/>
+  <circle cx="62" cy="60" r="28" fill="#4d7c0f"/>
+  <path d="M48 62h28M62 46v28" stroke="#1a2e05" stroke-width="8" stroke-linecap="round"/>
+  <text x="108" y="71" fill="#1a2e05" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">DataProof</text>
+</svg>

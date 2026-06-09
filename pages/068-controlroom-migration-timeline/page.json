@@ -1,0 +1,35 @@
+{
+  "id": "068-controlroom-migration-timeline",
+  "number": "068",
+  "company": "ControlRoom",
+  "tagline": "incident operations for B2B teams",
+  "vertical": "incident",
+  "archetype": "event",
+  "route": "/pages/068-controlroom-migration-timeline/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/068-controlroom-migration-timeline/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+  },
+  "layoutFamily": "migration-timeline",
+  "heroKind": "market-map",
+  "navKind": "anchor-strip",
+  "density": "dense",
+  "sections": [
+    "event-hero",
+    "migration-timeline-anchor",
+    "speaker-grid",
+    "registration-form",
+    "sponsor-row",
+    "event-hero"
+  ],
+  "layoutSignature": "migration-timeline::market-map::anchor-strip::event-hero|migration-timeline-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}

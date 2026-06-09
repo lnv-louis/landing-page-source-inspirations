@@ -1,0 +1,36 @@
+{
+  "id": "096-evidenceflow-marketplace-shelf",
+  "number": "096",
+  "company": "EvidenceFlow",
+  "tagline": "release operations for B2B teams",
+  "vertical": "release",
+  "archetype": "migration",
+  "route": "/pages/096-evidenceflow-marketplace-shelf/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/096-evidenceflow-marketplace-shelf/",
+  "sourceType": "architect-owned-generated-source",
+  "licenseStatus": "architect-owned",
+  "inspiration": {
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
+  },
+  "layoutFamily": "marketplace-shelf",
+  "heroKind": "form-first",
+  "navKind": "product-switcher",
+  "density": "dense",
+  "sections": [
+    "migration-hero",
+    "marketplace-shelf-anchor",
+    "trust-center",
+    "control-grid",
+    "audit-timeline",
+    "policy-links",
+    "security-form"
+  ],
+  "layoutSignature": "marketplace-shelf::form-first::product-switcher::migration-hero|marketplace-shelf-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+  "assets": [
+    "assets/logo.svg",
+    "assets/hero.svg",
+    "assets/product.svg"
+  ]
+}
