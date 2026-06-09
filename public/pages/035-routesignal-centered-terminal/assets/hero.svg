@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">RouteSignal hero</title>
+  <desc id="desc">routing intelligence for go-to-market teams</desc>
+  <rect width="1200" height="628" fill="#f0f9ff"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#bae6fd" stroke-width="4"/>
+  <rect x="735" y="477" width="115" height="77" rx="23" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="872" y="170" width="162" height="138" rx="6" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="159" y="253" width="209" height="79" rx="7" fill="#ffffff" opacity="0.92" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="296" y="336" width="86" height="140" rx="8" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="433" y="419" width="133" height="81" rx="9" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="570" y="112" width="180" height="142" rx="10" fill="#ffffff" opacity="0.92" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="707" y="195" width="227" height="83" rx="11" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="844" y="278" width="104" height="144" rx="12" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <text x="86" y="122" fill="#0369a1" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">shadcn-landing</text>
+  <text x="86" y="458" fill="#082f49" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">RouteSignal</text>
+  <text x="86" y="518" fill="#082f49" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">routing intelligence for go-to-market teams</text>
+</svg>

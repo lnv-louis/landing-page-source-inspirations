@@ -7,12 +7,12 @@
   "archetype": "integrations",
   "route": "/pages/047-atlasboard-dashboard-first/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/047-atlasboard-dashboard-first/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-gallery",
-    "label": "Awesome landing pages gallery",
-    "url": "https://awesome-landingpages.vercel.app/"
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
   },
   "layoutFamily": "dashboard-first",
   "heroKind": "integration-cloud",
@@ -27,9 +27,10 @@
     "signup-form"
   ],
   "layoutSignature": "dashboard-first::integration-cloud::left-rail::integrations-hero|dashboard-first-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/047-atlasboard-dashboard-first/assets/logo.svg",
+    "hero": "/pages/047-atlasboard-dashboard-first/assets/hero.svg",
+    "product": "/pages/047-atlasboard-dashboard-first/assets/product.svg"
+  }
 }

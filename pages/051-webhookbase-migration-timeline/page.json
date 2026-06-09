@@ -2,17 +2,17 @@
   "id": "051-webhookbase-migration-timeline",
   "number": "051",
   "company": "WebhookBase",
-  "tagline": "dev infra operations for B2B teams",
-  "vertical": "dev-infra",
+  "tagline": "webhook reliability for automation teams",
+  "vertical": "webhooks",
   "archetype": "developer",
   "route": "/pages/051-webhookbase-migration-timeline/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/051-webhookbase-migration-timeline/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "linkify",
-    "label": "Linkify",
-    "url": "https://github.com/Shreyas-29/linkify"
+    "key": "stagehand",
+    "label": "Stagehand v3",
+    "url": "https://docs.stagehand.dev/v3/basics/observe"
   },
   "layoutFamily": "migration-timeline",
   "heroKind": "split-dashboard",
@@ -28,9 +28,10 @@
     "cta-band"
   ],
   "layoutSignature": "migration-timeline::split-dashboard::product-switcher::developer-hero|migration-timeline-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/051-webhookbase-migration-timeline/assets/logo.svg",
+    "hero": "/pages/051-webhookbase-migration-timeline/assets/hero.svg",
+    "product": "/pages/051-webhookbase-migration-timeline/assets/product.svg"
+  }
 }

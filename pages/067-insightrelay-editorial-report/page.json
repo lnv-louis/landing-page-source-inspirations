@@ -2,17 +2,17 @@
   "id": "067-insightrelay-editorial-report",
   "number": "067",
   "company": "InsightRelay",
-  "tagline": "security operations for B2B teams",
-  "vertical": "security",
+  "tagline": "insight delivery for Slack-first analytics",
+  "vertical": "insights",
   "archetype": "integrations",
   "route": "/pages/067-insightrelay-editorial-report/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/067-insightrelay-editorial-report/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "htmlrev",
-    "label": "HTMLrev templates",
-    "url": "https://htmlrev.com/"
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
   },
   "layoutFamily": "editorial-report",
   "heroKind": "demo-room",
@@ -26,9 +26,10 @@
     "webhook-panel"
   ],
   "layoutSignature": "editorial-report::demo-room::product-switcher::integrations-hero|editorial-report-anchor|marketplace-filters|partner-cards|webhook-panel",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/067-insightrelay-editorial-report/assets/logo.svg",
+    "hero": "/pages/067-insightrelay-editorial-report/assets/hero.svg",
+    "product": "/pages/067-insightrelay-editorial-report/assets/product.svg"
+  }
 }

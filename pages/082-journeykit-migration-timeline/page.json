@@ -2,17 +2,17 @@
   "id": "082-journeykit-migration-timeline",
   "number": "082",
   "company": "JourneyKit",
-  "tagline": "billing operations for B2B teams",
-  "vertical": "billing",
+  "tagline": "journey orchestration for lifecycle teams",
+  "vertical": "journey",
   "archetype": "product",
   "route": "/pages/082-journeykit-migration-timeline/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/082-journeykit-migration-timeline/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-awesome",
-    "label": "PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+    "key": "htmlrev",
+    "label": "HTMLrev templates",
+    "url": "https://htmlrev.com/"
   },
   "layoutFamily": "migration-timeline",
   "heroKind": "docs-shell",
@@ -26,9 +26,10 @@
     "security-note"
   ],
   "layoutSignature": "migration-timeline::docs-shell::left-rail::product-hero|migration-timeline-anchor|workflow-steps|role-cards|security-note",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/082-journeykit-migration-timeline/assets/logo.svg",
+    "hero": "/pages/082-journeykit-migration-timeline/assets/hero.svg",
+    "product": "/pages/082-journeykit-migration-timeline/assets/product.svg"
+  }
 }

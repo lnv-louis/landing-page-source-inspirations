@@ -7,12 +7,12 @@
   "archetype": "home",
   "route": "/pages/041-linkledger-comparison-ledger/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/041-linkledger-comparison-ledger/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "next-shadcn",
-    "label": "next-shadcn-landing",
-    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
   },
   "layoutFamily": "comparison-ledger",
   "heroKind": "event-poster",
@@ -27,9 +27,10 @@
     "customer-logos"
   ],
   "layoutSignature": "comparison-ledger::event-poster::utility-bar::home-hero|comparison-ledger-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/041-linkledger-comparison-ledger/assets/logo.svg",
+    "hero": "/pages/041-linkledger-comparison-ledger/assets/hero.svg",
+    "product": "/pages/041-linkledger-comparison-ledger/assets/product.svg"
+  }
 }

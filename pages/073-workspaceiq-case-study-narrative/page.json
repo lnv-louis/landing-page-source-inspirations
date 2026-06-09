@@ -2,17 +2,17 @@
   "id": "073-workspaceiq-case-study-narrative",
   "number": "073",
   "company": "WorkspaceIQ",
-  "tagline": "launch operations for B2B teams",
-  "vertical": "launch",
+  "tagline": "workspace intelligence for knowledge teams",
+  "vertical": "workspace",
   "archetype": "procurement",
   "route": "/pages/073-workspaceiq-case-study-narrative/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/073-workspaceiq-case-study-narrative/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-awesome",
-    "label": "PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
   },
   "layoutFamily": "case-study-narrative",
   "heroKind": "comparison-first",
@@ -26,9 +26,10 @@
     "cta-band"
   ],
   "layoutSignature": "case-study-narrative::comparison-first::utility-bar::procurement-hero|case-study-narrative-anchor|faq-accordion|procurement-note|cta-band",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/073-workspaceiq-case-study-narrative/assets/logo.svg",
+    "hero": "/pages/073-workspaceiq-case-study-narrative/assets/hero.svg",
+    "product": "/pages/073-workspaceiq-case-study-narrative/assets/product.svg"
+  }
 }

@@ -2,17 +2,17 @@
   "id": "071-fieldbridge-announcement-stack",
   "number": "071",
   "company": "FieldBridge",
-  "tagline": "release operations for B2B teams",
-  "vertical": "release",
+  "tagline": "field team workflows for sales engineers",
+  "vertical": "field",
   "archetype": "developer",
   "route": "/pages/071-fieldbridge-announcement-stack/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/071-fieldbridge-announcement-stack/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "convertfast",
-    "label": "ConvertFast UI",
-    "url": "https://github.com/ObservedObserver/convertfast-ui"
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
   },
   "layoutFamily": "announcement-stack",
   "heroKind": "form-first",
@@ -27,9 +27,10 @@
     "customer-logos"
   ],
   "layoutSignature": "announcement-stack::form-first::minimal-wordmark::developer-hero|announcement-stack-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/071-fieldbridge-announcement-stack/assets/logo.svg",
+    "hero": "/pages/071-fieldbridge-announcement-stack/assets/hero.svg",
+    "product": "/pages/071-fieldbridge-announcement-stack/assets/product.svg"
+  }
 }

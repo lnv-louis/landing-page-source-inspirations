@@ -7,12 +7,12 @@
   "archetype": "event",
   "route": "/pages/048-signalforge-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/048-signalforge-procurement-checklist/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "nordic-awesome",
-    "label": "nordicgiant2 awesome landing page",
-    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
   },
   "layoutFamily": "procurement-checklist",
   "heroKind": "comparison-first",
@@ -28,9 +28,10 @@
     "agenda-list"
   ],
   "layoutSignature": "procurement-checklist::comparison-first::product-switcher::event-hero|procurement-checklist-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/048-signalforge-procurement-checklist/assets/logo.svg",
+    "hero": "/pages/048-signalforge-procurement-checklist/assets/hero.svg",
+    "product": "/pages/048-signalforge-procurement-checklist/assets/product.svg"
+  }
 }

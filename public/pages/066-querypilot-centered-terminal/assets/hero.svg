@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">QueryPilot hero</title>
+  <desc id="desc">self-serve analytics query copilots</desc>
+  <rect width="1200" height="628" fill="#fff7ed"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="4"/>
+  <rect x="474" y="428" width="146" height="108" rx="18" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="611" y="121" width="193" height="49" rx="19" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="748" y="204" width="240" height="110" rx="20" fill="#ffffff" opacity="0.92" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="885" y="287" width="117" height="51" rx="21" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="172" y="370" width="164" height="112" rx="22" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="309" y="453" width="211" height="53" rx="23" fill="#ffffff" opacity="0.92" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="446" y="146" width="88" height="114" rx="6" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="583" y="229" width="135" height="55" rx="7" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <text x="86" y="122" fill="#c2410c" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">paulle-awesome</text>
+  <text x="86" y="458" fill="#2f1600" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">QueryPilot</text>
+  <text x="86" y="518" fill="#2f1600" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">self-serve analytics query copilots</text>
+</svg>

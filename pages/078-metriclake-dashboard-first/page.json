@@ -2,17 +2,17 @@
   "id": "078-metriclake-dashboard-first",
   "number": "078",
   "company": "MetricLake",
-  "tagline": "compliance operations for B2B teams",
-  "vertical": "compliance",
+  "tagline": "metrics lake for operating reviews",
+  "vertical": "metrics-lake",
   "archetype": "launch",
   "route": "/pages/078-metriclake-dashboard-first/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/078-metriclake-dashboard-first/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "linkify",
-    "label": "Linkify",
-    "url": "https://github.com/Shreyas-29/linkify"
+    "key": "kernel-stagehand",
+    "label": "Kernel Stagehand integration",
+    "url": "https://www.kernel.sh/docs/integrations/stagehand"
   },
   "layoutFamily": "dashboard-first",
   "heroKind": "terminal-window",
@@ -28,9 +28,10 @@
     "agenda-list"
   ],
   "layoutSignature": "dashboard-first::terminal-window::simple-top::launch-hero|dashboard-first-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/078-metriclake-dashboard-first/assets/logo.svg",
+    "hero": "/pages/078-metriclake-dashboard-first/assets/hero.svg",
+    "product": "/pages/078-metriclake-dashboard-first/assets/product.svg"
+  }
 }

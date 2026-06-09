@@ -7,12 +7,12 @@
   "archetype": "case-study",
   "route": "/pages/010-workflowly-pricing-matrix/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/010-workflowly-pricing-matrix/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-awesome",
-    "label": "PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+    "key": "gofullpage",
+    "label": "GoFullPage capture extension",
+    "url": "https://github.com/mrcoles/full-page-screen-capture-chrome-extension"
   },
   "layoutFamily": "pricing-matrix",
   "heroKind": "split-dashboard",
@@ -26,9 +26,10 @@
     "before-after"
   ],
   "layoutSignature": "pricing-matrix::split-dashboard::minimal-wordmark::case-study-hero|pricing-matrix-anchor|quote-wall|case-masthead|before-after",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/010-workflowly-pricing-matrix/assets/logo.svg",
+    "hero": "/pages/010-workflowly-pricing-matrix/assets/hero.svg",
+    "product": "/pages/010-workflowly-pricing-matrix/assets/product.svg"
+  }
 }

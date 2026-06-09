@@ -7,12 +7,12 @@
   "archetype": "case-study",
   "route": "/pages/030-buyergraph-workflow-lane/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/030-buyergraph-workflow-lane/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "nordic-awesome",
-    "label": "nordicgiant2 awesome landing page",
-    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+    "key": "htmlrev",
+    "label": "HTMLrev templates",
+    "url": "https://htmlrev.com/"
   },
   "layoutFamily": "workflow-lane",
   "heroKind": "form-first",
@@ -28,9 +28,10 @@
     "story-timeline"
   ],
   "layoutSignature": "workflow-lane::form-first::simple-top::case-study-hero|workflow-lane-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/030-buyergraph-workflow-lane/assets/logo.svg",
+    "hero": "/pages/030-buyergraph-workflow-lane/assets/hero.svg",
+    "product": "/pages/030-buyergraph-workflow-lane/assets/product.svg"
+  }
 }

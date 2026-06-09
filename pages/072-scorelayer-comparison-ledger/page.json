@@ -2,17 +2,17 @@
   "id": "072-scorelayer-comparison-ledger",
   "number": "072",
   "company": "ScoreLayer",
-  "tagline": "crm operations for B2B teams",
-  "vertical": "crm",
+  "tagline": "lead score governance for RevOps",
+  "vertical": "scoring",
   "archetype": "agent-workflow",
   "route": "/pages/072-scorelayer-comparison-ledger/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/072-scorelayer-comparison-ledger/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "shadcn-landing",
-    "label": "shadcn landing page",
-    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+    "key": "launch-ui",
+    "label": "Launch UI",
+    "url": "https://github.com/launch-ui/launch-ui"
   },
   "layoutFamily": "comparison-ledger",
   "heroKind": "integration-cloud",
@@ -28,9 +28,10 @@
     "feature-tabs"
   ],
   "layoutSignature": "comparison-ledger::integration-cloud::mega-menu::agent-workflow-hero|comparison-ledger-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/072-scorelayer-comparison-ledger/assets/logo.svg",
+    "hero": "/pages/072-scorelayer-comparison-ledger/assets/hero.svg",
+    "product": "/pages/072-scorelayer-comparison-ledger/assets/product.svg"
+  }
 }

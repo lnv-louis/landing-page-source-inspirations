@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120" role="img" aria-label="SignalCloud logo">
-  <rect width="320" height="120" rx="24" fill="#ffffff"/>
-  <circle cx="62" cy="60" r="28" fill="#0369a1"/>
-  <path d="M48 62h28M62 46v28" stroke="#082f49" stroke-width="8" stroke-linecap="round"/>
-  <text x="108" y="71" fill="#082f49" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">SignalCloud</text>
-</svg>

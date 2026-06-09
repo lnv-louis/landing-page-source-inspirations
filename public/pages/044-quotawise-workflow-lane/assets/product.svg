@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">QuotaWise product</title>
+  <desc id="desc">workflow-lane · comparison</desc>
+  <rect width="1200" height="628" fill="#f7fee7"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#d9f99d" stroke-width="4"/>
+  <rect x="906" y="186" width="124" height="86" rx="14" fill="#4d7c0f" opacity="0.2" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="193" y="269" width="171" height="147" rx="15" fill="#d9f99d" opacity="0.78" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="330" y="352" width="218" height="88" rx="16" fill="#ffffff" opacity="0.92" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="467" y="435" width="95" height="149" rx="17" fill="#4d7c0f" opacity="0.2" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="604" y="128" width="142" height="90" rx="18" fill="#d9f99d" opacity="0.78" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="741" y="211" width="189" height="151" rx="19" fill="#ffffff" opacity="0.92" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="878" y="294" width="236" height="92" rx="20" fill="#4d7c0f" opacity="0.2" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="165" y="377" width="113" height="153" rx="21" fill="#d9f99d" opacity="0.78" stroke="#d9f99d" stroke-width="2"/>
+  <text x="86" y="122" fill="#4d7c0f" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">next-shadcn</text>
+  <text x="86" y="458" fill="#1a2e05" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">QuotaWise</text>
+  <text x="86" y="518" fill="#1a2e05" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">workflow-lane · comparison</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">IntentBase product</title>
+  <desc id="desc">editorial-report · docs</desc>
+  <rect width="1200" height="628" fill="#fff1f2"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#fecdd3" stroke-width="4"/>
+  <rect x="165" y="147" width="85" height="47" rx="11" fill="#e11d48" opacity="0.2" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="302" y="230" width="132" height="108" rx="12" fill="#fecdd3" opacity="0.78" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="439" y="313" width="179" height="49" rx="13" fill="#ffffff" opacity="0.92" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="576" y="396" width="226" height="110" rx="14" fill="#e11d48" opacity="0.2" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="713" y="479" width="103" height="51" rx="15" fill="#fecdd3" opacity="0.78" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="850" y="172" width="150" height="112" rx="16" fill="#ffffff" opacity="0.92" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="137" y="255" width="197" height="53" rx="17" fill="#e11d48" opacity="0.2" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="274" y="338" width="244" height="114" rx="18" fill="#fecdd3" opacity="0.78" stroke="#fecdd3" stroke-width="2"/>
+  <text x="86" y="122" fill="#e11d48" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">next-shadcn</text>
+  <text x="86" y="458" fill="#4c0519" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">IntentBase</text>
+  <text x="86" y="518" fill="#4c0519" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">editorial-report · docs</text>
+</svg>

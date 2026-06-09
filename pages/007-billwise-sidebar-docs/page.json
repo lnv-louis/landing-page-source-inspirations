@@ -7,7 +7,7 @@
   "archetype": "integrations",
   "route": "/pages/007-billwise-sidebar-docs/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/007-billwise-sidebar-docs/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
     "key": "launch-ui",
@@ -26,9 +26,10 @@
     "webhook-panel"
   ],
   "layoutSignature": "sidebar-docs::docs-shell::minimal-wordmark::integrations-hero|sidebar-docs-anchor|marketplace-filters|partner-cards|webhook-panel",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/007-billwise-sidebar-docs/assets/logo.svg",
+    "hero": "/pages/007-billwise-sidebar-docs/assets/hero.svg",
+    "product": "/pages/007-billwise-sidebar-docs/assets/product.svg"
+  }
 }

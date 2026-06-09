@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">SegmentFlow product</title>
+  <desc id="desc">industry-map · calculator</desc>
+  <rect width="1200" height="628" fill="#fff1f2"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#fecdd3" stroke-width="4"/>
+  <rect x="621" y="411" width="109" height="71" rx="17" fill="#e11d48" opacity="0.2" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="758" y="104" width="156" height="132" rx="18" fill="#fecdd3" opacity="0.78" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="895" y="187" width="203" height="73" rx="19" fill="#ffffff" opacity="0.92" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="182" y="270" width="80" height="134" rx="20" fill="#e11d48" opacity="0.2" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="319" y="353" width="127" height="75" rx="21" fill="#fecdd3" opacity="0.78" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="456" y="436" width="174" height="136" rx="22" fill="#ffffff" opacity="0.92" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="593" y="129" width="221" height="77" rx="23" fill="#e11d48" opacity="0.2" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="730" y="212" width="98" height="138" rx="6" fill="#fecdd3" opacity="0.78" stroke="#fecdd3" stroke-width="2"/>
+  <text x="86" y="122" fill="#e11d48" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">nordic-awesome</text>
+  <text x="86" y="458" fill="#4c0519" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">SegmentFlow</text>
+  <text x="86" y="518" fill="#4c0519" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">industry-map · calculator</text>
+</svg>

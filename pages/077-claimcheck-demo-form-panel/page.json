@@ -2,17 +2,17 @@
   "id": "077-claimcheck-demo-form-panel",
   "number": "077",
   "company": "ClaimCheck",
-  "tagline": "cx operations for B2B teams",
-  "vertical": "cx",
+  "tagline": "claims review for compliance teams",
+  "vertical": "claims",
   "archetype": "benchmark",
   "route": "/pages/077-claimcheck-demo-form-panel/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/077-claimcheck-demo-form-panel/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "next-shadcn",
-    "label": "next-shadcn-landing",
-    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+    "key": "stagehand",
+    "label": "Stagehand v3",
+    "url": "https://docs.stagehand.dev/v3/basics/observe"
   },
   "layoutFamily": "demo-form-panel",
   "heroKind": "workflow-board",
@@ -27,9 +27,10 @@
     "signup-form"
   ],
   "layoutSignature": "demo-form-panel::workflow-board::docs-rail::benchmark-hero|demo-form-panel-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/077-claimcheck-demo-form-panel/assets/logo.svg",
+    "hero": "/pages/077-claimcheck-demo-form-panel/assets/hero.svg",
+    "product": "/pages/077-claimcheck-demo-form-panel/assets/product.svg"
+  }
 }

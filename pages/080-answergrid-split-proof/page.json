@@ -2,17 +2,17 @@
   "id": "080-answergrid-split-proof",
   "number": "080",
   "company": "AnswerGrid",
-  "tagline": "revintel operations for B2B teams",
-  "vertical": "revintel",
+  "tagline": "answer analytics for support portals",
+  "vertical": "support-analytics",
   "archetype": "demo-request",
   "route": "/pages/080-answergrid-split-proof/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/080-answergrid-split-proof/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "convertfast",
-    "label": "ConvertFast UI",
-    "url": "https://github.com/ObservedObserver/convertfast-ui"
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
   },
   "layoutFamily": "split-proof",
   "heroKind": "form-first",
@@ -27,9 +27,10 @@
     "metric-row"
   ],
   "layoutSignature": "split-proof::form-first::product-switcher::demo-request-hero|split-proof-anchor|quote-wall|case-masthead|before-after|metric-row",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/080-answergrid-split-proof/assets/logo.svg",
+    "hero": "/pages/080-answergrid-split-proof/assets/hero.svg",
+    "product": "/pages/080-answergrid-split-proof/assets/product.svg"
+  }
 }

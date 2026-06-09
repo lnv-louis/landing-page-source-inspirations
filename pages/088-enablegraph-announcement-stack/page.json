@@ -2,17 +2,17 @@
   "id": "088-enablegraph-announcement-stack",
   "number": "088",
   "company": "EnableGraph",
-  "tagline": "knowledge operations for B2B teams",
-  "vertical": "knowledge",
+  "tagline": "enablement graph for account teams",
+  "vertical": "enablement-graph",
   "archetype": "event",
   "route": "/pages/088-enablegraph-announcement-stack/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/088-enablegraph-announcement-stack/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "launch-ui",
-    "label": "Launch UI",
-    "url": "https://github.com/launch-ui/launch-ui"
+    "key": "gofullpage",
+    "label": "GoFullPage capture extension",
+    "url": "https://github.com/mrcoles/full-page-screen-capture-chrome-extension"
   },
   "layoutFamily": "announcement-stack",
   "heroKind": "security-room",
@@ -26,9 +26,10 @@
     "sponsor-row"
   ],
   "layoutSignature": "announcement-stack::security-room::mega-menu::event-hero|announcement-stack-anchor|speaker-grid|registration-form|sponsor-row",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/088-enablegraph-announcement-stack/assets/logo.svg",
+    "hero": "/pages/088-enablegraph-announcement-stack/assets/hero.svg",
+    "product": "/pages/088-enablegraph-announcement-stack/assets/product.svg"
+  }
 }

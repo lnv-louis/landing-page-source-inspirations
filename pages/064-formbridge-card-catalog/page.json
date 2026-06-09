@@ -2,17 +2,17 @@
   "id": "064-formbridge-card-catalog",
   "number": "064",
   "company": "FormBridge",
-  "tagline": "forms operations for B2B teams",
-  "vertical": "forms",
+  "tagline": "form enrichment for sales funnels",
+  "vertical": "enrichment",
   "archetype": "comparison",
   "route": "/pages/064-formbridge-card-catalog/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/064-formbridge-card-catalog/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-awesome",
-    "label": "PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+    "key": "stagehand",
+    "label": "Stagehand v3",
+    "url": "https://docs.stagehand.dev/v3/basics/observe"
   },
   "layoutFamily": "card-catalog",
   "heroKind": "pricing-led",
@@ -26,9 +26,10 @@
     "competitor-table"
   ],
   "layoutSignature": "card-catalog::pricing-led::product-switcher::comparison-hero|card-catalog-anchor|migration-steps|demo-form|competitor-table",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/064-formbridge-card-catalog/assets/logo.svg",
+    "hero": "/pages/064-formbridge-card-catalog/assets/hero.svg",
+    "product": "/pages/064-formbridge-card-catalog/assets/product.svg"
+  }
 }

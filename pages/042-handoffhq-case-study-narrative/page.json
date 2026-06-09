@@ -7,12 +7,12 @@
   "archetype": "product",
   "route": "/pages/042-handoffhq-case-study-narrative/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/042-handoffhq-case-study-narrative/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "linkify",
-    "label": "Linkify",
-    "url": "https://github.com/Shreyas-29/linkify"
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
   },
   "layoutFamily": "case-study-narrative",
   "heroKind": "demo-room",
@@ -28,9 +28,10 @@
     "feature-tabs"
   ],
   "layoutSignature": "case-study-narrative::demo-room::minimal-wordmark::product-hero|case-study-narrative-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/042-handoffhq-case-study-narrative/assets/logo.svg",
+    "hero": "/pages/042-handoffhq-case-study-narrative/assets/hero.svg",
+    "product": "/pages/042-handoffhq-case-study-narrative/assets/product.svg"
+  }
 }

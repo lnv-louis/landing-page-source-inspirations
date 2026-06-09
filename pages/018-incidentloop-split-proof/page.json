@@ -7,12 +7,12 @@
   "archetype": "launch",
   "route": "/pages/018-incidentloop-split-proof/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/018-incidentloop-split-proof/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "shadcn-landing",
-    "label": "shadcn landing page",
-    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
   },
   "layoutFamily": "split-proof",
   "heroKind": "market-map",
@@ -28,9 +28,10 @@
     "agenda-list"
   ],
   "layoutSignature": "split-proof::market-map::left-rail::launch-hero|split-proof-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/018-incidentloop-split-proof/assets/logo.svg",
+    "hero": "/pages/018-incidentloop-split-proof/assets/hero.svg",
+    "product": "/pages/018-incidentloop-split-proof/assets/product.svg"
+  }
 }

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">IncidentLoop product</title>
+  <desc id="desc">split-proof · launch</desc>
+  <rect width="1200" height="628" fill="#fff7ed"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="4"/>
+  <rect x="412" y="290" width="98" height="60" rx="6" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="549" y="373" width="145" height="121" rx="7" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="686" y="456" width="192" height="62" rx="8" fill="#ffffff" opacity="0.92" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="823" y="149" width="239" height="123" rx="9" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="110" y="232" width="116" height="64" rx="10" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="247" y="315" width="163" height="125" rx="11" fill="#ffffff" opacity="0.92" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="384" y="398" width="210" height="66" rx="12" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="521" y="481" width="87" height="127" rx="13" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <text x="86" y="122" fill="#c2410c" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">next-shadcn</text>
+  <text x="86" y="458" fill="#2f1600" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">IncidentLoop</text>
+  <text x="86" y="518" fill="#2f1600" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">split-proof · launch</text>
+</svg>

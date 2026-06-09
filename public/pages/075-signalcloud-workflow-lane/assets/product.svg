@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">SignalCloud product</title>
+  <desc id="desc">workflow-lane · marketplace</desc>
+  <rect width="1200" height="628" fill="#f0f9ff"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#bae6fd" stroke-width="4"/>
+  <rect x="645" y="137" width="155" height="117" rx="9" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="782" y="220" width="202" height="58" rx="10" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="919" y="303" width="249" height="119" rx="11" fill="#ffffff" opacity="0.92" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="206" y="386" width="126" height="60" rx="12" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="343" y="469" width="173" height="121" rx="13" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="480" y="162" width="220" height="62" rx="14" fill="#ffffff" opacity="0.92" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="617" y="245" width="97" height="123" rx="15" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="754" y="328" width="144" height="64" rx="16" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <text x="86" y="122" fill="#0369a1" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">gofullpage</text>
+  <text x="86" y="458" fill="#082f49" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">SignalCloud</text>
+  <text x="86" y="518" fill="#082f49" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">workflow-lane · marketplace</text>
+</svg>

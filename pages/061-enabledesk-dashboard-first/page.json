@@ -2,17 +2,17 @@
   "id": "061-enabledesk-dashboard-first",
   "number": "061",
   "company": "EnableDesk",
-  "tagline": "success operations for B2B teams",
-  "vertical": "success",
+  "tagline": "enablement desk for account teams",
+  "vertical": "enablement",
   "archetype": "home",
   "route": "/pages/061-enabledesk-dashboard-first/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/061-enabledesk-dashboard-first/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "launch-ui",
-    "label": "Launch UI",
-    "url": "https://github.com/launch-ui/launch-ui"
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
   },
   "layoutFamily": "dashboard-first",
   "heroKind": "api-console",
@@ -26,9 +26,10 @@
     "product-proof"
   ],
   "layoutSignature": "dashboard-first::api-console::docs-rail::home-hero|dashboard-first-anchor|logo-cloud|pain-grid|product-proof",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/061-enabledesk-dashboard-first/assets/logo.svg",
+    "hero": "/pages/061-enabledesk-dashboard-first/assets/hero.svg",
+    "product": "/pages/061-enabledesk-dashboard-first/assets/product.svg"
+  }
 }

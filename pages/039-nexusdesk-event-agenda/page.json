@@ -7,12 +7,12 @@
   "archetype": "solutions",
   "route": "/pages/039-nexusdesk-event-agenda/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/039-nexusdesk-event-agenda/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "nordic-awesome",
-    "label": "nordicgiant2 awesome landing page",
-    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+    "key": "kernel-stagehand",
+    "label": "Kernel Stagehand integration",
+    "url": "https://www.kernel.sh/docs/integrations/stagehand"
   },
   "layoutFamily": "event-agenda",
   "heroKind": "pricing-led",
@@ -28,9 +28,10 @@
     "input-form"
   ],
   "layoutSignature": "event-agenda::pricing-led::minimal-wordmark::solutions-hero|event-agenda-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/039-nexusdesk-event-agenda/assets/logo.svg",
+    "hero": "/pages/039-nexusdesk-event-agenda/assets/hero.svg",
+    "product": "/pages/039-nexusdesk-event-agenda/assets/product.svg"
+  }
 }

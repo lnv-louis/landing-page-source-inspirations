@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">ChaosDeck product</title>
+  <desc id="desc">centered-terminal · comparison</desc>
+  <rect width="1200" height="628" fill="#f7fee7"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#d9f99d" stroke-width="4"/>
+  <rect x="146" y="136" width="84" height="46" rx="10" fill="#4d7c0f" opacity="0.2" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="283" y="219" width="131" height="107" rx="11" fill="#d9f99d" opacity="0.78" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="420" y="302" width="178" height="48" rx="12" fill="#ffffff" opacity="0.92" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="557" y="385" width="225" height="109" rx="13" fill="#4d7c0f" opacity="0.2" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="694" y="468" width="102" height="50" rx="14" fill="#d9f99d" opacity="0.78" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="831" y="161" width="149" height="111" rx="15" fill="#ffffff" opacity="0.92" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="118" y="244" width="196" height="52" rx="16" fill="#4d7c0f" opacity="0.2" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="255" y="327" width="243" height="113" rx="17" fill="#d9f99d" opacity="0.78" stroke="#d9f99d" stroke-width="2"/>
+  <text x="86" y="122" fill="#4d7c0f" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">htmlrev</text>
+  <text x="86" y="458" fill="#1a2e05" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">ChaosDeck</text>
+  <text x="86" y="518" fill="#1a2e05" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">centered-terminal · comparison</text>
+</svg>

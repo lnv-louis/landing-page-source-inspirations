@@ -2,17 +2,17 @@
   "id": "098-auditbridge-editorial-report",
   "number": "098",
   "company": "AuditBridge",
-  "tagline": "launch operations for B2B teams",
-  "vertical": "launch",
+  "tagline": "audit bridge for governance teams",
+  "vertical": "governance",
   "archetype": "launch",
   "route": "/pages/098-auditbridge-editorial-report/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/098-auditbridge-editorial-report/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "convertfast",
-    "label": "ConvertFast UI",
-    "url": "https://github.com/ObservedObserver/convertfast-ui"
+    "key": "launch-ui",
+    "label": "Launch UI",
+    "url": "https://github.com/launch-ui/launch-ui"
   },
   "layoutFamily": "editorial-report",
   "heroKind": "comparison-first",
@@ -27,9 +27,10 @@
     "event-hero"
   ],
   "layoutSignature": "editorial-report::comparison-first::left-rail::launch-hero|editorial-report-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/098-auditbridge-editorial-report/assets/logo.svg",
+    "hero": "/pages/098-auditbridge-editorial-report/assets/hero.svg",
+    "product": "/pages/098-auditbridge-editorial-report/assets/product.svg"
+  }
 }

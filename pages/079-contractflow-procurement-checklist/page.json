@@ -2,17 +2,17 @@
   "id": "079-contractflow-procurement-checklist",
   "number": "079",
   "company": "ContractFlow",
-  "tagline": "reliability operations for B2B teams",
-  "vertical": "reliability",
+  "tagline": "contract workflow automation",
+  "vertical": "contracts",
   "archetype": "solutions",
   "route": "/pages/079-contractflow-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/079-contractflow-procurement-checklist/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "launch-ui",
-    "label": "Launch UI",
-    "url": "https://github.com/launch-ui/launch-ui"
+    "key": "paulle-awesome",
+    "label": "PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
   },
   "layoutFamily": "procurement-checklist",
   "heroKind": "metric-wall",
@@ -26,9 +26,10 @@
     "roi-calculator"
   ],
   "layoutSignature": "procurement-checklist::metric-wall::left-rail::solutions-hero|procurement-checklist-anchor|results-table|download-cta|roi-calculator",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/079-contractflow-procurement-checklist/assets/logo.svg",
+    "hero": "/pages/079-contractflow-procurement-checklist/assets/hero.svg",
+    "product": "/pages/079-contractflow-procurement-checklist/assets/product.svg"
+  }
 }

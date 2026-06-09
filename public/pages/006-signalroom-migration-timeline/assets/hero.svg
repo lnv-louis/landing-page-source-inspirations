@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">SignalRoom hero</title>
+  <desc id="desc">product analytics for activation teams</desc>
+  <rect width="1200" height="628" fill="#ecfdf5"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#a7f3d0" stroke-width="4"/>
+  <rect x="184" y="158" width="86" height="48" rx="12" fill="#059669" opacity="0.2" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="321" y="241" width="133" height="109" rx="13" fill="#a7f3d0" opacity="0.78" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="458" y="324" width="180" height="50" rx="14" fill="#ffffff" opacity="0.92" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="595" y="407" width="227" height="111" rx="15" fill="#059669" opacity="0.2" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="732" y="100" width="104" height="52" rx="16" fill="#a7f3d0" opacity="0.78" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="869" y="183" width="151" height="113" rx="17" fill="#ffffff" opacity="0.92" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="156" y="266" width="198" height="54" rx="18" fill="#059669" opacity="0.2" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="293" y="349" width="245" height="115" rx="19" fill="#a7f3d0" opacity="0.78" stroke="#a7f3d0" stroke-width="2"/>
+  <text x="86" y="122" fill="#059669" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">linkify</text>
+  <text x="86" y="458" fill="#052e16" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">SignalRoom</text>
+  <text x="86" y="518" fill="#052e16" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">product analytics for activation teams</text>
+</svg>

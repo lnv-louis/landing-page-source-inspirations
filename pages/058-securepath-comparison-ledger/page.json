@@ -2,17 +2,17 @@
   "id": "058-securepath-comparison-ledger",
   "number": "058",
   "company": "SecurePath",
-  "tagline": "ai search operations for B2B teams",
-  "vertical": "ai-search",
+  "tagline": "security review automation for vendors",
+  "vertical": "security-review",
   "archetype": "launch",
   "route": "/pages/058-securepath-comparison-ledger/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/058-securepath-comparison-ledger/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "htmlrev",
-    "label": "HTMLrev templates",
-    "url": "https://htmlrev.com/"
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
   },
   "layoutFamily": "comparison-ledger",
   "heroKind": "procurement-brief",
@@ -26,9 +26,10 @@
     "sponsor-row"
   ],
   "layoutSignature": "comparison-ledger::procurement-brief::minimal-wordmark::launch-hero|comparison-ledger-anchor|speaker-grid|registration-form|sponsor-row",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/058-securepath-comparison-ledger/assets/logo.svg",
+    "hero": "/pages/058-securepath-comparison-ledger/assets/hero.svg",
+    "product": "/pages/058-securepath-comparison-ledger/assets/product.svg"
+  }
 }

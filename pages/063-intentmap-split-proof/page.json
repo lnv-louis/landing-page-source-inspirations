@@ -2,17 +2,17 @@
   "id": "063-intentmap-split-proof",
   "number": "063",
   "company": "IntentMap",
-  "tagline": "knowledge operations for B2B teams",
-  "vertical": "knowledge",
+  "tagline": "intent map routing for marketers",
+  "vertical": "intent",
   "archetype": "pricing",
   "route": "/pages/063-intentmap-split-proof/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/063-intentmap-split-proof/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "shadcn-landing",
-    "label": "shadcn landing page",
-    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+    "key": "pesticide",
+    "label": "Pesticide without hover bar",
+    "url": "https://github.com/michaelkolesidis/pesticide-without-hover-bar"
   },
   "layoutFamily": "split-proof",
   "heroKind": "security-room",
@@ -28,9 +28,10 @@
     "plan-cards"
   ],
   "layoutSignature": "split-proof::security-room::left-rail::pricing-hero|split-proof-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/063-intentmap-split-proof/assets/logo.svg",
+    "hero": "/pages/063-intentmap-split-proof/assets/hero.svg",
+    "product": "/pages/063-intentmap-split-proof/assets/product.svg"
+  }
 }

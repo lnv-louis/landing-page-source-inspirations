@@ -7,12 +7,12 @@
   "archetype": "migration",
   "route": "/pages/016-pipelineatlas-dashboard-first/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/016-pipelineatlas-dashboard-first/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "launch-ui",
-    "label": "Launch UI",
-    "url": "https://github.com/launch-ui/launch-ui"
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
   },
   "layoutFamily": "dashboard-first",
   "heroKind": "event-poster",
@@ -26,9 +26,10 @@
     "audit-timeline"
   ],
   "layoutSignature": "dashboard-first::event-poster::product-switcher::migration-hero|dashboard-first-anchor|trust-center|control-grid|audit-timeline",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/016-pipelineatlas-dashboard-first/assets/logo.svg",
+    "hero": "/pages/016-pipelineatlas-dashboard-first/assets/hero.svg",
+    "product": "/pages/016-pipelineatlas-dashboard-first/assets/product.svg"
+  }
 }

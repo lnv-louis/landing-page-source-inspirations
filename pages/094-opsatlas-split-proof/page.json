@@ -2,17 +2,17 @@
   "id": "094-opsatlas-split-proof",
   "number": "094",
   "company": "OpsAtlas",
-  "tagline": "analytics operations for B2B teams",
-  "vertical": "analytics",
+  "tagline": "ops atlas for SaaS leadership",
+  "vertical": "ops-atlas",
   "archetype": "use-case",
   "route": "/pages/094-opsatlas-split-proof/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/094-opsatlas-split-proof/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "htmlrev",
-    "label": "HTMLrev templates",
-    "url": "https://htmlrev.com/"
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
   },
   "layoutFamily": "split-proof",
   "heroKind": "centered-proof",
@@ -26,9 +26,10 @@
     "competitor-table"
   ],
   "layoutSignature": "split-proof::centered-proof::simple-top::use-case-hero|split-proof-anchor|migration-steps|demo-form|competitor-table",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/094-opsatlas-split-proof/assets/logo.svg",
+    "hero": "/pages/094-opsatlas-split-proof/assets/hero.svg",
+    "product": "/pages/094-opsatlas-split-proof/assets/product.svg"
+  }
 }

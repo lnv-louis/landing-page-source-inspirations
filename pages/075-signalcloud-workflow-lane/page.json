@@ -2,17 +2,17 @@
   "id": "075-signalcloud-workflow-lane",
   "number": "075",
   "company": "SignalCloud",
-  "tagline": "trust operations for B2B teams",
-  "vertical": "trust",
+  "tagline": "signal cloud for product-led growth",
+  "vertical": "plg",
   "archetype": "marketplace",
   "route": "/pages/075-signalcloud-workflow-lane/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/075-signalcloud-workflow-lane/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "nordic-awesome",
-    "label": "nordicgiant2 awesome landing page",
-    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+    "key": "gofullpage",
+    "label": "GoFullPage capture extension",
+    "url": "https://github.com/mrcoles/full-page-screen-capture-chrome-extension"
   },
   "layoutFamily": "workflow-lane",
   "heroKind": "event-poster",
@@ -28,9 +28,10 @@
     "changelog-list"
   ],
   "layoutSignature": "workflow-lane::event-poster::mega-menu::marketplace-hero|workflow-lane-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/075-signalcloud-workflow-lane/assets/logo.svg",
+    "hero": "/pages/075-signalcloud-workflow-lane/assets/hero.svg",
+    "product": "/pages/075-signalcloud-workflow-lane/assets/product.svg"
+  }
 }

@@ -2,17 +2,17 @@
   "id": "086-pipelineos-pricing-matrix",
   "number": "086",
   "company": "PipelineOS",
-  "tagline": "success operations for B2B teams",
-  "vertical": "success",
+  "tagline": "pipeline operations for revenue teams",
+  "vertical": "pipeline-os",
   "archetype": "security",
   "route": "/pages/086-pipelineos-pricing-matrix/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/086-pipelineos-pricing-matrix/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "next-shadcn",
-    "label": "next-shadcn-landing",
-    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
   },
   "layoutFamily": "pricing-matrix",
   "heroKind": "api-console",
@@ -27,9 +27,10 @@
     "policy-links"
   ],
   "layoutSignature": "pricing-matrix::api-console::utility-bar::security-hero|pricing-matrix-anchor|trust-center|control-grid|audit-timeline|policy-links",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/086-pipelineos-pricing-matrix/assets/logo.svg",
+    "hero": "/pages/086-pipelineos-pricing-matrix/assets/hero.svg",
+    "product": "/pages/086-pipelineos-pricing-matrix/assets/product.svg"
+  }
 }

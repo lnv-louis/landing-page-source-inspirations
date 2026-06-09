@@ -7,12 +7,12 @@
   "archetype": "calculator",
   "route": "/pages/049-launchops-split-proof/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/049-launchops-split-proof/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "htmlrev",
-    "label": "HTMLrev templates",
-    "url": "https://htmlrev.com/"
+    "key": "gofullpage",
+    "label": "GoFullPage capture extension",
+    "url": "https://github.com/mrcoles/full-page-screen-capture-chrome-extension"
   },
   "layoutFamily": "split-proof",
   "heroKind": "calculator-panel",
@@ -26,9 +26,10 @@
     "roi-calculator"
   ],
   "layoutSignature": "split-proof::calculator-panel::simple-top::calculator-hero|split-proof-anchor|results-table|download-cta|roi-calculator",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/049-launchops-split-proof/assets/logo.svg",
+    "hero": "/pages/049-launchops-split-proof/assets/hero.svg",
+    "product": "/pages/049-launchops-split-proof/assets/product.svg"
+  }
 }

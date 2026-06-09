@@ -2,17 +2,17 @@
   "id": "093-revenueroot-procurement-checklist",
   "number": "093",
   "company": "RevenueRoot",
-  "tagline": "incident operations for B2B teams",
-  "vertical": "incident",
+  "tagline": "revenue root cause analysis",
+  "vertical": "revenue-root",
   "archetype": "procurement",
   "route": "/pages/093-revenueroot-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/093-revenueroot-procurement-checklist/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "nordic-awesome",
-    "label": "nordicgiant2 awesome landing page",
-    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
   },
   "layoutFamily": "procurement-checklist",
   "heroKind": "market-map",
@@ -28,9 +28,10 @@
     "plan-cards"
   ],
   "layoutSignature": "procurement-checklist::market-map::docs-rail::procurement-hero|procurement-checklist-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/093-revenueroot-procurement-checklist/assets/logo.svg",
+    "hero": "/pages/093-revenueroot-procurement-checklist/assets/hero.svg",
+    "product": "/pages/093-revenueroot-procurement-checklist/assets/product.svg"
+  }
 }

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">KernelDesk hero</title>
+  <desc id="desc">browser automation desk for agents</desc>
+  <rect width="1200" height="628" fill="#f8fafc"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#dbe3ef" stroke-width="4"/>
+  <rect x="213" y="379" width="177" height="139" rx="13" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="350" y="462" width="224" height="80" rx="14" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="487" y="155" width="101" height="141" rx="15" fill="#ffffff" opacity="0.92" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="624" y="238" width="148" height="82" rx="16" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="761" y="321" width="195" height="143" rx="17" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="898" y="404" width="242" height="84" rx="18" fill="#ffffff" opacity="0.92" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="185" y="97" width="119" height="145" rx="19" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="322" y="180" width="166" height="86" rx="20" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <text x="86" y="122" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">linkify</text>
+  <text x="86" y="458" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">KernelDesk</text>
+  <text x="86" y="518" fill="#111827" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">browser automation desk for agents</text>
+</svg>

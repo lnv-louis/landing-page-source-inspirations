@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">AuditBridge hero</title>
+  <desc id="desc">audit bridge for governance teams</desc>
+  <rect width="1200" height="628" fill="#fff7ed"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="4"/>
+  <rect x="232" y="390" width="178" height="140" rx="14" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="369" y="473" width="225" height="81" rx="15" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="506" y="166" width="102" height="142" rx="16" fill="#ffffff" opacity="0.92" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="643" y="249" width="149" height="83" rx="17" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="780" y="332" width="196" height="144" rx="18" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="917" y="415" width="243" height="85" rx="19" fill="#ffffff" opacity="0.92" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="204" y="108" width="120" height="146" rx="20" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="341" y="191" width="167" height="87" rx="21" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <text x="86" y="122" fill="#c2410c" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">launch-ui</text>
+  <text x="86" y="458" fill="#2f1600" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">AuditBridge</text>
+  <text x="86" y="518" fill="#2f1600" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">audit bridge for governance teams</text>
+</svg>

@@ -7,7 +7,7 @@
   "archetype": "docs",
   "route": "/pages/005-intentbase-editorial-report/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/005-intentbase-editorial-report/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
     "key": "next-shadcn",
@@ -27,9 +27,10 @@
     "quickstart-code"
   ],
   "layoutSignature": "editorial-report::form-first::sidebar::docs-hero|editorial-report-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/005-intentbase-editorial-report/assets/logo.svg",
+    "hero": "/pages/005-intentbase-editorial-report/assets/hero.svg",
+    "product": "/pages/005-intentbase-editorial-report/assets/product.svg"
+  }
 }

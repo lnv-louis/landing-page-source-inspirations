@@ -2,17 +2,17 @@
   "id": "076-runwayops-developer-console",
   "number": "076",
   "company": "RunwayOps",
-  "tagline": "dev infra operations for B2B teams",
-  "vertical": "dev-infra",
+  "tagline": "runway planning for finance leaders",
+  "vertical": "planning",
   "archetype": "migration",
   "route": "/pages/076-runwayops-developer-console/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/076-runwayops-developer-console/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "htmlrev",
-    "label": "HTMLrev templates",
-    "url": "https://htmlrev.com/"
+    "key": "pesticide",
+    "label": "Pesticide without hover bar",
+    "url": "https://github.com/michaelkolesidis/pesticide-without-hover-bar"
   },
   "layoutFamily": "developer-console",
   "heroKind": "split-dashboard",
@@ -26,9 +26,10 @@
     "audit-timeline"
   ],
   "layoutSignature": "developer-console::split-dashboard::centered-tabs::migration-hero|developer-console-anchor|trust-center|control-grid|audit-timeline",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/076-runwayops-developer-console/assets/logo.svg",
+    "hero": "/pages/076-runwayops-developer-console/assets/hero.svg",
+    "product": "/pages/076-runwayops-developer-console/assets/product.svg"
+  }
 }

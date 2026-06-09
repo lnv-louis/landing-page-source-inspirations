@@ -2,17 +2,17 @@
   "id": "087-workflowbase-calculator-form",
   "number": "087",
   "company": "WorkflowBase",
-  "tagline": "finops operations for B2B teams",
-  "vertical": "finops",
+  "tagline": "workflow base layer for SaaS ops",
+  "vertical": "workflow",
   "archetype": "integrations",
   "route": "/pages/087-workflowbase-calculator-form/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/087-workflowbase-calculator-form/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "linkify",
-    "label": "Linkify",
-    "url": "https://github.com/Shreyas-29/linkify"
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
   },
   "layoutFamily": "calculator-form",
   "heroKind": "asymmetric-editorial",
@@ -28,9 +28,10 @@
     "integration-grid"
   ],
   "layoutSignature": "calculator-form::asymmetric-editorial::minimal-wordmark::integrations-hero|calculator-form-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/087-workflowbase-calculator-form/assets/logo.svg",
+    "hero": "/pages/087-workflowbase-calculator-form/assets/hero.svg",
+    "product": "/pages/087-workflowbase-calculator-form/assets/product.svg"
+  }
 }

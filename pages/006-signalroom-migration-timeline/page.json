@@ -7,7 +7,7 @@
   "archetype": "security",
   "route": "/pages/006-signalroom-migration-timeline/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/006-signalroom-migration-timeline/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
     "key": "linkify",
@@ -28,9 +28,10 @@
     "security-form"
   ],
   "layoutSignature": "migration-timeline::launch-note::utility-bar::security-hero|migration-timeline-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/006-signalroom-migration-timeline/assets/logo.svg",
+    "hero": "/pages/006-signalroom-migration-timeline/assets/hero.svg",
+    "product": "/pages/006-signalroom-migration-timeline/assets/product.svg"
+  }
 }

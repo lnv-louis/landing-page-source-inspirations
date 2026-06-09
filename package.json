@@ -6,11 +6,24 @@
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-corpus.mjs",
-    "validate": "node scripts/validate-corpus.mjs",
-    "build": "npm run generate && npm run validate && node scripts/build-worker-assets.mjs",
+    "validate": "tsx scripts/validate-corpus.jsx",
+    "build": "npm run generate && npm run validate && vite build",
+    "dev": "npm run generate && vite --host 0.0.0.0",
     "deploy": "npm run build && npx wrangler deploy"
   },
+  "dependencies": {
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.6.0"
+  },
   "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tsx": "^4.19.2",
+    "vite": "^6.0.0",
     "wrangler": "^4.99.0"
   },
   "engines": {

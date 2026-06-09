@@ -2,17 +2,17 @@
   "id": "057-demoroute-announcement-stack",
   "number": "057",
   "company": "DemoRoute",
-  "tagline": "billing operations for B2B teams",
-  "vertical": "billing",
+  "tagline": "demo routing for complex buyer journeys",
+  "vertical": "demo-routing",
   "archetype": "benchmark",
   "route": "/pages/057-demoroute-announcement-stack/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/057-demoroute-announcement-stack/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "nordic-awesome",
-    "label": "nordicgiant2 awesome landing page",
-    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
   },
   "layoutFamily": "announcement-stack",
   "heroKind": "docs-shell",
@@ -28,9 +28,10 @@
     "integration-grid"
   ],
   "layoutSignature": "announcement-stack::docs-shell::utility-bar::benchmark-hero|announcement-stack-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/057-demoroute-announcement-stack/assets/logo.svg",
+    "hero": "/pages/057-demoroute-announcement-stack/assets/hero.svg",
+    "product": "/pages/057-demoroute-announcement-stack/assets/product.svg"
+  }
 }

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">Billwise hero</title>
+  <desc id="desc">usage billing for modern SaaS</desc>
+  <rect width="1200" height="628" fill="#f8fafc"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="203" y="169" width="87" height="49" rx="13" fill="#475569" opacity="0.2" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="340" y="252" width="134" height="110" rx="14" fill="#e2e8f0" opacity="0.78" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="477" y="335" width="181" height="51" rx="15" fill="#ffffff" opacity="0.92" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="614" y="418" width="228" height="112" rx="16" fill="#475569" opacity="0.2" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="751" y="111" width="105" height="53" rx="17" fill="#e2e8f0" opacity="0.78" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="888" y="194" width="152" height="114" rx="18" fill="#ffffff" opacity="0.92" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="175" y="277" width="199" height="55" rx="19" fill="#475569" opacity="0.2" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="312" y="360" width="246" height="116" rx="20" fill="#e2e8f0" opacity="0.78" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="86" y="122" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">launch-ui</text>
+  <text x="86" y="458" fill="#0f172a" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">Billwise</text>
+  <text x="86" y="518" fill="#0f172a" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">usage billing for modern SaaS</text>
+</svg>

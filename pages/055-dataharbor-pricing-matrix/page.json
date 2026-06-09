@@ -2,17 +2,17 @@
   "id": "055-dataharbor-pricing-matrix",
   "number": "055",
   "company": "DataHarbor",
-  "tagline": "revintel operations for B2B teams",
-  "vertical": "revintel",
+  "tagline": "warehouse activation for GTM teams",
+  "vertical": "data",
   "archetype": "marketplace",
   "route": "/pages/055-dataharbor-pricing-matrix/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/055-dataharbor-pricing-matrix/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-awesome",
-    "label": "PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
   },
   "layoutFamily": "pricing-matrix",
   "heroKind": "form-first",
@@ -26,9 +26,10 @@
     "api-table"
   ],
   "layoutSignature": "pricing-matrix::form-first::minimal-wordmark::marketplace-hero|pricing-matrix-anchor|developer-cta|docs-sidebar|api-table",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/055-dataharbor-pricing-matrix/assets/logo.svg",
+    "hero": "/pages/055-dataharbor-pricing-matrix/assets/hero.svg",
+    "product": "/pages/055-dataharbor-pricing-matrix/assets/product.svg"
+  }
 }

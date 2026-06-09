@@ -7,12 +7,12 @@
   "archetype": "procurement",
   "route": "/pages/013-knowledgekit-workflow-lane/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/013-knowledgekit-workflow-lane/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "htmlrev",
-    "label": "HTMLrev templates",
-    "url": "https://htmlrev.com/"
+    "key": "kernel-stagehand",
+    "label": "Kernel Stagehand integration",
+    "url": "https://www.kernel.sh/docs/integrations/stagehand"
   },
   "layoutFamily": "workflow-lane",
   "heroKind": "security-room",
@@ -26,9 +26,10 @@
     "cta-band"
   ],
   "layoutSignature": "workflow-lane::security-room::docs-rail::procurement-hero|workflow-lane-anchor|faq-accordion|procurement-note|cta-band",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/013-knowledgekit-workflow-lane/assets/logo.svg",
+    "hero": "/pages/013-knowledgekit-workflow-lane/assets/hero.svg",
+    "product": "/pages/013-knowledgekit-workflow-lane/assets/product.svg"
+  }
 }

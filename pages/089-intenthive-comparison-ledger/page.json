@@ -2,17 +2,17 @@
   "id": "089-intenthive-comparison-ledger",
   "number": "089",
   "company": "IntentHive",
-  "tagline": "forms operations for B2B teams",
-  "vertical": "forms",
+  "tagline": "intent hive for buying committees",
+  "vertical": "intent-hive",
   "archetype": "calculator",
   "route": "/pages/089-intenthive-comparison-ledger/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/089-intenthive-comparison-ledger/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "convertfast",
-    "label": "ConvertFast UI",
-    "url": "https://github.com/ObservedObserver/convertfast-ui"
+    "key": "pesticide",
+    "label": "Pesticide without hover bar",
+    "url": "https://github.com/michaelkolesidis/pesticide-without-hover-bar"
   },
   "layoutFamily": "comparison-ledger",
   "heroKind": "pricing-led",
@@ -27,9 +27,10 @@
     "benchmark-bars"
   ],
   "layoutSignature": "comparison-ledger::pricing-led::utility-bar::calculator-hero|comparison-ledger-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/089-intenthive-comparison-ledger/assets/logo.svg",
+    "hero": "/pages/089-intenthive-comparison-ledger/assets/hero.svg",
+    "product": "/pages/089-intenthive-comparison-ledger/assets/product.svg"
+  }
 }

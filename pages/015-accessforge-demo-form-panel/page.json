@@ -7,12 +7,12 @@
   "archetype": "marketplace",
   "route": "/pages/015-accessforge-demo-form-panel/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/015-accessforge-demo-form-panel/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "linkify",
-    "label": "Linkify",
-    "url": "https://github.com/Shreyas-29/linkify"
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
   },
   "layoutFamily": "demo-form-panel",
   "heroKind": "launch-note",
@@ -28,9 +28,10 @@
     "changelog-list"
   ],
   "layoutSignature": "demo-form-panel::launch-note::left-rail::marketplace-hero|demo-form-panel-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/015-accessforge-demo-form-panel/assets/logo.svg",
+    "hero": "/pages/015-accessforge-demo-form-panel/assets/hero.svg",
+    "product": "/pages/015-accessforge-demo-form-panel/assets/product.svg"
+  }
 }

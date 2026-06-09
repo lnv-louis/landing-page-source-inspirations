@@ -7,12 +7,12 @@
   "archetype": "developer",
   "route": "/pages/031-runbookai-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/031-runbookai-procurement-checklist/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "htmlrev",
-    "label": "HTMLrev templates",
-    "url": "https://htmlrev.com/"
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
   },
   "layoutFamily": "procurement-checklist",
   "heroKind": "launch-note",
@@ -26,9 +26,10 @@
     "product-proof"
   ],
   "layoutSignature": "procurement-checklist::launch-note::left-rail::developer-hero|procurement-checklist-anchor|logo-cloud|pain-grid|product-proof",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/031-runbookai-procurement-checklist/assets/logo.svg",
+    "hero": "/pages/031-runbookai-procurement-checklist/assets/hero.svg",
+    "product": "/pages/031-runbookai-procurement-checklist/assets/product.svg"
+  }
 }

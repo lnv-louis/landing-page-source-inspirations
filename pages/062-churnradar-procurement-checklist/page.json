@@ -2,17 +2,17 @@
   "id": "062-churnradar-procurement-checklist",
   "number": "062",
   "company": "ChurnRadar",
-  "tagline": "finops operations for B2B teams",
-  "vertical": "finops",
+  "tagline": "retention signals for customer teams",
+  "vertical": "retention",
   "archetype": "product",
   "route": "/pages/062-churnradar-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/062-churnradar-procurement-checklist/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "convertfast",
-    "label": "ConvertFast UI",
-    "url": "https://github.com/ObservedObserver/convertfast-ui"
+    "key": "gofullpage",
+    "label": "GoFullPage capture extension",
+    "url": "https://github.com/mrcoles/full-page-screen-capture-chrome-extension"
   },
   "layoutFamily": "procurement-checklist",
   "heroKind": "asymmetric-editorial",
@@ -27,9 +27,10 @@
     "demo-form"
   ],
   "layoutSignature": "procurement-checklist::asymmetric-editorial::simple-top::product-hero|procurement-checklist-anchor|workflow-steps|role-cards|security-note|demo-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/062-churnradar-procurement-checklist/assets/logo.svg",
+    "hero": "/pages/062-churnradar-procurement-checklist/assets/hero.svg",
+    "product": "/pages/062-churnradar-procurement-checklist/assets/product.svg"
+  }
 }

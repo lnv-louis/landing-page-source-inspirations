@@ -2,17 +2,17 @@
   "id": "097-kerneldesk-centered-terminal",
   "number": "097",
   "company": "KernelDesk",
-  "tagline": "crm operations for B2B teams",
-  "vertical": "crm",
+  "tagline": "browser automation desk for agents",
+  "vertical": "browser-agents",
   "archetype": "benchmark",
   "route": "/pages/097-kerneldesk-centered-terminal/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/097-kerneldesk-centered-terminal/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "launch-ui",
-    "label": "Launch UI",
-    "url": "https://github.com/launch-ui/launch-ui"
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
   },
   "layoutFamily": "centered-terminal",
   "heroKind": "integration-cloud",
@@ -26,9 +26,10 @@
     "webhook-panel"
   ],
   "layoutSignature": "centered-terminal::integration-cloud::simple-top::benchmark-hero|centered-terminal-anchor|marketplace-filters|partner-cards|webhook-panel",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/097-kerneldesk-centered-terminal/assets/logo.svg",
+    "hero": "/pages/097-kerneldesk-centered-terminal/assets/hero.svg",
+    "product": "/pages/097-kerneldesk-centered-terminal/assets/product.svg"
+  }
 }

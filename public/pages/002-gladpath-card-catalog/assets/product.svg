@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">GladPath product</title>
+  <desc id="desc">card-catalog · product</desc>
+  <rect width="1200" height="628" fill="#fff7ed"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="4"/>
+  <rect x="108" y="114" width="82" height="44" rx="8" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="245" y="197" width="129" height="105" rx="9" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="382" y="280" width="176" height="46" rx="10" fill="#ffffff" opacity="0.92" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="519" y="363" width="223" height="107" rx="11" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="656" y="446" width="100" height="48" rx="12" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="793" y="139" width="147" height="109" rx="13" fill="#ffffff" opacity="0.92" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="80" y="222" width="194" height="50" rx="14" fill="#c2410c" opacity="0.2" stroke="#fed7aa" stroke-width="2"/>
+  <rect x="217" y="305" width="241" height="111" rx="15" fill="#fed7aa" opacity="0.78" stroke="#fed7aa" stroke-width="2"/>
+  <text x="86" y="122" fill="#c2410c" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">paulle-gallery</text>
+  <text x="86" y="458" fill="#2f1600" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">GladPath</text>
+  <text x="86" y="518" fill="#2f1600" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">card-catalog · product</text>
+</svg>

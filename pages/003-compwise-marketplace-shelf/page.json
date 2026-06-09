@@ -7,7 +7,7 @@
   "archetype": "pricing",
   "route": "/pages/003-compwise-marketplace-shelf/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/003-compwise-marketplace-shelf/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
     "key": "nordic-awesome",
@@ -28,9 +28,10 @@
     "plan-cards"
   ],
   "layoutSignature": "marketplace-shelf::terminal-window::product-switcher::pricing-hero|marketplace-shelf-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/003-compwise-marketplace-shelf/assets/logo.svg",
+    "hero": "/pages/003-compwise-marketplace-shelf/assets/hero.svg",
+    "product": "/pages/003-compwise-marketplace-shelf/assets/product.svg"
+  }
 }

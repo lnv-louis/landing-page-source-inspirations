@@ -7,12 +7,12 @@
   "archetype": "launch",
   "route": "/pages/038-qualifykit-sidebar-docs/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/038-qualifykit-sidebar-docs/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-gallery",
-    "label": "Awesome landing pages gallery",
-    "url": "https://awesome-landingpages.vercel.app/"
+    "key": "stagehand",
+    "label": "Stagehand v3",
+    "url": "https://docs.stagehand.dev/v3/basics/observe"
   },
   "layoutFamily": "sidebar-docs",
   "heroKind": "security-room",
@@ -27,9 +27,10 @@
     "event-hero"
   ],
   "layoutSignature": "sidebar-docs::security-room::utility-bar::launch-hero|sidebar-docs-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/038-qualifykit-sidebar-docs/assets/logo.svg",
+    "hero": "/pages/038-qualifykit-sidebar-docs/assets/hero.svg",
+    "product": "/pages/038-qualifykit-sidebar-docs/assets/product.svg"
+  }
 }

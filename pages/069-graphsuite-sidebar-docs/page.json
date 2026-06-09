@@ -2,17 +2,17 @@
   "id": "069-graphsuite-sidebar-docs",
   "number": "069",
   "company": "GraphSuite",
-  "tagline": "analytics operations for B2B teams",
-  "vertical": "analytics",
+  "tagline": "account graph workspaces for B2B teams",
+  "vertical": "account-graph",
   "archetype": "calculator",
   "route": "/pages/069-graphsuite-sidebar-docs/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/069-graphsuite-sidebar-docs/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "linkify",
-    "label": "Linkify",
-    "url": "https://github.com/Shreyas-29/linkify"
+    "key": "htmlrev",
+    "label": "HTMLrev templates",
+    "url": "https://htmlrev.com/"
   },
   "layoutFamily": "sidebar-docs",
   "heroKind": "centered-proof",
@@ -28,9 +28,10 @@
     "input-form"
   ],
   "layoutSignature": "sidebar-docs::centered-proof::sidebar::calculator-hero|sidebar-docs-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/069-graphsuite-sidebar-docs/assets/logo.svg",
+    "hero": "/pages/069-graphsuite-sidebar-docs/assets/hero.svg",
+    "product": "/pages/069-graphsuite-sidebar-docs/assets/product.svg"
+  }
 }

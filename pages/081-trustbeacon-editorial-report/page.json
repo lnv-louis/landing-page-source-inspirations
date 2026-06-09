@@ -2,17 +2,17 @@
   "id": "081-trustbeacon-editorial-report",
   "number": "081",
   "company": "TrustBeacon",
-  "tagline": "product analytics operations for B2B teams",
-  "vertical": "product-analytics",
+  "tagline": "trust center automation for SaaS vendors",
+  "vertical": "trust-center",
   "archetype": "home",
   "route": "/pages/081-trustbeacon-editorial-report/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/081-trustbeacon-editorial-report/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "shadcn-landing",
-    "label": "shadcn landing page",
-    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
   },
   "layoutFamily": "editorial-report",
   "heroKind": "launch-note",
@@ -28,9 +28,10 @@
     "cta-band"
   ],
   "layoutSignature": "editorial-report::launch-note::simple-top::home-hero|editorial-report-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/081-trustbeacon-editorial-report/assets/logo.svg",
+    "hero": "/pages/081-trustbeacon-editorial-report/assets/hero.svg",
+    "product": "/pages/081-trustbeacon-editorial-report/assets/product.svg"
+  }
 }

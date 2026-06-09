@@ -7,12 +7,12 @@
   "archetype": "use-case",
   "route": "/pages/034-auditnest-marketplace-shelf/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/034-auditnest-marketplace-shelf/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "launch-ui",
-    "label": "Launch UI",
-    "url": "https://github.com/launch-ui/launch-ui"
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
   },
   "layoutFamily": "marketplace-shelf",
   "heroKind": "customer-story",
@@ -26,9 +26,10 @@
     "competitor-table"
   ],
   "layoutSignature": "marketplace-shelf::customer-story::left-rail::use-case-hero|marketplace-shelf-anchor|migration-steps|demo-form|competitor-table",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/034-auditnest-marketplace-shelf/assets/logo.svg",
+    "hero": "/pages/034-auditnest-marketplace-shelf/assets/hero.svg",
+    "product": "/pages/034-auditnest-marketplace-shelf/assets/product.svg"
+  }
 }

@@ -7,12 +7,12 @@
   "archetype": "comparison",
   "route": "/pages/024-metricbridge-pricing-matrix/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/024-metricbridge-pricing-matrix/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "linkify",
-    "label": "Linkify",
-    "url": "https://github.com/Shreyas-29/linkify"
+    "key": "pesticide",
+    "label": "Pesticide without hover bar",
+    "url": "https://github.com/michaelkolesidis/pesticide-without-hover-bar"
   },
   "layoutFamily": "pricing-matrix",
   "heroKind": "calculator-panel",
@@ -28,9 +28,10 @@
     "proof-quotes"
   ],
   "layoutSignature": "pricing-matrix::calculator-panel::mega-menu::comparison-hero|pricing-matrix-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/024-metricbridge-pricing-matrix/assets/logo.svg",
+    "hero": "/pages/024-metricbridge-pricing-matrix/assets/hero.svg",
+    "product": "/pages/024-metricbridge-pricing-matrix/assets/product.svg"
+  }
 }

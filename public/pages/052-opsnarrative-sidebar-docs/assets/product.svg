@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">OpsNarrative product</title>
+  <desc id="desc">sidebar-docs · agent-workflow</desc>
+  <rect width="1200" height="628" fill="#f7fee7"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#d9f99d" stroke-width="4"/>
+  <rect x="208" y="274" width="132" height="94" rx="22" fill="#4d7c0f" opacity="0.2" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="345" y="357" width="179" height="155" rx="23" fill="#d9f99d" opacity="0.78" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="482" y="440" width="226" height="96" rx="6" fill="#ffffff" opacity="0.92" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="619" y="133" width="103" height="157" rx="7" fill="#4d7c0f" opacity="0.2" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="756" y="216" width="150" height="98" rx="8" fill="#d9f99d" opacity="0.78" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="893" y="299" width="197" height="159" rx="9" fill="#ffffff" opacity="0.92" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="180" y="382" width="244" height="100" rx="10" fill="#4d7c0f" opacity="0.2" stroke="#d9f99d" stroke-width="2"/>
+  <rect x="317" y="465" width="121" height="161" rx="11" fill="#d9f99d" opacity="0.78" stroke="#d9f99d" stroke-width="2"/>
+  <text x="86" y="122" fill="#4d7c0f" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">kernel-stagehand</text>
+  <text x="86" y="458" fill="#1a2e05" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">OpsNarrative</text>
+  <text x="86" y="518" fill="#1a2e05" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">sidebar-docs · agent-workflow</text>
+</svg>

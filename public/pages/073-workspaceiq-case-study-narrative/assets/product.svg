@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">WorkspaceIQ product</title>
+  <desc id="desc">case-study-narrative · procurement</desc>
+  <rect width="1200" height="628" fill="#f8fafc"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#dbe3ef" stroke-width="4"/>
+  <rect x="607" y="115" width="153" height="115" rx="7" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="744" y="198" width="200" height="56" rx="8" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="881" y="281" width="247" height="117" rx="9" fill="#ffffff" opacity="0.92" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="168" y="364" width="124" height="58" rx="10" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="305" y="447" width="171" height="119" rx="11" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="442" y="140" width="218" height="60" rx="12" fill="#ffffff" opacity="0.92" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="579" y="223" width="95" height="121" rx="13" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="716" y="306" width="142" height="62" rx="14" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <text x="86" y="122" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">convertfast</text>
+  <text x="86" y="458" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">WorkspaceIQ</text>
+  <text x="86" y="518" fill="#111827" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">case-study-narrative · procurement</text>
+</svg>

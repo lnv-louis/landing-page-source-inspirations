@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">TrustDock hero</title>
+  <desc id="desc">vendor trust automation</desc>
+  <rect width="1200" height="628" fill="#f8fafc"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#dbe3ef" stroke-width="4"/>
+  <rect x="545" y="367" width="105" height="67" rx="13" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="682" y="450" width="152" height="128" rx="14" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="819" y="143" width="199" height="69" rx="15" fill="#ffffff" opacity="0.92" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="106" y="226" width="246" height="130" rx="16" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="243" y="309" width="123" height="71" rx="17" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="380" y="392" width="170" height="132" rx="18" fill="#ffffff" opacity="0.92" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="517" y="475" width="217" height="73" rx="19" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="654" y="168" width="94" height="134" rx="20" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <text x="86" y="122" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">stagehand</text>
+  <text x="86" y="458" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">TrustDock</text>
+  <text x="86" y="518" fill="#111827" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">vendor trust automation</text>
+</svg>

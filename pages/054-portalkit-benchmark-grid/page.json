@@ -2,17 +2,17 @@
   "id": "054-portalkit-benchmark-grid",
   "number": "054",
   "company": "PortalKit",
-  "tagline": "reliability operations for B2B teams",
-  "vertical": "reliability",
+  "tagline": "customer portal operations for B2B platforms",
+  "vertical": "portal",
   "archetype": "use-case",
   "route": "/pages/054-portalkit-benchmark-grid/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/054-portalkit-benchmark-grid/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "shadcn-landing",
-    "label": "shadcn landing page",
-    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+    "key": "paulle-gallery",
+    "label": "Awesome landing pages gallery",
+    "url": "https://awesome-landingpages.vercel.app/"
   },
   "layoutFamily": "benchmark-grid",
   "heroKind": "metric-wall",
@@ -28,9 +28,10 @@
     "proof-quotes"
   ],
   "layoutSignature": "benchmark-grid::metric-wall::utility-bar::use-case-hero|benchmark-grid-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/054-portalkit-benchmark-grid/assets/logo.svg",
+    "hero": "/pages/054-portalkit-benchmark-grid/assets/hero.svg",
+    "product": "/pages/054-portalkit-benchmark-grid/assets/product.svg"
+  }
 }

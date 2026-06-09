@@ -2,17 +2,17 @@
   "id": "074-buyerdeck-industry-map",
   "number": "074",
   "company": "BuyerDeck",
-  "tagline": "metrics operations for B2B teams",
-  "vertical": "metrics",
+  "tagline": "buyer enablement rooms for enterprise sales",
+  "vertical": "buyer-room",
   "archetype": "use-case",
   "route": "/pages/074-buyerdeck-industry-map/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/074-buyerdeck-industry-map/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-gallery",
-    "label": "Awesome landing pages gallery",
-    "url": "https://awesome-landingpages.vercel.app/"
+    "key": "shadcn-landing",
+    "label": "shadcn landing page",
+    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
   },
   "layoutFamily": "industry-map",
   "heroKind": "calculator-panel",
@@ -27,9 +27,10 @@
     "switcher-panel"
   ],
   "layoutSignature": "industry-map::calculator-panel::minimal-wordmark::use-case-hero|industry-map-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/074-buyerdeck-industry-map/assets/logo.svg",
+    "hero": "/pages/074-buyerdeck-industry-map/assets/hero.svg",
+    "product": "/pages/074-buyerdeck-industry-map/assets/product.svg"
+  }
 }

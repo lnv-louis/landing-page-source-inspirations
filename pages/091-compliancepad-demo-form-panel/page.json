@@ -2,17 +2,17 @@
   "id": "091-compliancepad-demo-form-panel",
   "number": "091",
   "company": "CompliancePad",
-  "tagline": "pipeline operations for B2B teams",
-  "vertical": "pipeline",
+  "tagline": "compliance workspace for startups",
+  "vertical": "startup-compliance",
   "archetype": "developer",
   "route": "/pages/091-compliancepad-demo-form-panel/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/091-compliancepad-demo-form-panel/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-awesome",
-    "label": "PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+    "key": "kernel-stagehand",
+    "label": "Kernel Stagehand integration",
+    "url": "https://www.kernel.sh/docs/integrations/stagehand"
   },
   "layoutFamily": "demo-form-panel",
   "heroKind": "event-poster",
@@ -26,9 +26,10 @@
     "product-proof"
   ],
   "layoutSignature": "demo-form-panel::event-poster::mega-menu::developer-hero|demo-form-panel-anchor|logo-cloud|pain-grid|product-proof",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/091-compliancepad-demo-form-panel/assets/logo.svg",
+    "hero": "/pages/091-compliancepad-demo-form-panel/assets/hero.svg",
+    "product": "/pages/091-compliancepad-demo-form-panel/assets/product.svg"
+  }
 }

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">PortalKit hero</title>
+  <desc id="desc">customer portal operations for B2B platforms</desc>
+  <rect width="1200" height="628" fill="#ecfdf5"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#a7f3d0" stroke-width="4"/>
+  <rect x="246" y="296" width="134" height="96" rx="6" fill="#059669" opacity="0.2" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="383" y="379" width="181" height="157" rx="7" fill="#a7f3d0" opacity="0.78" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="520" y="462" width="228" height="98" rx="8" fill="#ffffff" opacity="0.92" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="657" y="155" width="105" height="159" rx="9" fill="#059669" opacity="0.2" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="794" y="238" width="152" height="100" rx="10" fill="#a7f3d0" opacity="0.78" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="81" y="321" width="199" height="161" rx="11" fill="#ffffff" opacity="0.92" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="218" y="404" width="246" height="102" rx="12" fill="#059669" opacity="0.2" stroke="#a7f3d0" stroke-width="2"/>
+  <rect x="355" y="97" width="123" height="43" rx="13" fill="#a7f3d0" opacity="0.78" stroke="#a7f3d0" stroke-width="2"/>
+  <text x="86" y="122" fill="#059669" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">paulle-gallery</text>
+  <text x="86" y="458" fill="#052e16" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">PortalKit</text>
+  <text x="86" y="518" fill="#052e16" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">customer portal operations for B2B platforms</text>
+</svg>

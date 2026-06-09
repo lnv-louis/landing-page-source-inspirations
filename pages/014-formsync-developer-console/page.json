@@ -7,12 +7,12 @@
   "archetype": "use-case",
   "route": "/pages/014-formsync-developer-console/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/014-formsync-developer-console/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "next-shadcn",
-    "label": "next-shadcn-landing",
-    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+    "key": "paulle-awesome",
+    "label": "PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
   },
   "layoutFamily": "developer-console",
   "heroKind": "pricing-led",
@@ -27,9 +27,10 @@
     "switcher-panel"
   ],
   "layoutSignature": "developer-console::pricing-led::simple-top::use-case-hero|developer-console-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/014-formsync-developer-console/assets/logo.svg",
+    "hero": "/pages/014-formsync-developer-console/assets/hero.svg",
+    "product": "/pages/014-formsync-developer-console/assets/product.svg"
+  }
 }

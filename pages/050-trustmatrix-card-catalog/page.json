@@ -7,12 +7,12 @@
   "archetype": "case-study",
   "route": "/pages/050-trustmatrix-card-catalog/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/050-trustmatrix-card-catalog/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "next-shadcn",
-    "label": "next-shadcn-landing",
-    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+    "key": "pesticide",
+    "label": "Pesticide without hover bar",
+    "url": "https://github.com/michaelkolesidis/pesticide-without-hover-bar"
   },
   "layoutFamily": "card-catalog",
   "heroKind": "event-poster",
@@ -27,9 +27,10 @@
     "metric-row"
   ],
   "layoutSignature": "card-catalog::event-poster::left-rail::case-study-hero|card-catalog-anchor|quote-wall|case-masthead|before-after|metric-row",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/050-trustmatrix-card-catalog/assets/logo.svg",
+    "hero": "/pages/050-trustmatrix-card-catalog/assets/hero.svg",
+    "product": "/pages/050-trustmatrix-card-catalog/assets/product.svg"
+  }
 }

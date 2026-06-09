@@ -2,17 +2,17 @@
   "id": "096-evidenceflow-marketplace-shelf",
   "number": "096",
   "company": "EvidenceFlow",
-  "tagline": "release operations for B2B teams",
-  "vertical": "release",
+  "tagline": "evidence workflows for regulated SaaS",
+  "vertical": "evidence",
   "archetype": "migration",
   "route": "/pages/096-evidenceflow-marketplace-shelf/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/096-evidenceflow-marketplace-shelf/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "linkify",
-    "label": "Linkify",
-    "url": "https://github.com/Shreyas-29/linkify"
+    "key": "next-shadcn",
+    "label": "next-shadcn-landing",
+    "url": "https://github.com/redpangilinan/next-shadcn-landing"
   },
   "layoutFamily": "marketplace-shelf",
   "heroKind": "form-first",
@@ -28,9 +28,10 @@
     "security-form"
   ],
   "layoutSignature": "marketplace-shelf::form-first::product-switcher::migration-hero|marketplace-shelf-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/096-evidenceflow-marketplace-shelf/assets/logo.svg",
+    "hero": "/pages/096-evidenceflow-marketplace-shelf/assets/hero.svg",
+    "product": "/pages/096-evidenceflow-marketplace-shelf/assets/product.svg"
+  }
 }

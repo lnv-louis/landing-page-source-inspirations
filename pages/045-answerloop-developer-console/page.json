@@ -7,12 +7,12 @@
   "archetype": "docs",
   "route": "/pages/045-answerloop-developer-console/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/045-answerloop-developer-console/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "shadcn-landing",
-    "label": "shadcn landing page",
-    "url": "https://github.com/leoMirandaa/shadcn-landing-page"
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
   },
   "layoutFamily": "developer-console",
   "heroKind": "api-console",
@@ -28,9 +28,10 @@
     "changelog-list"
   ],
   "layoutSignature": "developer-console::api-console::docs-rail::docs-hero|developer-console-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/045-answerloop-developer-console/assets/logo.svg",
+    "hero": "/pages/045-answerloop-developer-console/assets/hero.svg",
+    "product": "/pages/045-answerloop-developer-console/assets/product.svg"
+  }
 }

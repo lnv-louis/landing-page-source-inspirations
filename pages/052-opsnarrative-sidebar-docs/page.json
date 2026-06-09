@@ -2,17 +2,17 @@
   "id": "052-opsnarrative-sidebar-docs",
   "number": "052",
   "company": "OpsNarrative",
-  "tagline": "cx operations for B2B teams",
-  "vertical": "cx",
+  "tagline": "operating narratives for executive teams",
+  "vertical": "ops",
   "archetype": "agent-workflow",
   "route": "/pages/052-opsnarrative-sidebar-docs/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/052-opsnarrative-sidebar-docs/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "launch-ui",
-    "label": "Launch UI",
-    "url": "https://github.com/launch-ui/launch-ui"
+    "key": "kernel-stagehand",
+    "label": "Kernel Stagehand integration",
+    "url": "https://www.kernel.sh/docs/integrations/stagehand"
   },
   "layoutFamily": "sidebar-docs",
   "heroKind": "workflow-board",
@@ -26,9 +26,10 @@
     "security-note"
   ],
   "layoutSignature": "sidebar-docs::workflow-board::anchor-strip::agent-workflow-hero|sidebar-docs-anchor|workflow-steps|role-cards|security-note",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/052-opsnarrative-sidebar-docs/assets/logo.svg",
+    "hero": "/pages/052-opsnarrative-sidebar-docs/assets/hero.svg",
+    "product": "/pages/052-opsnarrative-sidebar-docs/assets/product.svg"
+  }
 }

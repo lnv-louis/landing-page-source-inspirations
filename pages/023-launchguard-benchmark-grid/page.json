@@ -7,12 +7,12 @@
   "archetype": "pricing",
   "route": "/pages/023-launchguard-benchmark-grid/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/023-launchguard-benchmark-grid/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "next-shadcn",
-    "label": "next-shadcn-landing",
-    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+    "key": "gofullpage",
+    "label": "GoFullPage capture extension",
+    "url": "https://github.com/mrcoles/full-page-screen-capture-chrome-extension"
   },
   "layoutFamily": "benchmark-grid",
   "heroKind": "comparison-first",
@@ -27,9 +27,10 @@
     "pricing-table"
   ],
   "layoutSignature": "benchmark-grid::comparison-first::minimal-wordmark::pricing-hero|benchmark-grid-anchor|faq-accordion|procurement-note|cta-band|pricing-table",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/023-launchguard-benchmark-grid/assets/logo.svg",
+    "hero": "/pages/023-launchguard-benchmark-grid/assets/hero.svg",
+    "product": "/pages/023-launchguard-benchmark-grid/assets/product.svg"
+  }
 }

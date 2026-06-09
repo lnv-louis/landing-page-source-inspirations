@@ -2,17 +2,17 @@
   "id": "060-spendpilot-industry-map",
   "number": "060",
   "company": "SpendPilot",
-  "tagline": "automation operations for B2B teams",
-  "vertical": "automation",
+  "tagline": "spend workflows for finance teams",
+  "vertical": "finance",
   "archetype": "demo-request",
   "route": "/pages/060-spendpilot-industry-map/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/060-spendpilot-industry-map/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "linkify",
-    "label": "Linkify",
-    "url": "https://github.com/Shreyas-29/linkify"
+    "key": "convertfast",
+    "label": "ConvertFast UI",
+    "url": "https://github.com/ObservedObserver/convertfast-ui"
   },
   "layoutFamily": "industry-map",
   "heroKind": "split-dashboard",
@@ -28,9 +28,10 @@
     "story-timeline"
   ],
   "layoutSignature": "industry-map::split-dashboard::centered-tabs::demo-request-hero|industry-map-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/060-spendpilot-industry-map/assets/logo.svg",
+    "hero": "/pages/060-spendpilot-industry-map/assets/hero.svg",
+    "product": "/pages/060-spendpilot-industry-map/assets/product.svg"
+  }
 }

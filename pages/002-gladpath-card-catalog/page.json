@@ -7,7 +7,7 @@
   "archetype": "product",
   "route": "/pages/002-gladpath-card-catalog/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/002-gladpath-card-catalog/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
     "key": "paulle-gallery",
@@ -27,9 +27,10 @@
     "demo-form"
   ],
   "layoutSignature": "card-catalog::workflow-board::left-rail::product-hero|card-catalog-anchor|workflow-steps|role-cards|security-note|demo-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/002-gladpath-card-catalog/assets/logo.svg",
+    "hero": "/pages/002-gladpath-card-catalog/assets/hero.svg",
+    "product": "/pages/002-gladpath-card-catalog/assets/product.svg"
+  }
 }

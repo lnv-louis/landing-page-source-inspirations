@@ -7,7 +7,7 @@
   "archetype": "comparison",
   "route": "/pages/004-chaosdeck-centered-terminal/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/004-chaosdeck-centered-terminal/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
     "key": "htmlrev",
@@ -26,9 +26,10 @@
     "competitor-table"
   ],
   "layoutSignature": "centered-terminal::metric-wall::anchor-strip::comparison-hero|centered-terminal-anchor|migration-steps|demo-form|competitor-table",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/004-chaosdeck-centered-terminal/assets/logo.svg",
+    "hero": "/pages/004-chaosdeck-centered-terminal/assets/hero.svg",
+    "product": "/pages/004-chaosdeck-centered-terminal/assets/product.svg"
+  }
 }

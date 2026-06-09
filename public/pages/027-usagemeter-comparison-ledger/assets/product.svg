@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">UsageMeter product</title>
+  <desc id="desc">comparison-ledger · integrations</desc>
+  <rect width="1200" height="628" fill="#f0f9ff"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#bae6fd" stroke-width="4"/>
+  <rect x="583" y="389" width="107" height="69" rx="15" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="720" y="472" width="154" height="130" rx="16" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="857" y="165" width="201" height="71" rx="17" fill="#ffffff" opacity="0.92" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="144" y="248" width="248" height="132" rx="18" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="281" y="331" width="125" height="73" rx="19" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="418" y="414" width="172" height="134" rx="20" fill="#ffffff" opacity="0.92" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="555" y="107" width="219" height="75" rx="21" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="692" y="190" width="96" height="136" rx="22" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <text x="86" y="122" fill="#0369a1" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">paulle-awesome</text>
+  <text x="86" y="458" fill="#082f49" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">UsageMeter</text>
+  <text x="86" y="518" fill="#082f49" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">comparison-ledger · integrations</text>
+</svg>

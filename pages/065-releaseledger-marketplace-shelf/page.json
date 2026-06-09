@@ -2,17 +2,17 @@
   "id": "065-releaseledger-marketplace-shelf",
   "number": "065",
   "company": "ReleaseLedger",
-  "tagline": "identity operations for B2B teams",
-  "vertical": "identity",
+  "tagline": "release evidence for product orgs",
+  "vertical": "release-ledger",
   "archetype": "docs",
   "route": "/pages/065-releaseledger-marketplace-shelf/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/065-releaseledger-marketplace-shelf/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-gallery",
-    "label": "Awesome landing pages gallery",
-    "url": "https://awesome-landingpages.vercel.app/"
+    "key": "kernel-stagehand",
+    "label": "Kernel Stagehand integration",
+    "url": "https://www.kernel.sh/docs/integrations/stagehand"
   },
   "layoutFamily": "marketplace-shelf",
   "heroKind": "launch-note",
@@ -27,9 +27,10 @@
     "quickstart-code"
   ],
   "layoutSignature": "marketplace-shelf::launch-note::simple-top::docs-hero|marketplace-shelf-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/065-releaseledger-marketplace-shelf/assets/logo.svg",
+    "hero": "/pages/065-releaseledger-marketplace-shelf/assets/hero.svg",
+    "product": "/pages/065-releaseledger-marketplace-shelf/assets/product.svg"
+  }
 }

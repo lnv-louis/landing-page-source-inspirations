@@ -7,12 +7,12 @@
   "archetype": "benchmark",
   "route": "/pages/017-prooflayer-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/017-prooflayer-procurement-checklist/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "convertfast",
-    "label": "ConvertFast UI",
-    "url": "https://github.com/ObservedObserver/convertfast-ui"
+    "key": "htmlrev",
+    "label": "HTMLrev templates",
+    "url": "https://htmlrev.com/"
   },
   "layoutFamily": "procurement-checklist",
   "heroKind": "demo-room",
@@ -27,9 +27,10 @@
     "signup-form"
   ],
   "layoutSignature": "procurement-checklist::demo-room::simple-top::benchmark-hero|procurement-checklist-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/017-prooflayer-procurement-checklist/assets/logo.svg",
+    "hero": "/pages/017-prooflayer-procurement-checklist/assets/hero.svg",
+    "product": "/pages/017-prooflayer-procurement-checklist/assets/product.svg"
+  }
 }

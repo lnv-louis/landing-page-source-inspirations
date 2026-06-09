@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">LaunchGuard product</title>
+  <desc id="desc">benchmark-grid · pricing</desc>
+  <rect width="1200" height="628" fill="#f8fafc"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="507" y="345" width="103" height="65" rx="11" fill="#475569" opacity="0.2" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="644" y="428" width="150" height="126" rx="12" fill="#e2e8f0" opacity="0.78" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="781" y="121" width="197" height="67" rx="13" fill="#ffffff" opacity="0.92" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="918" y="204" width="244" height="128" rx="14" fill="#475569" opacity="0.2" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="205" y="287" width="121" height="69" rx="15" fill="#e2e8f0" opacity="0.78" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="342" y="370" width="168" height="130" rx="16" fill="#ffffff" opacity="0.92" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="479" y="453" width="215" height="71" rx="17" fill="#475569" opacity="0.2" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="616" y="146" width="92" height="132" rx="18" fill="#e2e8f0" opacity="0.78" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="86" y="122" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">gofullpage</text>
+  <text x="86" y="458" fill="#0f172a" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">LaunchGuard</text>
+  <text x="86" y="518" fill="#0f172a" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">benchmark-grid · pricing</text>
+</svg>

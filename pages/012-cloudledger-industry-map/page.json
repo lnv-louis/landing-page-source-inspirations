@@ -7,12 +7,12 @@
   "archetype": "agent-workflow",
   "route": "/pages/012-cloudledger-industry-map/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/012-cloudledger-industry-map/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "nordic-awesome",
-    "label": "nordicgiant2 awesome landing page",
-    "url": "https://github.com/nordicgiant2/awesome-landing-page"
+    "key": "stagehand",
+    "label": "Stagehand v3",
+    "url": "https://docs.stagehand.dev/v3/basics/observe"
   },
   "layoutFamily": "industry-map",
   "heroKind": "asymmetric-editorial",
@@ -28,9 +28,10 @@
     "feature-tabs"
   ],
   "layoutSignature": "industry-map::asymmetric-editorial::centered-tabs::agent-workflow-hero|industry-map-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/012-cloudledger-industry-map/assets/logo.svg",
+    "hero": "/pages/012-cloudledger-industry-map/assets/hero.svg",
+    "product": "/pages/012-cloudledger-industry-map/assets/product.svg"
+  }
 }

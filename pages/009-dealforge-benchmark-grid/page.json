@@ -7,7 +7,7 @@
   "archetype": "calculator",
   "route": "/pages/009-dealforge-benchmark-grid/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/009-dealforge-benchmark-grid/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
     "key": "shadcn-landing",
@@ -28,9 +28,10 @@
     "input-form"
   ],
   "layoutSignature": "benchmark-grid::customer-story::utility-bar::calculator-hero|benchmark-grid-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/009-dealforge-benchmark-grid/assets/logo.svg",
+    "hero": "/pages/009-dealforge-benchmark-grid/assets/hero.svg",
+    "product": "/pages/009-dealforge-benchmark-grid/assets/product.svg"
+  }
 }

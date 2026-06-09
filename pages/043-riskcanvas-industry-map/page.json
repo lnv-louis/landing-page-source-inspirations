@@ -7,12 +7,12 @@
   "archetype": "pricing",
   "route": "/pages/043-riskcanvas-industry-map/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/043-riskcanvas-industry-map/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "launch-ui",
-    "label": "Launch UI",
-    "url": "https://github.com/launch-ui/launch-ui"
+    "key": "htmlrev",
+    "label": "HTMLrev templates",
+    "url": "https://htmlrev.com/"
   },
   "layoutFamily": "industry-map",
   "heroKind": "market-map",
@@ -26,9 +26,10 @@
     "cta-band"
   ],
   "layoutSignature": "industry-map::market-map::mega-menu::pricing-hero|industry-map-anchor|faq-accordion|procurement-note|cta-band",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/043-riskcanvas-industry-map/assets/logo.svg",
+    "hero": "/pages/043-riskcanvas-industry-map/assets/hero.svg",
+    "product": "/pages/043-riskcanvas-industry-map/assets/product.svg"
+  }
 }

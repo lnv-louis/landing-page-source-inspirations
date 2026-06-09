@@ -7,12 +7,12 @@
   "archetype": "calculator",
   "route": "/pages/029-segmentflow-industry-map/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/029-segmentflow-industry-map/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-gallery",
-    "label": "Awesome landing pages gallery",
-    "url": "https://awesome-landingpages.vercel.app/"
+    "key": "nordic-awesome",
+    "label": "nordicgiant2 awesome landing page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page"
   },
   "layoutFamily": "industry-map",
   "heroKind": "metric-wall",
@@ -27,9 +27,10 @@
     "benchmark-bars"
   ],
   "layoutSignature": "industry-map::metric-wall::docs-rail::calculator-hero|industry-map-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/029-segmentflow-industry-map/assets/logo.svg",
+    "hero": "/pages/029-segmentflow-industry-map/assets/hero.svg",
+    "product": "/pages/029-segmentflow-industry-map/assets/product.svg"
+  }
 }

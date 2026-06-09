@@ -7,12 +7,12 @@
   "archetype": "agent-workflow",
   "route": "/pages/032-docsrelay-split-proof/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/032-docsrelay-split-proof/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "next-shadcn",
-    "label": "next-shadcn-landing",
-    "url": "https://github.com/redpangilinan/next-shadcn-landing"
+    "key": "linkify",
+    "label": "Linkify",
+    "url": "https://github.com/Shreyas-29/linkify"
   },
   "layoutFamily": "split-proof",
   "heroKind": "docs-shell",
@@ -27,9 +27,10 @@
     "demo-form"
   ],
   "layoutSignature": "split-proof::docs-shell::product-switcher::agent-workflow-hero|split-proof-anchor|workflow-steps|role-cards|security-note|demo-form",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/032-docsrelay-split-proof/assets/logo.svg",
+    "hero": "/pages/032-docsrelay-split-proof/assets/hero.svg",
+    "product": "/pages/032-docsrelay-split-proof/assets/product.svg"
+  }
 }

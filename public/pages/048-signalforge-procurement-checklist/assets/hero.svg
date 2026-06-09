@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">SignalForge hero</title>
+  <desc id="desc">signal scoring for outbound teams</desc>
+  <rect width="1200" height="628" fill="#fdf4ff"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#f5d0fe" stroke-width="4"/>
+  <rect x="132" y="230" width="128" height="90" rx="18" fill="#a21caf" opacity="0.2" stroke="#f5d0fe" stroke-width="2"/>
+  <rect x="269" y="313" width="175" height="151" rx="19" fill="#f5d0fe" opacity="0.78" stroke="#f5d0fe" stroke-width="2"/>
+  <rect x="406" y="396" width="222" height="92" rx="20" fill="#ffffff" opacity="0.92" stroke="#f5d0fe" stroke-width="2"/>
+  <rect x="543" y="479" width="99" height="153" rx="21" fill="#a21caf" opacity="0.2" stroke="#f5d0fe" stroke-width="2"/>
+  <rect x="680" y="172" width="146" height="94" rx="22" fill="#f5d0fe" opacity="0.78" stroke="#f5d0fe" stroke-width="2"/>
+  <rect x="817" y="255" width="193" height="155" rx="23" fill="#ffffff" opacity="0.92" stroke="#f5d0fe" stroke-width="2"/>
+  <rect x="104" y="338" width="240" height="96" rx="6" fill="#a21caf" opacity="0.2" stroke="#f5d0fe" stroke-width="2"/>
+  <rect x="241" y="421" width="117" height="157" rx="7" fill="#f5d0fe" opacity="0.78" stroke="#f5d0fe" stroke-width="2"/>
+  <text x="86" y="122" fill="#a21caf" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">shadcn-landing</text>
+  <text x="86" y="458" fill="#4a044e" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">SignalForge</text>
+  <text x="86" y="518" fill="#4a044e" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">signal scoring for outbound teams</text>
+</svg>

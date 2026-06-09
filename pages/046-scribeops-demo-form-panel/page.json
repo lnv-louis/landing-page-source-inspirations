@@ -7,12 +7,12 @@
   "archetype": "security",
   "route": "/pages/046-scribeops-demo-form-panel/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/046-scribeops-demo-form-panel/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-awesome",
-    "label": "PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages"
+    "key": "launch-ui",
+    "label": "Launch UI",
+    "url": "https://github.com/launch-ui/launch-ui"
   },
   "layoutFamily": "demo-form-panel",
   "heroKind": "form-first",
@@ -26,9 +26,10 @@
     "audit-timeline"
   ],
   "layoutSignature": "demo-form-panel::form-first::simple-top::security-hero|demo-form-panel-anchor|trust-center|control-grid|audit-timeline",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/046-scribeops-demo-form-panel/assets/logo.svg",
+    "hero": "/pages/046-scribeops-demo-form-panel/assets/hero.svg",
+    "product": "/pages/046-scribeops-demo-form-panel/assets/product.svg"
+  }
 }

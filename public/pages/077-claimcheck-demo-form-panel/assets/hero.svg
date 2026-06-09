@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">ClaimCheck hero</title>
+  <desc id="desc">claims review for compliance teams</desc>
+  <rect width="1200" height="628" fill="#fff1f2"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#fecdd3" stroke-width="4"/>
+  <rect x="683" y="159" width="157" height="119" rx="11" fill="#e11d48" opacity="0.2" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="820" y="242" width="204" height="60" rx="12" fill="#fecdd3" opacity="0.78" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="107" y="325" width="81" height="121" rx="13" fill="#ffffff" opacity="0.92" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="244" y="408" width="128" height="62" rx="14" fill="#e11d48" opacity="0.2" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="381" y="101" width="175" height="123" rx="15" fill="#fecdd3" opacity="0.78" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="518" y="184" width="222" height="64" rx="16" fill="#ffffff" opacity="0.92" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="655" y="267" width="99" height="125" rx="17" fill="#e11d48" opacity="0.2" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="792" y="350" width="146" height="66" rx="18" fill="#fecdd3" opacity="0.78" stroke="#fecdd3" stroke-width="2"/>
+  <text x="86" y="122" fill="#e11d48" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">stagehand</text>
+  <text x="86" y="458" fill="#4c0519" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">ClaimCheck</text>
+  <text x="86" y="518" fill="#4c0519" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">claims review for compliance teams</text>
+</svg>

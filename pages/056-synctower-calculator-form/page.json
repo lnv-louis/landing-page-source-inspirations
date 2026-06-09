@@ -2,17 +2,17 @@
   "id": "056-synctower-calculator-form",
   "number": "056",
   "company": "SyncTower",
-  "tagline": "product analytics operations for B2B teams",
-  "vertical": "product-analytics",
+  "tagline": "system sync controls for business apps",
+  "vertical": "sync",
   "archetype": "migration",
   "route": "/pages/056-synctower-calculator-form/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/056-synctower-calculator-form/",
-  "sourceType": "architect-owned-generated-source",
+  "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
-    "key": "paulle-gallery",
-    "label": "Awesome landing pages gallery",
-    "url": "https://awesome-landingpages.vercel.app/"
+    "key": "htmlrev",
+    "label": "HTMLrev templates",
+    "url": "https://htmlrev.com/"
   },
   "layoutFamily": "calculator-form",
   "heroKind": "launch-note",
@@ -27,9 +27,10 @@
     "policy-links"
   ],
   "layoutSignature": "calculator-form::launch-note::mega-menu::migration-hero|calculator-form-anchor|trust-center|control-grid|audit-timeline|policy-links",
-  "assets": [
-    "assets/logo.svg",
-    "assets/hero.svg",
-    "assets/product.svg"
-  ]
+  "sourcePath": "src/data/generated-pages.js",
+  "assets": {
+    "logo": "/pages/056-synctower-calculator-form/assets/logo.svg",
+    "hero": "/pages/056-synctower-calculator-form/assets/hero.svg",
+    "product": "/pages/056-synctower-calculator-form/assets/product.svg"
+  }
 }
