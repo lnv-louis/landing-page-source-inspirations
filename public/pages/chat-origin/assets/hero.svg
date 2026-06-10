@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">Chat Origin hero</title>
+  <desc id="desc">Conversational app landing page with direct demo action</desc>
+  <rect width="1200" height="628" fill="#f8fafc"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#dbe3ef" stroke-width="4"/>
+  <rect x="403" y="99" width="187" height="149" rx="23" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="540" y="182" width="234" height="90" rx="6" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="677" y="265" width="111" height="151" rx="7" fill="#ffffff" opacity="0.92" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="814" y="348" width="158" height="92" rx="8" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="101" y="431" width="205" height="153" rx="9" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="238" y="124" width="82" height="94" rx="10" fill="#ffffff" opacity="0.92" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="375" y="207" width="129" height="155" rx="11" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="512" y="290" width="176" height="96" rx="12" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <text x="86" y="122" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">paulledemon-vite-20</text>
+  <text x="86" y="458" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">Chat Origin</text>
+  <text x="86" y="518" fill="#111827" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">Conversational app landing page with direct demo action</text>
+</svg>

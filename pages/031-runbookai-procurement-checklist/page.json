@@ -1,12 +1,15 @@
 {
   "id": "031-runbookai-procurement-checklist",
   "number": "031",
+  "title": "RunbookAI",
   "company": "RunbookAI",
   "tagline": "runbook automation for SRE teams",
   "vertical": "sre",
   "archetype": "developer",
   "route": "/pages/031-runbookai-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/031-runbookai-procurement-checklist/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

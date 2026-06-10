@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">Traveler product</title>
+  <desc id="desc">industry-map · home</desc>
+  <rect width="1200" height="628" fill="#f0f9ff"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#bae6fd" stroke-width="4"/>
+  <rect x="441" y="121" width="189" height="151" rx="7" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="578" y="204" width="236" height="92" rx="8" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="715" y="287" width="113" height="153" rx="9" fill="#ffffff" opacity="0.92" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="852" y="370" width="160" height="94" rx="10" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="139" y="453" width="207" height="155" rx="11" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="276" y="146" width="84" height="96" rx="12" fill="#ffffff" opacity="0.92" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="413" y="229" width="131" height="157" rx="13" fill="#0369a1" opacity="0.2" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="550" y="312" width="178" height="98" rx="14" fill="#bae6fd" opacity="0.78" stroke="#bae6fd" stroke-width="2"/>
+  <text x="86" y="122" fill="#0369a1" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">paulledemon-vite-20</text>
+  <text x="86" y="458" fill="#082f49" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">Traveler</text>
+  <text x="86" y="518" fill="#082f49" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">industry-map · home</text>
+</svg>

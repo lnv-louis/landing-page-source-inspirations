@@ -1,12 +1,15 @@
 {
   "id": "005-intentbase-editorial-report",
   "number": "005",
+  "title": "IntentBase",
   "company": "IntentBase",
   "tagline": "buyer-intent routing for revenue teams",
   "vertical": "revintel",
   "archetype": "docs",
   "route": "/pages/005-intentbase-editorial-report/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/005-intentbase-editorial-report/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

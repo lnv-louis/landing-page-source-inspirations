@@ -1,12 +1,15 @@
 {
   "id": "071-fieldbridge-announcement-stack",
   "number": "071",
+  "title": "FieldBridge",
   "company": "FieldBridge",
   "tagline": "field team workflows for sales engineers",
   "vertical": "field",
   "archetype": "developer",
   "route": "/pages/071-fieldbridge-announcement-stack/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/071-fieldbridge-announcement-stack/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

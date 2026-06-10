@@ -1,12 +1,15 @@
 {
   "id": "064-formbridge-card-catalog",
   "number": "064",
+  "title": "FormBridge",
   "company": "FormBridge",
   "tagline": "form enrichment for sales funnels",
   "vertical": "enrichment",
   "archetype": "comparison",
   "route": "/pages/064-formbridge-card-catalog/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/064-formbridge-card-catalog/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

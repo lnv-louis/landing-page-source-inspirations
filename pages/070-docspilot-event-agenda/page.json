@@ -1,12 +1,15 @@
 {
   "id": "070-docspilot-event-agenda",
   "number": "070",
+  "title": "DocsPilot",
   "company": "DocsPilot",
   "tagline": "docs insights for developer marketing",
   "vertical": "developer-docs",
   "archetype": "case-study",
   "route": "/pages/070-docspilot-event-agenda/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/070-docspilot-event-agenda/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

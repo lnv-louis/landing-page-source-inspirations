@@ -1,12 +1,15 @@
 {
   "id": "057-demoroute-announcement-stack",
   "number": "057",
+  "title": "DemoRoute",
   "company": "DemoRoute",
   "tagline": "demo routing for complex buyer journeys",
   "vertical": "demo-routing",
   "archetype": "benchmark",
   "route": "/pages/057-demoroute-announcement-stack/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/057-demoroute-announcement-stack/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

@@ -1,12 +1,15 @@
 {
   "id": "048-signalforge-procurement-checklist",
   "number": "048",
+  "title": "SignalForge",
   "company": "SignalForge",
   "tagline": "signal scoring for outbound teams",
   "vertical": "outbound",
   "archetype": "event",
   "route": "/pages/048-signalforge-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/048-signalforge-procurement-checklist/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

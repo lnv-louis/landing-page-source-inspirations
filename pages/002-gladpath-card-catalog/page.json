@@ -1,12 +1,15 @@
 {
   "id": "002-gladpath-card-catalog",
   "number": "002",
+  "title": "GladPath",
   "company": "GladPath",
   "tagline": "AI service operations for enterprise support",
   "vertical": "cx",
   "archetype": "product",
   "route": "/pages/002-gladpath-card-catalog/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/002-gladpath-card-catalog/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-corpus.mjs",
-    "validate": "tsx scripts/validate-corpus.jsx",
+    "validate": "tsx scripts/validate-corpus.jsx && node scripts/validate-paulledemon-batch.mjs",
     "build": "npm run generate && npm run validate && vite build",
     "dev": "npm run generate && vite --host 0.0.0.0",
     "deploy": "npm run build && npx wrangler deploy"

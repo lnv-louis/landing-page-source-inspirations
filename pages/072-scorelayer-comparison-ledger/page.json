@@ -1,12 +1,15 @@
 {
   "id": "072-scorelayer-comparison-ledger",
   "number": "072",
+  "title": "ScoreLayer",
   "company": "ScoreLayer",
   "tagline": "lead score governance for RevOps",
   "vertical": "scoring",
   "archetype": "agent-workflow",
   "route": "/pages/072-scorelayer-comparison-ledger/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/072-scorelayer-comparison-ledger/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

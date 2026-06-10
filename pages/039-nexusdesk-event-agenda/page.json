@@ -1,12 +1,15 @@
 {
   "id": "039-nexusdesk-event-agenda",
   "number": "039",
+  "title": "NexusDesk",
   "company": "NexusDesk",
   "tagline": "service desk workflow intelligence",
   "vertical": "service-desk",
   "archetype": "solutions",
   "route": "/pages/039-nexusdesk-event-agenda/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/039-nexusdesk-event-agenda/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

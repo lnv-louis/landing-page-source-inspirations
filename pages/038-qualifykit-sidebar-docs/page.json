@@ -1,12 +1,15 @@
 {
   "id": "038-qualifykit-sidebar-docs",
   "number": "038",
+  "title": "QualifyKit",
   "company": "QualifyKit",
   "tagline": "lead qualification for sales-assisted funnels",
   "vertical": "qualification",
   "archetype": "launch",
   "route": "/pages/038-qualifykit-sidebar-docs/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/038-qualifykit-sidebar-docs/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

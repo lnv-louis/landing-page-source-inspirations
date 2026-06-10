@@ -1,12 +1,15 @@
 {
   "id": "013-knowledgekit-workflow-lane",
   "number": "013",
+  "title": "KnowledgeKit",
   "company": "KnowledgeKit",
   "tagline": "docs and support answer orchestration",
   "vertical": "knowledge",
   "archetype": "procurement",
   "route": "/pages/013-knowledgekit-workflow-lane/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/013-knowledgekit-workflow-lane/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

@@ -1,12 +1,15 @@
 {
   "id": "021-vectorops-sidebar-docs",
   "number": "021",
+  "title": "VectorOps",
   "company": "VectorOps",
   "tagline": "feature flag governance for releases",
   "vertical": "release",
   "archetype": "home",
   "route": "/pages/021-vectorops-sidebar-docs/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/021-vectorops-sidebar-docs/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

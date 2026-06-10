@@ -1,7 +1,10 @@
 import React from "react";
 import { RootIndex } from "./components/root-index.jsx";
 import { LandingPage } from "./components/landing-page.jsx";
-import { pages } from "./data/generated-pages.js";
+import { pages as generatedPages } from "./data/generated-pages.js";
+import { pages as sourceBackedPages } from "./data/source-backed-pages.js";
+
+const pages = [...generatedPages, ...sourceBackedPages];
 
 function pageIdFromPath(pathname) {
   const match = pathname.match(/^\/pages\/([^/]+)\/?$/);

@@ -1,12 +1,15 @@
 {
   "id": "028-policyhub-case-study-narrative",
   "number": "028",
+  "title": "PolicyHub",
   "company": "PolicyHub",
   "tagline": "policy lifecycle for compliance teams",
   "vertical": "policy",
   "archetype": "event",
   "route": "/pages/028-policyhub-case-study-narrative/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/028-policyhub-case-study-narrative/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

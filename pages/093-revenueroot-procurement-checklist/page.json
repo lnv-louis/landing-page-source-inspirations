@@ -1,12 +1,15 @@
 {
   "id": "093-revenueroot-procurement-checklist",
   "number": "093",
+  "title": "RevenueRoot",
   "company": "RevenueRoot",
   "tagline": "revenue root cause analysis",
   "vertical": "revenue-root",
   "archetype": "procurement",
   "route": "/pages/093-revenueroot-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/093-revenueroot-procurement-checklist/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

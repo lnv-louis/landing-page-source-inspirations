@@ -1,12 +1,15 @@
 {
   "id": "094-opsatlas-split-proof",
   "number": "094",
+  "title": "OpsAtlas",
   "company": "OpsAtlas",
   "tagline": "ops atlas for SaaS leadership",
   "vertical": "ops-atlas",
   "archetype": "use-case",
   "route": "/pages/094-opsatlas-split-proof/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/094-opsatlas-split-proof/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

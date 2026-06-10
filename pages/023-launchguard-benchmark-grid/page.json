@@ -1,12 +1,15 @@
 {
   "id": "023-launchguard-benchmark-grid",
   "number": "023",
+  "title": "LaunchGuard",
   "company": "LaunchGuard",
   "tagline": "launch readiness command center",
   "vertical": "launch",
   "archetype": "pricing",
   "route": "/pages/023-launchguard-benchmark-grid/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/023-launchguard-benchmark-grid/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

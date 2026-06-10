@@ -1,0 +1,48 @@
+{
+  "id": "bella-youtuber",
+  "number": "119",
+  "title": "Bella Youtuber",
+  "company": "Bella Youtuber",
+  "tagline": "Creator portfolio landing page with content proof blocks",
+  "vertical": "creator",
+  "archetype": "home",
+  "route": "/pages/bella-youtuber/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bella-youtuber/",
+  "status": "source-backed",
+  "deployMode": "vite-react-route",
+  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "licenseStatus": "MIT",
+  "source": {
+    "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
+    "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
+    "sourcePath": "src/portfolio/bella",
+    "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/bella",
+    "license": "MIT",
+    "usageMode": "adapted",
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/bella"
+  },
+  "inspiration": {
+    "key": "paulledemon-vite-20",
+    "label": "Bella Youtuber · PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/bella"
+  },
+  "layoutFamily": "benchmark-grid",
+  "heroKind": "metric-wall",
+  "navKind": "centered-tabs",
+  "density": "longform",
+  "sections": [
+    "home-hero",
+    "benchmark-grid-anchor",
+    "results-table",
+    "download-cta",
+    "roi-calculator",
+    "benchmark-bars"
+  ],
+  "layoutSignature": "benchmark-grid::metric-wall::centered-tabs::src/portfolio/bella::home-hero|benchmark-grid-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
+  "sourcePath": "src/portfolio/bella",
+  "assets": {
+    "logo": "/pages/bella-youtuber/assets/logo.svg",
+    "hero": "/pages/bella-youtuber/assets/hero.svg",
+    "product": "/pages/bella-youtuber/assets/product.svg"
+  }
+}

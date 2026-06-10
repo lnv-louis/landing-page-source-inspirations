@@ -1,0 +1,49 @@
+{
+  "id": "jamie-developer",
+  "number": "117",
+  "title": "Jamie Developer",
+  "company": "Jamie Developer",
+  "tagline": "Developer portfolio page adapted into a Vite route",
+  "vertical": "portfolio",
+  "archetype": "developer",
+  "route": "/pages/jamie-developer/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/jamie-developer/",
+  "status": "source-backed",
+  "deployMode": "vite-react-route",
+  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "licenseStatus": "MIT",
+  "source": {
+    "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
+    "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
+    "sourcePath": "src/portfolio/Jamie-portfolio",
+    "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/Jamie-portfolio",
+    "license": "MIT",
+    "usageMode": "adapted",
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/Jamie-portfolio"
+  },
+  "inspiration": {
+    "key": "paulledemon-vite-20",
+    "label": "Jamie Developer · PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/Jamie-portfolio"
+  },
+  "layoutFamily": "developer-console",
+  "heroKind": "api-console",
+  "navKind": "docs-rail",
+  "density": "compact",
+  "sections": [
+    "developer-hero",
+    "developer-console-anchor",
+    "marketplace-filters",
+    "partner-cards",
+    "webhook-panel",
+    "signup-form",
+    "integration-grid"
+  ],
+  "layoutSignature": "developer-console::api-console::docs-rail::src/portfolio/Jamie-portfolio::developer-hero|developer-console-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
+  "sourcePath": "src/portfolio/Jamie-portfolio",
+  "assets": {
+    "logo": "/pages/jamie-developer/assets/logo.svg",
+    "hero": "/pages/jamie-developer/assets/hero.svg",
+    "product": "/pages/jamie-developer/assets/product.svg"
+  }
+}

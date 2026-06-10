@@ -1,12 +1,15 @@
 {
   "id": "024-metricbridge-pricing-matrix",
   "number": "024",
+  "title": "MetricBridge",
   "company": "MetricBridge",
   "tagline": "board-ready metrics from source systems",
   "vertical": "metrics",
   "archetype": "comparison",
   "route": "/pages/024-metricbridge-pricing-matrix/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/024-metricbridge-pricing-matrix/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

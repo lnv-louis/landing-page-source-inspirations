@@ -1,12 +1,15 @@
 {
   "id": "095-conversionkit-card-catalog",
   "number": "095",
+  "title": "ConversionKit",
   "company": "ConversionKit",
   "tagline": "conversion intelligence for marketing sites",
   "vertical": "conversion",
   "archetype": "marketplace",
   "route": "/pages/095-conversionkit-card-catalog/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/095-conversionkit-card-catalog/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

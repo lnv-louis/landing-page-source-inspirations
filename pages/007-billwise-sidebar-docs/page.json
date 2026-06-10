@@ -1,12 +1,15 @@
 {
   "id": "007-billwise-sidebar-docs",
   "number": "007",
+  "title": "Billwise",
   "company": "Billwise",
   "tagline": "usage billing for modern SaaS",
   "vertical": "billing",
   "archetype": "integrations",
   "route": "/pages/007-billwise-sidebar-docs/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/007-billwise-sidebar-docs/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

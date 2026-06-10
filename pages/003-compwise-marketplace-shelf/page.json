@@ -1,12 +1,15 @@
 {
   "id": "003-compwise-marketplace-shelf",
   "number": "003",
+  "title": "Compwise",
   "company": "Compwise",
   "tagline": "continuous compliance automation",
   "vertical": "compliance",
   "archetype": "pricing",
   "route": "/pages/003-compwise-marketplace-shelf/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/003-compwise-marketplace-shelf/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
