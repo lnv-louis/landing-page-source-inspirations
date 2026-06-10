@@ -16,7 +16,7 @@
   "deployMode": "vendored-static-html",
   "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
-  "previewImagePath": "/pages/ai-sales-app/architect-preview.svg",
+  "previewImagePath": "/pages/ai-sales-app/assets/images/home/sample.jpg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",

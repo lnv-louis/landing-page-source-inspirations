@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { cp, mkdir, readFile, rm, writeFile } from "node:fs/promises";
+import { cp, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -67,17 +67,101 @@ async function writeJson(filePath, value) {
   await writeFile(filePath, `${JSON.stringify(value, null, 2)}\n`);
 }
 
+
+function buildInteractionLab(page) {
+  const eventPrefix = `corpus_${page.id.replaceAll("-", "_")}`;
+  return `<section id="architect-analytics-lab" data-canonical-root="analytics-lab" style="margin:48px auto;max-width:1120px;padding:24px;border:1px solid #dbe3ef;border-radius:24px;background:#f8fafc;color:#0f172a;font-family:Inter,Arial,sans-serif;box-sizing:border-box;">
+  <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;margin-bottom:18px;">
+    <div><p style="margin:0 0 6px;font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#0f766e;">Architect analytics lab</p><h2 style="margin:0;font-size:clamp(24px,4vw,42px);line-height:1.05;font-weight:900;">Trackable interactions for ${esc(page.title)}</h2><p style="margin:10px 0 0;max-width:720px;color:#475569;line-height:1.6;">Consistent interactive controls for canonical mapping and external analytics extraction.</p></div>
+    <a href="/manifest.json" data-analytics-event="${eventPrefix}_manifest_open" data-canonical-action="open_manifest" style="display:inline-flex;min-height:44px;align-items:center;border-radius:999px;background:#0f172a;color:white;padding:0 18px;text-decoration:none;font-weight:800;">Open manifest</a>
+  </div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-bottom:18px;">
+    <button type="button" data-analytics-event="${eventPrefix}_primary_cta" data-canonical-action="primary_cta" style="min-height:46px;border:0;border-radius:14px;background:#0f766e;color:white;font-weight:900;cursor:pointer;">Start evaluation</button>
+    <button type="button" data-analytics-event="${eventPrefix}_secondary_cta" data-canonical-action="secondary_cta" style="min-height:46px;border:1px solid #cbd5e1;border-radius:14px;background:white;color:#0f172a;font-weight:900;cursor:pointer;">Compare source</button>
+    <button type="button" data-analytics-event="${eventPrefix}_demo_play" data-canonical-action="play_demo" aria-pressed="false" onclick="this.setAttribute('aria-pressed', this.getAttribute('aria-pressed') === 'true' ? 'false' : 'true')" style="min-height:46px;border:1px solid #cbd5e1;border-radius:14px;background:white;color:#0f172a;font-weight:900;cursor:pointer;">Toggle demo</button>
+    <button type="button" data-analytics-event="${eventPrefix}_copy_source" data-canonical-action="copy_source" onclick="navigator.clipboard && navigator.clipboard.writeText('${esc(page.source.sourceUrl)}')" style="min-height:46px;border:1px solid #cbd5e1;border-radius:14px;background:white;color:#0f172a;font-weight:900;cursor:pointer;">Copy source URL</button>
+  </div>
+  <form data-analytics-event="${eventPrefix}_lead_form" data-canonical-action="lead_form_submit" onsubmit="event.preventDefault(); this.dataset.submitted = 'true';" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin-bottom:18px;">
+    <label style="display:grid;gap:6px;font-size:13px;font-weight:800;">Work email<input name="email" type="email" placeholder="name@company.com" data-analytics-event="${eventPrefix}_email_input" data-canonical-action="email_input" style="min-height:42px;border:1px solid #cbd5e1;border-radius:12px;padding:0 12px;" /></label>
+    <label style="display:grid;gap:6px;font-size:13px;font-weight:800;">Company size<select name="company_size" data-analytics-event="${eventPrefix}_company_size_select" data-canonical-action="company_size_select" style="min-height:42px;border:1px solid #cbd5e1;border-radius:12px;padding:0 12px;background:white;"><option>1-50</option><option>51-250</option><option>251-1000</option><option>1000+</option></select></label>
+    <label style="display:grid;gap:6px;font-size:13px;font-weight:800;">Use case<input name="use_case" placeholder="Analytics mapping" data-analytics-event="${eventPrefix}_use_case_input" data-canonical-action="use_case_input" style="min-height:42px;border:1px solid #cbd5e1;border-radius:12px;padding:0 12px;" /></label>
+    <button type="submit" data-analytics-event="${eventPrefix}_form_submit" data-canonical-action="submit_form" style="align-self:end;min-height:44px;border:0;border-radius:12px;background:#0f172a;color:white;font-weight:900;cursor:pointer;">Submit</button>
+  </form>
+  <div role="tablist" aria-label="Analytics segments" style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">
+    <button type="button" role="tab" aria-selected="true" data-analytics-event="${eventPrefix}_tab_overview" data-canonical-action="select_overview_tab" style="min-height:40px;border:1px solid #99f6e4;border-radius:999px;background:#ccfbf1;color:#115e59;padding:0 14px;font-weight:800;cursor:pointer;">Overview</button>
+    <button type="button" role="tab" aria-selected="false" data-analytics-event="${eventPrefix}_tab_pricing" data-canonical-action="select_pricing_tab" style="min-height:40px;border:1px solid #cbd5e1;border-radius:999px;background:white;color:#0f172a;padding:0 14px;font-weight:800;cursor:pointer;">Pricing</button>
+    <button type="button" role="tab" aria-selected="false" data-analytics-event="${eventPrefix}_tab_docs" data-canonical-action="select_docs_tab" style="min-height:40px;border:1px solid #cbd5e1;border-radius:999px;background:white;color:#0f172a;padding:0 14px;font-weight:800;cursor:pointer;">Docs</button>
+    <button type="button" role="tab" aria-selected="false" data-analytics-event="${eventPrefix}_tab_security" data-canonical-action="select_security_tab" style="min-height:40px;border:1px solid #cbd5e1;border-radius:999px;background:white;color:#0f172a;padding:0 14px;font-weight:800;cursor:pointer;">Security</button>
+  </div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;">
+    <details data-analytics-event="${eventPrefix}_faq_source" data-canonical-action="expand_source_faq" style="border:1px solid #cbd5e1;border-radius:14px;background:white;padding:14px;"><summary style="cursor:pointer;font-weight:900;">Where is the source?</summary><p style="color:#475569;line-height:1.6;">${esc(page.source.sourcePath)}</p></details>
+    <details data-analytics-event="${eventPrefix}_faq_license" data-canonical-action="expand_license_faq" style="border:1px solid #cbd5e1;border-radius:14px;background:white;padding:14px;"><summary style="cursor:pointer;font-weight:900;">What is the license?</summary><p style="color:#475569;line-height:1.6;">${esc(page.source.license)} copied from the vendored upstream folder.</p></details>
+    <a href="${esc(page.source.sourceUrl)}" data-analytics-event="${eventPrefix}_source_link" data-canonical-action="open_source_repo" style="display:block;border:1px solid #cbd5e1;border-radius:14px;background:white;padding:14px;color:#0f172a;text-decoration:none;font-weight:900;">Open upstream source ↗</a>
+  </div>
+</section>`;
+}
+
 async function rewriteHtmlForCorpus(htmlPath, page) {
   const original = await readFile(htmlPath, "utf8");
   const marker = `\n<meta name="architect-corpus-id" content="${esc(page.id)}" />\n<meta name="architect-source-repo" content="${esc(source.repoUrl)}" />\n<meta name="architect-source-path" content="${esc(page.sourcePath)}" />`;
-  const withoutGtag = original
+  const cleaned = original
     .replaceAll(/<script async src="https:\/\/www\.googletagmanager\.com\/gtag\/js\?id=G-[\s\S]*?<\/script>/g, "")
-    .replaceAll(/<script>\s*window\.dataLayer[\s\S]*?gtag\('config', 'G-'\);\s*<\/script>/g, "");
-  const withBase = withoutGtag.includes("<base ")
-    ? withoutGtag
-    : withoutGtag.replace(/<head([^>]*)>/i, `<head$1>\n<base href="/pages/${page.id}/">`);
+    .replaceAll(/<script>\s*window\.dataLayer[\s\S]*?gtag\('config', 'G-'\);\s*<\/script>/g, "")
+    .replaceAll(/<script\b[^>]*\bsrc=["']https?:\/\/[^"']+["'][^>]*><\/script>/gi, "")
+    .replaceAll(/<link\b[^>]*\brel=["']stylesheet["'][^>]*\bhref=["']https?:\/\/[^"']+["'][^>]*>/gi, "")
+    .replaceAll(/<link\b[^>]*\bhref=["'][^"']*tailwind-runtime\.css["'][^>]*>/gi, "")
+    .replaceAll(/<!--\s*<link rel="stylesheet" href="\.\/css\/tailwind-build\.css"\s*>\s*-->/gi, "")
+    .replace(/<link rel="stylesheet" href="\.\/css\/index\.css"\s*\/?>/i, '<link rel="stylesheet" href="./css/tailwind-build.css" />\n        <link rel="stylesheet" href="./css/index.css" />');
+  const withTailwind = cleaned.includes('href="./css/tailwind-build.css"')
+    ? cleaned
+    : cleaned.replace(/<\/head>/i, '<link rel="stylesheet" href="./css/tailwind-build.css" />\n</head>');
+  const withBase = withTailwind.includes("<base ")
+    ? withTailwind
+    : withTailwind.replace(/<head([^>]*)>/i, `<head$1>\n<base href="/pages/${page.id}/">`);
   const withMarker = withBase.replace(/<\/head>/i, `${marker}\n</head>`);
-  await writeFile(htmlPath, withMarker);
+  const interactionLab = buildInteractionLab(page);
+  const withInteractions = /<\/body>/i.test(withMarker)
+    ? withMarker.replace(/<\/body>/i, `${interactionLab}\n</body>`)
+    : `${withMarker}\n${interactionLab}`;
+  await writeFile(htmlPath, withInteractions);
+}
+
+async function listFiles(directory) {
+  const entries = await readdir(directory, { withFileTypes: true });
+  const files = [];
+  for (const entry of entries) {
+    const entryPath = path.join(directory, entry.name);
+    if (entry.isDirectory()) {
+      files.push(...await listFiles(entryPath));
+    } else {
+      files.push(entryPath);
+    }
+  }
+  return files;
+}
+
+async function selectPreviewImage(publicPath, page) {
+  const files = await listFiles(publicPath);
+  const imageFiles = files
+    .filter((file) => /\.(png|jpe?g|webp|svg)$/i.test(file))
+    .filter((file) => !file.endsWith("architect-preview.svg"))
+    .map((file) => path.relative(publicPath, file).split(path.sep).join("/"));
+  const ranked = imageFiles
+    .map((file) => {
+      const lower = file.toLowerCase();
+      let score = 0;
+      if (lower.includes("og")) score += 100;
+      if (lower.includes("hero")) score += 90;
+      if (lower.includes("dashboard")) score += 80;
+      if (lower.includes("homepage")) score += 70;
+      if (lower.includes("home/")) score += 60;
+      if (lower.includes("sample")) score += 50;
+      if (lower.includes("logo")) score -= 50;
+      if (lower.endsWith(".svg")) score -= 10;
+      return { file, score };
+    })
+    .sort((a, b) => b.score - a.score || a.file.localeCompare(b.file));
+  return ranked[0] ? `/pages/${page.id}/${ranked[0].file}` : `/pages/${page.id}/architect-preview.svg`;
 }
 
 function toPage(template, index) {
@@ -163,6 +247,7 @@ for (const page of pages) {
   await cp(vendorPath, publicPath, { recursive: true });
   await rewriteHtmlForCorpus(path.join(publicPath, "index.html"), page);
   await writeFile(path.join(publicPath, "architect-preview.svg"), buildPreviewSvg(page));
+  page.previewImagePath = await selectPreviewImage(publicPath, page);
 
   await mkdir(metadataPath, { recursive: true });
   await writeJson(path.join(metadataPath, "page.json"), page);

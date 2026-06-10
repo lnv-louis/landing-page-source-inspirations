@@ -14,7 +14,7 @@
   "deployMode": "vendored-static-html",
   "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
-  "previewImagePath": "/pages/bistro-restaurant/architect-preview.svg",
+  "previewImagePath": "/pages/bistro-restaurant/assets/images/homepage/breakfast.jpg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",

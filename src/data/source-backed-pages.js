@@ -26,7 +26,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/pixa-ai/architect-preview.svg",
+    "previewImagePath": "/pages/pixa-ai/assets/images/home/ai-models.png",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -54,7 +54,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/saasy-dark/architect-preview.svg",
+    "previewImagePath": "/pages/saasy-dark/assets/images/home/photography.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -82,7 +82,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/saas-ai/architect-preview.svg",
+    "previewImagePath": "/pages/saas-ai/assets/images/home/photography.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -110,7 +110,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/finance-saas/architect-preview.svg",
+    "previewImagePath": "/pages/finance-saas/assets/images/home/dashboard.png",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -137,7 +137,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/celestial-saas/architect-preview.svg",
+    "previewImagePath": "/pages/celestial-saas/assets/images/home/dashboard.png",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -166,7 +166,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/ai-sales-app/architect-preview.svg",
+    "previewImagePath": "/pages/ai-sales-app/assets/images/home/sample.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -194,7 +194,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/chat-origin/architect-preview.svg",
+    "previewImagePath": "/pages/chat-origin/assets/images/home/sample.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -221,7 +221,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/navigator/architect-preview.svg",
+    "previewImagePath": "/pages/navigator/assets/images/home/photography.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -249,7 +249,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/traveler/architect-preview.svg",
+    "previewImagePath": "/pages/traveler/assets/images/home/photography.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -276,7 +276,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/law-fire/architect-preview.svg",
+    "previewImagePath": "/pages/law-fire/assets/images/homepage/case-study1.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -303,7 +303,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/law-group/architect-preview.svg",
+    "previewImagePath": "/pages/law-group/assets/images/homepage/case-study1.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -330,7 +330,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/brick-property/architect-preview.svg",
+    "previewImagePath": "/pages/brick-property/assets/images/homepage/hero-image.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -357,7 +357,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/project-africa/architect-preview.svg",
+    "previewImagePath": "/pages/project-africa/assets/images/home/africa.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -384,7 +384,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/bistro-restaurant/architect-preview.svg",
+    "previewImagePath": "/pages/bistro-restaurant/assets/images/homepage/breakfast.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -412,7 +412,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/nutrio-restaurant/architect-preview.svg",
+    "previewImagePath": "/pages/nutrio-restaurant/assets/images/homepage/hero.png",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -439,7 +439,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/car-wash/architect-preview.svg",
+    "previewImagePath": "/pages/car-wash/assets/images/homepage/car-washing.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -467,7 +467,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/jamie-developer/architect-preview.svg",
+    "previewImagePath": "/pages/jamie-developer/assets/images/home/photography.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -495,7 +495,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/jrdev-portfolio/architect-preview.svg",
+    "previewImagePath": "/pages/jrdev-portfolio/assets/images/home/sample.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -523,7 +523,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/bella-youtuber/architect-preview.svg",
+    "previewImagePath": "/pages/bella-youtuber/assets/images/homepage/merch1.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -551,7 +551,7 @@ export const pages = [
     "deployMode": "vendored-static-html",
     "sourceType": "vendored-upstream-template-static-html",
     "licenseStatus": "MIT",
-    "previewImagePath": "/pages/notion-portfolio/architect-preview.svg",
+    "previewImagePath": "/pages/notion-portfolio/assets/images/home/photography.jpg",
     "source": {
       "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
       "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",

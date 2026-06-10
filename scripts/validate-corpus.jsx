@@ -70,13 +70,24 @@ for (const page of manifest.pages) {
   const publicIndex = path.join(publicRoot, "index.html");
   assert(await exists(publicIndex), `missing static public index.html for ${page.id}`);
   assert(await exists(path.join(publicRoot, "architect-preview.svg")), `missing preview svg for ${page.id}`);
+  assert(page.previewImagePath !== `/pages/${page.id}/architect-preview.svg`, `expected real public preview image for ${page.id}`);
+  assert(await exists(path.join(root, "public", page.previewImagePath.replace(/^\//, ""))), `missing preview image for ${page.id}`);
 
   const html = await readFile(publicIndex, "utf8");
   htmlHashes.add(hash(html));
   assert(html.includes(`<base href="/pages/${page.id}/">`), `missing base tag for ${page.id}`);
   assert(html.includes(`name="architect-corpus-id" content="${page.id}"`), `missing corpus marker for ${page.id}`);
   assert(html.includes("PaulleDemon/awesome-landing-pages"), `missing source repo marker for ${page.id}`);
+  assert(html.includes('href="./css/tailwind-build.css"'), `missing local Tailwind build CSS for ${page.id}`);
+  assert(!html.includes("tailwind-runtime.css"), `tailwind runtime link still present for ${page.id}`);
   assert(!html.includes("googletagmanager.com/gtag/js?id=G-"), `placeholder gtag script still present for ${page.id}`);
+  assert(!/<script\b[^>]*\bsrc=["']https?:\/\//i.test(html), `external script still present for ${page.id}`);
+  assert(!/<link\b[^>]*\brel=["']stylesheet["'][^>]*\bhref=["']https?:\/\//i.test(html), `external stylesheet still present for ${page.id}`);
+  assert(html.includes('id="architect-analytics-lab"'), `missing analytics lab for ${page.id}`);
+  assert((html.match(/data-analytics-event=/g) ?? []).length >= 15, `expected at least 15 analytics events for ${page.id}`);
+  assert((html.match(/data-canonical-action=/g) ?? []).length >= 15, `expected at least 15 canonical actions for ${page.id}`);
+  assert(html.includes('data-canonical-action="submit_form"'), `missing submit form action for ${page.id}`);
+  assert(html.includes('role="tablist"'), `missing tablist for ${page.id}`);
 }
 
 const rootRendered = renderToStaticMarkup(<App pathname="/" />);
