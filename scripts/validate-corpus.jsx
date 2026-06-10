@@ -33,6 +33,15 @@ assert(
   "src/data/source-backed-pages.js is missing; run npm run generate",
 );
 
+assert(
+  !(await exists(path.join(root, "public", "manifest.paulledemon-vite-20.json"))),
+  "public/manifest.paulledemon-vite-20.json should not exist; /manifest.json is the SOT",
+);
+assert(
+  !(await exists(path.join(root, "public", "manifest.awesome-landing-page-tech-6.json"))),
+  "public/manifest.awesome-landing-page-tech-6.json should not exist; /manifest.json is the SOT",
+);
+
 const manifest = JSON.parse(await readFile(manifestPath, "utf8"));
 assert(manifest.corpus === "landing-page-source-inspirations", "manifest corpus mismatch");
 assert(manifest.runtime === "vite-react-tailwind-worker", "manifest runtime mismatch");

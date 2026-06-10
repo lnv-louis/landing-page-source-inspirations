@@ -40,11 +40,11 @@ The default public corpus is `source-backed-saas-tech-26`:
 - Each route hosts real upstream HTML/assets that can be clicked directly.
 - React is used for the root index page, not to recreate the source pages.
 
-Available manifests:
+Single source-of-truth manifest:
 
 - `/manifest.json` — all 26 pages.
-- `/manifest.paulledemon-vite-20.json` — the 20 PaulleDemon pages.
-- `/manifest.awesome-landing-page-tech-6.json` — the 6 SaaS/tech pages from linked repos.
+
+Do not add batch-specific public manifests; consumers should read only `/manifest.json`.
 
 ## Source Provenance
 

@@ -394,21 +394,5 @@ const manifest = {
 };
 
 await writeJson(path.join(root, "public", "manifest.json"), manifest);
-await writeJson(path.join(root, "public", "manifest.paulledemon-vite-20.json"), {
-  ...manifest,
-  batch: paulledemonSource.batch,
-  batches: [paulledemonSource.batch],
-  count: paulledemonPages.length,
-  sources: [paulledemonSource],
-  pages: paulledemonPages.map(manifestPage),
-});
-await writeJson(path.join(root, "public", "manifest.awesome-landing-page-tech-6.json"), {
-  ...manifest,
-  batch: awesomeLandingPageSource.batch,
-  batches: [awesomeLandingPageSource.batch],
-  count: linkedTechPages.length,
-  sources: [awesomeLandingPageSource],
-  pages: linkedTechPages.map(manifestPage),
-});
 
 console.log(`Generated ${pages.length} vendored static HTML source pages`);
