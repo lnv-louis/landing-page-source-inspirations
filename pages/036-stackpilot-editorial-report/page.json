@@ -1,12 +1,15 @@
 {
   "id": "036-stackpilot-editorial-report",
   "number": "036",
+  "title": "StackPilot",
   "company": "StackPilot",
   "tagline": "internal developer platform insights",
   "vertical": "platform",
   "archetype": "migration",
   "route": "/pages/036-stackpilot-editorial-report/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/036-stackpilot-editorial-report/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

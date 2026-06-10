@@ -1,0 +1,47 @@
+{
+  "id": "saas-ai",
+  "number": "103",
+  "title": "SaaS AI",
+  "company": "SaaS AI",
+  "tagline": "AI product landing flow with dashboard-led conversion",
+  "vertical": "ai-saas",
+  "archetype": "product",
+  "route": "/pages/saas-ai/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/saas-ai/",
+  "status": "source-backed",
+  "deployMode": "vite-react-route",
+  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "licenseStatus": "MIT",
+  "source": {
+    "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
+    "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
+    "sourcePath": "src/saas/SaaS-AI",
+    "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/SaaS-AI",
+    "license": "MIT",
+    "usageMode": "adapted",
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/SaaS-AI"
+  },
+  "inspiration": {
+    "key": "paulledemon-vite-20",
+    "label": "SaaS AI · PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/SaaS-AI"
+  },
+  "layoutFamily": "dashboard-first",
+  "heroKind": "dashboard-hero",
+  "navKind": "simple-top",
+  "density": "longform",
+  "sections": [
+    "product-hero",
+    "dashboard-first-anchor",
+    "faq-accordion",
+    "procurement-note",
+    "cta-band"
+  ],
+  "layoutSignature": "dashboard-first::dashboard-hero::simple-top::src/saas/SaaS-AI::product-hero|dashboard-first-anchor|faq-accordion|procurement-note|cta-band",
+  "sourcePath": "src/saas/SaaS-AI",
+  "assets": {
+    "logo": "/pages/saas-ai/assets/logo.svg",
+    "hero": "/pages/saas-ai/assets/hero.svg",
+    "product": "/pages/saas-ai/assets/product.svg"
+  }
+}

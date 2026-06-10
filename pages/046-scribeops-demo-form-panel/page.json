@@ -1,12 +1,15 @@
 {
   "id": "046-scribeops-demo-form-panel",
   "number": "046",
+  "title": "ScribeOps",
   "company": "ScribeOps",
   "tagline": "technical writing operations",
   "vertical": "scribe",
   "archetype": "security",
   "route": "/pages/046-scribeops-demo-form-panel/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/046-scribeops-demo-form-panel/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

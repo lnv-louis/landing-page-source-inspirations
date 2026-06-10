@@ -1,12 +1,15 @@
 {
   "id": "060-spendpilot-industry-map",
   "number": "060",
+  "title": "SpendPilot",
   "company": "SpendPilot",
   "tagline": "spend workflows for finance teams",
   "vertical": "finance",
   "archetype": "demo-request",
   "route": "/pages/060-spendpilot-industry-map/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/060-spendpilot-industry-map/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

@@ -1,12 +1,15 @@
 {
   "id": "026-replypilot-announcement-stack",
   "number": "026",
+  "title": "ReplyPilot",
   "company": "ReplyPilot",
   "tagline": "support reply automation with controls",
   "vertical": "support",
   "archetype": "security",
   "route": "/pages/026-replypilot-announcement-stack/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/026-replypilot-announcement-stack/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

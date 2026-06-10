@@ -1,12 +1,15 @@
 {
   "id": "033-cloudspend-card-catalog",
   "number": "033",
+  "title": "CloudSpend",
   "company": "CloudSpend",
   "tagline": "procurement-aware cloud planning",
   "vertical": "procurement",
   "archetype": "procurement",
   "route": "/pages/033-cloudspend-card-catalog/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/033-cloudspend-card-catalog/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

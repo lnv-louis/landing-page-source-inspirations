@@ -1,0 +1,48 @@
+{
+  "id": "pixa-ai",
+  "number": "101",
+  "title": "Pixa AI",
+  "company": "Pixa AI",
+  "tagline": "All your AI models and creative tools in one Vite landing page",
+  "vertical": "ai-saas",
+  "archetype": "home",
+  "route": "/pages/pixa-ai/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/pixa-ai/",
+  "status": "source-backed",
+  "deployMode": "vite-react-route",
+  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "licenseStatus": "MIT",
+  "source": {
+    "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
+    "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
+    "sourcePath": "src/saas/pixaai",
+    "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/pixaai",
+    "license": "MIT",
+    "usageMode": "adapted",
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/pixaai"
+  },
+  "inspiration": {
+    "key": "paulledemon-vite-20",
+    "label": "Pixa AI · PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/pixaai"
+  },
+  "layoutFamily": "split-proof",
+  "heroKind": "split-dashboard",
+  "navKind": "mega-menu",
+  "density": "compact",
+  "sections": [
+    "home-hero",
+    "split-proof-anchor",
+    "logo-cloud",
+    "pain-grid",
+    "product-proof",
+    "customer-logos"
+  ],
+  "layoutSignature": "split-proof::split-dashboard::mega-menu::src/saas/pixaai::home-hero|split-proof-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
+  "sourcePath": "src/saas/pixaai",
+  "assets": {
+    "logo": "/pages/pixa-ai/assets/logo.svg",
+    "hero": "/pages/pixa-ai/assets/hero.svg",
+    "product": "/pages/pixa-ai/assets/product.svg"
+  }
+}

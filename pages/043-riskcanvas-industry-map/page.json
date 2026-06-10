@@ -1,12 +1,15 @@
 {
   "id": "043-riskcanvas-industry-map",
   "number": "043",
+  "title": "RiskCanvas",
   "company": "RiskCanvas",
   "tagline": "risk review workspace",
   "vertical": "risk",
   "archetype": "pricing",
   "route": "/pages/043-riskcanvas-industry-map/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/043-riskcanvas-industry-map/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

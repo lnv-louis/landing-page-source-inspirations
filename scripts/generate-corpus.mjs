@@ -174,6 +174,38 @@ function urlFor(route) {
   return `${baseUrl.replace(/\/+$/g, "")}${route}`;
 }
 
+
+const paulledemonSource = {
+  batch: "paulledemon-vite-20",
+  repoUrl: "https://github.com/PaulleDemon/awesome-landing-pages",
+  sourceCommit: "e98eb80c593b8cd28d1f39556ccdda160a932581",
+  vendorRoot: "vendor/paulledemon-awesome-landing-pages/source",
+  license: "MIT",
+};
+
+const paulledemonTemplates = [
+  { id: "pixa-ai", title: "Pixa AI", sourcePath: "src/saas/pixaai", vertical: "ai-saas", archetype: "home", layoutFamily: "split-proof", heroKind: "split-dashboard", navKind: "mega-menu", tagline: "All your AI models and creative tools in one Vite landing page" },
+  { id: "saasy-dark", title: "SaaSy Dark", sourcePath: "src/saas/SaaSyDark", vertical: "saas", archetype: "home", layoutFamily: "centered-terminal", heroKind: "centered-proof", navKind: "minimal-wordmark", tagline: "Dark-mode SaaS positioning with sharp product proof" },
+  { id: "saas-ai", title: "SaaS AI", sourcePath: "src/saas/SaaS-AI", vertical: "ai-saas", archetype: "product", layoutFamily: "dashboard-first", heroKind: "dashboard-hero", navKind: "simple-top", tagline: "AI product landing flow with dashboard-led conversion" },
+  { id: "finance-saas", title: "Finance SaaS", sourcePath: "src/saas/finance", vertical: "fintech-saas", archetype: "pricing", layoutFamily: "pricing-matrix", heroKind: "pricing-led", navKind: "utility-bar", tagline: "Financial operations SaaS page with plan and trust structure" },
+  { id: "celestial-saas", title: "Celestial SaaS", sourcePath: "src/saas/CelestialSaaS", vertical: "saas", archetype: "home", layoutFamily: "announcement-stack", heroKind: "launch-note", navKind: "centered-tabs", tagline: "Atmospheric SaaS launch page with stacked proof sections" },
+  { id: "ai-sales-app", title: "AI Sales App", sourcePath: "src/apps/AISales", vertical: "gtm-ai", archetype: "product", layoutFamily: "workflow-lane", heroKind: "workflow-board", navKind: "product-switcher", tagline: "AI sales workflow page for outbound and account teams" },
+  { id: "chat-origin", title: "Chat Origin", sourcePath: "src/apps/chatorigin", vertical: "chat-app", archetype: "demo-request", layoutFamily: "demo-form-panel", heroKind: "demo-room", navKind: "simple-top", tagline: "Conversational app landing page with direct demo action" },
+  { id: "navigator", title: "Navigator", sourcePath: "src/apps/navigator", vertical: "productivity-app", archetype: "use-case", layoutFamily: "card-catalog", heroKind: "market-map", navKind: "anchor-strip", tagline: "Navigator app landing page with catalogued feature paths" },
+  { id: "traveler", title: "Traveler", sourcePath: "src/apps/traveler", vertical: "travel-app", archetype: "home", layoutFamily: "industry-map", heroKind: "market-map", navKind: "simple-top", tagline: "Travel app page with destination-led discovery structure" },
+  { id: "law-fire", title: "Law Fire", sourcePath: "src/law/lawfire", vertical: "legal-services", archetype: "services", layoutFamily: "procurement-checklist", heroKind: "procurement-brief", navKind: "utility-bar", tagline: "Legal service page with buyer-proof and intake structure" },
+  { id: "law-group", title: "Law Group", sourcePath: "src/law/lawgroup", vertical: "legal-services", archetype: "case-study", layoutFamily: "case-study-narrative", heroKind: "customer-story", navKind: "mega-menu", tagline: "Law firm landing page with narrative practice-area sections" },
+  { id: "brick-property", title: "Brick Property", sourcePath: "src/realestate/brickproperty", vertical: "real-estate", archetype: "marketplace", layoutFamily: "marketplace-shelf", heroKind: "integration-cloud", navKind: "product-switcher", tagline: "Real estate landing page with listing and inquiry structure" },
+  { id: "project-africa", title: "Project Africa", sourcePath: "src/ngo/project-africa", vertical: "ngo", archetype: "campaign", layoutFamily: "editorial-report", heroKind: "asymmetric-editorial", navKind: "simple-top", tagline: "NGO campaign page with editorial impact narrative" },
+  { id: "bistro-restaurant", title: "Bistro Restaurant", sourcePath: "src/restaurant/bistro", vertical: "restaurant", archetype: "local-service", layoutFamily: "event-agenda", heroKind: "event-poster", navKind: "minimal-wordmark", tagline: "Restaurant landing page with menu, booking, and event rhythm" },
+  { id: "nutrio-restaurant", title: "Nutrio Restaurant", sourcePath: "src/restaurant/nutrio", vertical: "restaurant-wellness", archetype: "local-service", layoutFamily: "calculator-form", heroKind: "form-first", navKind: "anchor-strip", tagline: "Nutrition restaurant page with wellness-led conversion form" },
+  { id: "car-wash", title: "Car Wash", sourcePath: "src/others/carwash", vertical: "local-service", archetype: "pricing", layoutFamily: "comparison-ledger", heroKind: "comparison-first", navKind: "simple-top", tagline: "Local service landing page with package comparison structure" },
+  { id: "jamie-developer", title: "Jamie Developer", sourcePath: "src/portfolio/Jamie-portfolio", vertical: "portfolio", archetype: "developer", layoutFamily: "developer-console", heroKind: "api-console", navKind: "docs-rail", tagline: "Developer portfolio page adapted into a Vite route" },
+  { id: "jrdev-portfolio", title: "JrDev Portfolio", sourcePath: "src/portfolio/jrdev", vertical: "portfolio", archetype: "developer", layoutFamily: "sidebar-docs", heroKind: "docs-shell", navKind: "sidebar", tagline: "Junior developer portfolio with docs-style navigation" },
+  { id: "bella-youtuber", title: "Bella Youtuber", sourcePath: "src/portfolio/bella", vertical: "creator", archetype: "home", layoutFamily: "benchmark-grid", heroKind: "metric-wall", navKind: "centered-tabs", tagline: "Creator portfolio landing page with content proof blocks" },
+  { id: "notion-portfolio", title: "Notion Themed Portfolio", sourcePath: "src/portfolio/notion", vertical: "portfolio", archetype: "docs", layoutFamily: "migration-timeline", heroKind: "docs-shell", navKind: "left-rail", tagline: "Notion-themed portfolio page with document-style structure" },
+];
+
 function esc(value) {
   return String(value)
     .replaceAll("&", "&amp;")
@@ -244,11 +276,84 @@ function buildCases() {
   });
 }
 
+function buildPaulledemonCases() {
+  return paulledemonTemplates.map((template, index) => {
+    const number = String(index + 101);
+    const route = routeFor(template.id);
+    const sections = makeSections(index + 100, template.archetype, template.layoutFamily);
+    const sourceUrl = `${paulledemonSource.repoUrl}/tree/main/${template.sourcePath}`;
+    const source = {
+      repoUrl: paulledemonSource.repoUrl,
+      sourceCommit: paulledemonSource.sourceCommit,
+      sourcePath: template.sourcePath,
+      sourceUrl,
+      license: paulledemonSource.license,
+      usageMode: "adapted",
+      vendorPath: `${paulledemonSource.vendorRoot}/${template.sourcePath}`,
+    };
+
+    return {
+      id: template.id,
+      number,
+      title: template.title,
+      company: template.title,
+      tagline: template.tagline,
+      vertical: template.vertical,
+      archetype: template.archetype,
+      route,
+      url: urlFor(route),
+      status: "source-backed",
+      deployMode: "vite-react-route",
+      sourceType: "vendored-upstream-template-adapted-to-vite-react-route",
+      licenseStatus: "MIT",
+      source,
+      inspiration: {
+        key: paulledemonSource.batch,
+        label: `${template.title} · PaulleDemon awesome landing pages`,
+        url: sourceUrl,
+      },
+      layoutFamily: template.layoutFamily,
+      heroKind: template.heroKind,
+      navKind: template.navKind,
+      palette: palettes[(index + 2) % palettes.length],
+      density: ["compact", "balanced", "longform", "dense"][index % 4],
+      sections,
+      layoutSignature: [template.layoutFamily, template.heroKind, template.navKind, template.sourcePath, sections.join("|")].join("::"),
+      primaryCta: ["View template", "Open source", "Run eval", "Inspect page"][index % 4],
+      secondaryCta: ["Source folder", "Manifest entry", "Preview route", "License notes"][index % 4],
+      previewImagePath: `${route}assets/hero.svg`,
+      assets: {
+        logo: `${route}assets/logo.svg`,
+        hero: `${route}assets/hero.svg`,
+        product: `${route}assets/product.svg`,
+      },
+    };
+  });
+}
+
+function buildSourceBackedLicenseNotes(testCase) {
+  return `# ${testCase.title} License Notes
+
+Status: Source-backed Vite React route adapted from a vendored MIT template.
+
+- Source repo: ${testCase.source.repoUrl}
+- Source commit: ${testCase.source.sourceCommit}
+- Source folder: ${testCase.source.sourcePath}
+- Source URL: ${testCase.source.sourceUrl}
+- Vendored path: ${testCase.source.vendorPath}
+- License: ${testCase.source.license}
+- Usage mode: ${testCase.source.usageMode}
+- Deploy mode: ${testCase.deployMode}
+
+The upstream template source is vendored for provenance. The deployed corpus route is a Vite/React page fixture adapted from the selected template folder metadata and category so it can run under the Cloudflare Worker host without per-template build tooling.
+`;
+}
+
 function buildAssetSvg(testCase, kind) {
   const { bg, ink, accent, soft, line } = testCase.palette;
   const title = esc(testCase.company);
   const subtitle = esc(kind === "hero" ? testCase.tagline : `${testCase.layoutFamily} · ${testCase.archetype}`);
-  const seed = Number(testCase.number);
+  const seed = Number.parseInt(testCase.number, 10) || [...testCase.id].reduce((total, char) => total + char.charCodeAt(0), 0);
   const shapes = Array.from({ length: 8 }, (_, i) => {
     const x = 70 + ((i * 137 + seed * 19) % 850);
     const y = 92 + ((i * 83 + seed * 11) % 390);
@@ -311,8 +416,9 @@ await mkdir(path.join(root, "public", "pages"), { recursive: true });
 await mkdir(path.join(root, "src", "data"), { recursive: true });
 
 const cases = buildCases();
+const paulledemonCases = buildPaulledemonCases();
 
-for (const testCase of cases) {
+async function writePageArtifacts(testCase, licenseNotes) {
   const pageRoot = path.join(root, "pages", testCase.id);
   const publicAssetRoot = path.join(root, "public", "pages", testCase.id, "assets");
   await mkdir(pageRoot, { recursive: true });
@@ -321,14 +427,18 @@ for (const testCase of cases) {
   await writeJson(path.join(pageRoot, "page.json"), {
     id: testCase.id,
     number: testCase.number,
+    title: testCase.title ?? testCase.company,
     company: testCase.company,
     tagline: testCase.tagline,
     vertical: testCase.vertical,
     archetype: testCase.archetype,
     route: testCase.route,
     url: testCase.url,
+    status: testCase.status ?? "generated-placeholder",
+    deployMode: testCase.deployMode ?? "vite-react-route",
     sourceType: testCase.sourceType,
     licenseStatus: testCase.licenseStatus,
+    source: testCase.source,
     inspiration: testCase.inspiration,
     layoutFamily: testCase.layoutFamily,
     heroKind: testCase.heroKind,
@@ -336,39 +446,25 @@ for (const testCase of cases) {
     density: testCase.density,
     sections: testCase.sections,
     layoutSignature: testCase.layoutSignature,
-    sourcePath: "src/data/generated-pages.js",
+    sourcePath: testCase.source ? testCase.source.sourcePath : "src/data/generated-pages.js",
     assets: testCase.assets,
   });
-  await writeFile(path.join(pageRoot, "license-notes.md"), buildLicenseNotes(testCase));
+  await writeFile(path.join(pageRoot, "license-notes.md"), licenseNotes(testCase));
   await writeFile(path.join(publicAssetRoot, "logo.svg"), buildLogoSvg(testCase));
   await writeFile(path.join(publicAssetRoot, "hero.svg"), buildAssetSvg(testCase, "hero"));
   await writeFile(path.join(publicAssetRoot, "product.svg"), buildAssetSvg(testCase, "product"));
 }
 
-await writeFile(
-  path.join(root, "src", "data", "generated-pages.js"),
-  `// Generated by scripts/generate-corpus.mjs. Do not edit by hand.\n` +
-    `export const generatedAt = ${JSON.stringify(generatedAt)};\n` +
-    `export const baseUrl = ${JSON.stringify(baseUrl)};\n` +
-    `export const sourceReferences = ${JSON.stringify(sourceReferences, null, 2)};\n` +
-    `export const pages = ${JSON.stringify(cases, null, 2)};\n`,
-);
-
-await writeJson(path.join(root, "public", "manifest.json"), {
-  generatedAt,
-  baseUrl,
-  corpus: "landing-page-source-inspirations",
-  runtime: "vite-react-tailwind-worker",
-  count: cases.length,
-  sourceReferences,
-  pages: cases.map((testCase) => ({
+function manifestPage(testCase) {
+  return {
     id: testCase.id,
     number: testCase.number,
+    title: testCase.title ?? testCase.company,
     company: testCase.company,
     tagline: testCase.tagline,
     route: testCase.route,
     url: testCase.url,
-    sourcePath: `src/data/generated-pages.js#${testCase.id}`,
+    sourcePath: testCase.source ? testCase.source.sourcePath : `src/data/generated-pages.js#${testCase.id}`,
     metadataPath: `pages/${testCase.id}/page.json`,
     licensePath: `pages/${testCase.id}/license-notes.md`,
     previewImage: urlFor(testCase.previewImagePath),
@@ -386,10 +482,66 @@ await writeJson(path.join(root, "public", "manifest.json"), {
     density: testCase.density,
     sections: testCase.sections,
     layoutSignature: testCase.layoutSignature,
+    status: testCase.status ?? "generated-placeholder",
+    deployMode: testCase.deployMode ?? "vite-react-route",
     sourceType: testCase.sourceType,
     licenseStatus: testCase.licenseStatus,
     inspiration: testCase.inspiration,
-  })),
+    ...(testCase.source ? { source: testCase.source } : {}),
+  };
+}
+
+await rm(path.join(root, "pages"), { recursive: true, force: true });
+await rm(path.join(root, "public"), { recursive: true, force: true });
+await mkdir(path.join(root, "pages"), { recursive: true });
+await mkdir(path.join(root, "public", "pages"), { recursive: true });
+await mkdir(path.join(root, "src", "data"), { recursive: true });
+
+for (const testCase of cases) {
+  await writePageArtifacts(testCase, buildLicenseNotes);
+}
+
+for (const testCase of paulledemonCases) {
+  await writePageArtifacts(testCase, buildSourceBackedLicenseNotes);
+}
+
+await writeFile(
+  path.join(root, "src", "data", "generated-pages.js"),
+  `// Generated by scripts/generate-corpus.mjs. Do not edit by hand.\n` +
+    `export const generatedAt = ${JSON.stringify(generatedAt)};\n` +
+    `export const baseUrl = ${JSON.stringify(baseUrl)};\n` +
+    `export const sourceReferences = ${JSON.stringify(sourceReferences, null, 2)};\n` +
+    `export const pages = ${JSON.stringify(cases, null, 2)};\n`,
+);
+
+await writeFile(
+  path.join(root, "src", "data", "source-backed-pages.js"),
+  `// Generated by scripts/generate-corpus.mjs. Do not edit by hand.\n` +
+    `export const generatedAt = ${JSON.stringify(generatedAt)};\n` +
+    `export const batch = ${JSON.stringify(paulledemonSource.batch)};\n` +
+    `export const source = ${JSON.stringify(paulledemonSource, null, 2)};\n` +
+    `export const pages = ${JSON.stringify(paulledemonCases, null, 2)};\n`,
+);
+
+await writeJson(path.join(root, "public", "manifest.json"), {
+  generatedAt,
+  baseUrl,
+  corpus: "landing-page-source-inspirations",
+  runtime: "vite-react-tailwind-worker",
+  count: cases.length,
+  sourceReferences,
+  pages: cases.map(manifestPage),
 });
 
-console.log(`Generated ${cases.length} React landing-page source fixtures`);
+await writeJson(path.join(root, "public", "manifest.paulledemon-vite-20.json"), {
+  generatedAt,
+  baseUrl,
+  corpus: "landing-page-source-inspirations",
+  runtime: "vite-react-tailwind-worker",
+  batch: paulledemonSource.batch,
+  count: paulledemonCases.length,
+  source: paulledemonSource,
+  pages: paulledemonCases.map(manifestPage),
+});
+
+console.log(`Generated ${cases.length} React landing-page source fixtures and ${paulledemonCases.length} PaulleDemon Vite routes`);

@@ -1,12 +1,15 @@
 {
   "id": "018-incidentloop-split-proof",
   "number": "018",
+  "title": "IncidentLoop",
   "company": "IncidentLoop",
   "tagline": "incident learning for engineering leaders",
   "vertical": "incident",
   "archetype": "launch",
   "route": "/pages/018-incidentloop-split-proof/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/018-incidentloop-split-proof/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

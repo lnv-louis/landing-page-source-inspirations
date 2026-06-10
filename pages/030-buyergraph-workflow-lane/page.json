@@ -1,12 +1,15 @@
 {
   "id": "030-buyergraph-workflow-lane",
   "number": "030",
+  "title": "BuyerGraph",
   "company": "BuyerGraph",
   "tagline": "account intelligence for buying committees",
   "vertical": "buyer",
   "archetype": "case-study",
   "route": "/pages/030-buyergraph-workflow-lane/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/030-buyergraph-workflow-lane/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

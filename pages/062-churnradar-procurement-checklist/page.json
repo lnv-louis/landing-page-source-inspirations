@@ -1,12 +1,15 @@
 {
   "id": "062-churnradar-procurement-checklist",
   "number": "062",
+  "title": "ChurnRadar",
   "company": "ChurnRadar",
   "tagline": "retention signals for customer teams",
   "vertical": "retention",
   "archetype": "product",
   "route": "/pages/062-churnradar-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/062-churnradar-procurement-checklist/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

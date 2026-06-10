@@ -1,12 +1,15 @@
 {
   "id": "085-securerelay-benchmark-grid",
   "number": "085",
+  "title": "SecureRelay",
   "company": "SecureRelay",
   "tagline": "secure customer data exchange",
   "vertical": "secure-exchange",
   "archetype": "docs",
   "route": "/pages/085-securerelay-benchmark-grid/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/085-securerelay-benchmark-grid/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

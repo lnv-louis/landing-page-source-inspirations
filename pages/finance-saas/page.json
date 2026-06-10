@@ -1,0 +1,48 @@
+{
+  "id": "finance-saas",
+  "number": "104",
+  "title": "Finance SaaS",
+  "company": "Finance SaaS",
+  "tagline": "Financial operations SaaS page with plan and trust structure",
+  "vertical": "fintech-saas",
+  "archetype": "pricing",
+  "route": "/pages/finance-saas/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/finance-saas/",
+  "status": "source-backed",
+  "deployMode": "vite-react-route",
+  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "licenseStatus": "MIT",
+  "source": {
+    "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
+    "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
+    "sourcePath": "src/saas/finance",
+    "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/finance",
+    "license": "MIT",
+    "usageMode": "adapted",
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/finance"
+  },
+  "inspiration": {
+    "key": "paulledemon-vite-20",
+    "label": "Finance SaaS · PaulleDemon awesome landing pages",
+    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/finance"
+  },
+  "layoutFamily": "pricing-matrix",
+  "heroKind": "pricing-led",
+  "navKind": "utility-bar",
+  "density": "dense",
+  "sections": [
+    "pricing-hero",
+    "pricing-matrix-anchor",
+    "migration-steps",
+    "demo-form",
+    "competitor-table",
+    "switcher-panel"
+  ],
+  "layoutSignature": "pricing-matrix::pricing-led::utility-bar::src/saas/finance::pricing-hero|pricing-matrix-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
+  "sourcePath": "src/saas/finance",
+  "assets": {
+    "logo": "/pages/finance-saas/assets/logo.svg",
+    "hero": "/pages/finance-saas/assets/hero.svg",
+    "product": "/pages/finance-saas/assets/product.svg"
+  }
+}

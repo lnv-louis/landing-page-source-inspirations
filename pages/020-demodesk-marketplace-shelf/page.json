@@ -1,12 +1,15 @@
 {
   "id": "020-demodesk-marketplace-shelf",
   "number": "020",
+  "title": "DemoDesk",
   "company": "DemoDesk",
   "tagline": "demo enablement for sales engineers",
   "vertical": "demo",
   "archetype": "demo-request",
   "route": "/pages/020-demodesk-marketplace-shelf/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/020-demodesk-marketplace-shelf/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

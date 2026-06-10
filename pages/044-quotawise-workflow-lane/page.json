@@ -1,12 +1,15 @@
 {
   "id": "044-quotawise-workflow-lane",
   "number": "044",
+  "title": "QuotaWise",
   "company": "QuotaWise",
   "tagline": "sales capacity planning",
   "vertical": "quota",
   "archetype": "comparison",
   "route": "/pages/044-quotawise-workflow-lane/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/044-quotawise-workflow-lane/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

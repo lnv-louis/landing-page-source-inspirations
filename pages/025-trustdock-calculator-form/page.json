@@ -1,12 +1,15 @@
 {
   "id": "025-trustdock-calculator-form",
   "number": "025",
+  "title": "TrustDock",
   "company": "TrustDock",
   "tagline": "vendor trust automation",
   "vertical": "trust",
   "archetype": "docs",
   "route": "/pages/025-trustdock-calculator-form/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/025-trustdock-calculator-form/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

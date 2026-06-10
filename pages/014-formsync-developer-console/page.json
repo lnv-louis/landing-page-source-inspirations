@@ -1,12 +1,15 @@
 {
   "id": "014-formsync-developer-console",
   "number": "014",
+  "title": "FormSync",
   "company": "FormSync",
   "tagline": "secure form intake for regulated teams",
   "vertical": "forms",
   "archetype": "use-case",
   "route": "/pages/014-formsync-developer-console/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/014-formsync-developer-console/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

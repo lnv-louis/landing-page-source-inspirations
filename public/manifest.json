@@ -75,6 +75,7 @@
     {
       "id": "001-temporalgrid-split-proof",
       "number": "001",
+      "title": "TemporalGrid",
       "company": "TemporalGrid",
       "tagline": "durable execution for platform teams",
       "route": "/pages/001-temporalgrid-split-proof/",
@@ -103,6 +104,8 @@
         "product-proof"
       ],
       "layoutSignature": "split-proof::split-dashboard::simple-top::home-hero|split-proof-anchor|logo-cloud|pain-grid|product-proof",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -114,6 +117,7 @@
     {
       "id": "002-gladpath-card-catalog",
       "number": "002",
+      "title": "GladPath",
       "company": "GladPath",
       "tagline": "AI service operations for enterprise support",
       "route": "/pages/002-gladpath-card-catalog/",
@@ -143,6 +147,8 @@
         "demo-form"
       ],
       "layoutSignature": "card-catalog::workflow-board::left-rail::product-hero|card-catalog-anchor|workflow-steps|role-cards|security-note|demo-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -154,6 +160,7 @@
     {
       "id": "003-compwise-marketplace-shelf",
       "number": "003",
+      "title": "Compwise",
       "company": "Compwise",
       "tagline": "continuous compliance automation",
       "route": "/pages/003-compwise-marketplace-shelf/",
@@ -184,6 +191,8 @@
         "plan-cards"
       ],
       "layoutSignature": "marketplace-shelf::terminal-window::product-switcher::pricing-hero|marketplace-shelf-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -195,6 +204,7 @@
     {
       "id": "004-chaosdeck-centered-terminal",
       "number": "004",
+      "title": "ChaosDeck",
       "company": "ChaosDeck",
       "tagline": "reliability drills for critical systems",
       "route": "/pages/004-chaosdeck-centered-terminal/",
@@ -223,6 +233,8 @@
         "competitor-table"
       ],
       "layoutSignature": "centered-terminal::metric-wall::anchor-strip::comparison-hero|centered-terminal-anchor|migration-steps|demo-form|competitor-table",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -234,6 +246,7 @@
     {
       "id": "005-intentbase-editorial-report",
       "number": "005",
+      "title": "IntentBase",
       "company": "IntentBase",
       "tagline": "buyer-intent routing for revenue teams",
       "route": "/pages/005-intentbase-editorial-report/",
@@ -263,6 +276,8 @@
         "quickstart-code"
       ],
       "layoutSignature": "editorial-report::form-first::sidebar::docs-hero|editorial-report-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -274,6 +289,7 @@
     {
       "id": "006-signalroom-migration-timeline",
       "number": "006",
+      "title": "SignalRoom",
       "company": "SignalRoom",
       "tagline": "product analytics for activation teams",
       "route": "/pages/006-signalroom-migration-timeline/",
@@ -304,6 +320,8 @@
         "security-form"
       ],
       "layoutSignature": "migration-timeline::launch-note::utility-bar::security-hero|migration-timeline-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -315,6 +333,7 @@
     {
       "id": "007-billwise-sidebar-docs",
       "number": "007",
+      "title": "Billwise",
       "company": "Billwise",
       "tagline": "usage billing for modern SaaS",
       "route": "/pages/007-billwise-sidebar-docs/",
@@ -343,6 +362,8 @@
         "webhook-panel"
       ],
       "layoutSignature": "sidebar-docs::docs-shell::minimal-wordmark::integrations-hero|sidebar-docs-anchor|marketplace-filters|partner-cards|webhook-panel",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -354,6 +375,7 @@
     {
       "id": "008-searchpilot-event-agenda",
       "number": "008",
+      "title": "SearchPilot",
       "company": "SearchPilot",
       "tagline": "AI search across customer knowledge",
       "route": "/pages/008-searchpilot-event-agenda/",
@@ -383,6 +405,8 @@
         "event-hero"
       ],
       "layoutSignature": "event-agenda::procurement-brief::mega-menu::event-hero|event-agenda-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -394,6 +418,7 @@
     {
       "id": "009-dealforge-benchmark-grid",
       "number": "009",
+      "title": "DealForge",
       "company": "DealForge",
       "tagline": "sales-assist workflows for complex deals",
       "route": "/pages/009-dealforge-benchmark-grid/",
@@ -424,6 +449,8 @@
         "input-form"
       ],
       "layoutSignature": "benchmark-grid::customer-story::utility-bar::calculator-hero|benchmark-grid-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -435,6 +462,7 @@
     {
       "id": "010-workflowly-pricing-matrix",
       "number": "010",
+      "title": "Workflowly",
       "company": "Workflowly",
       "tagline": "workflow automation for operations teams",
       "route": "/pages/010-workflowly-pricing-matrix/",
@@ -463,6 +491,8 @@
         "before-after"
       ],
       "layoutSignature": "pricing-matrix::split-dashboard::minimal-wordmark::case-study-hero|pricing-matrix-anchor|quote-wall|case-masthead|before-after",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -474,6 +504,7 @@
     {
       "id": "011-successhub-case-study-narrative",
       "number": "011",
+      "title": "SuccessHub",
       "company": "SuccessHub",
       "tagline": "customer success workspace intelligence",
       "route": "/pages/011-successhub-case-study-narrative/",
@@ -503,6 +534,8 @@
         "customer-logos"
       ],
       "layoutSignature": "case-study-narrative::api-console::mega-menu::developer-hero|case-study-narrative-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -514,6 +547,7 @@
     {
       "id": "012-cloudledger-industry-map",
       "number": "012",
+      "title": "CloudLedger",
       "company": "CloudLedger",
       "tagline": "FinOps controls for cloud spend",
       "route": "/pages/012-cloudledger-industry-map/",
@@ -544,6 +578,8 @@
         "feature-tabs"
       ],
       "layoutSignature": "industry-map::asymmetric-editorial::centered-tabs::agent-workflow-hero|industry-map-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -555,6 +591,7 @@
     {
       "id": "013-knowledgekit-workflow-lane",
       "number": "013",
+      "title": "KnowledgeKit",
       "company": "KnowledgeKit",
       "tagline": "docs and support answer orchestration",
       "route": "/pages/013-knowledgekit-workflow-lane/",
@@ -583,6 +620,8 @@
         "cta-band"
       ],
       "layoutSignature": "workflow-lane::security-room::docs-rail::procurement-hero|workflow-lane-anchor|faq-accordion|procurement-note|cta-band",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -594,6 +633,7 @@
     {
       "id": "014-formsync-developer-console",
       "number": "014",
+      "title": "FormSync",
       "company": "FormSync",
       "tagline": "secure form intake for regulated teams",
       "route": "/pages/014-formsync-developer-console/",
@@ -623,6 +663,8 @@
         "switcher-panel"
       ],
       "layoutSignature": "developer-console::pricing-led::simple-top::use-case-hero|developer-console-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -634,6 +676,7 @@
     {
       "id": "015-accessforge-demo-form-panel",
       "number": "015",
+      "title": "AccessForge",
       "company": "AccessForge",
       "tagline": "identity governance for SaaS sprawl",
       "route": "/pages/015-accessforge-demo-form-panel/",
@@ -664,6 +707,8 @@
         "changelog-list"
       ],
       "layoutSignature": "demo-form-panel::launch-note::left-rail::marketplace-hero|demo-form-panel-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -675,6 +720,7 @@
     {
       "id": "016-pipelineatlas-dashboard-first",
       "number": "016",
+      "title": "PipelineAtlas",
       "company": "PipelineAtlas",
       "tagline": "pipeline intelligence for B2B marketing",
       "route": "/pages/016-pipelineatlas-dashboard-first/",
@@ -703,6 +749,8 @@
         "audit-timeline"
       ],
       "layoutSignature": "dashboard-first::event-poster::product-switcher::migration-hero|dashboard-first-anchor|trust-center|control-grid|audit-timeline",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -714,6 +762,7 @@
     {
       "id": "017-prooflayer-procurement-checklist",
       "number": "017",
+      "title": "ProofLayer",
       "company": "ProofLayer",
       "tagline": "security proof rooms for buyers",
       "route": "/pages/017-prooflayer-procurement-checklist/",
@@ -743,6 +792,8 @@
         "signup-form"
       ],
       "layoutSignature": "procurement-checklist::demo-room::simple-top::benchmark-hero|procurement-checklist-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -754,6 +805,7 @@
     {
       "id": "018-incidentloop-split-proof",
       "number": "018",
+      "title": "IncidentLoop",
       "company": "IncidentLoop",
       "tagline": "incident learning for engineering leaders",
       "route": "/pages/018-incidentloop-split-proof/",
@@ -784,6 +836,8 @@
         "agenda-list"
       ],
       "layoutSignature": "split-proof::market-map::left-rail::launch-hero|split-proof-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -795,6 +849,7 @@
     {
       "id": "019-querylake-card-catalog",
       "number": "019",
+      "title": "QueryLake",
       "company": "QueryLake",
       "tagline": "analytics warehouse search for operators",
       "route": "/pages/019-querylake-card-catalog/",
@@ -823,6 +878,8 @@
         "roi-calculator"
       ],
       "layoutSignature": "card-catalog::centered-proof::product-switcher::solutions-hero|card-catalog-anchor|results-table|download-cta|roi-calculator",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -834,6 +891,7 @@
     {
       "id": "020-demodesk-marketplace-shelf",
       "number": "020",
+      "title": "DemoDesk",
       "company": "DemoDesk",
       "tagline": "demo enablement for sales engineers",
       "route": "/pages/020-demodesk-marketplace-shelf/",
@@ -863,6 +921,8 @@
         "metric-row"
       ],
       "layoutSignature": "marketplace-shelf::api-console::anchor-strip::demo-request-hero|marketplace-shelf-anchor|quote-wall|case-masthead|before-after|metric-row",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -874,6 +934,7 @@
     {
       "id": "021-vectorops-sidebar-docs",
       "number": "021",
+      "title": "VectorOps",
       "company": "VectorOps",
       "tagline": "feature flag governance for releases",
       "route": "/pages/021-vectorops-sidebar-docs/",
@@ -904,6 +965,8 @@
         "cta-band"
       ],
       "layoutSignature": "sidebar-docs::form-first::sidebar::home-hero|sidebar-docs-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -915,6 +978,7 @@
     {
       "id": "022-northstarcrm-event-agenda",
       "number": "022",
+      "title": "NorthstarCRM",
       "company": "NorthstarCRM",
       "tagline": "CRM hygiene for multi-threaded deals",
       "route": "/pages/022-northstarcrm-event-agenda/",
@@ -943,6 +1007,8 @@
         "security-note"
       ],
       "layoutSignature": "event-agenda::integration-cloud::utility-bar::product-hero|event-agenda-anchor|workflow-steps|role-cards|security-note",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -954,6 +1020,7 @@
     {
       "id": "023-launchguard-benchmark-grid",
       "number": "023",
+      "title": "LaunchGuard",
       "company": "LaunchGuard",
       "tagline": "launch readiness command center",
       "route": "/pages/023-launchguard-benchmark-grid/",
@@ -983,6 +1050,8 @@
         "pricing-table"
       ],
       "layoutSignature": "benchmark-grid::comparison-first::minimal-wordmark::pricing-hero|benchmark-grid-anchor|faq-accordion|procurement-note|cta-band|pricing-table",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -994,6 +1063,7 @@
     {
       "id": "024-metricbridge-pricing-matrix",
       "number": "024",
+      "title": "MetricBridge",
       "company": "MetricBridge",
       "tagline": "board-ready metrics from source systems",
       "route": "/pages/024-metricbridge-pricing-matrix/",
@@ -1024,6 +1094,8 @@
         "proof-quotes"
       ],
       "layoutSignature": "pricing-matrix::calculator-panel::mega-menu::comparison-hero|pricing-matrix-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1035,6 +1107,7 @@
     {
       "id": "025-trustdock-calculator-form",
       "number": "025",
+      "title": "TrustDock",
       "company": "TrustDock",
       "tagline": "vendor trust automation",
       "route": "/pages/025-trustdock-calculator-form/",
@@ -1063,6 +1136,8 @@
         "api-table"
       ],
       "layoutSignature": "calculator-form::event-poster::utility-bar::docs-hero|calculator-form-anchor|developer-cta|docs-sidebar|api-table",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1074,6 +1149,7 @@
     {
       "id": "026-replypilot-announcement-stack",
       "number": "026",
+      "title": "ReplyPilot",
       "company": "ReplyPilot",
       "tagline": "support reply automation with controls",
       "route": "/pages/026-replypilot-announcement-stack/",
@@ -1103,6 +1179,8 @@
         "policy-links"
       ],
       "layoutSignature": "announcement-stack::split-dashboard::minimal-wordmark::security-hero|announcement-stack-anchor|trust-center|control-grid|audit-timeline|policy-links",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1114,6 +1192,7 @@
     {
       "id": "027-usagemeter-comparison-ledger",
       "number": "027",
+      "title": "UsageMeter",
       "company": "UsageMeter",
       "tagline": "metering infrastructure for AI products",
       "route": "/pages/027-usagemeter-comparison-ledger/",
@@ -1144,6 +1223,8 @@
         "integration-grid"
       ],
       "layoutSignature": "comparison-ledger::workflow-board::mega-menu::integrations-hero|comparison-ledger-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1155,6 +1236,7 @@
     {
       "id": "028-policyhub-case-study-narrative",
       "number": "028",
+      "title": "PolicyHub",
       "company": "PolicyHub",
       "tagline": "policy lifecycle for compliance teams",
       "route": "/pages/028-policyhub-case-study-narrative/",
@@ -1183,6 +1265,8 @@
         "sponsor-row"
       ],
       "layoutSignature": "case-study-narrative::terminal-window::centered-tabs::event-hero|case-study-narrative-anchor|speaker-grid|registration-form|sponsor-row",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1194,6 +1278,7 @@
     {
       "id": "029-segmentflow-industry-map",
       "number": "029",
+      "title": "SegmentFlow",
       "company": "SegmentFlow",
       "tagline": "self-serve audience operations",
       "route": "/pages/029-segmentflow-industry-map/",
@@ -1223,6 +1308,8 @@
         "benchmark-bars"
       ],
       "layoutSignature": "industry-map::metric-wall::docs-rail::calculator-hero|industry-map-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1234,6 +1321,7 @@
     {
       "id": "030-buyergraph-workflow-lane",
       "number": "030",
+      "title": "BuyerGraph",
       "company": "BuyerGraph",
       "tagline": "account intelligence for buying committees",
       "route": "/pages/030-buyergraph-workflow-lane/",
@@ -1264,6 +1352,8 @@
         "story-timeline"
       ],
       "layoutSignature": "workflow-lane::form-first::simple-top::case-study-hero|workflow-lane-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1275,6 +1365,7 @@
     {
       "id": "031-runbookai-procurement-checklist",
       "number": "031",
+      "title": "RunbookAI",
       "company": "RunbookAI",
       "tagline": "runbook automation for SRE teams",
       "route": "/pages/031-runbookai-procurement-checklist/",
@@ -1303,6 +1394,8 @@
         "product-proof"
       ],
       "layoutSignature": "procurement-checklist::launch-note::left-rail::developer-hero|procurement-checklist-anchor|logo-cloud|pain-grid|product-proof",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1314,6 +1407,7 @@
     {
       "id": "032-docsrelay-split-proof",
       "number": "032",
+      "title": "DocsRelay",
       "company": "DocsRelay",
       "tagline": "developer docs delivery analytics",
       "route": "/pages/032-docsrelay-split-proof/",
@@ -1343,6 +1437,8 @@
         "demo-form"
       ],
       "layoutSignature": "split-proof::docs-shell::product-switcher::agent-workflow-hero|split-proof-anchor|workflow-steps|role-cards|security-note|demo-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1354,6 +1450,7 @@
     {
       "id": "033-cloudspend-card-catalog",
       "number": "033",
+      "title": "CloudSpend",
       "company": "CloudSpend",
       "tagline": "procurement-aware cloud planning",
       "route": "/pages/033-cloudspend-card-catalog/",
@@ -1384,6 +1481,8 @@
         "plan-cards"
       ],
       "layoutSignature": "card-catalog::procurement-brief::simple-top::procurement-hero|card-catalog-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1395,6 +1494,7 @@
     {
       "id": "034-auditnest-marketplace-shelf",
       "number": "034",
+      "title": "AuditNest",
       "company": "AuditNest",
       "tagline": "audit evidence workspace",
       "route": "/pages/034-auditnest-marketplace-shelf/",
@@ -1423,6 +1523,8 @@
         "competitor-table"
       ],
       "layoutSignature": "marketplace-shelf::customer-story::left-rail::use-case-hero|marketplace-shelf-anchor|migration-steps|demo-form|competitor-table",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1434,6 +1536,7 @@
     {
       "id": "035-routesignal-centered-terminal",
       "number": "035",
+      "title": "RouteSignal",
       "company": "RouteSignal",
       "tagline": "routing intelligence for go-to-market teams",
       "route": "/pages/035-routesignal-centered-terminal/",
@@ -1463,6 +1566,8 @@
         "quickstart-code"
       ],
       "layoutSignature": "centered-terminal::split-dashboard::product-switcher::marketplace-hero|centered-terminal-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1474,6 +1579,7 @@
     {
       "id": "036-stackpilot-editorial-report",
       "number": "036",
+      "title": "StackPilot",
       "company": "StackPilot",
       "tagline": "internal developer platform insights",
       "route": "/pages/036-stackpilot-editorial-report/",
@@ -1504,6 +1610,8 @@
         "security-form"
       ],
       "layoutSignature": "editorial-report::api-console::anchor-strip::migration-hero|editorial-report-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1515,6 +1623,7 @@
     {
       "id": "037-controlplane-migration-timeline",
       "number": "037",
+      "title": "ControlPlane",
       "company": "ControlPlane",
       "tagline": "fleet controls for cloud operations",
       "route": "/pages/037-controlplane-migration-timeline/",
@@ -1543,6 +1652,8 @@
         "webhook-panel"
       ],
       "layoutSignature": "migration-timeline::asymmetric-editorial::sidebar::benchmark-hero|migration-timeline-anchor|marketplace-filters|partner-cards|webhook-panel",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1554,6 +1665,7 @@
     {
       "id": "038-qualifykit-sidebar-docs",
       "number": "038",
+      "title": "QualifyKit",
       "company": "QualifyKit",
       "tagline": "lead qualification for sales-assisted funnels",
       "route": "/pages/038-qualifykit-sidebar-docs/",
@@ -1583,6 +1695,8 @@
         "event-hero"
       ],
       "layoutSignature": "sidebar-docs::security-room::utility-bar::launch-hero|sidebar-docs-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1594,6 +1708,7 @@
     {
       "id": "039-nexusdesk-event-agenda",
       "number": "039",
+      "title": "NexusDesk",
       "company": "NexusDesk",
       "tagline": "service desk workflow intelligence",
       "route": "/pages/039-nexusdesk-event-agenda/",
@@ -1624,6 +1739,8 @@
         "input-form"
       ],
       "layoutSignature": "event-agenda::pricing-led::minimal-wordmark::solutions-hero|event-agenda-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1635,6 +1752,7 @@
     {
       "id": "040-traceroot-benchmark-grid",
       "number": "040",
+      "title": "TraceRoot",
       "company": "TraceRoot",
       "tagline": "distributed trace explanations",
       "route": "/pages/040-traceroot-benchmark-grid/",
@@ -1663,6 +1781,8 @@
         "before-after"
       ],
       "layoutSignature": "benchmark-grid::launch-note::mega-menu::demo-request-hero|benchmark-grid-anchor|quote-wall|case-masthead|before-after",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1674,6 +1794,7 @@
     {
       "id": "041-linkledger-comparison-ledger",
       "number": "041",
+      "title": "LinkLedger",
       "company": "LinkLedger",
       "tagline": "partner link attribution",
       "route": "/pages/041-linkledger-comparison-ledger/",
@@ -1703,6 +1824,8 @@
         "customer-logos"
       ],
       "layoutSignature": "comparison-ledger::event-poster::utility-bar::home-hero|comparison-ledger-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1714,6 +1837,7 @@
     {
       "id": "042-handoffhq-case-study-narrative",
       "number": "042",
+      "title": "HandoffHQ",
       "company": "HandoffHQ",
       "tagline": "handoff automation for implementation teams",
       "route": "/pages/042-handoffhq-case-study-narrative/",
@@ -1744,6 +1868,8 @@
         "feature-tabs"
       ],
       "layoutSignature": "case-study-narrative::demo-room::minimal-wordmark::product-hero|case-study-narrative-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1755,6 +1881,7 @@
     {
       "id": "043-riskcanvas-industry-map",
       "number": "043",
+      "title": "RiskCanvas",
       "company": "RiskCanvas",
       "tagline": "risk review workspace",
       "route": "/pages/043-riskcanvas-industry-map/",
@@ -1783,6 +1910,8 @@
         "cta-band"
       ],
       "layoutSignature": "industry-map::market-map::mega-menu::pricing-hero|industry-map-anchor|faq-accordion|procurement-note|cta-band",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1794,6 +1923,7 @@
     {
       "id": "044-quotawise-workflow-lane",
       "number": "044",
+      "title": "QuotaWise",
       "company": "QuotaWise",
       "tagline": "sales capacity planning",
       "route": "/pages/044-quotawise-workflow-lane/",
@@ -1823,6 +1953,8 @@
         "switcher-panel"
       ],
       "layoutSignature": "workflow-lane::centered-proof::centered-tabs::comparison-hero|workflow-lane-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1834,6 +1966,7 @@
     {
       "id": "045-answerloop-developer-console",
       "number": "045",
+      "title": "AnswerLoop",
       "company": "AnswerLoop",
       "tagline": "customer-answer analytics",
       "route": "/pages/045-answerloop-developer-console/",
@@ -1864,6 +1997,8 @@
         "changelog-list"
       ],
       "layoutSignature": "developer-console::api-console::docs-rail::docs-hero|developer-console-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1875,6 +2010,7 @@
     {
       "id": "046-scribeops-demo-form-panel",
       "number": "046",
+      "title": "ScribeOps",
       "company": "ScribeOps",
       "tagline": "technical writing operations",
       "route": "/pages/046-scribeops-demo-form-panel/",
@@ -1903,6 +2039,8 @@
         "audit-timeline"
       ],
       "layoutSignature": "demo-form-panel::form-first::simple-top::security-hero|demo-form-panel-anchor|trust-center|control-grid|audit-timeline",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1914,6 +2052,7 @@
     {
       "id": "047-atlasboard-dashboard-first",
       "number": "047",
+      "title": "AtlasBoard",
       "company": "AtlasBoard",
       "tagline": "executive dashboard automation",
       "route": "/pages/047-atlasboard-dashboard-first/",
@@ -1943,6 +2082,8 @@
         "signup-form"
       ],
       "layoutSignature": "dashboard-first::integration-cloud::left-rail::integrations-hero|dashboard-first-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1954,6 +2095,7 @@
     {
       "id": "048-signalforge-procurement-checklist",
       "number": "048",
+      "title": "SignalForge",
       "company": "SignalForge",
       "tagline": "signal scoring for outbound teams",
       "route": "/pages/048-signalforge-procurement-checklist/",
@@ -1984,6 +2126,8 @@
         "agenda-list"
       ],
       "layoutSignature": "procurement-checklist::comparison-first::product-switcher::event-hero|procurement-checklist-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -1995,6 +2139,7 @@
     {
       "id": "049-launchops-split-proof",
       "number": "049",
+      "title": "LaunchOps",
       "company": "LaunchOps",
       "tagline": "launch operations planning",
       "route": "/pages/049-launchops-split-proof/",
@@ -2023,6 +2168,8 @@
         "roi-calculator"
       ],
       "layoutSignature": "split-proof::calculator-panel::simple-top::calculator-hero|split-proof-anchor|results-table|download-cta|roi-calculator",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2034,6 +2181,7 @@
     {
       "id": "050-trustmatrix-card-catalog",
       "number": "050",
+      "title": "TrustMatrix",
       "company": "TrustMatrix",
       "tagline": "third-party risk workspace",
       "route": "/pages/050-trustmatrix-card-catalog/",
@@ -2063,6 +2211,8 @@
         "metric-row"
       ],
       "layoutSignature": "card-catalog::event-poster::left-rail::case-study-hero|card-catalog-anchor|quote-wall|case-masthead|before-after|metric-row",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2074,6 +2224,7 @@
     {
       "id": "051-webhookbase-migration-timeline",
       "number": "051",
+      "title": "WebhookBase",
       "company": "WebhookBase",
       "tagline": "webhook reliability for automation teams",
       "route": "/pages/051-webhookbase-migration-timeline/",
@@ -2104,6 +2255,8 @@
         "cta-band"
       ],
       "layoutSignature": "migration-timeline::split-dashboard::product-switcher::developer-hero|migration-timeline-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2115,6 +2268,7 @@
     {
       "id": "052-opsnarrative-sidebar-docs",
       "number": "052",
+      "title": "OpsNarrative",
       "company": "OpsNarrative",
       "tagline": "operating narratives for executive teams",
       "route": "/pages/052-opsnarrative-sidebar-docs/",
@@ -2143,6 +2297,8 @@
         "security-note"
       ],
       "layoutSignature": "sidebar-docs::workflow-board::anchor-strip::agent-workflow-hero|sidebar-docs-anchor|workflow-steps|role-cards|security-note",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2154,6 +2310,7 @@
     {
       "id": "053-revenuelens-event-agenda",
       "number": "053",
+      "title": "RevenueLens",
       "company": "RevenueLens",
       "tagline": "revenue intelligence for sales-led SaaS",
       "route": "/pages/053-revenuelens-event-agenda/",
@@ -2183,6 +2340,8 @@
         "pricing-table"
       ],
       "layoutSignature": "event-agenda::terminal-window::sidebar::procurement-hero|event-agenda-anchor|faq-accordion|procurement-note|cta-band|pricing-table",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2194,6 +2353,7 @@
     {
       "id": "054-portalkit-benchmark-grid",
       "number": "054",
+      "title": "PortalKit",
       "company": "PortalKit",
       "tagline": "customer portal operations for B2B platforms",
       "route": "/pages/054-portalkit-benchmark-grid/",
@@ -2224,6 +2384,8 @@
         "proof-quotes"
       ],
       "layoutSignature": "benchmark-grid::metric-wall::utility-bar::use-case-hero|benchmark-grid-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2235,6 +2397,7 @@
     {
       "id": "055-dataharbor-pricing-matrix",
       "number": "055",
+      "title": "DataHarbor",
       "company": "DataHarbor",
       "tagline": "warehouse activation for GTM teams",
       "route": "/pages/055-dataharbor-pricing-matrix/",
@@ -2263,6 +2426,8 @@
         "api-table"
       ],
       "layoutSignature": "pricing-matrix::form-first::minimal-wordmark::marketplace-hero|pricing-matrix-anchor|developer-cta|docs-sidebar|api-table",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2274,6 +2439,7 @@
     {
       "id": "056-synctower-calculator-form",
       "number": "056",
+      "title": "SyncTower",
       "company": "SyncTower",
       "tagline": "system sync controls for business apps",
       "route": "/pages/056-synctower-calculator-form/",
@@ -2303,6 +2469,8 @@
         "policy-links"
       ],
       "layoutSignature": "calculator-form::launch-note::mega-menu::migration-hero|calculator-form-anchor|trust-center|control-grid|audit-timeline|policy-links",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2314,6 +2482,7 @@
     {
       "id": "057-demoroute-announcement-stack",
       "number": "057",
+      "title": "DemoRoute",
       "company": "DemoRoute",
       "tagline": "demo routing for complex buyer journeys",
       "route": "/pages/057-demoroute-announcement-stack/",
@@ -2344,6 +2513,8 @@
         "integration-grid"
       ],
       "layoutSignature": "announcement-stack::docs-shell::utility-bar::benchmark-hero|announcement-stack-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2355,6 +2526,7 @@
     {
       "id": "058-securepath-comparison-ledger",
       "number": "058",
+      "title": "SecurePath",
       "company": "SecurePath",
       "tagline": "security review automation for vendors",
       "route": "/pages/058-securepath-comparison-ledger/",
@@ -2383,6 +2555,8 @@
         "sponsor-row"
       ],
       "layoutSignature": "comparison-ledger::procurement-brief::minimal-wordmark::launch-hero|comparison-ledger-anchor|speaker-grid|registration-form|sponsor-row",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2394,6 +2568,7 @@
     {
       "id": "059-proofkit-case-study-narrative",
       "number": "059",
+      "title": "ProofKit",
       "company": "ProofKit",
       "tagline": "proof collection for enterprise buyers",
       "route": "/pages/059-proofkit-case-study-narrative/",
@@ -2423,6 +2598,8 @@
         "benchmark-bars"
       ],
       "layoutSignature": "case-study-narrative::customer-story::mega-menu::solutions-hero|case-study-narrative-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2434,6 +2611,7 @@
     {
       "id": "060-spendpilot-industry-map",
       "number": "060",
+      "title": "SpendPilot",
       "company": "SpendPilot",
       "tagline": "spend workflows for finance teams",
       "route": "/pages/060-spendpilot-industry-map/",
@@ -2464,6 +2642,8 @@
         "story-timeline"
       ],
       "layoutSignature": "industry-map::split-dashboard::centered-tabs::demo-request-hero|industry-map-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2475,6 +2655,7 @@
     {
       "id": "061-enabledesk-dashboard-first",
       "number": "061",
+      "title": "EnableDesk",
       "company": "EnableDesk",
       "tagline": "enablement desk for account teams",
       "route": "/pages/061-enabledesk-dashboard-first/",
@@ -2503,6 +2684,8 @@
         "product-proof"
       ],
       "layoutSignature": "dashboard-first::api-console::docs-rail::home-hero|dashboard-first-anchor|logo-cloud|pain-grid|product-proof",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2514,6 +2697,7 @@
     {
       "id": "062-churnradar-procurement-checklist",
       "number": "062",
+      "title": "ChurnRadar",
       "company": "ChurnRadar",
       "tagline": "retention signals for customer teams",
       "route": "/pages/062-churnradar-procurement-checklist/",
@@ -2543,6 +2727,8 @@
         "demo-form"
       ],
       "layoutSignature": "procurement-checklist::asymmetric-editorial::simple-top::product-hero|procurement-checklist-anchor|workflow-steps|role-cards|security-note|demo-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2554,6 +2740,7 @@
     {
       "id": "063-intentmap-split-proof",
       "number": "063",
+      "title": "IntentMap",
       "company": "IntentMap",
       "tagline": "intent map routing for marketers",
       "route": "/pages/063-intentmap-split-proof/",
@@ -2584,6 +2771,8 @@
         "plan-cards"
       ],
       "layoutSignature": "split-proof::security-room::left-rail::pricing-hero|split-proof-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2595,6 +2784,7 @@
     {
       "id": "064-formbridge-card-catalog",
       "number": "064",
+      "title": "FormBridge",
       "company": "FormBridge",
       "tagline": "form enrichment for sales funnels",
       "route": "/pages/064-formbridge-card-catalog/",
@@ -2623,6 +2813,8 @@
         "competitor-table"
       ],
       "layoutSignature": "card-catalog::pricing-led::product-switcher::comparison-hero|card-catalog-anchor|migration-steps|demo-form|competitor-table",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2634,6 +2826,7 @@
     {
       "id": "065-releaseledger-marketplace-shelf",
       "number": "065",
+      "title": "ReleaseLedger",
       "company": "ReleaseLedger",
       "tagline": "release evidence for product orgs",
       "route": "/pages/065-releaseledger-marketplace-shelf/",
@@ -2663,6 +2856,8 @@
         "quickstart-code"
       ],
       "layoutSignature": "marketplace-shelf::launch-note::simple-top::docs-hero|marketplace-shelf-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2674,6 +2869,7 @@
     {
       "id": "066-querypilot-centered-terminal",
       "number": "066",
+      "title": "QueryPilot",
       "company": "QueryPilot",
       "tagline": "self-serve analytics query copilots",
       "route": "/pages/066-querypilot-centered-terminal/",
@@ -2704,6 +2900,8 @@
         "security-form"
       ],
       "layoutSignature": "centered-terminal::event-poster::left-rail::security-hero|centered-terminal-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2715,6 +2913,7 @@
     {
       "id": "067-insightrelay-editorial-report",
       "number": "067",
+      "title": "InsightRelay",
       "company": "InsightRelay",
       "tagline": "insight delivery for Slack-first analytics",
       "route": "/pages/067-insightrelay-editorial-report/",
@@ -2743,6 +2942,8 @@
         "webhook-panel"
       ],
       "layoutSignature": "editorial-report::demo-room::product-switcher::integrations-hero|editorial-report-anchor|marketplace-filters|partner-cards|webhook-panel",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2754,6 +2955,7 @@
     {
       "id": "068-controlroom-migration-timeline",
       "number": "068",
+      "title": "ControlRoom",
       "company": "ControlRoom",
       "tagline": "operations control rooms for SaaS teams",
       "route": "/pages/068-controlroom-migration-timeline/",
@@ -2783,6 +2985,8 @@
         "event-hero"
       ],
       "layoutSignature": "migration-timeline::market-map::anchor-strip::event-hero|migration-timeline-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2794,6 +2998,7 @@
     {
       "id": "069-graphsuite-sidebar-docs",
       "number": "069",
+      "title": "GraphSuite",
       "company": "GraphSuite",
       "tagline": "account graph workspaces for B2B teams",
       "route": "/pages/069-graphsuite-sidebar-docs/",
@@ -2824,6 +3029,8 @@
         "input-form"
       ],
       "layoutSignature": "sidebar-docs::centered-proof::sidebar::calculator-hero|sidebar-docs-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2835,6 +3042,7 @@
     {
       "id": "070-docspilot-event-agenda",
       "number": "070",
+      "title": "DocsPilot",
       "company": "DocsPilot",
       "tagline": "docs insights for developer marketing",
       "route": "/pages/070-docspilot-event-agenda/",
@@ -2863,6 +3071,8 @@
         "before-after"
       ],
       "layoutSignature": "event-agenda::api-console::utility-bar::case-study-hero|event-agenda-anchor|quote-wall|case-masthead|before-after",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2874,6 +3084,7 @@
     {
       "id": "071-fieldbridge-announcement-stack",
       "number": "071",
+      "title": "FieldBridge",
       "company": "FieldBridge",
       "tagline": "field team workflows for sales engineers",
       "route": "/pages/071-fieldbridge-announcement-stack/",
@@ -2903,6 +3114,8 @@
         "customer-logos"
       ],
       "layoutSignature": "announcement-stack::form-first::minimal-wordmark::developer-hero|announcement-stack-anchor|logo-cloud|pain-grid|product-proof|customer-logos",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2914,6 +3127,7 @@
     {
       "id": "072-scorelayer-comparison-ledger",
       "number": "072",
+      "title": "ScoreLayer",
       "company": "ScoreLayer",
       "tagline": "lead score governance for RevOps",
       "route": "/pages/072-scorelayer-comparison-ledger/",
@@ -2944,6 +3158,8 @@
         "feature-tabs"
       ],
       "layoutSignature": "comparison-ledger::integration-cloud::mega-menu::agent-workflow-hero|comparison-ledger-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2955,6 +3171,7 @@
     {
       "id": "073-workspaceiq-case-study-narrative",
       "number": "073",
+      "title": "WorkspaceIQ",
       "company": "WorkspaceIQ",
       "tagline": "workspace intelligence for knowledge teams",
       "route": "/pages/073-workspaceiq-case-study-narrative/",
@@ -2983,6 +3200,8 @@
         "cta-band"
       ],
       "layoutSignature": "case-study-narrative::comparison-first::utility-bar::procurement-hero|case-study-narrative-anchor|faq-accordion|procurement-note|cta-band",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -2994,6 +3213,7 @@
     {
       "id": "074-buyerdeck-industry-map",
       "number": "074",
+      "title": "BuyerDeck",
       "company": "BuyerDeck",
       "tagline": "buyer enablement rooms for enterprise sales",
       "route": "/pages/074-buyerdeck-industry-map/",
@@ -3023,6 +3243,8 @@
         "switcher-panel"
       ],
       "layoutSignature": "industry-map::calculator-panel::minimal-wordmark::use-case-hero|industry-map-anchor|migration-steps|demo-form|competitor-table|switcher-panel",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3034,6 +3256,7 @@
     {
       "id": "075-signalcloud-workflow-lane",
       "number": "075",
+      "title": "SignalCloud",
       "company": "SignalCloud",
       "tagline": "signal cloud for product-led growth",
       "route": "/pages/075-signalcloud-workflow-lane/",
@@ -3064,6 +3287,8 @@
         "changelog-list"
       ],
       "layoutSignature": "workflow-lane::event-poster::mega-menu::marketplace-hero|workflow-lane-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3075,6 +3300,7 @@
     {
       "id": "076-runwayops-developer-console",
       "number": "076",
+      "title": "RunwayOps",
       "company": "RunwayOps",
       "tagline": "runway planning for finance leaders",
       "route": "/pages/076-runwayops-developer-console/",
@@ -3103,6 +3329,8 @@
         "audit-timeline"
       ],
       "layoutSignature": "developer-console::split-dashboard::centered-tabs::migration-hero|developer-console-anchor|trust-center|control-grid|audit-timeline",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3114,6 +3342,7 @@
     {
       "id": "077-claimcheck-demo-form-panel",
       "number": "077",
+      "title": "ClaimCheck",
       "company": "ClaimCheck",
       "tagline": "claims review for compliance teams",
       "route": "/pages/077-claimcheck-demo-form-panel/",
@@ -3143,6 +3372,8 @@
         "signup-form"
       ],
       "layoutSignature": "demo-form-panel::workflow-board::docs-rail::benchmark-hero|demo-form-panel-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3154,6 +3385,7 @@
     {
       "id": "078-metriclake-dashboard-first",
       "number": "078",
+      "title": "MetricLake",
       "company": "MetricLake",
       "tagline": "metrics lake for operating reviews",
       "route": "/pages/078-metriclake-dashboard-first/",
@@ -3184,6 +3416,8 @@
         "agenda-list"
       ],
       "layoutSignature": "dashboard-first::terminal-window::simple-top::launch-hero|dashboard-first-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3195,6 +3429,7 @@
     {
       "id": "079-contractflow-procurement-checklist",
       "number": "079",
+      "title": "ContractFlow",
       "company": "ContractFlow",
       "tagline": "contract workflow automation",
       "route": "/pages/079-contractflow-procurement-checklist/",
@@ -3223,6 +3458,8 @@
         "roi-calculator"
       ],
       "layoutSignature": "procurement-checklist::metric-wall::left-rail::solutions-hero|procurement-checklist-anchor|results-table|download-cta|roi-calculator",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3234,6 +3471,7 @@
     {
       "id": "080-answergrid-split-proof",
       "number": "080",
+      "title": "AnswerGrid",
       "company": "AnswerGrid",
       "tagline": "answer analytics for support portals",
       "route": "/pages/080-answergrid-split-proof/",
@@ -3263,6 +3501,8 @@
         "metric-row"
       ],
       "layoutSignature": "split-proof::form-first::product-switcher::demo-request-hero|split-proof-anchor|quote-wall|case-masthead|before-after|metric-row",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3274,6 +3514,7 @@
     {
       "id": "081-trustbeacon-editorial-report",
       "number": "081",
+      "title": "TrustBeacon",
       "company": "TrustBeacon",
       "tagline": "trust center automation for SaaS vendors",
       "route": "/pages/081-trustbeacon-editorial-report/",
@@ -3304,6 +3545,8 @@
         "cta-band"
       ],
       "layoutSignature": "editorial-report::launch-note::simple-top::home-hero|editorial-report-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3315,6 +3558,7 @@
     {
       "id": "082-journeykit-migration-timeline",
       "number": "082",
+      "title": "JourneyKit",
       "company": "JourneyKit",
       "tagline": "journey orchestration for lifecycle teams",
       "route": "/pages/082-journeykit-migration-timeline/",
@@ -3343,6 +3587,8 @@
         "security-note"
       ],
       "layoutSignature": "migration-timeline::docs-shell::left-rail::product-hero|migration-timeline-anchor|workflow-steps|role-cards|security-note",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3354,6 +3600,7 @@
     {
       "id": "083-launchfield-sidebar-docs",
       "number": "083",
+      "title": "LaunchField",
       "company": "LaunchField",
       "tagline": "field launch operations",
       "route": "/pages/083-launchfield-sidebar-docs/",
@@ -3383,6 +3630,8 @@
         "pricing-table"
       ],
       "layoutSignature": "sidebar-docs::procurement-brief::product-switcher::pricing-hero|sidebar-docs-anchor|faq-accordion|procurement-note|cta-band|pricing-table",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3394,6 +3643,7 @@
     {
       "id": "084-quotadeck-event-agenda",
       "number": "084",
+      "title": "QuotaDeck",
       "company": "QuotaDeck",
       "tagline": "quota planning and territory design",
       "route": "/pages/084-quotadeck-event-agenda/",
@@ -3424,6 +3674,8 @@
         "proof-quotes"
       ],
       "layoutSignature": "event-agenda::customer-story::anchor-strip::comparison-hero|event-agenda-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3435,6 +3687,7 @@
     {
       "id": "085-securerelay-benchmark-grid",
       "number": "085",
+      "title": "SecureRelay",
       "company": "SecureRelay",
       "tagline": "secure customer data exchange",
       "route": "/pages/085-securerelay-benchmark-grid/",
@@ -3463,6 +3716,8 @@
         "api-table"
       ],
       "layoutSignature": "benchmark-grid::split-dashboard::sidebar::docs-hero|benchmark-grid-anchor|developer-cta|docs-sidebar|api-table",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3474,6 +3729,7 @@
     {
       "id": "086-pipelineos-pricing-matrix",
       "number": "086",
+      "title": "PipelineOS",
       "company": "PipelineOS",
       "tagline": "pipeline operations for revenue teams",
       "route": "/pages/086-pipelineos-pricing-matrix/",
@@ -3503,6 +3759,8 @@
         "policy-links"
       ],
       "layoutSignature": "pricing-matrix::api-console::utility-bar::security-hero|pricing-matrix-anchor|trust-center|control-grid|audit-timeline|policy-links",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3514,6 +3772,7 @@
     {
       "id": "087-workflowbase-calculator-form",
       "number": "087",
+      "title": "WorkflowBase",
       "company": "WorkflowBase",
       "tagline": "workflow base layer for SaaS ops",
       "route": "/pages/087-workflowbase-calculator-form/",
@@ -3544,6 +3803,8 @@
         "integration-grid"
       ],
       "layoutSignature": "calculator-form::asymmetric-editorial::minimal-wordmark::integrations-hero|calculator-form-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form|integration-grid",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3555,6 +3816,7 @@
     {
       "id": "088-enablegraph-announcement-stack",
       "number": "088",
+      "title": "EnableGraph",
       "company": "EnableGraph",
       "tagline": "enablement graph for account teams",
       "route": "/pages/088-enablegraph-announcement-stack/",
@@ -3583,6 +3845,8 @@
         "sponsor-row"
       ],
       "layoutSignature": "announcement-stack::security-room::mega-menu::event-hero|announcement-stack-anchor|speaker-grid|registration-form|sponsor-row",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3594,6 +3858,7 @@
     {
       "id": "089-intenthive-comparison-ledger",
       "number": "089",
+      "title": "IntentHive",
       "company": "IntentHive",
       "tagline": "intent hive for buying committees",
       "route": "/pages/089-intenthive-comparison-ledger/",
@@ -3623,6 +3888,8 @@
         "benchmark-bars"
       ],
       "layoutSignature": "comparison-ledger::pricing-led::utility-bar::calculator-hero|comparison-ledger-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3634,6 +3901,7 @@
     {
       "id": "090-segmentdesk-case-study-narrative",
       "number": "090",
+      "title": "SegmentDesk",
       "company": "SegmentDesk",
       "tagline": "segment operations desk",
       "route": "/pages/090-segmentdesk-case-study-narrative/",
@@ -3664,6 +3932,8 @@
         "story-timeline"
       ],
       "layoutSignature": "case-study-narrative::launch-note::minimal-wordmark::case-study-hero|case-study-narrative-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3675,6 +3945,7 @@
     {
       "id": "091-compliancepad-demo-form-panel",
       "number": "091",
+      "title": "CompliancePad",
       "company": "CompliancePad",
       "tagline": "compliance workspace for startups",
       "route": "/pages/091-compliancepad-demo-form-panel/",
@@ -3703,6 +3974,8 @@
         "product-proof"
       ],
       "layoutSignature": "demo-form-panel::event-poster::mega-menu::developer-hero|demo-form-panel-anchor|logo-cloud|pain-grid|product-proof",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3714,6 +3987,7 @@
     {
       "id": "092-dataproof-dashboard-first",
       "number": "092",
+      "title": "DataProof",
       "company": "DataProof",
       "tagline": "data proof rooms for analytics teams",
       "route": "/pages/092-dataproof-dashboard-first/",
@@ -3743,6 +4017,8 @@
         "demo-form"
       ],
       "layoutSignature": "dashboard-first::demo-room::centered-tabs::agent-workflow-hero|dashboard-first-anchor|workflow-steps|role-cards|security-note|demo-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3754,6 +4030,7 @@
     {
       "id": "093-revenueroot-procurement-checklist",
       "number": "093",
+      "title": "RevenueRoot",
       "company": "RevenueRoot",
       "tagline": "revenue root cause analysis",
       "route": "/pages/093-revenueroot-procurement-checklist/",
@@ -3784,6 +4061,8 @@
         "plan-cards"
       ],
       "layoutSignature": "procurement-checklist::market-map::docs-rail::procurement-hero|procurement-checklist-anchor|faq-accordion|procurement-note|cta-band|pricing-table|plan-cards",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3795,6 +4074,7 @@
     {
       "id": "094-opsatlas-split-proof",
       "number": "094",
+      "title": "OpsAtlas",
       "company": "OpsAtlas",
       "tagline": "ops atlas for SaaS leadership",
       "route": "/pages/094-opsatlas-split-proof/",
@@ -3823,6 +4103,8 @@
         "competitor-table"
       ],
       "layoutSignature": "split-proof::centered-proof::simple-top::use-case-hero|split-proof-anchor|migration-steps|demo-form|competitor-table",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3834,6 +4116,7 @@
     {
       "id": "095-conversionkit-card-catalog",
       "number": "095",
+      "title": "ConversionKit",
       "company": "ConversionKit",
       "tagline": "conversion intelligence for marketing sites",
       "route": "/pages/095-conversionkit-card-catalog/",
@@ -3863,6 +4146,8 @@
         "quickstart-code"
       ],
       "layoutSignature": "card-catalog::api-console::left-rail::marketplace-hero|card-catalog-anchor|developer-cta|docs-sidebar|api-table|quickstart-code",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3874,6 +4159,7 @@
     {
       "id": "096-evidenceflow-marketplace-shelf",
       "number": "096",
+      "title": "EvidenceFlow",
       "company": "EvidenceFlow",
       "tagline": "evidence workflows for regulated SaaS",
       "route": "/pages/096-evidenceflow-marketplace-shelf/",
@@ -3904,6 +4190,8 @@
         "security-form"
       ],
       "layoutSignature": "marketplace-shelf::form-first::product-switcher::migration-hero|marketplace-shelf-anchor|trust-center|control-grid|audit-timeline|policy-links|security-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3915,6 +4203,7 @@
     {
       "id": "097-kerneldesk-centered-terminal",
       "number": "097",
+      "title": "KernelDesk",
       "company": "KernelDesk",
       "tagline": "browser automation desk for agents",
       "route": "/pages/097-kerneldesk-centered-terminal/",
@@ -3943,6 +4232,8 @@
         "webhook-panel"
       ],
       "layoutSignature": "centered-terminal::integration-cloud::simple-top::benchmark-hero|centered-terminal-anchor|marketplace-filters|partner-cards|webhook-panel",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3954,6 +4245,7 @@
     {
       "id": "098-auditbridge-editorial-report",
       "number": "098",
+      "title": "AuditBridge",
       "company": "AuditBridge",
       "tagline": "audit bridge for governance teams",
       "route": "/pages/098-auditbridge-editorial-report/",
@@ -3983,6 +4275,8 @@
         "event-hero"
       ],
       "layoutSignature": "editorial-report::comparison-first::left-rail::launch-hero|editorial-report-anchor|speaker-grid|registration-form|sponsor-row|event-hero",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -3994,6 +4288,7 @@
     {
       "id": "099-demosignal-migration-timeline",
       "number": "099",
+      "title": "DemoSignal",
       "company": "DemoSignal",
       "tagline": "demo signal scoring for sales engineering",
       "route": "/pages/099-demosignal-migration-timeline/",
@@ -4024,6 +4319,8 @@
         "input-form"
       ],
       "layoutSignature": "migration-timeline::calculator-panel::product-switcher::solutions-hero|migration-timeline-anchor|results-table|download-cta|roi-calculator|benchmark-bars|input-form",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {
@@ -4035,6 +4332,7 @@
     {
       "id": "100-buyerpath-sidebar-docs",
       "number": "100",
+      "title": "BuyerPath",
       "company": "BuyerPath",
       "tagline": "buyer path analytics for B2B websites",
       "route": "/pages/100-buyerpath-sidebar-docs/",
@@ -4063,6 +4361,8 @@
         "before-after"
       ],
       "layoutSignature": "sidebar-docs::event-poster::anchor-strip::demo-request-hero|sidebar-docs-anchor|quote-wall|case-masthead|before-after",
+      "status": "generated-placeholder",
+      "deployMode": "vite-react-route",
       "sourceType": "architect-owned-generated-react-source",
       "licenseStatus": "architect-owned",
       "inspiration": {

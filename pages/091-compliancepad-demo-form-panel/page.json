@@ -1,12 +1,15 @@
 {
   "id": "091-compliancepad-demo-form-panel",
   "number": "091",
+  "title": "CompliancePad",
   "company": "CompliancePad",
   "tagline": "compliance workspace for startups",
   "vertical": "startup-compliance",
   "archetype": "developer",
   "route": "/pages/091-compliancepad-demo-form-panel/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/091-compliancepad-demo-form-panel/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

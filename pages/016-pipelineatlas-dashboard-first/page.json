@@ -1,12 +1,15 @@
 {
   "id": "016-pipelineatlas-dashboard-first",
   "number": "016",
+  "title": "PipelineAtlas",
   "company": "PipelineAtlas",
   "tagline": "pipeline intelligence for B2B marketing",
   "vertical": "pipeline",
   "archetype": "migration",
   "route": "/pages/016-pipelineatlas-dashboard-first/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/016-pipelineatlas-dashboard-first/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

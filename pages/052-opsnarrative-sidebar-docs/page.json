@@ -1,12 +1,15 @@
 {
   "id": "052-opsnarrative-sidebar-docs",
   "number": "052",
+  "title": "OpsNarrative",
   "company": "OpsNarrative",
   "tagline": "operating narratives for executive teams",
   "vertical": "ops",
   "archetype": "agent-workflow",
   "route": "/pages/052-opsnarrative-sidebar-docs/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/052-opsnarrative-sidebar-docs/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

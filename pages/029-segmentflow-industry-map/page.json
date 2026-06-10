@@ -1,12 +1,15 @@
 {
   "id": "029-segmentflow-industry-map",
   "number": "029",
+  "title": "SegmentFlow",
   "company": "SegmentFlow",
   "tagline": "self-serve audience operations",
   "vertical": "segmentation",
   "archetype": "calculator",
   "route": "/pages/029-segmentflow-industry-map/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/029-segmentflow-industry-map/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

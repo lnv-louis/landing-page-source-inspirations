@@ -1,12 +1,15 @@
 {
   "id": "066-querypilot-centered-terminal",
   "number": "066",
+  "title": "QueryPilot",
   "company": "QueryPilot",
   "tagline": "self-serve analytics query copilots",
   "vertical": "query",
   "archetype": "security",
   "route": "/pages/066-querypilot-centered-terminal/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/066-querypilot-centered-terminal/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

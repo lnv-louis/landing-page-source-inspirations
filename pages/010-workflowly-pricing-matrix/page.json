@@ -1,12 +1,15 @@
 {
   "id": "010-workflowly-pricing-matrix",
   "number": "010",
+  "title": "Workflowly",
   "company": "Workflowly",
   "tagline": "workflow automation for operations teams",
   "vertical": "automation",
   "archetype": "case-study",
   "route": "/pages/010-workflowly-pricing-matrix/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/010-workflowly-pricing-matrix/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

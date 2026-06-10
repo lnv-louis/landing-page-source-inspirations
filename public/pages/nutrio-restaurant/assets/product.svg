@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title desc">
+  <title id="title">Nutrio Restaurant product</title>
+  <desc id="desc">calculator-form · local-service</desc>
+  <rect width="1200" height="628" fill="#f8fafc"/>
+  <rect x="44" y="44" width="1112" height="540" rx="26" fill="#ffffff" stroke="#dbe3ef" stroke-width="4"/>
+  <rect x="555" y="187" width="195" height="157" rx="13" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="692" y="270" width="242" height="98" rx="14" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="829" y="353" width="119" height="159" rx="15" fill="#ffffff" opacity="0.92" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="116" y="436" width="166" height="100" rx="16" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="253" y="129" width="213" height="161" rx="17" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="390" y="212" width="90" height="102" rx="18" fill="#ffffff" opacity="0.92" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="527" y="295" width="137" height="43" rx="19" fill="#0f766e" opacity="0.2" stroke="#dbe3ef" stroke-width="2"/>
+  <rect x="664" y="378" width="184" height="104" rx="20" fill="#ccfbf1" opacity="0.78" stroke="#dbe3ef" stroke-width="2"/>
+  <text x="86" y="122" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">paulledemon-vite-20</text>
+  <text x="86" y="458" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900">Nutrio Restaurant</text>
+  <text x="86" y="518" fill="#111827" opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">calculator-form · local-service</text>
+</svg>

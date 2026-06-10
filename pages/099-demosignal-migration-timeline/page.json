@@ -1,12 +1,15 @@
 {
   "id": "099-demosignal-migration-timeline",
   "number": "099",
+  "title": "DemoSignal",
   "company": "DemoSignal",
   "tagline": "demo signal scoring for sales engineering",
   "vertical": "demo-signal",
   "archetype": "solutions",
   "route": "/pages/099-demosignal-migration-timeline/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/099-demosignal-migration-timeline/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

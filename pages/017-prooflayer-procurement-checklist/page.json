@@ -1,12 +1,15 @@
 {
   "id": "017-prooflayer-procurement-checklist",
   "number": "017",
+  "title": "ProofLayer",
   "company": "ProofLayer",
   "tagline": "security proof rooms for buyers",
   "vertical": "security",
   "archetype": "benchmark",
   "route": "/pages/017-prooflayer-procurement-checklist/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/017-prooflayer-procurement-checklist/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

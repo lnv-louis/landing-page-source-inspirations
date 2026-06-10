@@ -1,12 +1,15 @@
 {
   "id": "089-intenthive-comparison-ledger",
   "number": "089",
+  "title": "IntentHive",
   "company": "IntentHive",
   "tagline": "intent hive for buying committees",
   "vertical": "intent-hive",
   "archetype": "calculator",
   "route": "/pages/089-intenthive-comparison-ledger/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/089-intenthive-comparison-ledger/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {

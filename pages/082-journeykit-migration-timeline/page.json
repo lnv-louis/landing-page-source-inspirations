@@ -1,12 +1,15 @@
 {
   "id": "082-journeykit-migration-timeline",
   "number": "082",
+  "title": "JourneyKit",
   "company": "JourneyKit",
   "tagline": "journey orchestration for lifecycle teams",
   "vertical": "journey",
   "archetype": "product",
   "route": "/pages/082-journeykit-migration-timeline/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/082-journeykit-migration-timeline/",
+  "status": "generated-placeholder",
+  "deployMode": "vite-react-route",
   "sourceType": "architect-owned-generated-react-source",
   "licenseStatus": "architect-owned",
   "inspiration": {
