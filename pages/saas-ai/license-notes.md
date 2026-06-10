@@ -1,6 +1,6 @@
 # SaaS AI License Notes
 
-Status: Source-backed page from vendored upstream source.
+Status: Source-backed static HTML copied from a vendored MIT template.
 
 - Source repo: https://github.com/PaulleDemon/awesome-landing-pages
 - Source commit: e98eb80c593b8cd28d1f39556ccdda160a932581
@@ -11,4 +11,4 @@ Status: Source-backed page from vendored upstream source.
 - Usage mode: copied
 - Deploy mode: vendored-static-html
 
-The deployed corpus route at /pages/saas-ai/ serves stored source-backed content with provenance metadata and a neutral interaction fixture set for analytics/canonicalization evaluation.
+The deployed corpus route at /pages/saas-ai/ serves the actual upstream template folder copied into this Vite/Cloudflare Worker host. The only HTML transformations are corpus metadata injection, a base URL for stable relative assets, removal of placeholder Google Analytics snippets, and route-local Tailwind CSS correction where required.

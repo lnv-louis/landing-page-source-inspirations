@@ -38,11 +38,12 @@ export function RootIndex({ pages }) {
               Architect eval corpus
             </Badge>
             <h1 className="max-w-4xl text-3xl font-semibold tracking-normal sm:text-5xl">
-              30 source-backed landing-page inspirations
+              20 source-backed Vite landing-page inspirations
             </h1>
             <p className="max-w-3xl text-base leading-7 text-slate-600">
               Vite + React + Tailwind source host for page canonicalisation and
-              external analytics evals. Routes serve vendored PaulleDemon static templates plus stored BCMS Astro starter source previews, each with provenance metadata and interaction fixtures.
+              external analytics evals. Each route serves the actual vendored
+              PaulleDemon template HTML/CSS/JS with provenance metadata.
             </p>
           </div>
           <div className="flex flex-wrap items-center gap-2">

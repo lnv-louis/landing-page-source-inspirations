@@ -4,19 +4,14 @@
   "corpus": "landing-page-source-inspirations",
   "runtime": "vite-react-tailwind-worker",
   "batch": "paulledemon-vite-20",
-  "batches": [
-    "paulledemon-vite-20"
-  ],
   "count": 20,
-  "sources": [
-    {
-      "batch": "paulledemon-vite-20",
-      "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
-      "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
-      "vendorRoot": "vendor/paulledemon-awesome-landing-pages/source",
-      "license": "MIT"
-    }
-  ],
+  "source": {
+    "batch": "paulledemon-vite-20",
+    "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
+    "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
+    "vendorRoot": "vendor/paulledemon-awesome-landing-pages/source",
+    "license": "MIT"
+  },
   "pages": [
     {
       "id": "pixa-ai",
@@ -27,8 +22,8 @@
       "sourcePath": "src/saas/pixaai",
       "metadataPath": "pages/pixa-ai/page.json",
       "licensePath": "pages/pixa-ai/license-notes.md",
-      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/pixa-ai/assets/logo/logo.png",
-      "previewImagePath": "/pages/pixa-ai/assets/logo/logo.png",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/pixa-ai/assets/images/home/ai-models.png",
+      "previewImagePath": "/pages/pixa-ai/assets/images/home/ai-models.png",
       "vertical": "ai-saas",
       "pageType": "home",
       "tags": [
@@ -395,8 +390,8 @@
       "sourcePath": "src/ngo/project-africa",
       "metadataPath": "pages/project-africa/page.json",
       "licensePath": "pages/project-africa/license-notes.md",
-      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/project-africa/assets/logo.png",
-      "previewImagePath": "/pages/project-africa/assets/logo.png",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/project-africa/assets/images/home/africa.jpg",
+      "previewImagePath": "/pages/project-africa/assets/images/home/africa.jpg",
       "vertical": "ngo",
       "pageType": "campaign",
       "tags": [
