@@ -1,0 +1,31 @@
+{
+  "id": "new-age-app",
+  "title": "New Age App",
+  "vertical": "mobile-app",
+  "pageType": "app-landing",
+  "tags": [
+    "app",
+    "software",
+    "startup"
+  ],
+  "source": {
+    "repoUrl": "https://github.com/StartBootstrap/startbootstrap-new-age",
+    "sourceCommit": "5f619773a873e44545b9e1e049d6565d3a9e81d7",
+    "sourcePath": "dist",
+    "sourceUrl": "https://github.com/StartBootstrap/startbootstrap-new-age/tree/master/dist",
+    "license": "MIT",
+    "usageMode": "copied",
+    "vendorPath": "vendor/awesome-landing-page-sources/startbootstrap-new-age/source",
+    "staticDir": "dist",
+    "staticRoot": "dist/index.html"
+  },
+  "number": "25",
+  "route": "/pages/new-age-app/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/new-age-app/",
+  "status": "source-backed",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-awesome-landing-page-linked-static-html",
+  "licenseStatus": "MIT",
+  "previewImagePath": "/pages/new-age-app/assets/img/portrait_black.png",
+  "requiresTailwindBuild": false
+}

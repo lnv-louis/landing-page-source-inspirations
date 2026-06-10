@@ -15,6 +15,7 @@
   "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
   "previewImagePath": "/pages/car-wash/assets/images/homepage/car-washing.jpg",
+  "requiresTailwindBuild": true,
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -22,6 +23,8 @@
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/others/carwash",
     "license": "MIT",
     "usageMode": "copied",
-    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/others/carwash"
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/others/carwash",
+    "staticDir": ".",
+    "staticRoot": "index.html"
   }
 }

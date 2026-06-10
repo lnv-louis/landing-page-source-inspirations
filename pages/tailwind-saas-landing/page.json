@@ -1,0 +1,31 @@
+{
+  "id": "tailwind-saas-landing",
+  "title": "Tailwind SaaS Landing",
+  "vertical": "saas",
+  "pageType": "product-landing",
+  "tags": [
+    "saas",
+    "tailwind",
+    "software"
+  ],
+  "source": {
+    "repoUrl": "https://github.com/tailwindtoolbox/Landing-Page",
+    "sourceCommit": "545f89eb26e0997d7cdd15fe77dda35df73e575a",
+    "sourcePath": "index.html",
+    "sourceUrl": "https://github.com/tailwindtoolbox/Landing-Page",
+    "license": "MIT",
+    "usageMode": "copied",
+    "vendorPath": "vendor/awesome-landing-page-sources/tailwindtoolbox-landing-page/source",
+    "staticDir": ".",
+    "staticRoot": "index.html"
+  },
+  "number": "24",
+  "route": "/pages/tailwind-saas-landing/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/tailwind-saas-landing/",
+  "status": "source-backed",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-awesome-landing-page-linked-static-html",
+  "licenseStatus": "MIT",
+  "previewImagePath": "/pages/tailwind-saas-landing/hero.png",
+  "requiresTailwindBuild": false
+}

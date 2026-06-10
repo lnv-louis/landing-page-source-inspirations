@@ -4,14 +4,19 @@
   "corpus": "landing-page-source-inspirations",
   "runtime": "vite-react-tailwind-worker",
   "batch": "paulledemon-vite-20",
+  "batches": [
+    "paulledemon-vite-20"
+  ],
   "count": 20,
-  "source": {
-    "batch": "paulledemon-vite-20",
-    "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
-    "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
-    "vendorRoot": "vendor/paulledemon-awesome-landing-pages/source",
-    "license": "MIT"
-  },
+  "sources": [
+    {
+      "batch": "paulledemon-vite-20",
+      "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
+      "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
+      "vendorRoot": "vendor/paulledemon-awesome-landing-pages/source",
+      "license": "MIT"
+    }
+  ],
   "pages": [
     {
       "id": "pixa-ai",
@@ -41,7 +46,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/pixaai",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/pixaai"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/pixaai",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -53,8 +60,8 @@
       "sourcePath": "src/saas/SaaSyDark",
       "metadataPath": "pages/saasy-dark/page.json",
       "licensePath": "pages/saasy-dark/license-notes.md",
-      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/saasy-dark/assets/images/home/photography.jpg",
-      "previewImagePath": "/pages/saasy-dark/assets/images/home/photography.jpg",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/saasy-dark/assets/images/home/dashboard.png",
+      "previewImagePath": "/pages/saasy-dark/assets/images/home/dashboard.png",
       "vertical": "saas",
       "pageType": "home",
       "tags": [
@@ -72,7 +79,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/SaaSyDark",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/SaaSyDark"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/SaaSyDark",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -84,8 +93,8 @@
       "sourcePath": "src/saas/SaaS-AI",
       "metadataPath": "pages/saas-ai/page.json",
       "licensePath": "pages/saas-ai/license-notes.md",
-      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/saas-ai/assets/images/home/photography.jpg",
-      "previewImagePath": "/pages/saas-ai/assets/images/home/photography.jpg",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/saas-ai/assets/images/home/dashboard.png",
+      "previewImagePath": "/pages/saas-ai/assets/images/home/dashboard.png",
       "vertical": "ai-saas",
       "pageType": "product",
       "tags": [
@@ -103,7 +112,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/SaaS-AI",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/SaaS-AI"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/SaaS-AI",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -134,7 +145,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/finance",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/finance"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/finance",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -164,7 +177,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/CelestialSaaS",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/CelestialSaaS"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/CelestialSaaS",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -196,7 +211,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/AISales",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/AISales"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/AISales",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -227,7 +244,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/chatorigin",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/chatorigin"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/chatorigin",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -239,8 +258,8 @@
       "sourcePath": "src/apps/navigator",
       "metadataPath": "pages/navigator/page.json",
       "licensePath": "pages/navigator/license-notes.md",
-      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/navigator/assets/images/home/photography.jpg",
-      "previewImagePath": "/pages/navigator/assets/images/home/photography.jpg",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/navigator/assets/images/home/sample.jpg",
+      "previewImagePath": "/pages/navigator/assets/images/home/sample.jpg",
       "vertical": "productivity-app",
       "pageType": "home",
       "tags": [
@@ -257,7 +276,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/navigator",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/navigator"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/navigator",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -269,8 +290,8 @@
       "sourcePath": "src/apps/traveler",
       "metadataPath": "pages/traveler/page.json",
       "licensePath": "pages/traveler/license-notes.md",
-      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/traveler/assets/images/home/photography.jpg",
-      "previewImagePath": "/pages/traveler/assets/images/home/photography.jpg",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/traveler/assets/images/home/sample.jpg",
+      "previewImagePath": "/pages/traveler/assets/images/home/sample.jpg",
       "vertical": "travel-app",
       "pageType": "home",
       "tags": [
@@ -288,7 +309,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/traveler",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/traveler"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/traveler",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -318,7 +341,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/law/lawfire",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/law/lawfire"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/law/lawfire",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -348,7 +373,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/law/lawgroup",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/law/lawgroup"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/law/lawgroup",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -378,7 +405,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/realestate/brickproperty",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/realestate/brickproperty"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/realestate/brickproperty",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -408,7 +437,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/ngo/project-africa",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/ngo/project-africa"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/ngo/project-africa",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -438,7 +469,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/restaurant/bistro",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/restaurant/bistro"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/restaurant/bistro",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -469,7 +502,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/restaurant/nutrio",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/restaurant/nutrio"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/restaurant/nutrio",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -499,7 +534,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/others/carwash",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/others/carwash"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/others/carwash",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -511,8 +548,8 @@
       "sourcePath": "src/portfolio/Jamie-portfolio",
       "metadataPath": "pages/jamie-developer/page.json",
       "licensePath": "pages/jamie-developer/license-notes.md",
-      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/jamie-developer/assets/images/home/photography.jpg",
-      "previewImagePath": "/pages/jamie-developer/assets/images/home/photography.jpg",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/jamie-developer/assets/images/home/design.jpg",
+      "previewImagePath": "/pages/jamie-developer/assets/images/home/design.jpg",
       "vertical": "portfolio",
       "pageType": "portfolio",
       "tags": [
@@ -530,7 +567,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/Jamie-portfolio",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/Jamie-portfolio"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/Jamie-portfolio",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -561,7 +600,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/jrdev",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/jrdev"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/jrdev",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -592,7 +633,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/bella",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/bella"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/bella",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     },
     {
@@ -604,8 +647,8 @@
       "sourcePath": "src/portfolio/notion",
       "metadataPath": "pages/notion-portfolio/page.json",
       "licensePath": "pages/notion-portfolio/license-notes.md",
-      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/notion-portfolio/assets/images/home/photography.jpg",
-      "previewImagePath": "/pages/notion-portfolio/assets/images/home/photography.jpg",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/notion-portfolio/assets/images/home/design.jpg",
+      "previewImagePath": "/pages/notion-portfolio/assets/images/home/design.jpg",
       "vertical": "portfolio",
       "pageType": "portfolio",
       "tags": [
@@ -623,7 +666,9 @@
         "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/notion",
         "license": "MIT",
         "usageMode": "copied",
-        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/notion"
+        "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/notion",
+        "staticDir": ".",
+        "staticRoot": "index.html"
       }
     }
   ]

@@ -38,12 +38,11 @@ export function RootIndex({ pages }) {
               Architect eval corpus
             </Badge>
             <h1 className="max-w-4xl text-3xl font-semibold tracking-normal sm:text-5xl">
-              20 source-backed Vite landing-page inspirations
+              26 source-backed SaaS/tech landing-page inspirations
             </h1>
             <p className="max-w-3xl text-base leading-7 text-slate-600">
               Vite + React + Tailwind source host for page canonicalisation and
-              external analytics evals. Each route serves the actual vendored
-              PaulleDemon template HTML/CSS/JS with provenance metadata.
+              external analytics evals. Each route serves an actual hostable SaaS/tech/software landing page copied from vendored upstream source with provenance metadata.
             </p>
           </div>
           <div className="flex flex-wrap items-center gap-2">

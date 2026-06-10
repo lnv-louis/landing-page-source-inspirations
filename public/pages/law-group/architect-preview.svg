@@ -3,6 +3,6 @@
   <rect x="54" y="54" width="1092" height="520" rx="32" fill="#ffffff" stroke="#dbe3ef" stroke-width="4"/>
   <text x="96" y="142" fill="#0f766e" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="850">legal-services · services</text>
   <text x="96" y="330" fill="#0f172a" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="900">Law Group</text>
-  <text x="96" y="404" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">Actual vendored source HTML rendered from PaulleDemon template folder.</text>
+  <text x="96" y="404" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="650">Actual vendored source HTML hosted as a clickable website.</text>
   <text x="96" y="500" fill="#64748b" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="650">src/law/lawgroup</text>
 </svg>

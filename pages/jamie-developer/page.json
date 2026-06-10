@@ -15,7 +15,8 @@
   "deployMode": "vendored-static-html",
   "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
-  "previewImagePath": "/pages/jamie-developer/assets/images/home/photography.jpg",
+  "previewImagePath": "/pages/jamie-developer/assets/images/home/design.jpg",
+  "requiresTailwindBuild": true,
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -23,6 +24,8 @@
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/Jamie-portfolio",
     "license": "MIT",
     "usageMode": "copied",
-    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/Jamie-portfolio"
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/Jamie-portfolio",
+    "staticDir": ".",
+    "staticRoot": "index.html"
   }
 }

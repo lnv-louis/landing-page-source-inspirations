@@ -14,7 +14,8 @@
   "deployMode": "vendored-static-html",
   "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
-  "previewImagePath": "/pages/navigator/assets/images/home/photography.jpg",
+  "previewImagePath": "/pages/navigator/assets/images/home/sample.jpg",
+  "requiresTailwindBuild": true,
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -22,6 +23,8 @@
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/navigator",
     "license": "MIT",
     "usageMode": "copied",
-    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/navigator"
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/navigator",
+    "staticDir": ".",
+    "staticRoot": "index.html"
   }
 }

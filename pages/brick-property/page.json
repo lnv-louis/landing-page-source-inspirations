@@ -15,6 +15,7 @@
   "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
   "previewImagePath": "/pages/brick-property/assets/images/homepage/hero-image.jpg",
+  "requiresTailwindBuild": true,
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -22,6 +23,8 @@
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/realestate/brickproperty",
     "license": "MIT",
     "usageMode": "copied",
-    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/realestate/brickproperty"
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/realestate/brickproperty",
+    "staticDir": ".",
+    "staticRoot": "index.html"
   }
 }

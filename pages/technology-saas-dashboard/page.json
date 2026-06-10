@@ -1,0 +1,31 @@
+{
+  "id": "technology-saas-dashboard",
+  "title": "Technology SaaS Dashboard",
+  "vertical": "saas",
+  "pageType": "dashboard-landing",
+  "tags": [
+    "saas",
+    "dashboard",
+    "software"
+  ],
+  "source": {
+    "repoUrl": "https://github.com/wonderfullandingpage/Technology-LandingPage",
+    "sourceCommit": "4b5120234122b5fd3c991505ab611fb55f54ce5f",
+    "sourcePath": "docs",
+    "sourceUrl": "https://github.com/wonderfullandingpage/Technology-LandingPage/tree/master/docs",
+    "license": "MIT",
+    "usageMode": "copied",
+    "vendorPath": "vendor/awesome-landing-page-sources/technology-landing-page/source",
+    "staticDir": "docs",
+    "staticRoot": "docs/index.html"
+  },
+  "number": "21",
+  "route": "/pages/technology-saas-dashboard/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/technology-saas-dashboard/",
+  "status": "source-backed",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-awesome-landing-page-linked-static-html",
+  "licenseStatus": "MIT",
+  "previewImagePath": "/pages/technology-saas-dashboard/images/logged_in/image1.jpg",
+  "requiresTailwindBuild": false
+}

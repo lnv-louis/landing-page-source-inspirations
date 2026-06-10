@@ -16,6 +16,7 @@
   "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
   "previewImagePath": "/pages/finance-saas/assets/images/home/dashboard.png",
+  "requiresTailwindBuild": true,
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -23,6 +24,8 @@
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/finance",
     "license": "MIT",
     "usageMode": "copied",
-    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/finance"
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/finance",
+    "staticDir": ".",
+    "staticRoot": "index.html"
   }
 }

@@ -16,6 +16,7 @@
   "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
   "previewImagePath": "/pages/bella-youtuber/assets/images/homepage/merch1.jpg",
+  "requiresTailwindBuild": true,
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -23,6 +24,8 @@
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/bella",
     "license": "MIT",
     "usageMode": "copied",
-    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/bella"
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/bella",
+    "staticDir": ".",
+    "staticRoot": "index.html"
   }
 }

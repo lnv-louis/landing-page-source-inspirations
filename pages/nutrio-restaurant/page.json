@@ -16,6 +16,7 @@
   "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
   "previewImagePath": "/pages/nutrio-restaurant/assets/images/homepage/hero.png",
+  "requiresTailwindBuild": true,
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
@@ -23,6 +24,8 @@
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/restaurant/nutrio",
     "license": "MIT",
     "usageMode": "copied",
-    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/restaurant/nutrio"
+    "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/restaurant/nutrio",
+    "staticDir": ".",
+    "staticRoot": "index.html"
   }
 }

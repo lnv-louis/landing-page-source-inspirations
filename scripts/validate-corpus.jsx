@@ -36,14 +36,22 @@ assert(
 const manifest = JSON.parse(await readFile(manifestPath, "utf8"));
 assert(manifest.corpus === "landing-page-source-inspirations", "manifest corpus mismatch");
 assert(manifest.runtime === "vite-react-tailwind-worker", "manifest runtime mismatch");
-assert(manifest.batch === "paulledemon-vite-20", `unexpected manifest batch ${manifest.batch}`);
-assert(manifest.count === 20, `expected count 20, found ${manifest.count}`);
-assert(manifest.pages.length === 20, `expected 20 pages, found ${manifest.pages.length}`);
+assert(manifest.batch === "source-backed-saas-tech-26", `unexpected manifest batch ${manifest.batch}`);
+assert(manifest.count === 26, `expected count 26, found ${manifest.count}`);
+assert(manifest.pages.length === 26, `expected 26 pages, found ${manifest.pages.length}`);
 
 const ids = new Set();
 const htmlHashes = new Set();
 const verticals = new Set();
 const pageTypes = new Set();
+const requiredNewIds = new Set([
+  "technology-saas-dashboard",
+  "scribbler-devtool",
+  "appkit-startup",
+  "tailwind-saas-landing",
+  "new-age-app",
+  "coala-devtool",
+]);
 
 for (const page of manifest.pages) {
   assert(!ids.has(page.id), `duplicate page id ${page.id}`);
@@ -54,13 +62,13 @@ for (const page of manifest.pages) {
   assert(page.route === `/pages/${page.id}/`, `route mismatch for ${page.id}`);
   assert(page.status === "source-backed", `status mismatch for ${page.id}`);
   assert(page.deployMode === "vendored-static-html", `deploy mode mismatch for ${page.id}`);
-  assert(page.source?.repoUrl === "https://github.com/PaulleDemon/awesome-landing-pages", `source repo mismatch for ${page.id}`);
-  assert(page.source?.license === "MIT", `license mismatch for ${page.id}`);
+  assert(page.source?.repoUrl?.startsWith("https://github.com/"), `source repo mismatch for ${page.id}`);
+  assert(page.source?.license, `license mismatch for ${page.id}`);
   assert(page.source?.usageMode === "copied", `usage mode mismatch for ${page.id}`);
 
   const vendorRoot = path.join(root, page.source.vendorPath);
   assert(await exists(vendorRoot), `missing vendored source path for ${page.id}`);
-  assert(await exists(path.join(vendorRoot, "index.html")), `missing vendored index.html for ${page.id}`);
+  assert(await exists(path.join(vendorRoot, page.source.staticRoot ?? "index.html")), `missing vendored static root for ${page.id}`);
 
   const pageRoot = path.join(root, "pages", page.id);
   assert(await exists(path.join(pageRoot, "page.json")), `missing page.json for ${page.id}`);
@@ -77,19 +85,22 @@ for (const page of manifest.pages) {
   htmlHashes.add(hash(html));
   assert(html.includes(`<base href="/pages/${page.id}/">`), `missing base tag for ${page.id}`);
   assert(html.includes(`name="architect-corpus-id" content="${page.id}"`), `missing corpus marker for ${page.id}`);
-  assert(html.includes("PaulleDemon/awesome-landing-pages"), `missing source repo marker for ${page.id}`);
-  assert(html.includes('href="./css/tailwind-build.css"'), `missing local Tailwind build CSS for ${page.id}`);
-  assert(!html.includes("tailwind-runtime.css"), `tailwind runtime link still present for ${page.id}`);
+  assert(html.includes(page.source.repoUrl.replace("https://github.com/", "")), `missing source repo marker for ${page.id}`);
+  if (page.source.repoUrl === "https://github.com/PaulleDemon/awesome-landing-pages") {
+    assert(html.includes('href="./css/tailwind-build.css"'), `missing local Tailwind build CSS for ${page.id}`);
+    assert(!html.includes("tailwind-runtime.css"), `tailwind runtime link still present for ${page.id}`);
+  }
   assert(!html.includes("googletagmanager.com/gtag/js?id=G-"), `placeholder gtag script still present for ${page.id}`);
   assert(!html.includes('id="source-interactions"'), `unexpected synthetic interaction section for ${page.id}`);
   assert(!html.includes('id="architect-analytics-lab"'), `unexpected architect analytics lab for ${page.id}`);
 }
 
 const rootRendered = renderToStaticMarkup(<App pathname="/" />);
-assert(rootRendered.includes("20 source-backed Vite landing-page inspirations"), "root index heading missing");
+assert(rootRendered.includes("26 source-backed SaaS/tech landing-page inspirations"), "root index heading missing");
 assert(rootRendered.includes("/manifest.json"), "root index manifest link missing");
 
-assert(htmlHashes.size === 20, `expected 20 unique static HTML pages, found ${htmlHashes.size}`);
+assert(htmlHashes.size === 26, `expected 26 unique static HTML pages, found ${htmlHashes.size}`);
+for (const id of requiredNewIds) assert(ids.has(id), `missing new page ${id}`);
 assert(verticals.size >= 10, `expected at least 10 verticals, found ${verticals.size}`);
 assert(pageTypes.size >= 8, `expected at least 8 page types, found ${pageTypes.size}`);
 

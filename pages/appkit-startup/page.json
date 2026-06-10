@@ -1,0 +1,31 @@
+{
+  "id": "appkit-startup",
+  "title": "AppKit Startup",
+  "vertical": "startup-app",
+  "pageType": "app-landing",
+  "tags": [
+    "app",
+    "startup",
+    "software"
+  ],
+  "source": {
+    "repoUrl": "https://github.com/xriley/AppKit-Landing-Theme",
+    "sourceCommit": "dc524f00008aa9ed0913e9389f472144eb4441b3",
+    "sourcePath": "index.html",
+    "sourceUrl": "https://github.com/xriley/AppKit-Landing-Theme",
+    "license": "Creative Commons Attribution 3.0",
+    "usageMode": "copied",
+    "vendorPath": "vendor/awesome-landing-page-sources/appkit-landing-theme/source",
+    "staticDir": ".",
+    "staticRoot": "index.html"
+  },
+  "number": "23",
+  "route": "/pages/appkit-startup/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/appkit-startup/",
+  "status": "source-backed",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-awesome-landing-page-linked-static-html",
+  "licenseStatus": "Creative Commons Attribution 3.0",
+  "previewImagePath": "/pages/appkit-startup/assets/images/hero-1.jpg",
+  "requiresTailwindBuild": false
+}
