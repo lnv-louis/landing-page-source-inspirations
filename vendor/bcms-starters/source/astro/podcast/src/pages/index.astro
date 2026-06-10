@@ -1,0 +1,35 @@
+---
+import Layout from '../layouts/Layout.astro';
+import type {
+    EpisodeEntry,
+    EpisodeEntryMetaItem,
+    HomePageEntry,
+    HomePageEntryMetaItem,
+} from '../../bcms/types/ts';
+import HomePageWrapper from '../components/home-page/PageWrapper';
+import { bcmsPrivate } from '../bcms-private';
+import { bcmsPublic } from '../bcms-public';
+
+const homePageEntry = (await bcmsPrivate.entry.getBySlug(
+    'home',
+    'home-page',
+)) as HomePageEntry;
+
+const meta = homePageEntry.meta.en as HomePageEntryMetaItem;
+
+const episodes = (await bcmsPrivate.entry.getAll('episode')) as EpisodeEntry[];
+const episodesMeta = episodes.map(
+    (episode) => episode.meta.en as EpisodeEntryMetaItem,
+);
+
+const bcmsConfig = bcmsPublic.getConfig();
+---
+
+<Layout title={`${meta.seo?.title || meta.title} - The Podium`}>
+    <HomePageWrapper
+        client:load
+        bcms={bcmsConfig}
+        episodes={episodesMeta}
+        meta={meta}
+    />
+</Layout>

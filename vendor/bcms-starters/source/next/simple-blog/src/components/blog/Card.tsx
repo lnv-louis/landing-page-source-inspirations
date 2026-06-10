@@ -1,0 +1,63 @@
+import React from 'react';
+import Link from 'next/link';
+import { BlogEntryMetaItem } from '@bcms-types/types/ts';
+import { BCMSImage } from '@thebcms/components-react';
+import { bcmsPrivate } from '@/app/bcms-client';
+import ContentManager from '../ContentManager';
+import { toReadableDate } from '@/utils/date';
+import Tag from '../Tag';
+
+interface Props {
+    blog: BlogEntryMetaItem;
+}
+
+const BlogCard: React.FC<Props> = ({ blog }) => {
+    return (
+        <article>
+            <Link
+                href={`/blog/${blog.slug}`}
+                className="group w-full grid grid-cols-1 border border-solid border-appGray-200 rounded-2xl overflow-hidden md:grid-cols-[45%,55%]"
+            >
+                <div className="aspect-[1.25] self-stretch overflow-hidden">
+                    <BCMSImage
+                        clientConfig={bcmsPrivate.getConfig()}
+                        media={blog.cover_image}
+                        className="object-cover object-center transition-transform duration-500 size-full group-hover:scale-105 group-focus-visible:scale-105"
+                    />
+                </div>
+                <div className="flex flex-col self-center pt-6 max-md:px-4 max-md:pb-4 md:px-12">
+                    <h3 className="mb-4 text-2xl font-semibold leading-none">
+                        {blog.title}
+                    </h3>
+                    <div className="flex flex-wrap gap-2 items-center mb-8">
+                        {blog.category.map((category, index) => {
+                            return (
+                                <Tag key={index} className="capitalize">
+                                    {category.toLowerCase()}
+                                </Tag>
+                            );
+                        })}
+                        <svg
+                            width="5"
+                            height="5"
+                            viewBox="0 0 5 5"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                        >
+                            <circle cx="2.5" cy="2.5" r="2.5" fill="#D9D9D9" />
+                        </svg>
+                        <div className="leading-none">
+                            {toReadableDate(blog.date)}
+                        </div>
+                    </div>
+                    <ContentManager
+                        items={blog.description.nodes}
+                        className="text-appGray-300 font-medium leading-[1.38] tracking-[-0.36px] md:text-lg"
+                    />
+                </div>
+            </Link>
+        </article>
+    );
+};
+
+export default BlogCard;

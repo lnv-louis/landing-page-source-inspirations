@@ -15,7 +15,7 @@
   "deployMode": "vendored-static-html",
   "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
-  "previewImagePath": "/pages/pixa-ai/assets/images/home/ai-models.png",
+  "previewImagePath": "/pages/pixa-ai/assets/logo/logo.png",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",

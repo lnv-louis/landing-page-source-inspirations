@@ -1,0 +1,30 @@
+{
+  "id": "bcms-astro-agency",
+  "title": "BCMS Astro Agency",
+  "sourcePath": "astro/agency",
+  "vertical": "agency",
+  "pageType": "starter",
+  "tags": [
+    "bcms",
+    "astro",
+    "agency"
+  ],
+  "number": "21",
+  "route": "/pages/bcms-astro-agency/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-agency/",
+  "status": "source-backed",
+  "deployMode": "stored-starter-source",
+  "sourceType": "vendored-bcms-astro-starter-source",
+  "licenseStatus": "upstream-repository-license",
+  "previewImagePath": "/pages/bcms-astro-agency/assets/thumbnail.jpg",
+  "source": {
+    "repoUrl": "https://github.com/bcms/starters",
+    "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+    "sourcePath": "astro/agency",
+    "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/agency",
+    "license": "upstream-repository-license",
+    "usageMode": "stored-source",
+    "vendorPath": "vendor/bcms-starters/source/astro/agency",
+    "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+  }
+}

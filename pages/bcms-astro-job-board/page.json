@@ -1,0 +1,30 @@
+{
+  "id": "bcms-astro-job-board",
+  "title": "BCMS Astro Job Board",
+  "sourcePath": "astro/job-board",
+  "vertical": "job-board",
+  "pageType": "starter",
+  "tags": [
+    "bcms",
+    "astro",
+    "jobs"
+  ],
+  "number": "25",
+  "route": "/pages/bcms-astro-job-board/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-job-board/",
+  "status": "source-backed",
+  "deployMode": "stored-starter-source",
+  "sourceType": "vendored-bcms-astro-starter-source",
+  "licenseStatus": "upstream-repository-license",
+  "previewImagePath": "/pages/bcms-astro-job-board/assets/thumbnail.jpg",
+  "source": {
+    "repoUrl": "https://github.com/bcms/starters",
+    "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+    "sourcePath": "astro/job-board",
+    "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/job-board",
+    "license": "upstream-repository-license",
+    "usageMode": "stored-source",
+    "vendorPath": "vendor/bcms-starters/source/astro/job-board",
+    "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+  }
+}

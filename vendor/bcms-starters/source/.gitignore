@@ -1,0 +1,8 @@
+/node_modules
+/cms-temp
+/server-info.json
+.idea
+.DS_Store
+
+**/*.zip
+.env

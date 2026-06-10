@@ -1,0 +1,38 @@
+{
+    "name": "@thebcms/starters",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "build:nuxt": "node scripts/main.js --build nuxt",
+        "build:next": "node scripts/main.js --build next",
+        "build:gatsby": "node scripts/main.js --build gatsby",
+        "update:packages": "node scripts/main.js --updatePackages true",
+        "remove:node_modules": "node scripts/main.js --removeNodeModules true",
+        "deploy": "node scripts/main.js --framework nuxt --deploy true"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bcms/starters.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bcms/starters/issues"
+    },
+    "homepage": "https://github.com/bcms/starters#readme",
+    "devDependencies": {
+        "@thebcms/utils": "^1.1.0",
+        "@types/adm-zip": "^0.5.5",
+        "adm-zip": "^0.5.16",
+        "dotenv": "^16.4.5",
+        "prettier-plugin-svelte": "^3.2.7"
+    },
+    "dependencies": {
+        "prettier": "^3.3.3",
+        "react-paginate": "^8.2.0",
+        "react-transition-group": "^4.4.5"
+    }
+}

@@ -1,0 +1,18 @@
+import type { BlogEntry, BlogEntryMetaItem } from '~/bcms/type/ts';
+
+export type BlogsResponse = {
+    items: BlogEntryMetaItem[];
+};
+
+export default defineEventHandler(async () => {
+    const bcms = useBcmsPrivate();
+    const blogs = (await bcms.entry.getAll('blog')) as BlogEntry[];
+
+    const res: BlogsResponse = {
+        items: blogs.map((blogEntry) => {
+            return blogEntry.meta.en as BlogEntryMetaItem;
+        }),
+    };
+
+    return res;
+});

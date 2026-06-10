@@ -1,0 +1,30 @@
+{
+  "id": "bcms-astro-conference",
+  "title": "BCMS Astro Conference",
+  "sourcePath": "astro/conference",
+  "vertical": "conference",
+  "pageType": "starter",
+  "tags": [
+    "bcms",
+    "astro",
+    "event"
+  ],
+  "number": "23",
+  "route": "/pages/bcms-astro-conference/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-conference/",
+  "status": "source-backed",
+  "deployMode": "stored-starter-source",
+  "sourceType": "vendored-bcms-astro-starter-source",
+  "licenseStatus": "upstream-repository-license",
+  "previewImagePath": "/pages/bcms-astro-conference/assets/thumbnail.jpg",
+  "source": {
+    "repoUrl": "https://github.com/bcms/starters",
+    "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+    "sourcePath": "astro/conference",
+    "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/conference",
+    "license": "upstream-repository-license",
+    "usageMode": "stored-source",
+    "vendorPath": "vendor/bcms-starters/source/astro/conference",
+    "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+  }
+}

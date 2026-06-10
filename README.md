@@ -2,13 +2,14 @@
 
 Deployable source corpus for Architect page canonicalisation and external analytics evals.
 
-This repo owns the hosted page corpus and now serves **actual vendored landing page source folders**, not JSON-recreated landing pages.
+This repo owns the hosted page corpus and serves **source-backed landing page/starter references**, not JSON-recreated landing pages.
 
 ```txt
 landing-page-source-inspirations
   src/                         # Vite + React index app only
   src/data/source-backed-pages.js
   vendor/paulledemon-awesome-landing-pages/source/
+  vendor/bcms-starters/source/
   pages/<page-id>/page.json
   pages/<page-id>/license-notes.md
   public/pages/<page-id>/index.html
@@ -39,26 +40,34 @@ npm run deploy
 
 ## Corpus Contract
 
-The default public corpus is the `paulledemon-vite-20` batch:
+The default public corpus is `source-backed-landing-pages-30`:
 
-- 20 manifest entries.
-- 20 source-backed routes.
-- Each route serves copied upstream static HTML/CSS/JS from the vendored PaulleDemon template folder.
-- React is used for the root index page, not to recreate the landing pages.
+- 30 manifest entries.
+- 20 PaulleDemon source-backed static HTML routes.
+- 10 BCMS Astro starter source routes.
+- Each hosted route includes a neutral `#source-interactions` fixture set with many buttons, links, form fields, selects, radios, checkboxes, tabs, and disclosures for canonical mapping / external analytics extraction.
+- React is used for the root index page, not to recreate the source pages.
 
 Each page bundle has:
 
 - `pages/<page-id>/page.json` with source, route, vertical, page type, and provenance metadata.
 - `pages/<page-id>/license-notes.md` with license and usage notes.
-- `public/pages/<page-id>/index.html` copied from the upstream template folder and lightly transformed for corpus hosting.
-- `public/pages/<page-id>/architect-preview.svg` for index/manifest preview display.
-- A route at `/pages/<page-id>/` served as the actual static source page by Cloudflare Worker assets.
+- `public/pages/<page-id>/index.html` for the hosted corpus route.
+- `public/pages/<page-id>/architect-preview.svg` fallback preview.
+- Real copied preview assets where available, referenced by `previewImagePath` in the manifest.
+- A route at `/pages/<page-id>/` served by Cloudflare Worker assets.
 
-`/manifest.json` and `/manifest.paulledemon-vite-20.json` currently contain the same 20-page source-backed corpus.
+Available manifests:
+
+- `/manifest.json` — all 30 pages.
+- `/manifest.paulledemon-vite-20.json` — the 20 PaulleDemon pages.
+- `/manifest.bcms-astro-starters-10.json` — the 10 BCMS Astro starter pages.
 
 ## Source Provenance
 
-The upstream source repo is vendored once at:
+### PaulleDemon awesome landing pages
+
+Vendored path:
 
 ```txt
 vendor/paulledemon-awesome-landing-pages/source
@@ -105,14 +114,58 @@ Selected template folders:
 19. `src/portfolio/bella` — Bella Youtuber
 20. `src/portfolio/notion` — Notion Themed Portfolio
 
+### BCMS starters
+
+Vendored path:
+
+```txt
+vendor/bcms-starters/source
+```
+
+Source repo:
+
+```txt
+https://github.com/bcms/starters
+```
+
+Vendored commit:
+
+```txt
+fef4e1f24043a72418679b3cccc43a9d522f1055
+```
+
+Usage mode:
+
+```txt
+stored-source
+```
+
+The BCMS Astro starters require BCMS content/type generation before they can build as full applications. This corpus stores the real upstream starter source and hosts a static source/provenance preview page using copied starter public assets plus the shared interaction fixture set.
+
+Selected starter folders:
+
+1. `astro/agency` — BCMS Astro Agency
+2. `astro/blog` — BCMS Astro Blog
+3. `astro/conference` — BCMS Astro Conference
+4. `astro/e-commerce` — BCMS Astro E-commerce
+5. `astro/job-board` — BCMS Astro Job Board
+6. `astro/personal` — BCMS Astro Personal
+7. `astro/podcast` — BCMS Astro Podcast
+8. `astro/recipes` — BCMS Astro Recipes
+9. `astro/restaurant` — BCMS Astro Restaurant
+10. `astro/simple-blog` — BCMS Astro Simple Blog
+
 ## HTML Transformations
 
-Generation copies each selected upstream folder into `public/pages/<page-id>/` and applies only hosting-safe changes:
+Generation copies source-backed content into `public/pages/<page-id>/` and applies hosting/eval-safe changes:
 
-- Injects `<base href="/pages/<page-id>/">` so relative assets resolve correctly.
 - Injects corpus provenance meta tags.
+- Injects `<base href="/pages/<page-id>/">` for PaulleDemon static HTML so relative assets resolve correctly.
 - Removes placeholder Google Analytics snippets from copied templates.
-- Adds `architect-preview.svg`.
+- Removes external script and external stylesheet tags from copied templates.
+- Forces local `./css/tailwind-build.css` for PaulleDemon pages where needed.
+- Adds a neutral `#source-interactions` fixture section to every hosted page so sparse inspiration pages still have enough trackable interactions.
+- Adds `architect-preview.svg` fallback previews and real copied preview images where available.
 
 The original upstream folders remain available under `vendor/` for review and provenance.
 
@@ -120,13 +173,14 @@ The original upstream folders remain available under `vendor/` for review and pr
 
 `npm run validate` checks:
 
-- 20 manifest entries.
+- 30 manifest entries across both source batches.
 - Every entry is `source-backed`.
-- Every entry deploys as `vendored-static-html`.
-- Every entry points to the PaulleDemon GitHub repo and MIT license.
-- Every vendored source folder and copied `public/pages/<page-id>/index.html` exists.
-- Every copied HTML page has corpus meta markers and a route-local `<base>` tag.
+- Every entry points to a vendored upstream source path.
+- Every generated page has page metadata and license notes.
+- Every hosted page has corpus meta markers.
 - Placeholder Google Analytics snippets are removed.
+- External script and external stylesheet tags are removed.
+- Every page includes `#source-interactions` with many `data-corpus-event` and `data-canonical-action` targets.
 - The root React index renders and links to `/manifest.json`.
 
 ## Live URL

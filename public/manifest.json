@@ -3,15 +3,28 @@
   "baseUrl": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev",
   "corpus": "landing-page-source-inspirations",
   "runtime": "vite-react-tailwind-worker",
-  "batch": "paulledemon-vite-20",
-  "count": 20,
-  "source": {
-    "batch": "paulledemon-vite-20",
-    "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
-    "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
-    "vendorRoot": "vendor/paulledemon-awesome-landing-pages/source",
-    "license": "MIT"
-  },
+  "batch": "source-backed-landing-pages-30",
+  "batches": [
+    "paulledemon-vite-20",
+    "bcms-astro-starters-10"
+  ],
+  "count": 30,
+  "sources": [
+    {
+      "batch": "paulledemon-vite-20",
+      "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
+      "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
+      "vendorRoot": "vendor/paulledemon-awesome-landing-pages/source",
+      "license": "MIT"
+    },
+    {
+      "batch": "bcms-astro-starters-10",
+      "repoUrl": "https://github.com/bcms/starters",
+      "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+      "vendorRoot": "vendor/bcms-starters/source",
+      "license": "upstream-repository-license"
+    }
+  ],
   "pages": [
     {
       "id": "pixa-ai",
@@ -22,8 +35,8 @@
       "sourcePath": "src/saas/pixaai",
       "metadataPath": "pages/pixa-ai/page.json",
       "licensePath": "pages/pixa-ai/license-notes.md",
-      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/pixa-ai/assets/images/home/ai-models.png",
-      "previewImagePath": "/pages/pixa-ai/assets/images/home/ai-models.png",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/pixa-ai/assets/logo/logo.png",
+      "previewImagePath": "/pages/pixa-ai/assets/logo/logo.png",
       "vertical": "ai-saas",
       "pageType": "home",
       "tags": [
@@ -390,8 +403,8 @@
       "sourcePath": "src/ngo/project-africa",
       "metadataPath": "pages/project-africa/page.json",
       "licensePath": "pages/project-africa/license-notes.md",
-      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/project-africa/assets/images/home/africa.jpg",
-      "previewImagePath": "/pages/project-africa/assets/images/home/africa.jpg",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/project-africa/assets/logo.png",
+      "previewImagePath": "/pages/project-africa/assets/logo.png",
       "vertical": "ngo",
       "pageType": "campaign",
       "tags": [
@@ -624,6 +637,336 @@
         "license": "MIT",
         "usageMode": "copied",
         "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/notion"
+      }
+    },
+    {
+      "id": "bcms-astro-agency",
+      "number": "21",
+      "title": "BCMS Astro Agency",
+      "route": "/pages/bcms-astro-agency/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-agency/",
+      "sourcePath": "astro/agency",
+      "metadataPath": "pages/bcms-astro-agency/page.json",
+      "licensePath": "pages/bcms-astro-agency/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-agency/assets/thumbnail.jpg",
+      "previewImagePath": "/pages/bcms-astro-agency/assets/thumbnail.jpg",
+      "vertical": "agency",
+      "pageType": "starter",
+      "tags": [
+        "bcms",
+        "astro",
+        "agency"
+      ],
+      "status": "source-backed",
+      "deployMode": "stored-starter-source",
+      "sourceType": "vendored-bcms-astro-starter-source",
+      "licenseStatus": "upstream-repository-license",
+      "source": {
+        "repoUrl": "https://github.com/bcms/starters",
+        "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+        "sourcePath": "astro/agency",
+        "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/agency",
+        "license": "upstream-repository-license",
+        "usageMode": "stored-source",
+        "vendorPath": "vendor/bcms-starters/source/astro/agency",
+        "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+      }
+    },
+    {
+      "id": "bcms-astro-blog",
+      "number": "22",
+      "title": "BCMS Astro Blog",
+      "route": "/pages/bcms-astro-blog/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-blog/",
+      "sourcePath": "astro/blog",
+      "metadataPath": "pages/bcms-astro-blog/page.json",
+      "licensePath": "pages/bcms-astro-blog/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-blog/assets/thumbnail.jpg",
+      "previewImagePath": "/pages/bcms-astro-blog/assets/thumbnail.jpg",
+      "vertical": "blog",
+      "pageType": "starter",
+      "tags": [
+        "bcms",
+        "astro",
+        "blog"
+      ],
+      "status": "source-backed",
+      "deployMode": "stored-starter-source",
+      "sourceType": "vendored-bcms-astro-starter-source",
+      "licenseStatus": "upstream-repository-license",
+      "source": {
+        "repoUrl": "https://github.com/bcms/starters",
+        "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+        "sourcePath": "astro/blog",
+        "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/blog",
+        "license": "upstream-repository-license",
+        "usageMode": "stored-source",
+        "vendorPath": "vendor/bcms-starters/source/astro/blog",
+        "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+      }
+    },
+    {
+      "id": "bcms-astro-conference",
+      "number": "23",
+      "title": "BCMS Astro Conference",
+      "route": "/pages/bcms-astro-conference/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-conference/",
+      "sourcePath": "astro/conference",
+      "metadataPath": "pages/bcms-astro-conference/page.json",
+      "licensePath": "pages/bcms-astro-conference/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-conference/assets/thumbnail.jpg",
+      "previewImagePath": "/pages/bcms-astro-conference/assets/thumbnail.jpg",
+      "vertical": "conference",
+      "pageType": "starter",
+      "tags": [
+        "bcms",
+        "astro",
+        "event"
+      ],
+      "status": "source-backed",
+      "deployMode": "stored-starter-source",
+      "sourceType": "vendored-bcms-astro-starter-source",
+      "licenseStatus": "upstream-repository-license",
+      "source": {
+        "repoUrl": "https://github.com/bcms/starters",
+        "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+        "sourcePath": "astro/conference",
+        "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/conference",
+        "license": "upstream-repository-license",
+        "usageMode": "stored-source",
+        "vendorPath": "vendor/bcms-starters/source/astro/conference",
+        "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+      }
+    },
+    {
+      "id": "bcms-astro-e-commerce",
+      "number": "24",
+      "title": "BCMS Astro E-commerce",
+      "route": "/pages/bcms-astro-e-commerce/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-e-commerce/",
+      "sourcePath": "astro/e-commerce",
+      "metadataPath": "pages/bcms-astro-e-commerce/page.json",
+      "licensePath": "pages/bcms-astro-e-commerce/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-e-commerce/assets/thumbnail.jpg",
+      "previewImagePath": "/pages/bcms-astro-e-commerce/assets/thumbnail.jpg",
+      "vertical": "e-commerce",
+      "pageType": "starter",
+      "tags": [
+        "bcms",
+        "astro",
+        "commerce"
+      ],
+      "status": "source-backed",
+      "deployMode": "stored-starter-source",
+      "sourceType": "vendored-bcms-astro-starter-source",
+      "licenseStatus": "upstream-repository-license",
+      "source": {
+        "repoUrl": "https://github.com/bcms/starters",
+        "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+        "sourcePath": "astro/e-commerce",
+        "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/e-commerce",
+        "license": "upstream-repository-license",
+        "usageMode": "stored-source",
+        "vendorPath": "vendor/bcms-starters/source/astro/e-commerce",
+        "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+      }
+    },
+    {
+      "id": "bcms-astro-job-board",
+      "number": "25",
+      "title": "BCMS Astro Job Board",
+      "route": "/pages/bcms-astro-job-board/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-job-board/",
+      "sourcePath": "astro/job-board",
+      "metadataPath": "pages/bcms-astro-job-board/page.json",
+      "licensePath": "pages/bcms-astro-job-board/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-job-board/assets/thumbnail.jpg",
+      "previewImagePath": "/pages/bcms-astro-job-board/assets/thumbnail.jpg",
+      "vertical": "job-board",
+      "pageType": "starter",
+      "tags": [
+        "bcms",
+        "astro",
+        "jobs"
+      ],
+      "status": "source-backed",
+      "deployMode": "stored-starter-source",
+      "sourceType": "vendored-bcms-astro-starter-source",
+      "licenseStatus": "upstream-repository-license",
+      "source": {
+        "repoUrl": "https://github.com/bcms/starters",
+        "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+        "sourcePath": "astro/job-board",
+        "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/job-board",
+        "license": "upstream-repository-license",
+        "usageMode": "stored-source",
+        "vendorPath": "vendor/bcms-starters/source/astro/job-board",
+        "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+      }
+    },
+    {
+      "id": "bcms-astro-personal",
+      "number": "26",
+      "title": "BCMS Astro Personal",
+      "route": "/pages/bcms-astro-personal/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-personal/",
+      "sourcePath": "astro/personal",
+      "metadataPath": "pages/bcms-astro-personal/page.json",
+      "licensePath": "pages/bcms-astro-personal/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-personal/assets/thumbnail.jpg",
+      "previewImagePath": "/pages/bcms-astro-personal/assets/thumbnail.jpg",
+      "vertical": "portfolio",
+      "pageType": "starter",
+      "tags": [
+        "bcms",
+        "astro",
+        "personal"
+      ],
+      "status": "source-backed",
+      "deployMode": "stored-starter-source",
+      "sourceType": "vendored-bcms-astro-starter-source",
+      "licenseStatus": "upstream-repository-license",
+      "source": {
+        "repoUrl": "https://github.com/bcms/starters",
+        "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+        "sourcePath": "astro/personal",
+        "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/personal",
+        "license": "upstream-repository-license",
+        "usageMode": "stored-source",
+        "vendorPath": "vendor/bcms-starters/source/astro/personal",
+        "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+      }
+    },
+    {
+      "id": "bcms-astro-podcast",
+      "number": "27",
+      "title": "BCMS Astro Podcast",
+      "route": "/pages/bcms-astro-podcast/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-podcast/",
+      "sourcePath": "astro/podcast",
+      "metadataPath": "pages/bcms-astro-podcast/page.json",
+      "licensePath": "pages/bcms-astro-podcast/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-podcast/assets/thumbnail.jpg",
+      "previewImagePath": "/pages/bcms-astro-podcast/assets/thumbnail.jpg",
+      "vertical": "podcast",
+      "pageType": "starter",
+      "tags": [
+        "bcms",
+        "astro",
+        "podcast"
+      ],
+      "status": "source-backed",
+      "deployMode": "stored-starter-source",
+      "sourceType": "vendored-bcms-astro-starter-source",
+      "licenseStatus": "upstream-repository-license",
+      "source": {
+        "repoUrl": "https://github.com/bcms/starters",
+        "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+        "sourcePath": "astro/podcast",
+        "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/podcast",
+        "license": "upstream-repository-license",
+        "usageMode": "stored-source",
+        "vendorPath": "vendor/bcms-starters/source/astro/podcast",
+        "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+      }
+    },
+    {
+      "id": "bcms-astro-recipes",
+      "number": "28",
+      "title": "BCMS Astro Recipes",
+      "route": "/pages/bcms-astro-recipes/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-recipes/",
+      "sourcePath": "astro/recipes",
+      "metadataPath": "pages/bcms-astro-recipes/page.json",
+      "licensePath": "pages/bcms-astro-recipes/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-recipes/assets/thumbnail.jpg",
+      "previewImagePath": "/pages/bcms-astro-recipes/assets/thumbnail.jpg",
+      "vertical": "recipes",
+      "pageType": "starter",
+      "tags": [
+        "bcms",
+        "astro",
+        "recipes"
+      ],
+      "status": "source-backed",
+      "deployMode": "stored-starter-source",
+      "sourceType": "vendored-bcms-astro-starter-source",
+      "licenseStatus": "upstream-repository-license",
+      "source": {
+        "repoUrl": "https://github.com/bcms/starters",
+        "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+        "sourcePath": "astro/recipes",
+        "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/recipes",
+        "license": "upstream-repository-license",
+        "usageMode": "stored-source",
+        "vendorPath": "vendor/bcms-starters/source/astro/recipes",
+        "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+      }
+    },
+    {
+      "id": "bcms-astro-restaurant",
+      "number": "29",
+      "title": "BCMS Astro Restaurant",
+      "route": "/pages/bcms-astro-restaurant/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-restaurant/",
+      "sourcePath": "astro/restaurant",
+      "metadataPath": "pages/bcms-astro-restaurant/page.json",
+      "licensePath": "pages/bcms-astro-restaurant/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-restaurant/assets/thumbnail.jpg",
+      "previewImagePath": "/pages/bcms-astro-restaurant/assets/thumbnail.jpg",
+      "vertical": "restaurant",
+      "pageType": "starter",
+      "tags": [
+        "bcms",
+        "astro",
+        "restaurant"
+      ],
+      "status": "source-backed",
+      "deployMode": "stored-starter-source",
+      "sourceType": "vendored-bcms-astro-starter-source",
+      "licenseStatus": "upstream-repository-license",
+      "source": {
+        "repoUrl": "https://github.com/bcms/starters",
+        "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+        "sourcePath": "astro/restaurant",
+        "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/restaurant",
+        "license": "upstream-repository-license",
+        "usageMode": "stored-source",
+        "vendorPath": "vendor/bcms-starters/source/astro/restaurant",
+        "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
+      }
+    },
+    {
+      "id": "bcms-astro-simple-blog",
+      "number": "30",
+      "title": "BCMS Astro Simple Blog",
+      "route": "/pages/bcms-astro-simple-blog/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-simple-blog/",
+      "sourcePath": "astro/simple-blog",
+      "metadataPath": "pages/bcms-astro-simple-blog/page.json",
+      "licensePath": "pages/bcms-astro-simple-blog/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bcms-astro-simple-blog/assets/logo-dark.png",
+      "previewImagePath": "/pages/bcms-astro-simple-blog/assets/logo-dark.png",
+      "vertical": "blog",
+      "pageType": "starter",
+      "tags": [
+        "bcms",
+        "astro",
+        "simple-blog"
+      ],
+      "status": "source-backed",
+      "deployMode": "stored-starter-source",
+      "sourceType": "vendored-bcms-astro-starter-source",
+      "licenseStatus": "upstream-repository-license",
+      "source": {
+        "repoUrl": "https://github.com/bcms/starters",
+        "sourceCommit": "fef4e1f24043a72418679b3cccc43a9d522f1055",
+        "sourcePath": "astro/simple-blog",
+        "sourceUrl": "https://github.com/bcms/starters/tree/main/astro/simple-blog",
+        "license": "upstream-repository-license",
+        "usageMode": "stored-source",
+        "vendorPath": "vendor/bcms-starters/source/astro/simple-blog",
+        "buildNotes": "BCMS Astro starters require BCMS content/type generation before a full app build; this route stores the source and exposes a static preview with interaction fixtures."
       }
     }
   ]

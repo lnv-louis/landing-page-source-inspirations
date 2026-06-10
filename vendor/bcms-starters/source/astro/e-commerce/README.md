@@ -1,0 +1,29 @@
+# BCMS E-commerce code starter for Astro.js
+
+This is an Astro.js starter kit for BCMS, a headless CMS. It's minimal but solid, with a clean codebase that hooks directly into your BCMS project, ready to extend and scale as needed.
+
+## Getting Started
+
+Run the following command
+
+```bash
+npx @thebcms/cli create astro starter e-commerce
+```
+
+and follow the prompts.
+
+## Requirements
+
+- Node.js **22.x** or newer
+- npm **10.x** or newer
+- Astro **6.x** (this starter is built and tested against Astro 6)
+
+---
+
+### Useful links:
+
+-   [BCMS website](https://thebcms.com/)
+-   [BCMS documentation](https://thebcms.com/docs/)
+-   [BCMS and Astro integration](https://thebcms.com/docs/integrations/astro)
+-   [All BCMS starters](https://thebcms.com/starters)
+-   [Join our Discord](https://discord.com/invite/SYBY89ccaR)
