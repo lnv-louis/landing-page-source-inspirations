@@ -17,11 +17,11 @@ export function RootIndex({ pages }) {
 
     return pages.filter((page) =>
       [
-        page.company,
+        page.title,
         page.vertical,
-        page.archetype,
-        page.layoutFamily,
-        page.inspiration.label,
+        page.pageType,
+        page.source.sourcePath,
+        page.source.repoUrl,
       ]
         .join(" ")
         .toLowerCase()
@@ -38,12 +38,12 @@ export function RootIndex({ pages }) {
               Architect eval corpus
             </Badge>
             <h1 className="max-w-4xl text-3xl font-semibold tracking-normal sm:text-5xl">
-              100 SaaS landing-page source inspirations
+              20 source-backed Vite landing-page inspirations
             </h1>
             <p className="max-w-3xl text-base leading-7 text-slate-600">
               Vite + React + Tailwind source host for page canonicalisation and
-              external analytics evals. Each route has unique metadata, local
-              preview assets, and an ICP-shaped layout signature.
+              external analytics evals. Each route serves the actual vendored
+              PaulleDemon template HTML/CSS/JS with provenance metadata.
             </p>
           </div>
           <div className="flex flex-wrap items-center gap-2">
@@ -105,7 +105,7 @@ function CorpusCard({ page, view }) {
     >
       <a className="block" href={page.route}>
         <img
-          alt={`${page.company} preview`}
+          alt={`${page.title} preview`}
           className={cn(
             "aspect-[1.91/1] w-full border-b border-slate-200 object-cover",
             view === "list" && "h-full border-b-0 border-r",
@@ -119,16 +119,16 @@ function CorpusCard({ page, view }) {
             className="truncate text-base font-semibold leading-tight hover:underline"
             href={page.route}
           >
-            {page.number}. {page.company}
+            {page.number}. {page.title}
           </a>
           <p className="line-clamp-2 text-sm leading-6 text-slate-500">
-            {page.tagline}
+            {page.source.sourcePath}
           </p>
         </div>
         <div className="flex flex-wrap gap-1.5">
           <Badge>{page.vertical}</Badge>
-          <Badge>{page.layoutFamily}</Badge>
-          <Badge>{page.archetype}</Badge>
+          <Badge>{page.pageType}</Badge>
+          <Badge>{page.deployMode}</Badge>
         </div>
       </CardContent>
     </Card>

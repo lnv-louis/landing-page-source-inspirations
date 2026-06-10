@@ -1,48 +1,27 @@
 {
   "id": "law-fire",
-  "number": "110",
   "title": "Law Fire",
-  "company": "Law Fire",
-  "tagline": "Legal service page with buyer-proof and intake structure",
+  "sourcePath": "src/law/lawfire",
   "vertical": "legal-services",
-  "archetype": "services",
+  "pageType": "services",
+  "tags": [
+    "law"
+  ],
+  "number": "10",
   "route": "/pages/law-fire/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/law-fire/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/law-fire/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/law/lawfire",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/law/lawfire",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/law/lawfire"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Law Fire · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/law/lawfire"
-  },
-  "layoutFamily": "procurement-checklist",
-  "heroKind": "procurement-brief",
-  "navKind": "utility-bar",
-  "density": "balanced",
-  "sections": [
-    "services-hero",
-    "procurement-checklist-anchor",
-    "quote-wall",
-    "case-masthead",
-    "before-after",
-    "metric-row"
-  ],
-  "layoutSignature": "procurement-checklist::procurement-brief::utility-bar::src/law/lawfire::services-hero|procurement-checklist-anchor|quote-wall|case-masthead|before-after|metric-row",
-  "sourcePath": "src/law/lawfire",
-  "assets": {
-    "logo": "/pages/law-fire/assets/logo.svg",
-    "hero": "/pages/law-fire/assets/hero.svg",
-    "product": "/pages/law-fire/assets/product.svg"
   }
 }

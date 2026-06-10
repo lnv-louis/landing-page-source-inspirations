@@ -1,49 +1,27 @@
 {
   "id": "celestial-saas",
-  "number": "105",
   "title": "Celestial SaaS",
-  "company": "Celestial SaaS",
-  "tagline": "Atmospheric SaaS launch page with stacked proof sections",
+  "sourcePath": "src/saas/CelestialSaaS",
   "vertical": "saas",
-  "archetype": "home",
+  "pageType": "home",
+  "tags": [
+    "saas"
+  ],
+  "number": "05",
   "route": "/pages/celestial-saas/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/celestial-saas/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/celestial-saas/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/saas/CelestialSaaS",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/CelestialSaaS",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/CelestialSaaS"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Celestial SaaS · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/CelestialSaaS"
-  },
-  "layoutFamily": "announcement-stack",
-  "heroKind": "launch-note",
-  "navKind": "centered-tabs",
-  "density": "compact",
-  "sections": [
-    "home-hero",
-    "announcement-stack-anchor",
-    "developer-cta",
-    "docs-sidebar",
-    "api-table",
-    "quickstart-code",
-    "changelog-list"
-  ],
-  "layoutSignature": "announcement-stack::launch-note::centered-tabs::src/saas/CelestialSaaS::home-hero|announcement-stack-anchor|developer-cta|docs-sidebar|api-table|quickstart-code|changelog-list",
-  "sourcePath": "src/saas/CelestialSaaS",
-  "assets": {
-    "logo": "/pages/celestial-saas/assets/logo.svg",
-    "hero": "/pages/celestial-saas/assets/hero.svg",
-    "product": "/pages/celestial-saas/assets/product.svg"
   }
 }

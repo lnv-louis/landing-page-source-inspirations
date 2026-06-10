@@ -1,48 +1,28 @@
 {
   "id": "chat-origin",
-  "number": "107",
   "title": "Chat Origin",
-  "company": "Chat Origin",
-  "tagline": "Conversational app landing page with direct demo action",
+  "sourcePath": "src/apps/chatorigin",
   "vertical": "chat-app",
-  "archetype": "demo-request",
+  "pageType": "demo",
+  "tags": [
+    "app",
+    "chat"
+  ],
+  "number": "07",
   "route": "/pages/chat-origin/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/chat-origin/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/chat-origin/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/apps/chatorigin",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/chatorigin",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/chatorigin"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Chat Origin · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/chatorigin"
-  },
-  "layoutFamily": "demo-form-panel",
-  "heroKind": "demo-room",
-  "navKind": "simple-top",
-  "density": "longform",
-  "sections": [
-    "demo-request-hero",
-    "demo-form-panel-anchor",
-    "marketplace-filters",
-    "partner-cards",
-    "webhook-panel",
-    "signup-form"
-  ],
-  "layoutSignature": "demo-form-panel::demo-room::simple-top::src/apps/chatorigin::demo-request-hero|demo-form-panel-anchor|marketplace-filters|partner-cards|webhook-panel|signup-form",
-  "sourcePath": "src/apps/chatorigin",
-  "assets": {
-    "logo": "/pages/chat-origin/assets/logo.svg",
-    "hero": "/pages/chat-origin/assets/hero.svg",
-    "product": "/pages/chat-origin/assets/product.svg"
   }
 }

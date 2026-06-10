@@ -1,48 +1,28 @@
 {
   "id": "bella-youtuber",
-  "number": "119",
   "title": "Bella Youtuber",
-  "company": "Bella Youtuber",
-  "tagline": "Creator portfolio landing page with content proof blocks",
+  "sourcePath": "src/portfolio/bella",
   "vertical": "creator",
-  "archetype": "home",
+  "pageType": "portfolio",
+  "tags": [
+    "portfolio",
+    "creator"
+  ],
+  "number": "19",
   "route": "/pages/bella-youtuber/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bella-youtuber/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/bella-youtuber/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/portfolio/bella",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/bella",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/bella"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Bella Youtuber · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/bella"
-  },
-  "layoutFamily": "benchmark-grid",
-  "heroKind": "metric-wall",
-  "navKind": "centered-tabs",
-  "density": "longform",
-  "sections": [
-    "home-hero",
-    "benchmark-grid-anchor",
-    "results-table",
-    "download-cta",
-    "roi-calculator",
-    "benchmark-bars"
-  ],
-  "layoutSignature": "benchmark-grid::metric-wall::centered-tabs::src/portfolio/bella::home-hero|benchmark-grid-anchor|results-table|download-cta|roi-calculator|benchmark-bars",
-  "sourcePath": "src/portfolio/bella",
-  "assets": {
-    "logo": "/pages/bella-youtuber/assets/logo.svg",
-    "hero": "/pages/bella-youtuber/assets/hero.svg",
-    "product": "/pages/bella-youtuber/assets/product.svg"
   }
 }

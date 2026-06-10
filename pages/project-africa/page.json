@@ -1,48 +1,27 @@
 {
   "id": "project-africa",
-  "number": "113",
   "title": "Project Africa",
-  "company": "Project Africa",
-  "tagline": "NGO campaign page with editorial impact narrative",
+  "sourcePath": "src/ngo/project-africa",
   "vertical": "ngo",
-  "archetype": "campaign",
+  "pageType": "campaign",
+  "tags": [
+    "ngo"
+  ],
+  "number": "13",
   "route": "/pages/project-africa/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/project-africa/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/project-africa/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/ngo/project-africa",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/ngo/project-africa",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/ngo/project-africa"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Project Africa · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/ngo/project-africa"
-  },
-  "layoutFamily": "editorial-report",
-  "heroKind": "asymmetric-editorial",
-  "navKind": "simple-top",
-  "density": "compact",
-  "sections": [
-    "campaign-hero",
-    "editorial-report-anchor",
-    "faq-accordion",
-    "procurement-note",
-    "cta-band",
-    "pricing-table"
-  ],
-  "layoutSignature": "editorial-report::asymmetric-editorial::simple-top::src/ngo/project-africa::campaign-hero|editorial-report-anchor|faq-accordion|procurement-note|cta-band|pricing-table",
-  "sourcePath": "src/ngo/project-africa",
-  "assets": {
-    "logo": "/pages/project-africa/assets/logo.svg",
-    "hero": "/pages/project-africa/assets/hero.svg",
-    "product": "/pages/project-africa/assets/product.svg"
   }
 }

@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120" role="img" aria-label="AccessForge logo">
-  <rect width="320" height="120" rx="18" fill="#ffffff"/>
-  <circle cx="58" cy="60" r="30" fill="#e2e8f0"/>
-  <path d="M44 60h28M58 46v28" stroke="#475569" stroke-width="8" stroke-linecap="round"/>
-  <text x="104" y="71" fill="#0f172a" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="900">AccessForge</text>
-</svg>

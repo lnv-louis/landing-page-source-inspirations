@@ -1,47 +1,27 @@
 {
   "id": "brick-property",
-  "number": "112",
   "title": "Brick Property",
-  "company": "Brick Property",
-  "tagline": "Real estate landing page with listing and inquiry structure",
+  "sourcePath": "src/realestate/brickproperty",
   "vertical": "real-estate",
-  "archetype": "marketplace",
+  "pageType": "marketplace",
+  "tags": [
+    "real-estate"
+  ],
+  "number": "12",
   "route": "/pages/brick-property/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/brick-property/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/brick-property/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/realestate/brickproperty",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/realestate/brickproperty",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/realestate/brickproperty"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Brick Property · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/realestate/brickproperty"
-  },
-  "layoutFamily": "marketplace-shelf",
-  "heroKind": "integration-cloud",
-  "navKind": "product-switcher",
-  "density": "dense",
-  "sections": [
-    "marketplace-hero",
-    "marketplace-shelf-anchor",
-    "workflow-steps",
-    "role-cards",
-    "security-note"
-  ],
-  "layoutSignature": "marketplace-shelf::integration-cloud::product-switcher::src/realestate/brickproperty::marketplace-hero|marketplace-shelf-anchor|workflow-steps|role-cards|security-note",
-  "sourcePath": "src/realestate/brickproperty",
-  "assets": {
-    "logo": "/pages/brick-property/assets/logo.svg",
-    "hero": "/pages/brick-property/assets/hero.svg",
-    "product": "/pages/brick-property/assets/product.svg"
   }
 }

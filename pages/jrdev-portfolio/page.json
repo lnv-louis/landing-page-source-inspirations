@@ -1,47 +1,28 @@
 {
   "id": "jrdev-portfolio",
-  "number": "118",
   "title": "JrDev Portfolio",
-  "company": "JrDev Portfolio",
-  "tagline": "Junior developer portfolio with docs-style navigation",
+  "sourcePath": "src/portfolio/jrdev",
   "vertical": "portfolio",
-  "archetype": "developer",
+  "pageType": "portfolio",
+  "tags": [
+    "portfolio",
+    "developer"
+  ],
+  "number": "18",
   "route": "/pages/jrdev-portfolio/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/jrdev-portfolio/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/jrdev-portfolio/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/portfolio/jrdev",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/jrdev",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/jrdev"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "JrDev Portfolio · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/jrdev"
-  },
-  "layoutFamily": "sidebar-docs",
-  "heroKind": "docs-shell",
-  "navKind": "sidebar",
-  "density": "balanced",
-  "sections": [
-    "developer-hero",
-    "sidebar-docs-anchor",
-    "speaker-grid",
-    "registration-form",
-    "sponsor-row"
-  ],
-  "layoutSignature": "sidebar-docs::docs-shell::sidebar::src/portfolio/jrdev::developer-hero|sidebar-docs-anchor|speaker-grid|registration-form|sponsor-row",
-  "sourcePath": "src/portfolio/jrdev",
-  "assets": {
-    "logo": "/pages/jrdev-portfolio/assets/logo.svg",
-    "hero": "/pages/jrdev-portfolio/assets/hero.svg",
-    "product": "/pages/jrdev-portfolio/assets/product.svg"
   }
 }

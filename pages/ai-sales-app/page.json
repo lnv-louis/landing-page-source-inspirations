@@ -1,47 +1,29 @@
 {
   "id": "ai-sales-app",
-  "number": "106",
   "title": "AI Sales App",
-  "company": "AI Sales App",
-  "tagline": "AI sales workflow page for outbound and account teams",
+  "sourcePath": "src/apps/AISales",
   "vertical": "gtm-ai",
-  "archetype": "product",
+  "pageType": "product",
+  "tags": [
+    "app",
+    "ai",
+    "sales"
+  ],
+  "number": "06",
   "route": "/pages/ai-sales-app/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/ai-sales-app/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/ai-sales-app/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/apps/AISales",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/AISales",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/AISales"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "AI Sales App · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/AISales"
-  },
-  "layoutFamily": "workflow-lane",
-  "heroKind": "workflow-board",
-  "navKind": "product-switcher",
-  "density": "balanced",
-  "sections": [
-    "product-hero",
-    "workflow-lane-anchor",
-    "trust-center",
-    "control-grid",
-    "audit-timeline"
-  ],
-  "layoutSignature": "workflow-lane::workflow-board::product-switcher::src/apps/AISales::product-hero|workflow-lane-anchor|trust-center|control-grid|audit-timeline",
-  "sourcePath": "src/apps/AISales",
-  "assets": {
-    "logo": "/pages/ai-sales-app/assets/logo.svg",
-    "hero": "/pages/ai-sales-app/assets/hero.svg",
-    "product": "/pages/ai-sales-app/assets/product.svg"
   }
 }

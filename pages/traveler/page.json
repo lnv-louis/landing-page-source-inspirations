@@ -1,47 +1,28 @@
 {
   "id": "traveler",
-  "number": "109",
   "title": "Traveler",
-  "company": "Traveler",
-  "tagline": "Travel app page with destination-led discovery structure",
+  "sourcePath": "src/apps/traveler",
   "vertical": "travel-app",
-  "archetype": "home",
+  "pageType": "home",
+  "tags": [
+    "app",
+    "travel"
+  ],
+  "number": "09",
   "route": "/pages/traveler/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/traveler/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/traveler/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/apps/traveler",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/traveler",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/traveler"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Traveler · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/traveler"
-  },
-  "layoutFamily": "industry-map",
-  "heroKind": "market-map",
-  "navKind": "simple-top",
-  "density": "compact",
-  "sections": [
-    "home-hero",
-    "industry-map-anchor",
-    "results-table",
-    "download-cta",
-    "roi-calculator"
-  ],
-  "layoutSignature": "industry-map::market-map::simple-top::src/apps/traveler::home-hero|industry-map-anchor|results-table|download-cta|roi-calculator",
-  "sourcePath": "src/apps/traveler",
-  "assets": {
-    "logo": "/pages/traveler/assets/logo.svg",
-    "hero": "/pages/traveler/assets/hero.svg",
-    "product": "/pages/traveler/assets/product.svg"
   }
 }

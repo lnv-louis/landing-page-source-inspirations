@@ -1,49 +1,27 @@
 {
   "id": "navigator",
-  "number": "108",
   "title": "Navigator",
-  "company": "Navigator",
-  "tagline": "Navigator app landing page with catalogued feature paths",
+  "sourcePath": "src/apps/navigator",
   "vertical": "productivity-app",
-  "archetype": "use-case",
+  "pageType": "home",
+  "tags": [
+    "app"
+  ],
+  "number": "08",
   "route": "/pages/navigator/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/navigator/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/navigator/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/apps/navigator",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/navigator",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/apps/navigator"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Navigator · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/apps/navigator"
-  },
-  "layoutFamily": "card-catalog",
-  "heroKind": "market-map",
-  "navKind": "anchor-strip",
-  "density": "dense",
-  "sections": [
-    "use-case-hero",
-    "card-catalog-anchor",
-    "speaker-grid",
-    "registration-form",
-    "sponsor-row",
-    "event-hero",
-    "agenda-list"
-  ],
-  "layoutSignature": "card-catalog::market-map::anchor-strip::src/apps/navigator::use-case-hero|card-catalog-anchor|speaker-grid|registration-form|sponsor-row|event-hero|agenda-list",
-  "sourcePath": "src/apps/navigator",
-  "assets": {
-    "logo": "/pages/navigator/assets/logo.svg",
-    "hero": "/pages/navigator/assets/hero.svg",
-    "product": "/pages/navigator/assets/product.svg"
   }
 }

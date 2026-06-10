@@ -1,47 +1,28 @@
 {
   "id": "nutrio-restaurant",
-  "number": "115",
   "title": "Nutrio Restaurant",
-  "company": "Nutrio Restaurant",
-  "tagline": "Nutrition restaurant page with wellness-led conversion form",
+  "sourcePath": "src/restaurant/nutrio",
   "vertical": "restaurant-wellness",
-  "archetype": "local-service",
+  "pageType": "local-service",
+  "tags": [
+    "restaurant",
+    "wellness"
+  ],
+  "number": "15",
   "route": "/pages/nutrio-restaurant/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/nutrio-restaurant/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/nutrio-restaurant/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/restaurant/nutrio",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/restaurant/nutrio",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/restaurant/nutrio"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Nutrio Restaurant · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/restaurant/nutrio"
-  },
-  "layoutFamily": "calculator-form",
-  "heroKind": "form-first",
-  "navKind": "anchor-strip",
-  "density": "longform",
-  "sections": [
-    "local-service-hero",
-    "calculator-form-anchor",
-    "developer-cta",
-    "docs-sidebar",
-    "api-table"
-  ],
-  "layoutSignature": "calculator-form::form-first::anchor-strip::src/restaurant/nutrio::local-service-hero|calculator-form-anchor|developer-cta|docs-sidebar|api-table",
-  "sourcePath": "src/restaurant/nutrio",
-  "assets": {
-    "logo": "/pages/nutrio-restaurant/assets/logo.svg",
-    "hero": "/pages/nutrio-restaurant/assets/hero.svg",
-    "product": "/pages/nutrio-restaurant/assets/product.svg"
   }
 }

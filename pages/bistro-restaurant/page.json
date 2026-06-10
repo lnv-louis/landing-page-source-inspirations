@@ -1,49 +1,27 @@
 {
   "id": "bistro-restaurant",
-  "number": "114",
   "title": "Bistro Restaurant",
-  "company": "Bistro Restaurant",
-  "tagline": "Restaurant landing page with menu, booking, and event rhythm",
+  "sourcePath": "src/restaurant/bistro",
   "vertical": "restaurant",
-  "archetype": "local-service",
+  "pageType": "local-service",
+  "tags": [
+    "restaurant"
+  ],
+  "number": "14",
   "route": "/pages/bistro-restaurant/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/bistro-restaurant/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/bistro-restaurant/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/restaurant/bistro",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/restaurant/bistro",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/restaurant/bistro"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Bistro Restaurant · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/restaurant/bistro"
-  },
-  "layoutFamily": "event-agenda",
-  "heroKind": "event-poster",
-  "navKind": "minimal-wordmark",
-  "density": "balanced",
-  "sections": [
-    "local-service-hero",
-    "event-agenda-anchor",
-    "migration-steps",
-    "demo-form",
-    "competitor-table",
-    "switcher-panel",
-    "proof-quotes"
-  ],
-  "layoutSignature": "event-agenda::event-poster::minimal-wordmark::src/restaurant/bistro::local-service-hero|event-agenda-anchor|migration-steps|demo-form|competitor-table|switcher-panel|proof-quotes",
-  "sourcePath": "src/restaurant/bistro",
-  "assets": {
-    "logo": "/pages/bistro-restaurant/assets/logo.svg",
-    "hero": "/pages/bistro-restaurant/assets/hero.svg",
-    "product": "/pages/bistro-restaurant/assets/product.svg"
   }
 }

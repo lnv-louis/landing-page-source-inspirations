@@ -1,49 +1,28 @@
 {
   "id": "saasy-dark",
-  "number": "102",
   "title": "SaaSy Dark",
-  "company": "SaaSy Dark",
-  "tagline": "Dark-mode SaaS positioning with sharp product proof",
+  "sourcePath": "src/saas/SaaSyDark",
   "vertical": "saas",
-  "archetype": "home",
+  "pageType": "home",
+  "tags": [
+    "saas",
+    "dark"
+  ],
+  "number": "02",
   "route": "/pages/saasy-dark/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/saasy-dark/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/saasy-dark/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/saas/SaaSyDark",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/SaaSyDark",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/saas/SaaSyDark"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "SaaSy Dark · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/saas/SaaSyDark"
-  },
-  "layoutFamily": "centered-terminal",
-  "heroKind": "centered-proof",
-  "navKind": "minimal-wordmark",
-  "density": "balanced",
-  "sections": [
-    "home-hero",
-    "centered-terminal-anchor",
-    "workflow-steps",
-    "role-cards",
-    "security-note",
-    "demo-form",
-    "feature-tabs"
-  ],
-  "layoutSignature": "centered-terminal::centered-proof::minimal-wordmark::src/saas/SaaSyDark::home-hero|centered-terminal-anchor|workflow-steps|role-cards|security-note|demo-form|feature-tabs",
-  "sourcePath": "src/saas/SaaSyDark",
-  "assets": {
-    "logo": "/pages/saasy-dark/assets/logo.svg",
-    "hero": "/pages/saasy-dark/assets/hero.svg",
-    "product": "/pages/saasy-dark/assets/product.svg"
   }
 }

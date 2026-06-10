@@ -1,49 +1,27 @@
 {
   "id": "law-group",
-  "number": "111",
   "title": "Law Group",
-  "company": "Law Group",
-  "tagline": "Law firm landing page with narrative practice-area sections",
+  "sourcePath": "src/law/lawgroup",
   "vertical": "legal-services",
-  "archetype": "case-study",
+  "pageType": "services",
+  "tags": [
+    "law"
+  ],
+  "number": "11",
   "route": "/pages/law-group/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/law-group/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/law-group/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/law/lawgroup",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/law/lawgroup",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/law/lawgroup"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Law Group · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/law/lawgroup"
-  },
-  "layoutFamily": "case-study-narrative",
-  "heroKind": "customer-story",
-  "navKind": "mega-menu",
-  "density": "longform",
-  "sections": [
-    "case-study-hero",
-    "case-study-narrative-anchor",
-    "logo-cloud",
-    "pain-grid",
-    "product-proof",
-    "customer-logos",
-    "cta-band"
-  ],
-  "layoutSignature": "case-study-narrative::customer-story::mega-menu::src/law/lawgroup::case-study-hero|case-study-narrative-anchor|logo-cloud|pain-grid|product-proof|customer-logos|cta-band",
-  "sourcePath": "src/law/lawgroup",
-  "assets": {
-    "logo": "/pages/law-group/assets/logo.svg",
-    "hero": "/pages/law-group/assets/hero.svg",
-    "product": "/pages/law-group/assets/product.svg"
   }
 }

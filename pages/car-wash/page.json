@@ -1,48 +1,27 @@
 {
   "id": "car-wash",
-  "number": "116",
   "title": "Car Wash",
-  "company": "Car Wash",
-  "tagline": "Local service landing page with package comparison structure",
+  "sourcePath": "src/others/carwash",
   "vertical": "local-service",
-  "archetype": "pricing",
+  "pageType": "services",
+  "tags": [
+    "local-service"
+  ],
+  "number": "16",
   "route": "/pages/car-wash/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/car-wash/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/car-wash/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/others/carwash",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/others/carwash",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/others/carwash"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Car Wash · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/others/carwash"
-  },
-  "layoutFamily": "comparison-ledger",
-  "heroKind": "comparison-first",
-  "navKind": "simple-top",
-  "density": "dense",
-  "sections": [
-    "pricing-hero",
-    "comparison-ledger-anchor",
-    "trust-center",
-    "control-grid",
-    "audit-timeline",
-    "policy-links"
-  ],
-  "layoutSignature": "comparison-ledger::comparison-first::simple-top::src/others/carwash::pricing-hero|comparison-ledger-anchor|trust-center|control-grid|audit-timeline|policy-links",
-  "sourcePath": "src/others/carwash",
-  "assets": {
-    "logo": "/pages/car-wash/assets/logo.svg",
-    "hero": "/pages/car-wash/assets/hero.svg",
-    "product": "/pages/car-wash/assets/product.svg"
   }
 }

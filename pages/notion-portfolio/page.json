@@ -1,49 +1,28 @@
 {
   "id": "notion-portfolio",
-  "number": "120",
   "title": "Notion Themed Portfolio",
-  "company": "Notion Themed Portfolio",
-  "tagline": "Notion-themed portfolio page with document-style structure",
+  "sourcePath": "src/portfolio/notion",
   "vertical": "portfolio",
-  "archetype": "docs",
+  "pageType": "portfolio",
+  "tags": [
+    "portfolio",
+    "notion"
+  ],
+  "number": "20",
   "route": "/pages/notion-portfolio/",
   "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/notion-portfolio/",
   "status": "source-backed",
-  "deployMode": "vite-react-route",
-  "sourceType": "vendored-upstream-template-adapted-to-vite-react-route",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-upstream-template-static-html",
   "licenseStatus": "MIT",
+  "previewImagePath": "/pages/notion-portfolio/architect-preview.svg",
   "source": {
     "repoUrl": "https://github.com/PaulleDemon/awesome-landing-pages",
     "sourceCommit": "e98eb80c593b8cd28d1f39556ccdda160a932581",
     "sourcePath": "src/portfolio/notion",
     "sourceUrl": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/notion",
     "license": "MIT",
-    "usageMode": "adapted",
+    "usageMode": "copied",
     "vendorPath": "vendor/paulledemon-awesome-landing-pages/source/src/portfolio/notion"
-  },
-  "inspiration": {
-    "key": "paulledemon-vite-20",
-    "label": "Notion Themed Portfolio · PaulleDemon awesome landing pages",
-    "url": "https://github.com/PaulleDemon/awesome-landing-pages/tree/main/src/portfolio/notion"
-  },
-  "layoutFamily": "migration-timeline",
-  "heroKind": "docs-shell",
-  "navKind": "left-rail",
-  "density": "dense",
-  "sections": [
-    "docs-hero",
-    "migration-timeline-anchor",
-    "quote-wall",
-    "case-masthead",
-    "before-after",
-    "metric-row",
-    "story-timeline"
-  ],
-  "layoutSignature": "migration-timeline::docs-shell::left-rail::src/portfolio/notion::docs-hero|migration-timeline-anchor|quote-wall|case-masthead|before-after|metric-row|story-timeline",
-  "sourcePath": "src/portfolio/notion",
-  "assets": {
-    "logo": "/pages/notion-portfolio/assets/logo.svg",
-    "hero": "/pages/notion-portfolio/assets/hero.svg",
-    "product": "/pages/notion-portfolio/assets/product.svg"
   }
 }
