@@ -1,0 +1,32 @@
+{
+  "id": "shadcn-landing-page",
+  "title": "Shadcn Landing Page",
+  "vertical": "saas",
+  "pageType": "component-library-landing",
+  "tags": [
+    "saas",
+    "shadcn",
+    "software",
+    "template"
+  ],
+  "source": {
+    "repoUrl": "https://github.com/leoMirandaa/shadcn-landing-page",
+    "sourceCommit": "ae3716dbce5c8a26815222bb743994b5717938f1",
+    "sourcePath": "static-output",
+    "sourceUrl": "https://github.com/leoMirandaa/shadcn-landing-page",
+    "license": "MIT",
+    "usageMode": "copied-static-build",
+    "vendorPath": "vendor/modern-landing-page-sources/shadcn-landing-page/source",
+    "staticDir": "static-output",
+    "staticRoot": "static-output/index.html"
+  },
+  "number": "27",
+  "route": "/pages/shadcn-landing-page/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/shadcn-landing-page/",
+  "status": "source-backed",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-modern-template-static-output",
+  "licenseStatus": "MIT",
+  "previewImagePath": "/pages/shadcn-landing-page/assets/cube-leg-DppWNJeX.png",
+  "requiresTailwindBuild": false
+}

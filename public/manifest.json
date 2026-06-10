@@ -3,12 +3,13 @@
   "baseUrl": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev",
   "corpus": "landing-page-source-inspirations",
   "runtime": "vite-react-tailwind-worker",
-  "batch": "source-backed-saas-tech-26",
+  "batch": "source-backed-saas-tech-30",
   "batches": [
     "paulledemon-vite-20",
-    "awesome-landing-page-tech-6"
+    "awesome-landing-page-tech-6",
+    "modern-template-tech-5"
   ],
-  "count": 26,
+  "count": 30,
   "sources": [
     {
       "batch": "paulledemon-vite-20",
@@ -23,6 +24,13 @@
       "sourceCommit": "d98ff2a3e26e99004baf3e035d970c4c4ac3f191",
       "vendorRoot": "vendor/awesome-landing-page-sources",
       "license": "varies-by-linked-repo"
+    },
+    {
+      "batch": "modern-template-tech-5",
+      "repoUrl": "user-supplied-template-list",
+      "sourceCommit": "multiple",
+      "vendorRoot": "vendor/modern-landing-page-sources",
+      "license": "MIT"
     }
   ],
   "pages": [
@@ -881,6 +889,146 @@
         "vendorPath": "vendor/awesome-landing-page-sources/coala-landing-frontend/source",
         "staticDir": ".",
         "staticRoot": "index.html"
+      }
+    },
+    {
+      "id": "shadcn-landing-page",
+      "number": "27",
+      "title": "Shadcn Landing Page",
+      "route": "/pages/shadcn-landing-page/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/shadcn-landing-page/",
+      "sourcePath": "static-output",
+      "metadataPath": "pages/shadcn-landing-page/page.json",
+      "licensePath": "pages/shadcn-landing-page/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/shadcn-landing-page/assets/cube-leg-DppWNJeX.png",
+      "previewImagePath": "/pages/shadcn-landing-page/assets/cube-leg-DppWNJeX.png",
+      "vertical": "saas",
+      "pageType": "component-library-landing",
+      "tags": [
+        "saas",
+        "shadcn",
+        "software",
+        "template"
+      ],
+      "status": "source-backed",
+      "deployMode": "vendored-static-html",
+      "sourceType": "vendored-modern-template-static-output",
+      "licenseStatus": "MIT",
+      "source": {
+        "repoUrl": "https://github.com/leoMirandaa/shadcn-landing-page",
+        "sourceCommit": "ae3716dbce5c8a26815222bb743994b5717938f1",
+        "sourcePath": "static-output",
+        "sourceUrl": "https://github.com/leoMirandaa/shadcn-landing-page",
+        "license": "MIT",
+        "usageMode": "copied-static-build",
+        "vendorPath": "vendor/modern-landing-page-sources/shadcn-landing-page/source",
+        "staticDir": "static-output",
+        "staticRoot": "static-output/index.html"
+      }
+    },
+    {
+      "id": "convertfast-ui",
+      "number": "28",
+      "title": "Convertfast UI",
+      "route": "/pages/convertfast-ui/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/convertfast-ui/",
+      "sourcePath": "packages/segments/static-output",
+      "metadataPath": "pages/convertfast-ui/page.json",
+      "licensePath": "pages/convertfast-ui/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/convertfast-ui/_convertfast/gradient-bg-0.svg",
+      "previewImagePath": "/pages/convertfast-ui/_convertfast/gradient-bg-0.svg",
+      "vertical": "conversion-saas",
+      "pageType": "component-template-landing",
+      "tags": [
+        "saas",
+        "conversion",
+        "shadcn",
+        "template"
+      ],
+      "status": "source-backed",
+      "deployMode": "vendored-static-html",
+      "sourceType": "vendored-modern-template-static-output",
+      "licenseStatus": "MIT",
+      "source": {
+        "repoUrl": "https://github.com/ObservedObserver/convertfast-ui",
+        "sourceCommit": "176486dc78ad422328e54baeff1960c423a91fb1",
+        "sourcePath": "packages/segments/static-output",
+        "sourceUrl": "https://github.com/ObservedObserver/convertfast-ui/tree/main/packages/segments",
+        "license": "MIT",
+        "usageMode": "copied-static-build",
+        "vendorPath": "vendor/modern-landing-page-sources/convertfast-ui/source",
+        "staticDir": "static-output",
+        "staticRoot": "static-output/index.html"
+      }
+    },
+    {
+      "id": "launch-ui",
+      "number": "29",
+      "title": "Launch UI",
+      "route": "/pages/launch-ui/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/launch-ui/",
+      "sourcePath": "static-output",
+      "metadataPath": "pages/launch-ui/page.json",
+      "licensePath": "pages/launch-ui/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/launch-ui/og.jpg",
+      "previewImagePath": "/pages/launch-ui/og.jpg",
+      "vertical": "startup-saas",
+      "pageType": "nextjs-landing",
+      "tags": [
+        "saas",
+        "nextjs",
+        "shadcn",
+        "template"
+      ],
+      "status": "source-backed",
+      "deployMode": "vendored-static-html",
+      "sourceType": "vendored-modern-template-static-output",
+      "licenseStatus": "MIT",
+      "source": {
+        "repoUrl": "https://github.com/launch-ui/launch-ui",
+        "sourceCommit": "3f596fc3d498f114d62ce5cb5c542c0c47d2085f",
+        "sourcePath": "static-output",
+        "sourceUrl": "https://github.com/launch-ui/launch-ui",
+        "license": "MIT",
+        "usageMode": "copied-static-export",
+        "vendorPath": "vendor/modern-landing-page-sources/launch-ui/source",
+        "staticDir": "static-output",
+        "staticRoot": "static-output/index.html"
+      }
+    },
+    {
+      "id": "next-shadcn-landing",
+      "number": "30",
+      "title": "Next Shadcn Landing",
+      "route": "/pages/next-shadcn-landing/",
+      "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/next-shadcn-landing/",
+      "sourcePath": "static-output",
+      "metadataPath": "pages/next-shadcn-landing/page.json",
+      "licensePath": "pages/next-shadcn-landing/license-notes.md",
+      "previewImage": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/next-shadcn-landing/og.jpg",
+      "previewImagePath": "/pages/next-shadcn-landing/og.jpg",
+      "vertical": "saas",
+      "pageType": "nextjs-landing",
+      "tags": [
+        "saas",
+        "nextjs",
+        "shadcn",
+        "template"
+      ],
+      "status": "source-backed",
+      "deployMode": "vendored-static-html",
+      "sourceType": "vendored-modern-template-static-output",
+      "licenseStatus": "MIT",
+      "source": {
+        "repoUrl": "https://github.com/redpangilinan/next-shadcn-landing",
+        "sourceCommit": "97b768a6a84f6e761fe8d2867a11d3438e933c28",
+        "sourcePath": "static-output",
+        "sourceUrl": "https://github.com/redpangilinan/next-shadcn-landing",
+        "license": "MIT",
+        "usageMode": "copied-static-export",
+        "vendorPath": "vendor/modern-landing-page-sources/next-shadcn-landing/source",
+        "staticDir": "static-output",
+        "staticRoot": "static-output/index.html"
       }
     }
   ]

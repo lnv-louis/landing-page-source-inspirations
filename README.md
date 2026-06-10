@@ -10,6 +10,7 @@ landing-page-source-inspirations
   src/data/source-backed-pages.js
   vendor/paulledemon-awesome-landing-pages/source/
   vendor/awesome-landing-page-sources/
+  vendor/modern-landing-page-sources/
   pages/<page-id>/page.json
   pages/<page-id>/license-notes.md
   public/pages/<page-id>/index.html
@@ -32,17 +33,18 @@ npm run deploy
 
 ## Corpus Contract
 
-The default public corpus is `source-backed-saas-tech-26`:
+The default public corpus is `source-backed-saas-tech-30`:
 
-- 26 manifest entries.
+- 30 manifest entries.
 - 20 PaulleDemon hosted static templates.
 - 6 SaaS/tech/software pages selected from projects linked by `nordicgiant2/awesome-landing-page`.
-- Each route hosts real upstream HTML/assets that can be clicked directly.
+- 4 modern MIT SaaS/tech templates supplied by the user; Linkify was skipped because it is a full Clerk/Prisma app rather than a clean static landing-page template.
+- Each route hosts real upstream HTML/assets or static production output that can be clicked directly.
 - React is used for the root index page, not to recreate the source pages.
 
 Single source-of-truth manifest:
 
-- `/manifest.json` — all 26 pages.
+- `/manifest.json` — all 30 pages.
 
 Do not add batch-specific public manifests; consumers should read only `/manifest.json`.
 
@@ -80,6 +82,21 @@ Added linked repos:
 5. `StartBootstrap/startbootstrap-new-age` — app/product static build output from `dist/`.
 6. `coala/landing-frontend` — developer-tool project static landing page.
 
+### Modern MIT template repos
+
+User-supplied modern SaaS/tech templates vendored under:
+
+```txt
+vendor/modern-landing-page-sources/
+```
+
+Added templates:
+
+1. `leoMirandaa/shadcn-landing-page` — Vite production output.
+2. `ObservedObserver/convertfast-ui` — `packages/segments` Vite production output.
+3. `launch-ui/launch-ui` — Next static export.
+4. `redpangilinan/next-shadcn-landing` — Next static export.
+
 ## HTML Transformations
 
 Generation copies each selected static root into `public/pages/<page-id>/` and applies only hosting-safe changes:
@@ -96,7 +113,7 @@ The original upstream folders remain available under `vendor/` for review and pr
 
 `npm run validate` checks:
 
-- 26 manifest entries.
+- 30 manifest entries.
 - Every entry is `source-backed` and `vendored-static-html`.
 - Every entry points to a GitHub source repo and vendored source path.
 - Every copied public route has an `index.html` with corpus provenance metadata.

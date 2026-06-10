@@ -1,0 +1,32 @@
+{
+  "id": "launch-ui",
+  "title": "Launch UI",
+  "vertical": "startup-saas",
+  "pageType": "nextjs-landing",
+  "tags": [
+    "saas",
+    "nextjs",
+    "shadcn",
+    "template"
+  ],
+  "source": {
+    "repoUrl": "https://github.com/launch-ui/launch-ui",
+    "sourceCommit": "3f596fc3d498f114d62ce5cb5c542c0c47d2085f",
+    "sourcePath": "static-output",
+    "sourceUrl": "https://github.com/launch-ui/launch-ui",
+    "license": "MIT",
+    "usageMode": "copied-static-export",
+    "vendorPath": "vendor/modern-landing-page-sources/launch-ui/source",
+    "staticDir": "static-output",
+    "staticRoot": "static-output/index.html"
+  },
+  "number": "29",
+  "route": "/pages/launch-ui/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/launch-ui/",
+  "status": "source-backed",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-modern-template-static-output",
+  "licenseStatus": "MIT",
+  "previewImagePath": "/pages/launch-ui/og.jpg",
+  "requiresTailwindBuild": false
+}

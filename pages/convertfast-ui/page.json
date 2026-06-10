@@ -1,0 +1,32 @@
+{
+  "id": "convertfast-ui",
+  "title": "Convertfast UI",
+  "vertical": "conversion-saas",
+  "pageType": "component-template-landing",
+  "tags": [
+    "saas",
+    "conversion",
+    "shadcn",
+    "template"
+  ],
+  "source": {
+    "repoUrl": "https://github.com/ObservedObserver/convertfast-ui",
+    "sourceCommit": "176486dc78ad422328e54baeff1960c423a91fb1",
+    "sourcePath": "packages/segments/static-output",
+    "sourceUrl": "https://github.com/ObservedObserver/convertfast-ui/tree/main/packages/segments",
+    "license": "MIT",
+    "usageMode": "copied-static-build",
+    "vendorPath": "vendor/modern-landing-page-sources/convertfast-ui/source",
+    "staticDir": "static-output",
+    "staticRoot": "static-output/index.html"
+  },
+  "number": "28",
+  "route": "/pages/convertfast-ui/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/convertfast-ui/",
+  "status": "source-backed",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-modern-template-static-output",
+  "licenseStatus": "MIT",
+  "previewImagePath": "/pages/convertfast-ui/_convertfast/gradient-bg-0.svg",
+  "requiresTailwindBuild": false
+}

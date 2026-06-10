@@ -1,0 +1,32 @@
+{
+  "id": "next-shadcn-landing",
+  "title": "Next Shadcn Landing",
+  "vertical": "saas",
+  "pageType": "nextjs-landing",
+  "tags": [
+    "saas",
+    "nextjs",
+    "shadcn",
+    "template"
+  ],
+  "source": {
+    "repoUrl": "https://github.com/redpangilinan/next-shadcn-landing",
+    "sourceCommit": "97b768a6a84f6e761fe8d2867a11d3438e933c28",
+    "sourcePath": "static-output",
+    "sourceUrl": "https://github.com/redpangilinan/next-shadcn-landing",
+    "license": "MIT",
+    "usageMode": "copied-static-export",
+    "vendorPath": "vendor/modern-landing-page-sources/next-shadcn-landing/source",
+    "staticDir": "static-output",
+    "staticRoot": "static-output/index.html"
+  },
+  "number": "30",
+  "route": "/pages/next-shadcn-landing/",
+  "url": "https://architect-canon-evals-worker.architect-analytics-eval.workers.dev/pages/next-shadcn-landing/",
+  "status": "source-backed",
+  "deployMode": "vendored-static-html",
+  "sourceType": "vendored-modern-template-static-output",
+  "licenseStatus": "MIT",
+  "previewImagePath": "/pages/next-shadcn-landing/og.jpg",
+  "requiresTailwindBuild": false
+}

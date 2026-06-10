@@ -38,7 +38,7 @@ export function RootIndex({ pages }) {
               Architect eval corpus
             </Badge>
             <h1 className="max-w-4xl text-3xl font-semibold tracking-normal sm:text-5xl">
-              26 source-backed SaaS/tech landing-page inspirations
+              {pages.length} source-backed SaaS/tech landing-page inspirations
             </h1>
             <p className="max-w-3xl text-base leading-7 text-slate-600">
               Vite + React + Tailwind source host for page canonicalisation and
@@ -102,15 +102,26 @@ function CorpusCard({ page, view }) {
         view === "list" && "grid grid-cols-[112px_minmax(0,1fr)]",
       )}
     >
-      <a className="block" href={page.route}>
-        <img
-          alt={`${page.title} preview`}
+      <a
+        aria-label={`Open ${page.title}`}
+        className={cn(
+          "group relative block overflow-hidden bg-slate-100",
+          view === "list" ? "h-full border-r border-slate-200" : "aspect-[1.91/1] border-b border-slate-200",
+        )}
+        href={page.route}
+      >
+        <iframe
+          aria-hidden="true"
           className={cn(
-            "aspect-[1.91/1] w-full border-b border-slate-200 object-cover",
-            view === "list" && "h-full border-b-0 border-r",
+            "pointer-events-none absolute left-0 top-0 h-[200%] w-[200%] origin-top-left scale-50 border-0 bg-white transition duration-300 group-hover:scale-[0.52]",
+            view === "list" && "h-[260%] w-[360%] scale-[0.28] group-hover:scale-[0.3]",
           )}
-          src={page.previewImagePath}
+          loading="lazy"
+          sandbox="allow-same-origin allow-scripts allow-forms allow-popups"
+          src={page.route}
+          title={`${page.title} live preview`}
         />
+        <span className="absolute inset-0 bg-gradient-to-t from-slate-950/10 via-transparent to-white/10 opacity-80 transition group-hover:opacity-40" />
       </a>
       <CardContent className="grid gap-3 p-4">
         <div className="grid gap-1">

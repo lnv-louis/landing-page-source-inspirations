@@ -24,6 +24,14 @@ const awesomeLandingPageSource = {
   license: "varies-by-linked-repo",
 };
 
+const modernLandingPageSource = {
+  batch: "modern-template-tech-5",
+  repoUrl: "user-supplied-template-list",
+  sourceCommit: "multiple",
+  vendorRoot: "vendor/modern-landing-page-sources",
+  license: "MIT",
+};
+
 const paulledemonTemplates = [
   { id: "pixa-ai", title: "Pixa AI", sourcePath: "src/saas/pixaai", vertical: "ai-saas", pageType: "home", tags: ["saas", "ai"] },
   { id: "saasy-dark", title: "SaaSy Dark", sourcePath: "src/saas/SaaSyDark", vertical: "saas", pageType: "home", tags: ["saas", "dark"] },
@@ -154,6 +162,81 @@ const linkedTechTemplates = [
       vendorPath: "vendor/awesome-landing-page-sources/coala-landing-frontend/source",
       staticDir: ".",
       staticRoot: "index.html",
+    },
+  },
+];
+
+const modernLandingPageTemplates = [
+  {
+    id: "shadcn-landing-page",
+    title: "Shadcn Landing Page",
+    vertical: "saas",
+    pageType: "component-library-landing",
+    tags: ["saas", "shadcn", "software", "template"],
+    source: {
+      repoUrl: "https://github.com/leoMirandaa/shadcn-landing-page",
+      sourceCommit: "ae3716dbce5c8a26815222bb743994b5717938f1",
+      sourcePath: "static-output",
+      sourceUrl: "https://github.com/leoMirandaa/shadcn-landing-page",
+      license: "MIT",
+      usageMode: "copied-static-build",
+      vendorPath: "vendor/modern-landing-page-sources/shadcn-landing-page/source",
+      staticDir: "static-output",
+      staticRoot: "static-output/index.html",
+    },
+  },
+  {
+    id: "convertfast-ui",
+    title: "Convertfast UI",
+    vertical: "conversion-saas",
+    pageType: "component-template-landing",
+    tags: ["saas", "conversion", "shadcn", "template"],
+    source: {
+      repoUrl: "https://github.com/ObservedObserver/convertfast-ui",
+      sourceCommit: "176486dc78ad422328e54baeff1960c423a91fb1",
+      sourcePath: "packages/segments/static-output",
+      sourceUrl: "https://github.com/ObservedObserver/convertfast-ui/tree/main/packages/segments",
+      license: "MIT",
+      usageMode: "copied-static-build",
+      vendorPath: "vendor/modern-landing-page-sources/convertfast-ui/source",
+      staticDir: "static-output",
+      staticRoot: "static-output/index.html",
+    },
+  },
+  {
+    id: "launch-ui",
+    title: "Launch UI",
+    vertical: "startup-saas",
+    pageType: "nextjs-landing",
+    tags: ["saas", "nextjs", "shadcn", "template"],
+    source: {
+      repoUrl: "https://github.com/launch-ui/launch-ui",
+      sourceCommit: "3f596fc3d498f114d62ce5cb5c542c0c47d2085f",
+      sourcePath: "static-output",
+      sourceUrl: "https://github.com/launch-ui/launch-ui",
+      license: "MIT",
+      usageMode: "copied-static-export",
+      vendorPath: "vendor/modern-landing-page-sources/launch-ui/source",
+      staticDir: "static-output",
+      staticRoot: "static-output/index.html",
+    },
+  },
+  {
+    id: "next-shadcn-landing",
+    title: "Next Shadcn Landing",
+    vertical: "saas",
+    pageType: "nextjs-landing",
+    tags: ["saas", "nextjs", "shadcn", "template"],
+    source: {
+      repoUrl: "https://github.com/redpangilinan/next-shadcn-landing",
+      sourceCommit: "97b768a6a84f6e761fe8d2867a11d3438e933c28",
+      sourcePath: "static-output",
+      sourceUrl: "https://github.com/redpangilinan/next-shadcn-landing",
+      license: "MIT",
+      usageMode: "copied-static-export",
+      vendorPath: "vendor/modern-landing-page-sources/next-shadcn-landing/source",
+      staticDir: "static-output",
+      staticRoot: "static-output/index.html",
     },
   },
 ];
@@ -300,6 +383,22 @@ function toLinkedTechPage(template, index) {
   };
 }
 
+function toModernLandingPage(template, index) {
+  const route = `/pages/${template.id}/`;
+  return {
+    ...template,
+    number: String(index + 27).padStart(2, "0"),
+    route,
+    url: urlFor(route),
+    status: "source-backed",
+    deployMode: "vendored-static-html",
+    sourceType: "vendored-modern-template-static-output",
+    licenseStatus: template.source.license,
+    previewImagePath: `${route}architect-preview.svg`,
+    requiresTailwindBuild: false,
+  };
+}
+
 function manifestPage(page) {
   return {
     id: page.id,
@@ -366,17 +465,18 @@ await mkdir(path.join(root, "src", "data"), { recursive: true });
 
 const paulledemonPages = paulledemonTemplates.map(toPaulledemonPage);
 const linkedTechPages = linkedTechTemplates.map(toLinkedTechPage);
-const pages = [...paulledemonPages, ...linkedTechPages];
+const modernLandingPages = modernLandingPageTemplates.map(toModernLandingPage);
+const pages = [...paulledemonPages, ...linkedTechPages, ...modernLandingPages];
 
 for (const page of pages) await writePage(page);
 
-const sources = [paulledemonSource, awesomeLandingPageSource];
+const sources = [paulledemonSource, awesomeLandingPageSource, modernLandingPageSource];
 
 await writeFile(
   path.join(root, "src", "data", "source-backed-pages.js"),
   `// Generated by scripts/generate-corpus.mjs. Do not edit by hand.\n` +
     `export const generatedAt = ${JSON.stringify(generatedAt)};\n` +
-    `export const batch = ${JSON.stringify("source-backed-saas-tech-26")};\n` +
+    `export const batch = ${JSON.stringify("source-backed-saas-tech-30")};\n` +
     `export const sources = ${JSON.stringify(sources, null, 2)};\n` +
     `export const pages = ${JSON.stringify(pages, null, 2)};\n`,
 );
@@ -386,7 +486,7 @@ const manifest = {
   baseUrl,
   corpus: "landing-page-source-inspirations",
   runtime: "vite-react-tailwind-worker",
-  batch: "source-backed-saas-tech-26",
+  batch: "source-backed-saas-tech-30",
   batches: sources.map((source) => source.batch),
   count: pages.length,
   sources,
